@@ -1,1 +1,0 @@
-http://google.ru/search?q=http://www.dotnet.com/~boystoys/&hl=ru

@@ -1,1 +1,0 @@
-2009/06/16 13:48:40	-1	-1	0	0	99996	Pagetest result	Cleared Cache-Run_1^090616_19.pts_Step1	http://yandex.ru/yandsearch?text=&#1088;&1091;&1084;&1073;&1072;&i-m-a-hacker=1	3	class=l-results	navigate http://yandex.ru/yandsearch?text=&#1088;&#1091;&#1084;&#1073;&#1072;&i-m-a-hacker=1 

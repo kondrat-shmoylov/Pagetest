@@ -1,1 +1,0 @@
-2009/06/11 20:18:58	-1	-1	0	0	88888	Script Error	Cached-Run_1^090611_K.pts_Step1	http://mail.yandex.ru/	3		setValue name=login jstester 

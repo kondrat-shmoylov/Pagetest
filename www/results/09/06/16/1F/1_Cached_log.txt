@@ -1,1 +1,0 @@
-2009/06/16 14:32:40	-1	-1	0	0	99997	Pagetest result	Cleared Cache-Run_1^090616_1F.pts_Step3	http://my.ya.ru/	3		navigate http://my.ya.ru 
