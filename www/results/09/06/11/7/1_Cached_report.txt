@@ -1,0 +1,1016 @@
+Results for 'http://mail.yandex.ru/neo/messages_thread?d=id39189888':
+
+Page load time: 0.578 seconds
+Time to first byte: 0.179 seconds
+Time to Base Page Downloaded: 0.350 seconds
+Time to Start Render: 0.529 seconds
+Time to Document Complete: 0.578 seconds
+Time to Fully Loaded: 0.578 seconds
+Bytes sent out: 0.469 KB
+Bytes received: 92.848 KB
+DNS Lookups: 4
+Connections: 6
+Requests: 28
+   OK Requests:  25
+   Redirects:    3
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+Base Page Redirects: 3
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://mail.yandex.ru/neo/messages_thread?d=id39189888
+      Host: mail.yandex.ru
+      Result code: 302
+      Transaction time: 0.184 seconds
+      Time to first byte: 0.051 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 5736 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5277 Bytes
+  Request Headers:
+      GET /neo/messages_thread?d=id39189888 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=701863621244733590
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=UTF-8
+      Date: Thu, 11 Jun 2009 15:19:55 GMT
+      Expires: Thu, 11 Jun 2009 15:24:55 GMT
+      Last-Modified: Thu, 11 Jun 2009 15:19:55 GMT
+      Location: http://mail.yandex.ru/neo/messages?d=id39189888
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 2:
+      Action: GET
+      Url: http://mail.yandex.ru/neo/messages?d=id39189888
+      Host: mail.yandex.ru
+      Result code: 302
+      Transaction time: 0.055 seconds
+      Time to first byte: 0.052 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 5789 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5281 Bytes
+  Request Headers:
+      GET /neo/messages?d=id39189888 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=701863621244733590
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=UTF-8
+      Date: Thu, 11 Jun 2009 15:19:55 GMT
+      Expires: Thu, 11 Jun 2009 15:24:55 GMT
+      Last-Modified: Thu, 11 Jun 2009 15:19:55 GMT
+      Location: http://mail.yandex.ru/neo/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 3:
+      Action: GET
+      Url: http://mail.yandex.ru/neo/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Host: mail.yandex.ru
+      Result code: 302
+      Transaction time: 0.095 seconds
+      Time to first byte: 0.088 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 9187 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 8683 Bytes
+  Request Headers:
+      GET /neo/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=701863621244733590
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=UTF-8
+      Date: Thu, 11 Jun 2009 15:19:55 GMT
+      Expires: Thu, 11 Jun 2009 15:24:55 GMT
+      Last-Modified: Thu, 11 Jun 2009 15:19:55 GMT
+      Location: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 4:
+      Action: GET
+      Url: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Host: mail.yandex.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 3190 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2803 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.yandex.ru
+      Connection: Keep-Alive
+      If-Modified-Since: Thu, 11 Jun 2009 15:19:50 GMT; length=7876
+      Cookie: yandexuid=701863621244733590
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:19:55 GMT
+      Expires: Thu, 11 Jun 2009 15:24:55 GMT
+      Last-Modified: Thu, 11 Jun 2009 15:19:55 GMT
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 5:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/css/common.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 4931 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4640 Bytes
+  Request Headers:
+      GET /modern/34154/css/common.css HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: text/css
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 4640
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 6:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/css/mail-common.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 18367 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 18075 Bytes
+  Request Headers:
+      GET /modern/34154/css/mail-common.css HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: text/css
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 18075
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 7:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/css/mail-login.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3174 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2883 Bytes
+  Request Headers:
+      GET /modern/34154/css/mail-login.css HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: text/css
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 2883
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 8:
+      Action: GET
+      Url: http://passport.yandex.ru/passport?mode=testloginjs&id42527523
+      Host: passport.yandex.ru
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 322 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 36 Bytes
+  Request Headers:
+      GET /passport?mode=testloginjs&id42527523 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: passport.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=701863621244733590
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Content-Type: application/x-javascript; charset=windows-1251
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Vary: Accept-Encoding
+      Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+      Pragma: no-cache
+
+Request 9:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/js/index_main.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2668 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2361 Bytes
+  Request Headers:
+      GET /modern/34154/js/index_main.js HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: application/x-javascript
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 2361
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 10:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/js/test_xslt.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4681 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4374 Bytes
+  Request Headers:
+      GET /modern/34154/js/test_xslt.js HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: application/x-javascript
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 4374
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 11:
+      Action: GET
+      Url: http://mailstatic.yandex.net/classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 333 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 43
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 12:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i//login/logo50.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2239 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1947 Bytes
+  Request Headers:
+      GET /modern/34154/i//login/logo50.png HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 1947
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 13:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/logo_so.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2440 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2148 Bytes
+  Request Headers:
+      GET /modern/34154/i/logo_so.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 2148
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 14:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/drweb2.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3913 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3621 Bytes
+  Request Headers:
+      GET /modern/34154/i/drweb2.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 3621
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 15:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/heading.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3705 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3413 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/heading.png HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 3413
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 16:
+      Action: GET
+      Url: https://passport.yandex.ru/js/forcehttps.js
+      Host: passport.yandex.ru
+      Result code: 200
+      Transaction time: 0.078 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 48 Bytes
+      Response size (in): 3795 Bytes
+      Request Object Size (out): -344 Bytes
+      Response Object Size (in): 3455 Bytes
+  Request Headers:
+      GET /js/forcehttps.js HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: passport.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=701863621244733590
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Content-Type: application/x-javascript; charset=windows-1251
+      Content-Length: 341
+      Last-Modified: Fri, 13 Feb 2009 14:17:19 GMT
+      Connection: keep-alive
+      Vary: Accept-Encoding
+      Expires: Thu, 18 Jun 2009 15:19:56 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 17:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id42527523
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id42527523 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=8AC305024A312096X1244733590
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 18:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/plus-blue.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 497 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 206 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/plus-blue.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 206
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 19:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/plus-green.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 497 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 206 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/plus-green.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 206
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 20:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/sh-tl.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 1629 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1337 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/sh-tl.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 1337
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 21:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/sh-tr.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 1684 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1392 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/sh-tr.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 1392
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 22:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/sh-bl.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3316 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3024 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/sh-bl.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 3024
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 23:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/sh-br.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 1149 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 858 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/sh-br.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 858
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 24:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/form-bg.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.067 seconds
+      Time to first byte: 0.066 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 1688 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1396 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/form-bg.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 1396
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 25:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i//login/marka9.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 7069 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6777 Bytes
+  Request Headers:
+      GET /modern/34154/i//login/marka9.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 6777
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 26:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i//login/logo-artlebedev.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 924 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 633 Bytes
+  Request Headers:
+      GET /modern/34154/i//login/logo-artlebedev.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 633
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 27:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/p-end.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 1218 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 927 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/p-end.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 927
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+
+Request 28:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/plus-orange.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 497 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 206 Bytes
+  Request Headers:
+      GET /modern/34154/i/login/plus-orange.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Expires: Tue, 08 Dec 2009 15:19:56 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 206
+      Date: Thu, 11 Jun 2009 15:19:56 GMT
+      Server: lighttpd/1.4.19
+

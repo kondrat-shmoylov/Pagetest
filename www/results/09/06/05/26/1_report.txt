@@ -1,0 +1,1536 @@
+Results for 'http://aol.com/':
+
+Page load time: 9.827 seconds
+Time to first byte: 0.480 seconds
+Time to Base Page Downloaded: 1.427 seconds
+Time to Start Render: 2.692 seconds
+Time to Document Complete: 9.827 seconds
+Time to Fully Loaded: 14.077 seconds
+Bytes sent out: 52.539 KB
+Bytes received: 506.992 KB
+DNS Lookups: 35
+Connections: 63
+Requests: 126
+   OK Requests:  111
+   Redirects:    11
+   Not Modified: 0
+   Not Found:    0
+   Other:        4 (301, 0, 0, 0)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://aol.com/
+      Host: aol.com
+      Result code: 301
+      Transaction time: 0.480 seconds
+      Time to first byte: 0.197 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 522 Bytes
+      Response size (in): 339 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.aol.com/
+      Host: www.aol.com
+      Result code: 200
+      Transaction time: 0.947 seconds
+      Time to first byte: 0.245 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 526 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/_v3/css/main/main.css
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.558 seconds
+      Time to first byte: 0.085 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 317 Bytes
+      Response size (in): 39614 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/_v3/css/blue/main.css
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.150 seconds
+      Time to first byte: 0.077 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 317 Bytes
+      Response size (in): 5156 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/_v3/js/main.js
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.562 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 310 Bytes
+      Response size (in): 79943 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://o.aolcdn.com/ads/adsWrapperAT.js
+      Host: o.aolcdn.com
+      Result code: 200
+      Transaction time: 0.140 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 308 Bytes
+      Response size (in): 6487 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://fls.doubleclick.net/activityi;src=2044558;type=aolco003;cat=aolho775;ord=1;num=1702728481001.3842?
+      Host: fls.doubleclick.net
+      Result code: 200
+      Transaction time: 0.535 seconds
+      Time to first byte: 0.164 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 642 Bytes
+      Response size (in): 1024 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://o.aolcdn.com/omniunih.js
+      Host: o.aolcdn.com
+      Result code: 200
+      Transaction time: 0.081 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 300 Bytes
+      Response size (in): 13887 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/_v3/css/blue/bg_stripe.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 322 Bytes
+      Response size (in): 512 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://o.sa.aol.com/b/ss/aolcommem,aolsvc/1/H.20/s24702906615268?AQB=1&ndh=1&t=5/5/2009%2010%3A52%3A22%205%20-240&ns=aolllc&cl=63072000&pageName=acm%20%3A%20main%20AOL.com%20Main%2010x7&g=http%3A//www.aol.com/&cc=USD&ch=us.aolportal&events=event10&c1=acm%20%3A%20main%20AOL.com%20Main%2010x7&c2=acm%20%3A%20&c3=gmt_5&c10=external%20web%20browser&c11=anonymous&c12=http%3A//www.aol.com/&c13=non-authenticated&v14=acm%3Adp&c15=unavailable&c17=default-blue&c20=main%20AOL.com%20Main%2010x7&c24=uaid_na&c49=H.20-Mar2009&s=1024x768&c=32&j=1.5&v=Y&k=Y&bw=1024&bh=599&ct=lan&hp=N&AQE=1
+      Host: o.sa.aol.com
+      Result code: 302
+      Transaction time: 1.028 seconds
+      Time to first byte: 0.302 seconds
+      Document: 1
+      Socket: 54
+      Request size (out): 912 Bytes
+      Response size (in): 1289 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form940/pointerImg/c78a4b53-4b82-427e-a3c4-d76e9f41c166,1
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.038 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 361 Bytes
+      Response size (in): 376 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form940/howToDiagramImg.image/1b2cf226-ac4c-4e86-a7ce-d31302b9cd94,1
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 372 Bytes
+      Response size (in): 3227 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://www.aol.com/ads/load_v6.htm
+      Host: www.aol.com
+      Result code: 200
+      Transaction time: 0.234 seconds
+      Time to first byte: 0.209 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 684 Bytes
+      Response size (in): 932 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/_v3/css/main/m_sprite.png
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.071 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 321 Bytes
+      Response size (in): 16563 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form1698/preload_image.image/1-ad45c8d5-82c4-460e-ab44-20de23764c2b.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.071 seconds
+      Time to first byte: 0.050 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 375 Bytes
+      Response size (in): 2161 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form1663/mainlogo.image/30c594c9-6401-438b-9e79-7e5babade1e6,1
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.042 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 366 Bytes
+      Response size (in): 434 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/_v3/css/blue/blue_skin.png
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.118 seconds
+      Time to first byte: 0.040 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 322 Bytes
+      Response size (in): 17324 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/_v3/css/main/aol_chicklet_sprite.png
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.293 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 332 Bytes
+      Response size (in): 22023 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://ad.de.doubleclick.net/activity;src=2044558;type=aolco003;cat=aolho775;ord=1;num=1702728481001.3842?;~oref=http%3A%2F%2Fwww.aol.com%2F
+      Host: ad.de.doubleclick.net
+      Result code: 302
+      Transaction time: 0.439 seconds
+      Time to first byte: 0.116 seconds
+      Document: 1
+      Socket: 66
+      Request size (out): 495 Bytes
+      Response size (in): 416 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://bp.specificclick.net/?pixid=99004038
+      Host: bp.specificclick.net
+      Result code: 200
+      Transaction time: 0.808 seconds
+      Time to first byte: 0.205 seconds
+      Document: 1
+      Socket: 59
+      Request size (out): 398 Bytes
+      Response size (in): 1164 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://ad.yieldmanager.com/pixel?id=284050&id=284051&id=284052&id=284053&t=2
+      Host: ad.yieldmanager.com
+      Result code: 302
+      Transaction time: 0.399 seconds
+      Time to first byte: 0.058 seconds
+      Document: 1
+      Socket: 53
+      Request size (out): 431 Bytes
+      Response size (in): 737 Bytes
+
+Request 22:
+      Action: GET
+      Url: http://action.mathtag.com/mm//AOLP//mrt?nm=aolcom&ri=[Random Number]
+      Host: action.mathtag.com
+      Result code: 200
+      Transaction time: 0.664 seconds
+      Time to first byte: 0.368 seconds
+      Document: 1
+      Socket: 65
+      Request size (out): 425 Bytes
+      Response size (in): 426 Bytes
+
+Request 23:
+      Action: GET
+      Url: http://ad.trafficmp.com/a/bpix?adv=618&id=9&r=
+      Host: ad.trafficmp.com
+      Result code: 200
+      Transaction time: 0.721 seconds
+      Time to first byte: 0.380 seconds
+      Document: 1
+      Socket: 63
+      Request size (out): 401 Bytes
+      Response size (in): 462 Bytes
+
+Request 24:
+      Action: GET
+      Url: http://bh.contextweb.com/bh/set.aspx?action=replace&advid=301&token=AOLE9
+      Host: bh.contextweb.com
+      Result code: 200
+      Transaction time: 0.461 seconds
+      Time to first byte: 0.155 seconds
+      Document: 1
+      Socket: 58
+      Request size (out): 428 Bytes
+      Response size (in): 590 Bytes
+
+Request 25:
+      Action: GET
+      Url: http://ad.yieldmanager.com/unpixel?id=349833
+      Host: ad.yieldmanager.com
+      Result code: 200
+      Transaction time: 0.380 seconds
+      Time to first byte: 0.114 seconds
+      Document: 1
+      Socket: 55
+      Request size (out): 399 Bytes
+      Response size (in): 664 Bytes
+
+Request 26:
+      Action: GET
+      Url: http://c7.zedo.com/img/bh.gif?n=162&g=20&a=497&s=1&l=1&t=e
+      Host: c7.zedo.com
+      Result code: 200
+      Transaction time: 0.719 seconds
+      Time to first byte: 0.396 seconds
+      Document: 1
+      Socket: 56
+      Request size (out): 413 Bytes
+      Response size (in): 742 Bytes
+
+Request 27:
+      Action: GET
+      Url: http://leadback.advertising.com/adcedge/lb?site=695501&srvc=1&betr=aolpix_cs=1[4320]
+      Host: leadback.advertising.com
+      Result code: 200
+      Transaction time: 0.588 seconds
+      Time to first byte: 0.157 seconds
+      Document: 1
+      Socket: 57
+      Request size (out): 439 Bytes
+      Response size (in): 607 Bytes
+
+Request 28:
+      Action: GET
+      Url: http://at.amgdgt.com/ads/?t=pp&px=3376&rnd=[cachebuster]
+      Host: at.amgdgt.com
+      Result code: 302
+      Transaction time: 0.345 seconds
+      Time to first byte: 0.108 seconds
+      Document: 1
+      Socket: 62
+      Request size (out): 411 Bytes
+      Response size (in): 853 Bytes
+
+Request 29:
+      Action: GET
+      Url: http://idcs.interclick.com/Segment.aspx?sid=ccc8ce6a-7472-4f96-bc1b-8e8759dcc87e
+      Host: idcs.interclick.com
+      Result code: 200
+      Transaction time: 0.618 seconds
+      Time to first byte: 0.338 seconds
+      Document: 1
+      Socket: 67
+      Request size (out): 435 Bytes
+      Response size (in): 480 Bytes
+
+Request 30:
+      Action: GET
+      Url: http://ad.103092804.com/pixel?id=343461&t=2
+      Host: ad.103092804.com
+      Result code: 302
+      Transaction time: 0.188 seconds
+      Time to first byte: 0.059 seconds
+      Document: 1
+      Socket: 60
+      Request size (out): 398 Bytes
+      Response size (in): 389 Bytes
+
+Request 31:
+      Action: GET
+      Url: http://ad.103092804.com/unpixel?id=343461
+      Host: ad.103092804.com
+      Result code: 302
+      Transaction time: 0.218 seconds
+      Time to first byte: 0.092 seconds
+      Document: 1
+      Socket: 61
+      Request size (out): 396 Bytes
+      Response size (in): 387 Bytes
+
+Request 32:
+      Action: GET
+      Url: http://a1.interclick.com/univPixel.aspx?g=49f06261-a81c-48ab-bcc1-1d1a07d9ec76
+      Host: a1.interclick.com
+      Result code: 200
+      Transaction time: 0.556 seconds
+      Time to first byte: 0.297 seconds
+      Document: 1
+      Socket: 72
+      Request size (out): 433 Bytes
+      Response size (in): 380 Bytes
+
+Request 33:
+      Action: GET
+      Url: http://pixel.quantserve.com/pixel/p-b5TuA97PdLsG2.gif?labels=_fp.event.aolhomepage
+      Host: pixel.quantserve.com
+      Result code: 200
+      Transaction time: 0.222 seconds
+      Time to first byte: 0.117 seconds
+      Document: 1
+      Socket: 64
+      Request size (out): 437 Bytes
+      Response size (in): 589 Bytes
+
+Request 34:
+      Action: GET
+      Url: http://ib.adnxs.com/seg?add=5086
+      Host: ib.adnxs.com
+      Result code: 200
+      Transaction time: 0.626 seconds
+      Time to first byte: 0.143 seconds
+      Document: 1
+      Socket: 78
+      Request size (out): 387 Bytes
+      Response size (in): 950 Bytes
+
+Request 35:
+      Action: GET
+      Url: http://p.opt.fimserve.com/bht/?r=p&px=1081&v=1&rnd=[RANDOMNUMBERHERE]
+      Host: p.opt.fimserve.com
+      Result code: 200
+      Transaction time: 0.661 seconds
+      Time to first byte: 0.209 seconds
+      Document: 1
+      Socket: 79
+      Request size (out): 424 Bytes
+      Response size (in): 721 Bytes
+
+Request 36:
+      Action: GET
+      Url: http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=291x15;noperf=1;alias=93247218;kvmn=93247218;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      Host: at.atwola.com
+      Result code: 302
+      Transaction time: 0.585 seconds
+      Time to first byte: 0.143 seconds
+      Document: 1
+      Socket: 81
+      Request size (out): 437 Bytes
+      Response size (in): 383 Bytes
+
+Request 37:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/_v3/css/blue/cols_stripe.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.033 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 324 Bytes
+      Response size (in): 2122 Bytes
+
+Request 38:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/images4/1-gosselin-200mc-060409.jpg
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.125 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 331 Bytes
+      Response size (in): 29891 Bytes
+
+Request 39:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form948/snagbutton.image/dlsnag_but,1
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.094 seconds
+      Time to first byte: 0.094 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 341 Bytes
+      Response size (in): 360 Bytes
+
+Request 40:
+      Action: GET
+      Url: http://ad.yieldmanager.com/pixel?id=343461&t=2
+      Host: ad.yieldmanager.com
+      Result code: 200
+      Transaction time: 0.436 seconds
+      Time to first byte: 0.151 seconds
+      Document: 1
+      Socket: 77
+      Request size (out): 482 Bytes
+      Response size (in): 722 Bytes
+
+Request 41:
+      Action: GET
+      Url: http://ad.yieldmanager.com/unpixel?id=343461
+      Host: ad.yieldmanager.com
+      Result code: 200
+      Transaction time: 0.380 seconds
+      Time to first byte: 0.177 seconds
+      Document: 1
+      Socket: 64
+      Request size (out): 480 Bytes
+      Response size (in): 724 Bytes
+
+Request 42:
+      Action: GET
+      Url: http://bh.contextweb.com/bh/set.aspx?action=replace&advid=1148&token=MAOL1
+      Host: bh.contextweb.com
+      Result code: 200
+      Transaction time: 0.481 seconds
+      Time to first byte: 0.156 seconds
+      Document: 1
+      Socket: 83
+      Request size (out): 429 Bytes
+      Response size (in): 591 Bytes
+
+Request 43:
+      Action: GET
+      Url: http://cdn.amgdgt.com/base/pixels/transparent.gif
+      Host: cdn.amgdgt.com
+      Result code: 200
+      Transaction time: 0.349 seconds
+      Time to first byte: 0.084 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 683 Bytes
+      Response size (in): 383 Bytes
+
+Request 44:
+      Action: GET
+      Url: http://portal.aolcdn.com/skn/main_v1/2-bctrl.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.068 seconds
+      Time to first byte: 0.067 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 317 Bytes
+      Response size (in): 290 Bytes
+
+Request 45:
+      Action: GET
+      Url: http://portal.aolcdn.com/skn/main_v1/2-pctrl.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.070 seconds
+      Time to first byte: 0.069 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 317 Bytes
+      Response size (in): 290 Bytes
+
+Request 46:
+      Action: GET
+      Url: http://ad.de.doubleclick.net/activity;src=2044558;type=aolco003;cat=aolho775;ord=1;num=1702728481001.3842?;~oref=http://www.aol.com/&_dc_ck=try
+      Host: ad.de.doubleclick.net
+      Result code: 200
+      Transaction time: 0.328 seconds
+      Time to first byte: 0.100 seconds
+      Document: 1
+      Socket: 80
+      Request size (out): 538 Bytes
+      Response size (in): 150 Bytes
+
+Request 47:
+      Action: GET
+      Url: http://o.sa.aol.com/b/ss/aolcommem,aolsvc/1/H.20/s24702906615268?AQB=1&pccr=true&vidn=4A28C0AA000061C5-A3A095600001DC2&&ndh=1&t=5/5/2009%2010%3A52%3A22%205%20-240&ns=aolllc&cl=63072000&pageName=acm%20%3A%20main%20AOL.com%20Main%2010x7&g=http%3A//www.aol.com/&cc=USD&ch=us.aolportal&events=event10&c1=acm%20%3A%20main%20AOL.com%20Main%2010x7&c2=acm%20%3A%20&c3=gmt_5&c10=external%20web%20browser&c11=anonymous&c12=http%3A//www.aol.com/&c13=non-authenticated&v14=acm%3Adp&c15=unavailable&c17=default-blue&c20=main%20AOL.com%20Main%2010x7&c24=uaid_na&c49=H.20-Mar2009&s=1024x768&c=32&j=1.5&v=Y&k=Y&bw=1024&bh=599&ct=lan&hp=N&AQE=1
+      Host: o.sa.aol.com
+      Result code: 200
+      Transaction time: 0.210 seconds
+      Time to first byte: 0.197 seconds
+      Document: 1
+      Socket: 54
+      Request size (out): 1031 Bytes
+      Response size (in): 570 Bytes
+
+Request 48:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/skn/blue_v1/1-mailbtn_gradient.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.085 seconds
+      Time to first byte: 0.084 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 330 Bytes
+      Response size (in): 380 Bytes
+
+Request 49:
+      Action: GET
+      Url: http://portal.aolcdn.com/skn/main_v1/2-fctrl.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.086 seconds
+      Time to first byte: 0.086 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 317 Bytes
+      Response size (in): 290 Bytes
+
+Request 50:
+      Action: GET
+      Url: http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=291x15;cfp=1;rndc=124418474;noperf=1;alias=93247218;kvmn=93247218;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      Host: at.atwola.com
+      Result code: 200
+      Transaction time: 0.157 seconds
+      Time to first byte: 0.149 seconds
+      Document: 1
+      Socket: 81
+      Request size (out): 473 Bytes
+      Response size (in): 665 Bytes
+
+Request 51:
+      Action: GET
+      Url: http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=88x31;noperf=1;alias=93247222;cfp=1;noaddonpl=y;kvmn=93247222;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      Host: at.atwola.com
+      Result code: 200
+      Transaction time: 0.903 seconds
+      Time to first byte: 0.040 seconds
+      Document: 1
+      Socket: 81
+      Request size (out): 1016 Bytes
+      Response size (in): 427 Bytes
+
+Request 52:
+      Action: GET
+      Url: http://www.aolcdn.com/_media/kegallerypub/blank.gif
+      Host: www.aolcdn.com
+      Result code: 200
+      Transaction time: 0.673 seconds
+      Time to first byte: 0.432 seconds
+      Document: 1
+      Socket: 90
+      Request size (out): 320 Bytes
+      Response size (in): 364 Bytes
+
+Request 53:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form595/promoimglink.image/1-14899421-b38b-4f46-b52e-828ebc276b7f.jpg
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.712 seconds
+      Time to first byte: 0.147 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 373 Bytes
+      Response size (in): 4508 Bytes
+
+Request 54:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form596/promoimglink.image/1-best-soundtracks-dirty-dancing-78x78.jpg
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.598 seconds
+      Time to first byte: 0.467 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 373 Bytes
+      Response size (in): 2568 Bytes
+
+Request 55:
+      Action: GET
+      Url: http://eatps.web.aol.com/open_web_adhoc?subtype=4150&distset=3ml0309nonaolmct_n&1244184744875
+      Host: eatps.web.aol.com
+      Result code: 302
+      Transaction time: 0.603 seconds
+      Time to first byte: 0.127 seconds
+      Document: 1
+      Socket: 91
+      Request size (out): 497 Bytes
+      Response size (in): 242 Bytes
+
+Request 56:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form597/promoimglink.image/1-aa53d1f7-c6a2-442b-a3a3-5a74f3279a43.jpg
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 373 Bytes
+      Response size (in): 5646 Bytes
+
+Request 57:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form1762/tabimage_flagdown.image/1-Mail.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 347 Bytes
+      Response size (in): 1060 Bytes
+
+Request 58:
+      Action: GET
+      Url: http://o.aolcdn.com/dims/PGMC/5/271/406/90/http://www.aolcdn.com/photogalleryassets/movies/395485/angelina-jolie-intro-quad-330b.jpg
+      Host: o.aolcdn.com
+      Result code: 200
+      Transaction time: 0.478 seconds
+      Time to first byte: 0.047 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 401 Bytes
+      Response size (in): 44778 Bytes
+
+Request 59:
+      Action: GET
+      Url: http://www.aolcdn.com/pops_promo/pixel
+      Host: www.aolcdn.com
+      Result code: 200
+      Transaction time: 0.061 seconds
+      Time to first byte: 0.059 seconds
+      Document: 1
+      Socket: 90
+      Request size (out): 307 Bytes
+      Response size (in): 363 Bytes
+
+Request 60:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form993/tabimage.image/yahoo-mail.gif,1
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.395 seconds
+      Time to first byte: 0.392 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 343 Bytes
+      Response size (in): 1057 Bytes
+
+Request 61:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form1080/tabimage_flagdown.image/gmail.gif,1
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.424 seconds
+      Time to first byte: 0.394 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 348 Bytes
+      Response size (in): 1332 Bytes
+
+Request 62:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form794/tabimage.image/radio_ico,1
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.033 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 338 Bytes
+      Response size (in): 1380 Bytes
+
+Request 63:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/2-t
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.053 seconds
+      Time to first byte: 0.053 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 299 Bytes
+      Response size (in): 360 Bytes
+
+Request 64:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form1171/loadingimage/a8489b87-4c2c-428d-a22e-e6f64e868b1e,1
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.047 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 364 Bytes
+      Response size (in): 2078 Bytes
+
+Request 65:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/_v3/css/main/stb-shad.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.033 seconds
+      Time to first byte: 0.031 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 321 Bytes
+      Response size (in): 2012 Bytes
+
+Request 66:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/1-twitter-carousel
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 328 Bytes
+      Response size (in): 1835 Bytes
+
+Request 67:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/4-aim-carousel
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 324 Bytes
+      Response size (in): 690 Bytes
+
+Request 68:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/1-facebook-carousel
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.031 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 329 Bytes
+      Response size (in): 728 Bytes
+
+Request 69:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/1-myspace-carousel
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.214 seconds
+      Time to first byte: 0.213 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 328 Bytes
+      Response size (in): 744 Bytes
+
+Request 70:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/2-bebo-carousel
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.214 seconds
+      Time to first byte: 0.213 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 325 Bytes
+      Response size (in): 914 Bytes
+
+Request 71:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/1-carousel-back
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 325 Bytes
+      Response size (in): 376 Bytes
+
+Request 72:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/1-top-shadow
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 271 Bytes
+      Response size (in): 447 Bytes
+
+Request 73:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/1-bottom-shadow
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.031 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 274 Bytes
+      Response size (in): 439 Bytes
+
+Request 74:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/1-splash-image
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.083 seconds
+      Time to first byte: 0.078 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 324 Bytes
+      Response size (in): 9521 Bytes
+
+Request 75:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/socnet-assets/1-default-loader
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.084 seconds
+      Time to first byte: 0.080 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 326 Bytes
+      Response size (in): 3444 Bytes
+
+Request 76:
+      Action: GET
+      Url: http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=300x250;noperf=1;alias=93247227;cfp=1;noaddonpl=y;kvmn=93247227;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      Host: at.atwola.com
+      Result code: 200
+      Transaction time: 0.657 seconds
+      Time to first byte: 0.161 seconds
+      Document: 1
+      Socket: 103
+      Request size (out): 510 Bytes
+      Response size (in): 610 Bytes
+
+Request 77:
+      Action: GET
+      Url: http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=61x21;noperf=1;alias=93247230;cfp=1;noaddonpl=y;kvmn=93247230;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      Host: at.atwola.com
+      Result code: 200
+      Transaction time: 0.657 seconds
+      Time to first byte: 0.162 seconds
+      Document: 1
+      Socket: 104
+      Request size (out): 508 Bytes
+      Response size (in): 461 Bytes
+
+Request 78:
+      Action: GET
+      Url: http://ad.doubleclick.net/ad/N5043.aolcom/B3313079.31;sz=88x31;ord=184747705?
+      Host: ad.doubleclick.net
+      Result code: 302
+      Transaction time: 0.669 seconds
+      Time to first byte: 0.143 seconds
+      Document: 1
+      Socket: 105
+      Request size (out): 401 Bytes
+      Response size (in): 521 Bytes
+
+Request 79:
+      Action: GET
+      Url: http://www.aolcdn.com/pops_promo/dinner2_cm_50x50.jpg
+      Host: www.aolcdn.com
+      Result code: 200
+      Transaction time: 0.437 seconds
+      Time to first byte: 0.434 seconds
+      Document: 1
+      Socket: 90
+      Request size (out): 322 Bytes
+      Response size (in): 2266 Bytes
+
+Request 80:
+      Action: GET
+      Url: http://www.aolcdn.com/pops_promo/doctor2_cm_50x50.jpg
+      Host: www.aolcdn.com
+      Result code: 200
+      Transaction time: 0.485 seconds
+      Time to first byte: 0.449 seconds
+      Document: 1
+      Socket: 100
+      Request size (out): 322 Bytes
+      Response size (in): 1750 Bytes
+
+Request 81:
+      Action: GET
+      Url: http://www.aolcdn.com/pops_promo/salon2_cm_50x50.jpg
+      Host: www.aolcdn.com
+      Result code: 200
+      Transaction time: 0.480 seconds
+      Time to first byte: 0.271 seconds
+      Document: 1
+      Socket: 101
+      Request size (out): 321 Bytes
+      Response size (in): 1571 Bytes
+
+Request 82:
+      Action: GET
+      Url: http://www.aolcdn.com/pops_promo/plumber2_cm_50x50.jpg
+      Host: www.aolcdn.com
+      Result code: 200
+      Transaction time: 0.485 seconds
+      Time to first byte: 0.275 seconds
+      Document: 1
+      Socket: 102
+      Request size (out): 323 Bytes
+      Response size (in): 2226 Bytes
+
+Request 83:
+      Action: GET
+      Url: http://eatps.web.aol.com/open_web_adhoc?subtype=4152&distset=3LS052709p0CMt1_n&1244184746656
+      Host: eatps.web.aol.com
+      Result code: 302
+      Transaction time: 0.429 seconds
+      Time to first byte: 0.420 seconds
+      Document: 1
+      Socket: 91
+      Request size (out): 542 Bytes
+      Response size (in): 242 Bytes
+
+Request 84:
+      Action: GET
+      Url: http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=322x90;noperf=1;alias=93301607;cfp=1;noaddonpl=y;kvmn=93301607;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      Host: at.atwola.com
+      Result code: 200
+      Transaction time: 0.541 seconds
+      Time to first byte: 0.139 seconds
+      Document: 1
+      Socket: 106
+      Request size (out): 509 Bytes
+      Response size (in): 922 Bytes
+
+Request 85:
+      Action: GET
+      Url: http://www.aolcdn.com/pops_promo/dentist_cm_50x50.gif
+      Host: www.aolcdn.com
+      Result code: 200
+      Transaction time: 0.059 seconds
+      Time to first byte: 0.056 seconds
+      Document: 1
+      Socket: 90
+      Request size (out): 322 Bytes
+      Response size (in): 1524 Bytes
+
+Request 86:
+      Action: GET
+      Url: http://www.aolcdn.com/pops_promo/wrtflash_v7.js
+      Host: www.aolcdn.com
+      Result code: 200
+      Transaction time: 0.033 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 101
+      Request size (out): 316 Bytes
+      Response size (in): 1129 Bytes
+
+Request 87:
+      Action: GET
+      Url: http://m1.2mdn.net/viewad/2080520/88x31_7_j.gif
+      Host: m1.2mdn.net
+      Result code: 200
+      Transaction time: 0.170 seconds
+      Time to first byte: 0.061 seconds
+      Document: 1
+      Socket: 109
+      Request size (out): 331 Bytes
+      Response size (in): 1837 Bytes
+
+Request 88:
+      Action: GET
+      Url: http://www.aolcdn.com/pops_promo/1020_search_6_link_v6.swf
+      Host: www.aolcdn.com
+      Result code: 200
+      Transaction time: 0.171 seconds
+      Time to first byte: 0.171 seconds
+      Document: 1
+      Socket: 100
+      Request size (out): 359 Bytes
+      Response size (in): 1024 Bytes
+
+Request 89:
+      Action: GET
+      Url: http://aka-cdn-ns.adtechus.com/apps/266/Ad0St3Sz2211Sq0V2Id573706/job-4.jpg
+      Host: aka-cdn-ns.adtechus.com
+      Result code: 200
+      Transaction time: 0.305 seconds
+      Time to first byte: 0.041 seconds
+      Document: 1
+      Socket: 114
+      Request size (out): 359 Bytes
+      Response size (in): 12883 Bytes
+
+Request 90:
+      Action: GET
+      Url: http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/script_300_250.js?0.3482447471301692
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.948 seconds
+      Time to first byte: 0.464 seconds
+      Document: 1
+      Socket: 118
+      Request size (out): 383 Bytes
+      Response size (in): 3570 Bytes
+
+Request 91:
+      Action: GET
+      Url: http://eatps.web.aol.com/open_web_adhoc?subtype=4153&distset=ffa_dynapub_test3&1244184747656
+      Host: eatps.web.aol.com
+      Result code: 302
+      Transaction time: 0.290 seconds
+      Time to first byte: 0.282 seconds
+      Document: 1
+      Socket: 91
+      Request size (out): 542 Bytes
+      Response size (in): 242 Bytes
+
+Request 92:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/pubtool/form2885/preload_image.image/1-35e0cd05-2e0c-4f16-8584-dac969ec57d3.gif
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.147 seconds
+      Time to first byte: 0.146 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 375 Bytes
+      Response size (in): 909 Bytes
+
+Request 93:
+      Action: GET
+      Url: http://o.aolcdn.com/feedback/feedback1.js
+      Host: o.aolcdn.com
+      Result code: 200
+      Transaction time: 0.060 seconds
+      Time to first byte: 0.059 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 310 Bytes
+      Response size (in): 1009 Bytes
+
+Request 94:
+      Action: GET
+      Url: http://about-search.aol.com/crossdomain.xml
+      Host: about-search.aol.com
+      Result code: 200
+      Transaction time: 3.332 seconds
+      Time to first byte: 3.137 seconds
+      Document: 1
+      Socket: 116
+      Request size (out): 449 Bytes
+      Response size (in): 393 Bytes
+
+Request 95:
+      Action: GET
+      Url: http://leadback.advertising.com/adcedge/lb?site=695501&srvc=1&betr=asuper_cs=1[24],2[168],3[720]
+      Host: leadback.advertising.com
+      Result code: 200
+      Transaction time: 0.163 seconds
+      Time to first byte: 0.160 seconds
+      Document: 1
+      Socket: 57
+      Request size (out): 393 Bytes
+      Response size (in): 630 Bytes
+
+Request 96:
+      Action: GET
+      Url: http://www.aol.com/track/aggregate?u=http%3A%2F%2Fwww.aol.com%2F&d=d%3D22470_23410_8033_50692_22979_45766_7935_47175_9_45765_22471_23410_25707_47175_623_53798_27731_31003_10_53622_7934_47175_23747_43993_22952_8594_37422_53752_24099_52900_7891_43156_25698_23410_8049_7932_22411_53873_23602_49231_23389_53301_826_44717_625_53875_25696_8594_8066_8359_25512_31096_25513_52894_22950_8594_24524_53708_25527_7799_27730_27751_624_53869_7892_43156_25716_43156&_=1244184747921
+      Host: www.aol.com
+      Result code: 200
+      Transaction time: 0.125 seconds
+      Time to first byte: 0.124 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 941 Bytes
+      Response size (in): 183 Bytes
+
+Request 97:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/1promo_images/1-feedmefhb3.jpg
+      Host: portal.aolcdn.com
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 98:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/1promo_images/1-feedmefhb3.jpg
+      Host: portal.aolcdn.com
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 99:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/1promo_images/1-feedmefhb3.jpg
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.418 seconds
+      Time to first byte: 0.389 seconds
+      Document: 1
+      Socket: 121
+      Request size (out): 326 Bytes
+      Response size (in): 804 Bytes
+
+Request 100:
+      Action: GET
+      Url: http://ads.tw.adsonar.com/adserving/getAdsAPI.jsp?c=jsonp1244184742218&k=aol.com&type=0&ps=-1&nb=1&pid=1174767&placementId=1428807&referrer=http%3A%2F%2Fwww.aol.com%2F&_=1244184748453
+      Host: ads.tw.adsonar.com
+      Result code: 200
+      Transaction time: 0.780 seconds
+      Time to first byte: 0.236 seconds
+      Document: 1
+      Socket: 127
+      Request size (out): 452 Bytes
+      Response size (in): 1231 Bytes
+
+Request 101:
+      Action: GET
+      Url: http://creativeby2.unicast.com/script2/V3.00/select.js
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.348 seconds
+      Time to first byte: 0.063 seconds
+      Document: 1
+      Socket: 123
+      Request size (out): 338 Bytes
+      Response size (in): 31507 Bytes
+
+Request 102:
+      Action: GET
+      Url: http://creativeby2.unicast.com/script2/V3.00/deliver2.html?pid=29492&cid=5700&pub=5&a=118422&VwDebug=false&pc=116473&exp=%27060609%27&fc=false&sc=false&png='http%253A//ping1.unicast.com/adstracking.gif%253FDV%253D3.00%2526PT%253DI%2526AD%253D118422%2526AV%253D_AV_%2526PV%253D_PV_%2526CV%253D_CV_%2526RV%253D_RV_%2526UV%253D_UV_%2526UC%253D_UC_%2526VP%253D0.0.0.0%2526VU%253D_VU_%2526RD%253D9467804____CH%253D'&pip=''&tpi=''&rd=0.5351183394648016
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.107 seconds
+      Time to first byte: 0.056 seconds
+      Document: 1
+      Socket: 128
+      Request size (out): 998 Bytes
+      Response size (in): 1024 Bytes
+
+Request 103:
+      Action: GET
+      Url: http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/A118422_300_250.js
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.208 seconds
+      Time to first byte: 0.055 seconds
+      Document: 1
+      Socket: 129
+      Request size (out): 365 Bytes
+      Response size (in): 7851 Bytes
+
+Request 104:
+      Action: GET
+      Url: http://ping1.unicast.com/adstracking.gif?DV=3.00&PT=I&AD=118422&AV=1&PV=1&CV=1&RV=1&UV=1&UC=1&VP=0.0.0.0&VU=0&RD=9467804***&CH=5031
+      Host: ping1.unicast.com
+      Result code: 200
+      Transaction time: 1.591 seconds
+      Time to first byte: 0.143 seconds
+      Document: 1
+      Socket: 148
+      Request size (out): 908 Bytes
+      Response size (in): 352 Bytes
+
+Request 105:
+      Action: GET
+      Url: http://creativeby2.unicast.com/script2/V3.00/deliver.js
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.471 seconds
+      Time to first byte: 0.083 seconds
+      Document: 1
+      Socket: 132
+      Request size (out): 440 Bytes
+      Response size (in): 59481 Bytes
+
+Request 106:
+      Action: GET
+      Url: http://creativeby2.unicast.com/script2/V3.00/extern.js
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.127 seconds
+      Time to first byte: 0.076 seconds
+      Document: 1
+      Socket: 132
+      Request size (out): 424 Bytes
+      Response size (in): 572 Bytes
+
+Request 107:
+      Action: GET
+      Url: http://cdn.at.atwola.com/_media/uac/tcode3.html
+      Host: cdn.at.atwola.com
+      Result code: 200
+      Transaction time: 0.157 seconds
+      Time to first byte: 0.044 seconds
+      Document: 0
+      Socket: 136
+      Request size (out): 638 Bytes
+      Response size (in): 1024 Bytes
+
+Request 108:
+      Action: GET
+      Url: http://an.tacoda.net/an/g10000/slf.js
+      Host: an.tacoda.net
+      Result code: 200
+      Transaction time: 0.198 seconds
+      Time to first byte: 0.039 seconds
+      Document: 0
+      Socket: 141
+      Request size (out): 334 Bytes
+      Response size (in): 2737 Bytes
+
+Request 109:
+      Action: GET
+      Url: http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_main_swf.swf
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.646 seconds
+      Time to first byte: 0.073 seconds
+      Document: 0
+      Socket: 139
+      Request size (out): 508 Bytes
+      Response size (in): 1024 Bytes
+
+Request 110:
+      Action: GET
+      Url: http://an.tacoda.net/an/16649/slf.js
+      Host: an.tacoda.net
+      Result code: 200
+      Transaction time: 0.063 seconds
+      Time to first byte: 0.046 seconds
+      Document: 0
+      Socket: 141
+      Request size (out): 333 Bytes
+      Response size (in): 3730 Bytes
+
+Request 111:
+      Action: GET
+      Url: http://www.aol.com/ajax.jsp?module=dl&dv=dlC&id=2&dlact=dl2&cback=dlc%28%29
+      Host: www.aol.com
+      Result code: 200
+      Transaction time: 0.168 seconds
+      Time to first byte: 0.168 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 685 Bytes
+      Response size (in): 1024 Bytes
+
+Request 112:
+      Action: GET
+      Url: http://anrtx.tacoda.net/rtx/r.js?cmd=OTH&si=16649&xs=1&v=4.0&cb=8544
+      Host: anrtx.tacoda.net
+      Result code: 200
+      Transaction time: 0.448 seconds
+      Time to first byte: 0.154 seconds
+      Document: 0
+      Socket: 147
+      Request size (out): 365 Bytes
+      Response size (in): 1200 Bytes
+
+Request 113:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/images4/1-living-peroxide-bottle-200mk060409.jpg
+      Host: portal.aolcdn.com
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 121
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 114:
+      Action: GET
+      Url: http://portal.aolcdn.com/p/images4/1-living-peroxide-bottle-200mk060409.jpg
+      Host: portal.aolcdn.com
+      Result code: 200
+      Transaction time: 0.100 seconds
+      Time to first byte: 0.041 seconds
+      Document: 0
+      Socket: 145
+      Request size (out): 344 Bytes
+      Response size (in): 12373 Bytes
+
+Request 115:
+      Action: GET
+      Url: http://www.aol.com/track/aggregate?u=http%3A%2F%2Fwww.aol.com%2F&d=d%3D37423_53717&_=1244184750390
+      Host: www.aol.com
+      Result code: 200
+      Transaction time: 0.140 seconds
+      Time to first byte: 0.139 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 695 Bytes
+      Response size (in): 183 Bytes
+
+Request 116:
+      Action: GET
+      Url: http://creativeby2.unicast.com/assets/uc/3.0/v.txt?=0.13559208298102
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.111 seconds
+      Time to first byte: 0.062 seconds
+      Document: 0
+      Socket: 150
+      Request size (out): 557 Bytes
+      Response size (in): 414 Bytes
+
+Request 117:
+      Action: GET
+      Url: http://an.tacoda.net/an/tpp.html
+      Host: an.tacoda.net
+      Result code: 200
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.050 seconds
+      Document: 0
+      Socket: 141
+      Request size (out): 720 Bytes
+      Response size (in): 1376 Bytes
+
+Request 118:
+      Action: GET
+      Url: http://creativeby2.unicast.com/assets/uc/3.0/u3.0.54.swf
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.271 seconds
+      Time to first byte: 0.067 seconds
+      Document: 0
+      Socket: 150
+      Request size (out): 545 Bytes
+      Response size (in): 1024 Bytes
+
+Request 119:
+      Action: GET
+      Url: http://an.tacoda.net/an/tpp2.js
+      Host: an.tacoda.net
+      Result code: 200
+      Transaction time: 0.041 seconds
+      Time to first byte: 0.031 seconds
+      Document: 0
+      Socket: 141
+      Request size (out): 436 Bytes
+      Response size (in): 1861 Bytes
+
+Request 120:
+      Action: GET
+      Url: http://leadback.advertising.com/adcedge/lb?site=695501&betr=tc=1,99999,50280&guidm=1:152h1od09p5bna&bnum=53369
+      Host: leadback.advertising.com
+      Result code: 200
+      Transaction time: 0.160 seconds
+      Time to first byte: 0.154 seconds
+      Document: 0
+      Socket: 57
+      Request size (out): 443 Bytes
+      Response size (in): 775 Bytes
+
+Request 121:
+      Action: GET
+      Url: http://cdn.at.atwola.com/_media/uac/anatp.html?t=152h1od09p5bna&s=99999,50280&b=85063
+      Host: cdn.at.atwola.com
+      Result code: 200
+      Transaction time: 0.247 seconds
+      Time to first byte: 0.246 seconds
+      Document: 0
+      Socket: 136
+      Request size (out): 706 Bytes
+      Response size (in): 641 Bytes
+
+Request 122:
+      Action: GET
+      Url: http://about-search.aol.com/feed/data.txt
+      Host: about-search.aol.com
+      Result code: 200
+      Transaction time: 0.370 seconds
+      Time to first byte: 0.154 seconds
+      Document: 0
+      Socket: 154
+      Request size (out): 516 Bytes
+      Response size (in): 240 Bytes
+
+Request 123:
+      Action: GET
+      Url: http://creativeby2.unicast.com/assets/uc/3.0/v3.0.54.swf
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.267 seconds
+      Time to first byte: 0.061 seconds
+      Document: 0
+      Socket: 155
+      Request size (out): 545 Bytes
+      Response size (in): 1024 Bytes
+
+Request 124:
+      Action: GET
+      Url: http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_overlay_swf.swf
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.241 seconds
+      Time to first byte: 0.063 seconds
+      Document: 0
+      Socket: 157
+      Request size (out): 511 Bytes
+      Response size (in): 1024 Bytes
+
+Request 125:
+      Action: GET
+      Url: http://creativeby2.unicast.com/assets/uc/3.0/v.txt?=0.441870630718768
+      Host: creativeby2.unicast.com
+      Result code: 200
+      Transaction time: 0.112 seconds
+      Time to first byte: 0.062 seconds
+      Document: 0
+      Socket: 159
+      Request size (out): 561 Bytes
+      Response size (in): 414 Bytes
+
+Request 126:
+      Action: GET
+      Url: http://ping1.unicast.com/adstracking.gif?DV=3.00&PT=A&AD=118422&ED=Video%5FLandOfTheLostFloating%5FStart&EV=0&PS=A&AC=1&PI=220698&TV=4&RD=9078082***&CH=7730
+      Host: ping1.unicast.com
+      Result code: 200
+      Transaction time: 0.069 seconds
+      Time to first byte: 0.068 seconds
+      Document: 0
+      Socket: 148
+      Request size (out): 506 Bytes
+      Response size (in): 352 Bytes
+

@@ -1,0 +1,412 @@
+Results for 'http://yandex.ru/':
+
+Error loading page: 99996 (0x0001869C)
+Page load time: 0.261 seconds
+Time to first byte: 0.128 seconds
+Time to Base Page Downloaded: 0.172 seconds
+Time to Start Render: 0.252 seconds
+Time to DOM Element(attribute=value): 0.000 seconds
+Time to Document Complete: 0.261 seconds
+Time to Fully Loaded: 0.336 seconds
+Bytes sent out: 0.203 KB
+Bytes received: 22.910 KB
+DNS Lookups: 6
+Connections: 7
+Requests: 11
+   OK Requests:  5
+   Redirects:    3
+   Not Modified: 2
+   Not Found:    0
+   Other:        1 (301)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://yandex.ru/
+      Host: yandex.ru
+      Result code: 301
+      Transaction time: 0.129 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 481 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 189 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1041
+  Response Headers:
+      HTTP/1.1 301 Moved Permanently
+      Date: Tue, 16 Jun 2009 13:37:48 GMT
+      Server: Apache/2.2.9 (Unix) mod_perl/2.0.4 Perl/v5.8.8
+      Location: http://www.yandex.ru/
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Content-Length: 189
+      Connection: close
+      Content-Type: text/html; charset=iso-8859-1
+
+Request 2:
+      Action: GET
+      Url: http://www.yandex.ru/
+      Host: www.yandex.ru
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 16417 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 16029 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.yandex.ru
+      Connection: Keep-Alive
+      If-Modified-Since: Tue, 16 Jun 2009 13:35:45 GMT; length=44200
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1041
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.31
+      Date: Tue, 16 Jun 2009 13:37:48 GMT
+      Content-Type: text/html; charset=UTF-8
+      Transfer-Encoding: chunked
+      Connection: close
+      Last-Modified: Tue Jun 16 13:37:49 2009 GMT
+      Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+      Expires: Tue Jun 16 13:37:49 2009 GMT
+      X-XRDS-Location: http://openid.yandex.ru/server_xrds/
+      Content-Encoding: gzip
+
+Request 3:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a**1454857441245159344**yandex_ru/ru/CP1251/tmsec=yandex_main/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a**1454857441245159344**yandex_ru/ru/CP1251/tmsec=yandex_main/0 HTTP/1.1
+      Accept: */*
+      Referer: http://www.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=D6E502004A379FB0X1245159344
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Tue, 16 Jun 2009 13:37:48 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 4:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/JRFZkdrGmtK40X02Zhm2UgC4KPK5cm5fMeYeoxG4agfshmUAec3I196yq4ba1fE53OklSleTGNi5
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 387 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /count/JRFZkdrGmtK40X02Zhm2UgC4KPK5cm5fMeYeoxG4agfshmUAec3I196yq4ba1fE53OklSleTGNi5 HTTP/1.1
+      Accept: */*
+      Referer: http://www.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1041
+  Response Headers:
+      HTTP/1.1 302 Found
+      Date: Tue, 16 Jun 2009 13:37:48 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Tue, 16 Jun 2009 13:37:48 GMT
+      Expires: Tue, 16 Jun 2009 13:37:48 GMT
+      Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+      Pragma: no-cache
+      Location: http://yabs.yandex.ru/resource/75PxZvdq_j3l1WEhKHeIGg.png
+      Content-Length: 0
+
+Request 5:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/75PxZvdq_j3l1WEhKHeIGg.png
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 149 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /resource/75PxZvdq_j3l1WEhKHeIGg.png HTTP/1.1
+      Accept: */*
+      Referer: http://www.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1041
+      If-Modified-Since: Fri, 05 Jun 2009 17:25:04 GMT
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Date: Tue, 16 Jun 2009 13:37:48 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Content-Length: 0
+
+Request 6:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/JRFZkdrGmtK40X02Zhm2UgC4KPK5cm5fMeYeoxG4agfshmUAec3I196yq4ba1fE53OklSleTGNi5
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 387 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /count/JRFZkdrGmtK40X02Zhm2UgC4KPK5cm5fMeYeoxG4agfshmUAec3I196yq4ba1fE53OklSleTGNi5 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1041
+  Response Headers:
+      HTTP/1.1 302 Found
+      Date: Tue, 16 Jun 2009 13:37:48 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Tue, 16 Jun 2009 13:37:48 GMT
+      Expires: Tue, 16 Jun 2009 13:37:48 GMT
+      Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+      Pragma: no-cache
+      Location: http://yabs.yandex.ru/resource/75PxZvdq_j3l1WEhKHeIGg.png
+      Content-Length: 0
+
+Request 7:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/JRFZkffCONK40X00Zhm2UgC4KP6yq4ba1fE53NW2=5bnsm9K2cm9jL9Abk6a6Um40=9VpKjPK5cm5fMfAgTgy7Um40
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 423 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /count/JRFZkffCONK40X00Zhm2UgC4KP6yq4ba1fE53NW2=5bnsm9K2cm9jL9Abk6a6Um40=9VpKjPK5cm5fMfAgTgy7Um40 HTTP/1.1
+      Accept: */*
+      Referer: http://www.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1041
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 13:37:49 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Tue, 16 Jun 2009 13:37:49 GMT
+      Expires: Tue, 16 Jun 2009 13:37:49 GMT
+      Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+      Pragma: no-cache
+      Set-Cookie: yabs-frequency=/2///fGBk1042; domain=.yandex.ru; path=/; expires=Thu, 24-Sep-2009 13:37:49 GMT
+      Content-Length: 0
+
+Request 8:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/JRFZkeCrOg440X02Zhm2UgC4KPK2cm9jL2A8ghiz0PAbk6a6YgAsnmEHlD19P0QJXGsBfsTA5a5y1G00?1303634874
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.031 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 382 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /count/JRFZkeCrOg440X02Zhm2UgC4KPK2cm9jL2A8ghiz0PAbk6a6YgAsnmEHlD19P0QJXGsBfsTA5a5y1G00?1303634874 HTTP/1.1
+      Accept: */*
+      Referer: http://www.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1041
+  Response Headers:
+      HTTP/1.1 302 Found
+      Date: Tue, 16 Jun 2009 13:37:49 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Tue, 16 Jun 2009 13:37:49 GMT
+      Expires: Tue, 16 Jun 2009 13:37:49 GMT
+      Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+      Pragma: no-cache
+      Location: http://yabs.yandex.ru/resource/spacer.gif?1303634874
+      Content-Length: 0
+
+Request 9:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.6.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 250 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /tsuggest-1.6.html HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://www.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 30 Apr 2009 09:52:24 GMT; length=13715
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: suggest.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1042
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 30 Apr 2009 09:52:24 GMT
+      ETag: "627593644"
+      Content-Type: text/html
+      Accept-Ranges: bytes
+      Date: Tue, 16 Jun 2009 13:37:49 GMT
+      Server: lighttpd/1.4.19
+
+Request 10:
+      Action: GET
+      Url: https://passport.yandex.ru/js/smarthttps.js
+      Host: passport.yandex.ru
+      Result code: 200
+      Transaction time: 63.616 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 48 Bytes
+      Response size (in): 3892 Bytes
+      Request Object Size (out): -304 Bytes
+      Response Object Size (in): 3623 Bytes
+  Request Headers:
+      GET /js/smarthttps.js HTTP/1.1
+      Accept: */*
+      Referer: http://www.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: passport.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1042
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 13:37:49 GMT
+      Content-Type: application/x-javascript; charset=windows-1251
+      Content-Length: 496
+      Last-Modified: Wed, 18 Feb 2009 10:51:36 GMT
+      Connection: keep-alive
+      Vary: Accept-Encoding
+      Accept-Ranges: bytes
+
+Request 11:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/spacer.gif?1303634874
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 254 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /resource/spacer.gif?1303634874 HTTP/1.1
+      Accept: */*
+      Referer: http://www.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1454857441245159344; yabs-frequency=/2///fGBk1042
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 13:37:49 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Wed, 18 Apr 2001 10:28:03 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+

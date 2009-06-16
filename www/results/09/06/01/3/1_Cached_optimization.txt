@@ -1,0 +1,359 @@
+Optimization Report : 06/01/09 at 19:18:43
+
+Results for 'http://mail.ru/':
+
+Page load time: 0.994 seconds
+Time to first byte: 0.224 seconds
+Time to Base Page Downloaded: 0.244 seconds
+Time to Start Render: 0.402 seconds
+Time to Document Complete: 0.994 seconds
+Time to Fully Loaded: 1.134 seconds
+Bytes sent out: 18.866 KB
+Bytes received: 122.238 KB
+DNS Lookups: 10
+Connections: 14
+Requests: 44
+   OK Requests:  42
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://217.16.28.104/banners/0000609/0000609996/0/300x300_Box_4007.swf?link1=http%3A//ad.adriver.ru/cgi-bin/click.cgi%3Fbid%3D609996%26ntype%3D0%26sid%3D1%26bn%3D319957%26ad%3D169770%26nid%3D0%26bt%3D40%26pz%3D0%26rnd%3D693156263%26rleurl%3D&target=_blank&ar_bid=609996&ar_ntype=0&ar_comppath=http://217.16.28.104/banners/0000609/0000609996/0/&sid=1
+    FAILED  (No max-age or expires) - http://217.16.28.104/flashloader.js
+    FAILED  (No max-age or expires) - http://mail.radar.imgsmail.ru/update?p=mail&t=main&v=203&i=&rnd=102176025
+    FAILED  (No max-age or expires) - http://mail.radar.imgsmail.ru/update?p=mail0&t=main&v=0&rnd=946485696
+    WARNING (7.0 days) - http://rs.mail.ru/b6588624.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b6588625.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b6588628.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b6837577.png
+    WARNING (7.0 days) - http://rs.mail.ru/b7012911.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7105478.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7202315.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7231463.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7269159.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7269159.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7270591.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7270591.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7277635.gif
+    WARNING (7.0 days) - http://rs.mail.ru/b7277636.gif
+    WARNING (7.0 days) - http://rs.mail.ru/b7277882.gif
+    WARNING (7.0 days) - http://rs.mail.ru/b7413118.gif
+    WARNING (7.0 days) - http://rs.mail.ru/b7444198.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7444198.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7578753.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7589863.gif
+    WARNING (7.0 days) - http://rs.mail.ru/b7589864.gif
+    WARNING (7.0 days) - http://rs.mail.ru/b7589865.gif
+    WARNING (7.0 days) - http://rs.mail.ru/b7624941.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7647937.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7647937.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7648672.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7664170.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7699532.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7700014.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7702195.jpg
+    WARNING (7.0 days) - http://rs.mail.ru/b7702196.jpg
+  Cache score : 44
+
+Use one CDN for all static assets:
+    FAILED - http://217.16.28.104/banners/0000609/0000609996/0/300x300_Box_4007.swf?link1=http%3A//ad.adriver.ru/cgi-bin/click.cgi%3Fbid%3D609996%26ntype%3D0%26sid%3D1%26bn%3D319957%26ad%3D169770%26nid%3D0%26bt%3D40%26pz%3D0%26rnd%3D693156263%26rleurl%3D&target=_blank&ar_bid=609996&ar_ntype=0&ar_comppath=http://217.16.28.104/banners/0000609/0000609996/0/&sid=1
+    FAILED - http://217.16.28.104/flashloader.js
+    FAILED - http://mail.radar.imgsmail.ru/update?p=mail&t=main&v=203&i=&rnd=102176025
+    FAILED - http://mail.radar.imgsmail.ru/update?p=mail0&t=main&v=0&rnd=946485696
+    FAILED - http://rs.mail.ru/b6588624.jpg
+    FAILED - http://rs.mail.ru/b6588625.jpg
+    FAILED - http://rs.mail.ru/b6588628.jpg
+    FAILED - http://rs.mail.ru/b6837577.png
+    FAILED - http://rs.mail.ru/b7012911.jpg
+    FAILED - http://rs.mail.ru/b7105478.jpg
+    FAILED - http://rs.mail.ru/b7202315.jpg
+    FAILED - http://rs.mail.ru/b7231463.jpg
+    FAILED - http://rs.mail.ru/b7269159.jpg
+    FAILED - http://rs.mail.ru/b7269159.jpg
+    FAILED - http://rs.mail.ru/b7270591.jpg
+    FAILED - http://rs.mail.ru/b7270591.jpg
+    FAILED - http://rs.mail.ru/b7277635.gif
+    FAILED - http://rs.mail.ru/b7277636.gif
+    FAILED - http://rs.mail.ru/b7277882.gif
+    FAILED - http://rs.mail.ru/b7413118.gif
+    FAILED - http://rs.mail.ru/b7444198.jpg
+    FAILED - http://rs.mail.ru/b7444198.jpg
+    FAILED - http://rs.mail.ru/b7578753.jpg
+    FAILED - http://rs.mail.ru/b7589863.gif
+    FAILED - http://rs.mail.ru/b7589864.gif
+    FAILED - http://rs.mail.ru/b7589865.gif
+    FAILED - http://rs.mail.ru/b7624941.jpg
+    FAILED - http://rs.mail.ru/b7647937.jpg
+    FAILED - http://rs.mail.ru/b7647937.jpg
+    FAILED - http://rs.mail.ru/b7648672.jpg
+    FAILED - http://rs.mail.ru/b7664170.jpg
+    FAILED - http://rs.mail.ru/b7699532.jpg
+    FAILED - http://rs.mail.ru/b7700014.jpg
+    FAILED - http://rs.mail.ru/b7702195.jpg
+    FAILED - http://rs.mail.ru/b7702196.jpg
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (1.6 KB, compressed = 0.8 KB - savings of 0.8 KB) - http://217.16.28.104/flashloader.js
+  GZIP score : 76
+    3.6 KB total in compressible text, target size = 2.8 KB - potential savings = 0.8 KB
+
+Compress Images:
+    FAILED  (9.6 KB, target = 2.5 KB - savings of 7.1 KB)- http://rs.mail.ru/b7105478.jpg
+    FAILED  (9.3 KB, target = 2.8 KB - savings of 6.5 KB)- http://rs.mail.ru/b7578753.jpg
+    FAILED  (7.9 KB, target = 2.0 KB - savings of 5.9 KB)- http://rs.mail.ru/b7624941.jpg
+    FAILED  (7.9 KB, target = 2.0 KB - savings of 5.8 KB)- http://rs.mail.ru/b7202315.jpg
+    FAILED  (7.2 KB, target = 2.6 KB - savings of 4.6 KB - Convert PNG to 8 bit)- http://rs.mail.ru/b6837577.png
+    FAILED  (5.7 KB, target = 1.9 KB - savings of 3.9 KB)- http://rs.mail.ru/b6588624.jpg
+    FAILED  (5.2 KB, target = 1.8 KB - savings of 3.4 KB)- http://rs.mail.ru/b6588625.jpg
+    FAILED  (4.8 KB, target = 1.9 KB - savings of 2.9 KB)- http://rs.mail.ru/b6588628.jpg
+    WARNING (2.7 KB, target = 2.0 KB - savings of 0.8 KB)- http://rs.mail.ru/b7270591.jpg
+    WARNING (2.7 KB, target = 2.0 KB - savings of 0.8 KB)- http://rs.mail.ru/b7270591.jpg
+    WARNING (2.9 KB, target = 2.2 KB - savings of 0.8 KB)- http://rs.mail.ru/b7647937.jpg
+    WARNING (2.9 KB, target = 2.2 KB - savings of 0.8 KB)- http://rs.mail.ru/b7647937.jpg
+    WARNING (2.6 KB, target = 2.0 KB - savings of 0.6 KB)- http://rs.mail.ru/b7444198.jpg
+    WARNING (2.6 KB, target = 2.0 KB - savings of 0.6 KB)- http://rs.mail.ru/b7444198.jpg
+    WARNING (2.2 KB, target = 1.8 KB - savings of 0.4 KB)- http://rs.mail.ru/b7648672.jpg
+    WARNING (1.3 KB, target = 1.2 KB - savings of 0.1 KB)- http://rs.mail.ru/b7700014.jpg
+    WARNING (1.4 KB, target = 1.3 KB - savings of 0.1 KB)- http://rs.mail.ru/b7702196.jpg
+  Image Compression score : 56
+    104.9 KB total in images, target size = 59.6 KB - potential savings = 45.4 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://217.16.28.104/banners/0000609/0000609996/0/300x300_Box_4007.swf?link1=http%3A//ad.adriver.ru/cgi-bin/click.cgi%3Fbid%3D609996%26ntype%3D0%26sid%3D1%26bn%3D319957%26ad%3D169770%26nid%3D0%26bt%3D40%26pz%3D0%26rnd%3D693156263%26rleurl%3D&target=_blank&ar_bid=609996&ar_ntype=0&ar_comppath=http://217.16.28.104/banners/0000609/0000609996/0/&sid=1
+    FAILED - http://217.16.28.104/banners/0000609/0000609996/0/index.html?html_params=rhost%3Dad.adriver.ru%26sid%3D1%26ad%3D169770%26nid%3D0%26bid%3D609996%26ar_ntype%3D0%26bt%3D40%26pz%3D0%26bn%3D319957%26width%3D300%26height%3D300%26rnd%3D693156263%26rleurl%3D%26target=_blank
+    FAILED - http://217.16.28.104/flashloader.js
+    FAILED - http://mail.radar.imgsmail.ru/update?p=mail&t=main&v=203&i=&rnd=102176025
+    FAILED - http://mail.radar.imgsmail.ru/update?p=mail0&t=main&v=0&rnd=946485696
+  Keep-Alive score : 86
+
+Proper cookie usage:
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7702195.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7702196.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7664170.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7700014.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7589863.gif
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7589864.gif
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7589865.gif
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7699532.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7578753.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7413118.gif
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7105478.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7202315.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7624941.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b6588624.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7012911.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b6588628.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b6588625.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7277882.gif
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b6837577.png
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7277636.gif
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 110 bytes) - http://rs.mail.ru/b7277635.gif
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7269159.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7444198.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7270591.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7647937.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7648672.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7231463.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7269159.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7444198.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7270591.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+    FAILED (Static object with 5 cookies - 109 bytes) - http://rs.mail.ru/b7647937.jpg
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: c8=QDMkSgAAAAJDRAEAAAAA
+      cookie: VID=1UI-WH0iW90e
+   WARNING (1 cookies, 14 bytes) - http://ad.adriver.ru/cgi-bin/erle.cgi?sid=1&bt=40&ad=169770&w=300&h=300&pid=319957&bn=319957&rnd=693156263&tail256=unknown
+      cookie:uid=1468528406
+   WARNING (1 cookies, 30 bytes) - http://counter.rambler.ru/top100.cnt?260606
+      cookie:ruid=/tr5BUTxI0qBtQAAAa1u2gBgv
+   WARNING (2 cookies, 35 bytes) - http://counter.yadro.ru/hit?r;s1024*768*32;uhttp%3A//mail.ru/;0.47963213402371285
+      cookie:FTID=1A8_542UMu0e
+      cookie: VID=2FRD8m1qhuWe
+   WARNING (1 cookies, 16 bytes) - http://counter.yadro.ru/hit?q;r;s1024*768*32;uhttp%3A//mail.ru/;0.47963213402371285
+      cookie:VID=2FRD8m1qhuWe
+   WARNING (1 cookies, 26 bytes) - http://engine.awaps.net/0/2209/001001.gif?0-0-58525-0-la:74132p:39599
+      cookie:UserId=36-1243869508-41351
+   WARNING (4 cookies, 85 bytes) - http://mail.ru/
+      cookie:Mpopl=286868145
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+   WARNING (4 cookies, 85 bytes) - http://top3.mail.ru/counter?id=110605;js=13;r=;j=true;s=1024*768;d=32;rand=0.6748354106683594
+      cookie:Mpopl=353660997
+      cookie: mrcu=1B194A23F1441822C7B012AF6C5F
+      cookie: p=y/CaAJvDjwAA
+      cookie: FTID=0000AQ0r5MGe
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****mail_ru/ru/CP1251/tmsec=mail_main/
+      cookie:guid=E62606004A23F144X1243869508
+  Cookie score : 20
+    3.6 KB total in outbound cookies, target size = 0.3 KB - potential savings = 3.3 KB
+
+Minify JS:
+  Minify score : 100
+    1.6 KB total in minifiable text, target size = 1.6 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

@@ -1,0 +1,63 @@
+Optimization Report : 06/05/09 at 19:56:36
+
+Results for 'http://yandex.ru/yandsearch?text=%EF%E5%F0%E5%E2%EE%E4%20%F2%E5%F1%F2&i-m-a-hacker=1':
+
+Page load time: 0.243 seconds
+Time to first byte: 0.235 seconds
+Time to Base Page Downloaded: 0.236 seconds
+Time to Start Render: 0.072 seconds
+Time to Document Complete: 0.243 seconds
+Time to Fully Loaded: 0.243 seconds
+Bytes sent out: 3.314 KB
+Bytes received: 3.680 KB
+DNS Lookups: 5
+Connections: 6
+Requests: 7
+   OK Requests:  2
+   Redirects:    0
+   Not Modified: 5
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://im0-tub.yandex.net/i?id=83850319&tov=0
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://im0-tub.yandex.net/i?id=83850319&tov=0
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  No appropriate resources present
+
+Compress Images:
+  Image Compression score : 100
+    2.4 KB total in images, target size = 2.4 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=4340531244217391
+   WARNING (1 cookies, 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=2626969
+      cookie:yandexuid=4340531244217391
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=538906044A29402FX1244217391
+  Cookie score : 78
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

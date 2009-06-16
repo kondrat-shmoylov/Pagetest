@@ -1,0 +1,666 @@
+Results for 'https://passport.yandex.ru/passport?mode=auth':
+
+Page load time: 1.235 seconds
+Time to first byte: 0.038 seconds
+Time to Base Page Downloaded: 0.134 seconds
+Time to Start Render: 0.480 seconds
+Time to Document Complete: 1.235 seconds
+Time to Fully Loaded: 1.477 seconds
+Bytes sent out: 1.067 KB
+Bytes received: 35.129 KB
+DNS Lookups: 8
+Connections: 16
+Requests: 22
+   OK Requests:  6
+   Redirects:    7
+   Not Modified: 5
+   Not Found:    0
+   Other:        4 (0, 0, 0, 0)
+Base Page Response: 302
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: POST
+      Url: https://passport.yandex.ru/passport?mode=auth
+      Host: passport.yandex.ru
+      Result code: 302
+      Transaction time: 0.076 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 2045 Bytes
+      Request Object Size (out): -638 Bytes
+      Response Object Size (in): 1043 Bytes
+  Request Headers:
+      POST /passport?mode=auth HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://mail.yandex.ru/
+      Accept-Language: ru
+      Content-Type: application/x-www-form-urlencoded
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: passport.yandex.ru
+      Content-Length: 112
+      Connection: Keep-Alive
+      Cache-Control: no-cache
+      Cookie: yandexuid=837330221245070507; L=d2Ina1ZkBQcCTGxbAQN/RHR8VUZGaHFiPgVDd1pKShclMTJZWCAVNiIbXQclBHpDbggdIBw0VHtpUREdEjYFAw==.1245070509.5270.238037.3bbcbd3d21f2134aee7728d1b930f8b6; yabs-frequency=/2/Y0vZ0Eq49m00/
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Mon, 15 Jun 2009 12:55:19 GMT
+      Content-Type: text/plain; charset=windows-1251
+      Transfer-Encoding: chunked
+      Connection: close
+      P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+      Set-Cookie: yandex_mail=jstester; path=/; domain=.yandex.ru
+      Set-Cookie: yandex_login=jstester; path=/; domain=.yandex.ru
+      Set-Cookie: yandex_fio=; path=/; domain=.yandex.ru; Expires=Monday, 07-Jan-80 00:00:01 GMT
+      Set-Cookie: Session_id=1245070519.0.0.13458412.2:31287569:0.58658.2151.ae0d019e1be958f3ceef163bd5d4fe82; path=/; domain=.yandex.ru
+      Set-Cookie: L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; path=/; domain=.yandex.ru; expires=Sunday, 13-Sep-09 12:55:19 GMT
+      Set-Cookie: yandex_nickname=; path=/; domain=.yandex.ru
+      Location: https://passport-ckicheck.yandex.ru/passport?mode=ckicheck&idkey=0F41245071719LSt71vvV8&ncrnd=587447
+
+Request 2:
+      Action: POST
+      Url: http://passport-ckicheck.yandex.ru/passport?mode=ckicheck&idkey=0F41245071719LSt71vvV8&ncrnd=587447
+      Host: passport-ckicheck.yandex.ru
+      Result code: 302
+      Transaction time: 0.058 seconds
+      Time to first byte: 0.051 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 821 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://pass.yandex.ru/login?retpath=http%3a%2f%2fmail%2eyandex%2eru%2f%3ffrom%3dmail%26r%3did42801585&ncrnd=388991
+      Host: pass.yandex.ru
+      Result code: 302
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 2
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 420 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /login?retpath=http%3a%2f%2fmail%2eyandex%2eru%2f%3ffrom%3dmail%26r%3did42801585&ncrnd=388991 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/Y0vZ0Eq49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070519.0.0.13458412.2:31287569:0.58658.2151.ae0d019e1be958f3ceef163bd5d4fe82; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Mon, 15 Jun 2009 12:55:18 GMT
+      Location: http://mail.yandex.ru/?from=mail&r=id42801585&ncrnd=7669
+      P3P: policyref="http://pass.yandex.ru/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+      Server: BAIDA/1.0.0
+      Set-Cookie: Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; path=/; domain=.yandex.ru
+
+Request 4:
+      Action: GET
+      Url: http://mail.yandex.ru/?from=mail&r=id42801585&ncrnd=7669
+      Host: mail.yandex.ru
+      Result code: 302
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.017 seconds
+      Document: 2
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 3287 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2821 Bytes
+  Request Headers:
+      GET /?from=mail&r=id42801585&ncrnd=7669 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/Y0vZ0Eq49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=utf-8
+      Date: Mon, 15 Jun 2009 12:55:19 GMT
+      Expires: Mon, 15 Jun 2009 13:00:19 GMT
+      Last-Modified: Mon, 15 Jun 2009 12:55:19 GMT
+      Location: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 5:
+      Action: GET
+      Url: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Host: mail.yandex.ru
+      Result code: 200
+      Transaction time: 0.172 seconds
+      Time to first byte: 0.165 seconds
+      Document: 2
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 10944 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 10557 Bytes
+  Request Headers:
+      GET /neo/messages_thread?d=id38468367 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/Y0vZ0Eq49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=UTF-8
+      Date: Mon, 15 Jun 2009 12:55:19 GMT
+      Expires: Mon, 15 Jun 2009 13:00:19 GMT
+      Last-Modified: Mon, 15 Jun 2009 12:55:19 GMT
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 6:
+      Action: GET
+      Url: http://upics.yandex.net/get/jstester/small
+      Host: upics.yandex.net
+      Result code: 302
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.009 seconds
+      Document: 2
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 244 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /get/jstester/small HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: upics.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Cache-Control: max-age=0, proxy-revalidate
+      Expires: Mon, 15 Jun 2009 12:55:19 GMT
+      Location: http://default.avatars.yandex.net/it/44-small
+      Content-Length: 0
+      Date: Mon, 15 Jun 2009 12:55:19 GMT
+      Server: lighttpd/1.4.18
+
+Request 7:
+      Action: GET
+      Url: http://default.avatars.yandex.net/it/44-small
+      Host: default.avatars.yandex.net
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.001 seconds
+      Document: 2
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 204 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /it/44-small HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: default.avatars.yandex.net
+      Connection: Keep-Alive
+      If-Modified-Since: Thu, 20 Nov 2008 14:06:06 GMT
+      If-None-Match: "2781854487"
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "2781854487"
+      Last-Modified: Thu, 20 Nov 2008 14:06:06 GMT
+      Date: Mon, 15 Jun 2009 12:55:19 GMT
+      Server: lighttpd/1.4.19
+
+Request 8:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/flashldr006.js
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.001 seconds
+      Document: 2
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 149 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /resource/flashldr006.js HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 22 Oct 2008 09:09:26 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/Y0vZ0Eq49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Date: Mon, 15 Jun 2009 12:55:19 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Content-Length: 0
+
+Request 9:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.003 seconds
+      Document: 2
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/0 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=8D5A02014A3644ABX1245070507
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Mon, 15 Jun 2009 12:55:19 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 10:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/l64Rz^PJ5MC_8TuTUBGljA.jpg?rnd=361599
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.002 seconds
+      Document: 2
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 13869 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 13654 Bytes
+  Request Headers:
+      GET /resource/l64Rz^PJ5MC_8TuTUBGljA.jpg?rnd=361599 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/Y0vZ0Eq49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Mon, 15 Jun 2009 12:55:19 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Fri, 05 Jun 2009 14:56:43 GMT
+      Content-Type: image/jpeg
+      Content-Length: 13654
+
+Request 11:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/IgGmvsr0E0O40X00ZhTBPAC4N0kL0Pi1RqWZYAbqD0QIeRxO1ugheVC4aA0V0jwHl7qZ5WgJXGsBeB-T7a6CZVMWZVLu1m00
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.024 seconds
+      Time to first byte: 0.002 seconds
+      Document: 2
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 533 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /count/IgGmvsr0E0O40X00ZhTBPAC4N0kL0Pi1RqWZYAbqD0QIeRxO1ugheVC4aA0V0jwHl7qZ5WgJXGsBeB-T7a6CZVMWZVLu1m00 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/Y0vZ0Eq49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 302 Found
+      Date: Mon, 15 Jun 2009 12:55:19 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Mon, 15 Jun 2009 12:55:19 GMT
+      Expires: Mon, 15 Jun 2009 12:55:19 GMT
+      Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+      Pragma: no-cache
+      Location: http://front2.imho.ru/image.ng/site=yandex.ru&adsize=1x1&pos=post.left.03060911.view
+      Set-Cookie: yabs-frequency=/2/IKTZ0Eq48OWEOm3j12S0/; domain=.yandex.ru; path=/; expires=Wed, 23-Sep-2009 12:55:19 GMT
+      Content-Length: 0
+
+Request 12:
+      Action: GET
+      Url: http://front2.imho.ru/image.ng/site=yandex.ru&adsize=1x1&pos=post.left.03060911.view
+      Host: front2.imho.ru
+      Result code: 302
+      Transaction time: 0.042 seconds
+      Time to first byte: 0.004 seconds
+      Document: 2
+      Socket: 14
+      Request size (out): 16 Bytes
+      Response size (in): 713 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /image.ng/site=yandex.ru&adsize=1x1&pos=post.left.03060911.view HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Connection: Keep-Alive
+      Host: front2.imho.ru
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx/0.7.33
+      Date: Mon, 15 Jun 2009 12:55:16 GMT
+      Content-Type: text/html
+      Connection: close
+      Set-Cookie: NGUserID=a000a37-5328-1245070510-4; expires=Wednesday, 30-Dec-2037 16:00:00 GMT; path=/
+      P3P: policyref="http://front2.imho.ru/w3c/policy.xml", CP="NON CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT DEM LOC"
+      Pragma: max-age=0
+      Set-Cookie: NGUserID=a000a37-5328-1245070510-5; expires=Wednesday, 30-Dec-2037 16:00:00 GMT; path=/
+      Content-Length: 0
+      Cache-control: no-cache
+      Location: http://front1.imho.ru/dot.gif
+      P3P: policyref="http://front2.imho.ru/w3c/policy.xml", CP="NON CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT DEM LOC"
+      Expires: Mon, 15 Jun 2009 12:55:15 GMT
+
+Request 13:
+      Action: GET
+      Url: http://front1.imho.ru/dot.gif
+      Host: front1.imho.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.002 seconds
+      Document: 2
+      Socket: 16
+      Request size (out): 16 Bytes
+      Response size (in): 231 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /dot.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Connection: Keep-Alive
+      Host: front1.imho.ru
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.31
+      Date: Mon, 15 Jun 2009 12:55:09 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+
+Request 14:
+      Action: GET
+      Url: http://pass.yandex.ru/services?callback=jsonp1245070512625&_=1245070513359&locale=ru&login=yes
+      Host: pass.yandex.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 2
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 793 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 651 Bytes
+  Request Headers:
+      GET /services?callback=jsonp1245070512625&_=1245070513359&locale=ru&login=yes HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/IKTZ0Eq48OWEOm3j12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Close
+      Content-Type: text/javascript; charset=utf-8
+      Date: Mon, 15 Jun 2009 12:55:18 GMT
+      Server: BAIDA/1.0.0
+
+Request 15:
+      Action: POST
+      Url: http://mail.yandex.ru/neo/informers/news
+      Host: mail.yandex.ru
+      Result code: 200
+      Transaction time: 0.188 seconds
+      Time to first byte: 0.012 seconds
+      Document: 2
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 934 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 547 Bytes
+  Request Headers:
+      POST /neo/informers/news HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.yandex.ru
+      Content-Length: 0
+      Connection: Keep-Alive
+      Cache-Control: no-cache
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/IKTZ0Eq48OWEOm3j12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=utf-8
+      Date: Mon, 15 Jun 2009 12:55:20 GMT
+      Expires: Mon, 15 Jun 2009 13:00:20 GMT
+      Last-Modified: Mon, 15 Jun 2009 12:55:20 GMT
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 16:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=38997&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 4
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=38997&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 21
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=38883&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 22
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=38423&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=38997&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 24
+      Request size (out): 16 Bytes
+      Response size (in): 48 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i?id=38997&n=3 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 15 Jun 2009 12:48:51 GMT; length=5862
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: neim-tub.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/IKTZ0Eq48OWEOm3j12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not modified
+      Connection: Close
+
+Request 21:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=38423&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 48 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i?id=38423&n=3 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 15 Jun 2009 12:48:51 GMT; length=5232
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: neim-tub.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/IKTZ0Eq48OWEOm3j12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not modified
+      Connection: Close
+
+Request 22:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=38883&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 16 Bytes
+      Response size (in): 48 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i?id=38883&n=3 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.yandex.ru/neo/messages_thread?d=id38468367
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 15 Jun 2009 12:48:51 GMT; length=6098
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: neim-tub.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=837330221245070507; L=fGIia1hqBAUATWJdBwB6QHZ1VkdFbHFgPF1afFseCkA9OzZVRz4ROSIbXQYjFTxGNhgcKkAkGD43QEEGGSUBFA==.1245070519.5270.250324.c98fe404d71340e3c3f1ffa252031429; yabs-frequency=/2/IKTZ0Eq48OWEOm3j12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245070518.0.0.13458412.2:31287569:0.58658.9786.c63795987352830e46df3a0920029de9; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not modified
+      Connection: Close
+

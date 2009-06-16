@@ -1,0 +1,911 @@
+Results for 'http://maps.yandex.ru/':
+
+Page load time: 2.594 seconds
+Time to first byte: 0.125 seconds
+Time to Base Page Downloaded: 0.140 seconds
+Time to Start Render: 1.106 seconds
+Time to Document Complete: 2.594 seconds
+Time to Fully Loaded: 2.594 seconds
+Bytes sent out: 26.966 KB
+Bytes received: 803.842 KB
+DNS Lookups: 15
+Connections: 25
+Requests: 74
+   OK Requests:  69
+   Redirects:    5
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://maps.yandex.ru/
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.140 seconds
+      Time to first byte: 0.039 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 529 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://maps.yandex.ru/css/_maps.ie.css?1.6.6-0.gps.2
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 363 Bytes
+      Response size (in): 8278 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://api-maps.yandex.ru/1.0.4/?key=AP_JbUkBAAAAO0APBQMAZgGGKZqIKMmRDJwfN0enUZD1R8cAAAAAAAAAAAB5Jg3D4sMkVd6DxzmwfS3sJnVnqg==
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.047 seconds
+      Time to first byte: 0.034 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 436 Bytes
+      Response size (in): 2494 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://api-maps.yandex.ru/1.0.4/YMaps-ie.css
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 355 Bytes
+      Response size (in): 6386 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://api-maps.yandex.ru/1.0.4/xml/data.xml?v=1.33.1
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.166 seconds
+      Time to first byte: 0.047 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 364 Bytes
+      Response size (in): 39852 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://api-maps.yandex.ru/1.0.4/YMaps.js
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.135 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 351 Bytes
+      Response size (in): 65491 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://js.static.yandex.net/jquery/1.3.2/jquery.min.js
+      Host: js.static.yandex.net
+      Result code: 200
+      Transaction time: 0.053 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 326 Bytes
+      Response size (in): 20080 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://js.static.yandex.net/jquery/cookie/1.0/jquery.cookie.min.js
+      Host: js.static.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 338 Bytes
+      Response size (in): 945 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/js/_common.js
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.033 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 326 Bytes
+      Response size (in): 3605 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://maps.yandex.ru/js/_maps.js?1.6.6-0.gps.2
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.170 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 358 Bytes
+      Response size (in): 127102 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-head-logo/b-head-logo.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.114 seconds
+      Time to first byte: 0.111 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 346 Bytes
+      Response size (in): 1689 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://maps.yandex.ru/home.html
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.055 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 610 Bytes
+      Response size (in): 336 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/LBnqW_-b7QO40X00ZhrPLQ84MGML0vi1RriYYA_230EIhD6a1egXZVi3aRpGIMG6auKDYwWJzXT1VGK0?1421636739
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 430 Bytes
+      Response size (in): 381 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://bs.yandex.ru/page/67?rnd=1421636739&stat-id=41
+      Host: bs.yandex.ru
+      Result code: 200
+      Transaction time: 0.040 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 632 Bytes
+      Response size (in): 1024 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://bs.yandex.ru/resource/watch.js
+      Host: bs.yandex.ru
+      Result code: 200
+      Transaction time: 0.037 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 348 Bytes
+      Response size (in): 2906 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_maps/0
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.221 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 345 Bytes
+      Response size (in): 607 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://maps.yandex.ru/i/print-icon.png
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 349 Bytes
+      Response size (in): 956 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 303 Bytes
+      Response size (in): 1024 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://awaps.yandex.ru/0/8940/200300.gif?1421636739
+      Host: awaps.yandex.ru
+      Result code: 302
+      Transaction time: 0.199 seconds
+      Time to first byte: 0.180 seconds
+      Document: 1
+      Socket: 33
+      Request size (out): 362 Bytes
+      Response size (in): 637 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_maps/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 50
+      Request size (out): 387 Bytes
+      Response size (in): 438 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://awaps.yandex.ru/0/8940/200300.gif?1421636739-0-478766416-1-a:0p:0&profileredir=1&
+      Host: awaps.yandex.ru
+      Result code: 200
+      Transaction time: 0.023 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 33
+      Request size (out): 427 Bytes
+      Response size (in): 569 Bytes
+
+Request 22:
+      Action: GET
+      Url: http://bs.yandex.ru/watch/114208?rn=934164&cnt-class=0&page-ref=&page-url=http%3A%2F%2Fmaps.yandex.ru%2F&browser-info=j:1:s:1024x768x32:f:10.0.22.87:t:%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9A%D0%B0%D1%80%D1%82%D1%8B&wmode=1
+      Host: bs.yandex.ru
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 537 Bytes
+      Response size (in): 365 Bytes
+
+Request 23:
+      Action: GET
+      Url: http://bs.yandex.ru/resource/slider.html
+      Host: bs.yandex.ru
+      Result code: 200
+      Transaction time: 0.026 seconds
+      Time to first byte: 0.025 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 650 Bytes
+      Response size (in): 462 Bytes
+
+Request 24:
+      Action: GET
+      Url: http://trf.maps.yandex.net/trf/coverage.js?id=0.9372541759569604
+      Host: trf.maps.yandex.net
+      Result code: 200
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 52
+      Request size (out): 336 Bytes
+      Response size (in): 2320 Bytes
+
+Request 25:
+      Action: GET
+      Url: http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=616&y=320&z=10
+      Host: vec01.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.162 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 53
+      Request size (out): 375 Bytes
+      Response size (in): 25257 Bytes
+
+Request 26:
+      Action: GET
+      Url: http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=617&y=320&z=10
+      Host: vec03.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.182 seconds
+      Time to first byte: 0.051 seconds
+      Document: 1
+      Socket: 56
+      Request size (out): 375 Bytes
+      Response size (in): 27273 Bytes
+
+Request 27:
+      Action: GET
+      Url: http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=618&y=320&z=10
+      Host: vec01.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.207 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 54
+      Request size (out): 375 Bytes
+      Response size (in): 34854 Bytes
+
+Request 28:
+      Action: GET
+      Url: http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=619&y=320&z=10
+      Host: vec03.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.172 seconds
+      Time to first byte: 0.055 seconds
+      Document: 1
+      Socket: 55
+      Request size (out): 375 Bytes
+      Response size (in): 33052 Bytes
+
+Request 29:
+      Action: GET
+      Url: http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=616&y=321&z=10
+      Host: vec02.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.141 seconds
+      Time to first byte: 0.057 seconds
+      Document: 1
+      Socket: 59
+      Request size (out): 375 Bytes
+      Response size (in): 25050 Bytes
+
+Request 30:
+      Action: GET
+      Url: http://vec04.maps.yandex.ru/tiles?l=map&v=2.6.0&x=617&y=321&z=10
+      Host: vec04.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.177 seconds
+      Time to first byte: 0.056 seconds
+      Document: 1
+      Socket: 57
+      Request size (out): 375 Bytes
+      Response size (in): 29523 Bytes
+
+Request 31:
+      Action: GET
+      Url: http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=618&y=321&z=10
+      Host: vec02.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.178 seconds
+      Time to first byte: 0.056 seconds
+      Document: 1
+      Socket: 58
+      Request size (out): 375 Bytes
+      Response size (in): 34206 Bytes
+
+Request 32:
+      Action: GET
+      Url: http://vec04.maps.yandex.ru/tiles?l=map&v=2.6.0&x=619&y=321&z=10
+      Host: vec04.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.188 seconds
+      Time to first byte: 0.058 seconds
+      Document: 1
+      Socket: 60
+      Request size (out): 375 Bytes
+      Response size (in): 34032 Bytes
+
+Request 33:
+      Action: GET
+      Url: http://img.yandex.net/maps/i/grab.cur
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.257 seconds
+      Time to first byte: 0.049 seconds
+      Document: 1
+      Socket: 61
+      Request size (out): 309 Bytes
+      Response size (in): 561 Bytes
+
+Request 34:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/YMaps-logo.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 303 Bytes
+      Response size (in): 1024 Bytes
+
+Request 35:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/controls/typecontrol/btn-text.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.039 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 376 Bytes
+      Response size (in): 635 Bytes
+
+Request 36:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/controls/minimap/hide-map.gif
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.038 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 372 Bytes
+      Response size (in): 349 Bytes
+
+Request 37:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/icons/icon-hand.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.056 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 308 Bytes
+      Response size (in): 544 Bytes
+
+Request 38:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/controls/toolbar/btn-img.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.061 seconds
+      Time to first byte: 0.060 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 371 Bytes
+      Response size (in): 667 Bytes
+
+Request 39:
+      Action: GET
+      Url: http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=620&y=321&z=10
+      Host: vec02.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.089 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 59
+      Request size (out): 375 Bytes
+      Response size (in): 29048 Bytes
+
+Request 40:
+      Action: GET
+      Url: http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=620&y=320&z=10
+      Host: vec01.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.111 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 53
+      Request size (out): 375 Bytes
+      Response size (in): 29164 Bytes
+
+Request 41:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/controls/toolbar/btn-img-c.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.031 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 319 Bytes
+      Response size (in): 1024 Bytes
+
+Request 42:
+      Action: GET
+      Url: http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=617&y=322&z=10
+      Host: vec03.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.080 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 55
+      Request size (out): 375 Bytes
+      Response size (in): 25511 Bytes
+
+Request 43:
+      Action: GET
+      Url: http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=619&y=322&z=10
+      Host: vec03.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.092 seconds
+      Time to first byte: 0.036 seconds
+      Document: 1
+      Socket: 56
+      Request size (out): 375 Bytes
+      Response size (in): 29737 Bytes
+
+Request 44:
+      Action: GET
+      Url: http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=616&y=322&z=10
+      Host: vec01.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.063 seconds
+      Time to first byte: 0.036 seconds
+      Document: 1
+      Socket: 54
+      Request size (out): 375 Bytes
+      Response size (in): 23417 Bytes
+
+Request 45:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/icons/icon-zoom.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.042 seconds
+      Time to first byte: 0.041 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 308 Bytes
+      Response size (in): 515 Bytes
+
+Request 46:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/icons/icon-ruler.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 309 Bytes
+      Response size (in): 494 Bytes
+
+Request 47:
+      Action: GET
+      Url: http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=618&y=322&z=10
+      Host: vec01.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 53
+      Request size (out): 375 Bytes
+      Response size (in): 31053 Bytes
+
+Request 48:
+      Action: GET
+      Url: http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=620&y=322&z=10
+      Host: vec01.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.120 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 54
+      Request size (out): 375 Bytes
+      Response size (in): 26490 Bytes
+
+Request 49:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/controls/typecontrol/btn-text-c.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 324 Bytes
+      Response size (in): 1024 Bytes
+
+Request 50:
+      Action: GET
+      Url: http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=18&y=9&z=5
+      Host: vec02.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.051 seconds
+      Document: 1
+      Socket: 58
+      Request size (out): 371 Bytes
+      Response size (in): 15423 Bytes
+
+Request 51:
+      Action: GET
+      Url: http://vec04.maps.yandex.ru/tiles?l=map&v=2.6.0&x=19&y=9&z=5
+      Host: vec04.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 57
+      Request size (out): 371 Bytes
+      Response size (in): 10790 Bytes
+
+Request 52:
+      Action: GET
+      Url: http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=18&y=10&z=5
+      Host: vec01.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 53
+      Request size (out): 372 Bytes
+      Response size (in): 11565 Bytes
+
+Request 53:
+      Action: GET
+      Url: http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=19&y=10&z=5
+      Host: vec03.maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.037 seconds
+      Time to first byte: 0.028 seconds
+      Document: 1
+      Socket: 55
+      Request size (out): 372 Bytes
+      Response size (in): 13842 Bytes
+
+Request 54:
+      Action: GET
+      Url: http://maps.yandex.ru/i/close.gif
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.038 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 344 Bytes
+      Response size (in): 371 Bytes
+
+Request 55:
+      Action: GET
+      Url: http://maps.yandex.ru/i/b-button-map/btn-map-b.png
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.038 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 361 Bytes
+      Response size (in): 476 Bytes
+
+Request 56:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-grab.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.040 seconds
+      Time to first byte: 0.039 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 318 Bytes
+      Response size (in): 758 Bytes
+
+Request 57:
+      Action: GET
+      Url: http://maps.yandex.ru/i/b-button-map/btn-map.png
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 359 Bytes
+      Response size (in): 467 Bytes
+
+Request 58:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-marks.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 319 Bytes
+      Response size (in): 812 Bytes
+
+Request 59:
+      Action: GET
+      Url: http://maps.yandex.ru/i/junc.png
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 343 Bytes
+      Response size (in): 1194 Bytes
+
+Request 60:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-button.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 320 Bytes
+      Response size (in): 1024 Bytes
+
+Request 61:
+      Action: GET
+      Url: http://api-maps.yandex.ru/i/0.2/controls/tips.png
+      Host: api-maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 306 Bytes
+      Response size (in): 1024 Bytes
+
+Request 62:
+      Action: GET
+      Url: http://maps.yandex.ru/i/b-button-map/btn-map-corners.png
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 313 Bytes
+      Response size (in): 1024 Bytes
+
+Request 63:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-round/_border/b-round_8fa1b6.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 64:
+      Action: GET
+      Url: http://img.yandex.net/maps/i/bg-selected.png
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.145 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 61
+      Request size (out): 262 Bytes
+      Response size (in): 288 Bytes
+
+Request 65:
+      Action: GET
+      Url: http://maps.yandex.ru/i/route-button.png
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 297 Bytes
+      Response size (in): 504 Bytes
+
+Request 66:
+      Action: GET
+      Url: http://maps.yandex.ru/i/mymaps-button.png
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 298 Bytes
+      Response size (in): 476 Bytes
+
+Request 67:
+      Action: GET
+      Url: http://maps.yandex.ru/i/mobile.png
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.055 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 345 Bytes
+      Response size (in): 401 Bytes
+
+Request 68:
+      Action: GET
+      Url: http://bs.yandex.ru/resource/flashldr006.js
+      Host: bs.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 402 Bytes
+      Response size (in): 2290 Bytes
+
+Request 69:
+      Action: GET
+      Url: http://trf.maps.yandex.net/trf/stat.js?id=0.10210317320131201
+      Host: trf.maps.yandex.net
+      Result code: 200
+      Transaction time: 0.037 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 52
+      Request size (out): 333 Bytes
+      Response size (in): 1644 Bytes
+
+Request 70:
+      Action: GET
+      Url: http://bs.yandex.ru/resource/_8A7SdcdYV1N^54eCqXMYg.swf?rnd=407034&link1=http://bs.yandex.ru/count/GO0qV0HVqw840X00ZhvPLQ84MmYL0Pi1QbybYAQlxWMUAPAkQ7i7YgBQgmIGe1y2tf6yq4ba1fE53OkWS-mSGg2IAG9u1m00
+      Host: bs.yandex.ru
+      Result code: 200
+      Transaction time: 0.071 seconds
+      Time to first byte: 0.054 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 554 Bytes
+      Response size (in): 20684 Bytes
+
+Request 71:
+      Action: GET
+      Url: http://bs.yandex.ru/count/GO0qVEIqrYS40X00ZhvPLQ84MmYL0Pi1QbybYAQlxWMUAPAkQ7i7YgBQgmIGe1y2tf6yq4ba1fE53OkYS-mSGOoIAGAWaYa2V0S0
+      Host: bs.yandex.ru
+      Result code: 302
+      Transaction time: 0.060 seconds
+      Time to first byte: 0.053 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 485 Bytes
+      Response size (in): 506 Bytes
+
+Request 72:
+      Action: GET
+      Url: http://maps.yandex.ru/i/b-button-tailback/semaphores.png
+      Host: maps.yandex.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 367 Bytes
+      Response size (in): 1844 Bytes
+
+Request 73:
+      Action: GET
+      Url: http://engine.awaps.net/0/7193/001001.gif?0-0-0-0-la:74441p:39631
+      Host: engine.awaps.net
+      Result code: 302
+      Transaction time: 0.088 seconds
+      Time to first byte: 0.054 seconds
+      Document: 1
+      Socket: 65
+      Request size (out): 355 Bytes
+      Response size (in): 625 Bytes
+
+Request 74:
+      Action: GET
+      Url: http://engine.awaps.net/0/7193/001001.gif?0-0-1239938491-1-a:74441p:39631&profileredir=1&
+      Host: engine.awaps.net
+      Result code: 200
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 67
+      Request size (out): 415 Bytes
+      Response size (in): 603 Bytes
+

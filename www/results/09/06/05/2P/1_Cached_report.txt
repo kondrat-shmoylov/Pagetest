@@ -1,0 +1,84 @@
+Results for 'http://google.ru/search?q=%C2%E8%E9&hl=ru':
+
+Page load time: 0.597 seconds
+Time to first byte: 0.229 seconds
+Time to Base Page Downloaded: 0.498 seconds
+Time to Start Render: 0.603 seconds
+Time to Document Complete: 0.597 seconds
+Time to Fully Loaded: 0.847 seconds
+Bytes sent out: 3.303 KB
+Bytes received: 2.266 KB
+DNS Lookups: 4
+Connections: 4
+Requests: 5
+   OK Requests:  2
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://google.ru/search?q=%C2%E8%E9&hl=ru
+      Host: google.ru
+      Result code: 301
+      Transaction time: 0.230 seconds
+      Time to first byte: 0.079 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 771 Bytes
+      Response size (in): 528 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.google.ru/search?q=%C2%E8%E9&hl=ru
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.268 seconds
+      Time to first byte: 0.073 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 775 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://id.google.ru/verify/EAAAACfY1VZvvTB1_jrr8b5SqPY.gif
+      Host: id.google.ru
+      Result code: 200
+      Transaction time: 0.239 seconds
+      Time to first byte: 0.062 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 595 Bytes
+      Response size (in): 428 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=IyEpSoLWF8S0_AaQi4XfCg&e=17259,17695,20572&rt=prt.109,ol.140,xjs.172
+      Host: www.google.ru
+      Result code: 204
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.056 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 666 Bytes
+      Response size (in): 215 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://clients1.google.ru/generate_204
+      Host: clients1.google.ru
+      Result code: 204
+      Transaction time: 0.111 seconds
+      Time to first byte: 0.054 seconds
+      Document: 0
+      Socket: 14
+      Request size (out): 575 Bytes
+      Response size (in): 125 Bytes
+

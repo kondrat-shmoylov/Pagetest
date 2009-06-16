@@ -1,0 +1,143 @@
+Results for 'http://yandex.ru/yandsearch?text=%E8%F1%F2%EE%F7%ED%E8%EA%E8%20%E1%E5%F1%EF%E5%F0%E5%E1%EE%E9%ED%EE%E3%EE%20%EF%E8%F2%E0%ED%E8%FF&i-m-a-hacker=1':
+
+Page load time: 0.279 seconds
+Time to first byte: 0.227 seconds
+Time to Base Page Downloaded: 0.227 seconds
+Time to Start Render: 0.093 seconds
+Time to Document Complete: 0.279 seconds
+Time to Fully Loaded: 0.279 seconds
+Bytes sent out: 5.253 KB
+Bytes received: 4.440 KB
+DNS Lookups: 7
+Connections: 8
+Requests: 10
+   OK Requests:  3
+   Redirects:    1
+   Not Modified: 6
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.227 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 806 Bytes
+      Response size (in): 250 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://im6-tub.yandex.net/i?id=50156072&tov=6
+      Host: im6-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.068 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 489 Bytes
+      Response size (in): 2681 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/DBUzy4Ldxyu40X00Zh7uaw84KfK4cm5kK2A8h8XN0OcHXoYIh9ee0ega2Ky1ZG6HkCYNCGIFj0Ar_G6ViTBPIGoJXGsBf2aR1K5-1m00?884456944
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.024 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 572 Bytes
+      Response size (in): 395 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.053 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 509 Bytes
+      Response size (in): 438 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=518930
+      Host: video-tub.yandex.ru
+      Result code: 304
+      Transaction time: 0.045 seconds
+      Time to first byte: 0.034 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 538 Bytes
+      Response size (in): 48 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.radistr.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.045 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 492 Bytes
+      Response size (in): 151 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.pcm.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.041 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 488 Bytes
+      Response size (in): 151 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://clck.yandex.ru/click/dtype=yabs/id=56/key=pack/*?884456944
+      Host: clck.yandex.ru
+      Result code: 200
+      Transaction time: 0.049 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 495 Bytes
+      Response size (in): 131 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.best-generators.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 500 Bytes
+      Response size (in): 151 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.ippon.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 490 Bytes
+      Response size (in): 151 Bytes
+

@@ -1,0 +1,2269 @@
+Results for 'http://protos.transvaal.yandex.ru/mail/newhead3/inbox':
+
+Page load time: 0.778 seconds
+Time to first byte: 0.200 seconds
+Time to Base Page Downloaded: 0.215 seconds
+Time to Start Render: 0.356 seconds
+Time to Document Complete: 0.778 seconds
+Time to Fully Loaded: 1.302 seconds
+Bytes sent out: 1.047 KB
+Bytes received: 198.647 KB
+DNS Lookups: 7
+Connections: 20
+Requests: 67
+   OK Requests:  10
+   Redirects:    26
+   Not Modified: 26
+   Not Found:    3
+   Other:        2 (0, 0)
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Host: protos.transvaal.yandex.ru
+      Result code: 200
+      Transaction time: 0.215 seconds
+      Time to first byte: 0.073 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 121629 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 121466 Bytes
+  Request Headers:
+      GET /mail/newhead3/inbox HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Vary: Cookie
+      Content-Type: text/html; charset=UTF-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 2:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/css/m-ie6.css
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/css/m-ie6.css HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:07 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 3:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/css/page-inbox.ie.css
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/css/page-inbox.ie.css HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:07 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 4:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/css/theme/default/theme-page-inbox.ie.css
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/css/theme/default/theme-page-inbox.ie.css HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:04 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 5:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/js/etc/jquery/jquery.js
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/js/etc/jquery/jquery.js HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:20 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 6:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/js_texts/ru/Mail_js.js
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/js_texts/ru/Mail_js.js HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:03:30 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 7:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/js/Mail.js
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/js/Mail.js HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:22 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 8:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/js/pages/messages.js
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/js/pages/messages.js HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:18 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 9:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/js_texts/ru/messages_js.js
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/js_texts/ru/messages_js.js HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:03:30 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 10:
+      Action: GET
+      Url: http://i.yandex.ru/i/days/12.gif
+      Host: i.yandex.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 204 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i/days/12.gif HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 02 Jun 2009 13:17:44 GMT
+      If-None-Match: "-892221455"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: i.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "-892221455"
+      Last-Modified: Tue, 02 Jun 2009 13:17:44 GMT
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.19
+
+Request 11:
+      Action: GET
+      Url: http://i.yandex.ru/i/i-lenta.gif
+      Host: i.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 204 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i/i-lenta.gif HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 02 Jun 2009 13:17:43 GMT
+      If-None-Match: "-160326067"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: i.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "-160326067"
+      Last-Modified: Tue, 02 Jun 2009 13:17:43 GMT
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.19
+
+Request 12:
+      Action: GET
+      Url: http://upics.yandex.net/get/poloskuns/small
+      Host: upics.yandex.net
+      Result code: 302
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 289 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /get/poloskuns/small HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: upics.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Cache-Control: max-age=0, proxy-revalidate
+      Expires: Thu, 11 Jun 2009 15:15:49 GMT
+      Location: http://avatars.yandex.net/get-avatar/poloskuns/926e2dd9ffd085f8dc99c8f3e3779621.3607-small
+      Content-Length: 0
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 13:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/i/theme/default/dialog.png
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/i/theme/default/dialog.png HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:13 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 14:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/flashldr006.js
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 149 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /resource/flashldr006.js HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 22 Oct 2008 09:09:26 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Content-Length: 0
+
+Request 15:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/i/theme/logo-bg.png
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/i/theme/logo-bg.png HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:14 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 16:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/tOEyeJ0_hMt4REvH90EbBQ.gif?rnd=37684
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 20230 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 20016 Bytes
+  Request Headers:
+      GET /resource/tOEyeJ0_hMt4REvH90EbBQ.gif?rnd=37684 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Thu, 12 Feb 2009 09:37:45 GMT
+      Content-Type: image/gif
+      Content-Length: 20016
+
+Request 17:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/VlDc-X7RTqi40X00ZhxpPvi4MGYL0vi1RqY8fFHS1PAjWhm6YgrA4GIGe1y2tfE53OkWwfKOGOoDzQ2DzNa6
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 371 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /count/VlDc-X7RTqi40X00ZhxpPvi4MGYL0vi1RqY8fFHS1PAjWhm6YgrA4GIGe1y2tfE53OkWwfKOGOoDzQ2DzNa6 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 302 Found
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Thu, 11 Jun 2009 15:15:49 GMT
+      Expires: Thu, 11 Jun 2009 15:15:49 GMT
+      Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+      Pragma: no-cache
+      Location: http://yabs.yandex.ru/resource/spacer.gif
+      Content-Length: 0
+
+Request 18:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/spacer.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 149 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /resource/spacer.gif HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+      If-Modified-Since: Wed, 18 Apr 2001 10:28:03 GMT
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Content-Length: 0
+
+Request 19:
+      Action: GET
+      Url: http://moikrug.ru/images/icons16x16/balloons.gif
+      Host: moikrug.ru
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 151 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/icons16x16/balloons.gif HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 28 Nov 2008 07:58:57 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Last-Modified: Fri, 28 Nov 2008 07:58:57 GMT
+      Connection: keep-alive
+
+Request 20:
+      Action: GET
+      Url: http://css.moikrug.ru/images/blank_photo/border_30.png
+      Host: css.moikrug.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 151 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/blank_photo/border_30.png HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 28 Nov 2008 07:58:59 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: css.moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Last-Modified: Fri, 28 Nov 2008 07:58:59 GMT
+      Connection: keep-alive
+
+Request 21:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/static/images/i-yaru.png
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 203 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /static/images/i-yaru.png HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 12 Mar 2009 14:24:54 GMT
+      If-None-Match: "723031175"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "723031175"
+      Last-Modified: Thu, 12 Mar 2009 14:24:54 GMT
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 22:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/i/ico-close.gif
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/i/ico-close.gif HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:17 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 23:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/i/progress.gif
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/i/progress.gif HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:17 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 24:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.024 seconds
+      Time to first byte: 0.023 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 549 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/122275155.jpg?2704778675 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: Cookie_check=CheckCookie; expires=Sat, 20-Jul-2013 15:14:45 GMT; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F122275155.jpg%3F2704778675
+      X-WholePageCache: YES
+      Content-Length: 0
+
+Request 25:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.023 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 549 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/869237509.jpg?4231512543 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: Cookie_check=CheckCookie; expires=Sat, 20-Jul-2013 15:14:45 GMT; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F869237509.jpg%3F4231512543
+      X-WholePageCache: YES
+      Content-Length: 0
+
+Request 26:
+      Action: GET
+      Url: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F122275155.jpg%3F2704778675
+      Host: pass.moikrug.ru
+      Result code: 302
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 214 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F122275155.jpg%3F2704778675 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Location: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675&ncrnd=1936&nocookiesupport=yes
+      Server: BAIDA/1.0.0
+
+Request 27:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 549 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/144948412.jpg?1123614201 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: Cookie_check=CheckCookie; expires=Sat, 20-Jul-2013 15:14:45 GMT; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F144948412.jpg%3F1123614201
+      X-WholePageCache: YES
+      Content-Length: 0
+
+Request 28:
+      Action: GET
+      Url: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F869237509.jpg%3F4231512543
+      Host: pass.moikrug.ru
+      Result code: 302
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 214 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F869237509.jpg%3F4231512543 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Location: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543&ncrnd=1340&nocookiesupport=yes
+      Server: BAIDA/1.0.0
+
+Request 29:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.024 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 548 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/73702918.jpg?3112279852 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: Cookie_check=CheckCookie; expires=Sat, 20-Jul-2013 15:14:45 GMT; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F73702918.jpg%3F3112279852
+      X-WholePageCache: YES
+      Content-Length: 0
+
+Request 30:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675&ncrnd=1936&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.041 seconds
+      Time to first byte: 0.021 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 527 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/122275155.jpg?2704778675&ncrnd=1936&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=n30ic8b6u96cq320mcpjs0rhn2; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675&nocookiesupport=yes
+      Content-Length: 0
+
+Request 31:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543&ncrnd=1340&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.045 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 527 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/869237509.jpg?4231512543&ncrnd=1340&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=g8rgf5p03qp1e3v3blrgpc00a7; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543&nocookiesupport=yes
+      Content-Length: 0
+
+Request 32:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/i/theme/default/folder-icons.gif
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/i/theme/default/folder-icons.gif HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:13 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 33:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/24/i/icons.png
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/24/i/icons.png HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:05:37 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Server: lighttpd/1.4.18
+
+Request 34:
+      Action: GET
+      Url: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F144948412.jpg%3F1123614201
+      Host: pass.moikrug.ru
+      Result code: 302
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 213 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F144948412.jpg%3F1123614201 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Thu, 11 Jun 2009 15:15:48 GMT
+      Location: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201&ncrnd=723&nocookiesupport=yes
+      Server: BAIDA/1.0.0
+
+Request 35:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201&ncrnd=723&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 527 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/144948412.jpg?1123614201&ncrnd=723&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=5lq6k028lsst00e04e6s88p7i4; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201&nocookiesupport=yes
+      Content-Length: 0
+
+Request 36:
+      Action: GET
+      Url: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F73702918.jpg%3F3112279852
+      Host: pass.moikrug.ru
+      Result code: 302
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 213 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F73702918.jpg%3F3112279852 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Location: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852&ncrnd=1432&nocookiesupport=yes
+      Server: BAIDA/1.0.0
+
+Request 37:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852&ncrnd=1432&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.041 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 526 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/73702918.jpg?3112279852&ncrnd=1432&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=7jlqj4hmcfj8pt6595qtl8csg0; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852&nocookiesupport=yes
+      Content-Length: 0
+
+Request 38:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 200
+      Transaction time: 0.183 seconds
+      Time to first byte: 0.025 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 4993 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4513 Bytes
+  Request Headers:
+      GET /images/photo_middle/122275155.jpg?2704778675&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=u0c2larug3g7acavmc4vnr4lt3; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      X-WholePageCache: YES
+      Content-Encoding: gzip
+      Content-Length: 4513
+
+Request 39:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 200
+      Transaction time: 0.168 seconds
+      Time to first byte: 0.023 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 4823 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4343 Bytes
+  Request Headers:
+      GET /images/photo_middle/869237509.jpg?4231512543&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=0g23arnr2nhumjlunbks4ovq83; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      X-WholePageCache: YES
+      Content-Encoding: gzip
+      Content-Length: 4343
+
+Request 40:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 200
+      Transaction time: 0.216 seconds
+      Time to first byte: 0.031 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 4822 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4342 Bytes
+  Request Headers:
+      GET /images/photo_middle/144948412.jpg?1123614201&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=33i52b9i5c4urg64qve9e18v52; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      X-WholePageCache: YES
+      Content-Encoding: gzip
+      Content-Length: 4342
+
+Request 41:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 200
+      Transaction time: 0.216 seconds
+      Time to first byte: 0.024 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 4823 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4343 Bytes
+  Request Headers:
+      GET /images/photo_middle/73702918.jpg?3112279852&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=uuc39dguukjdqj59p640kl9i61; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      X-WholePageCache: YES
+      Content-Encoding: gzip
+      Content-Length: 4343
+
+Request 42:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/i/b-round/b-round.001.png
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/i/b-round/b-round.001.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:17 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Server: lighttpd/1.4.18
+
+Request 43:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/i/theme/default/folders-fade.png
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/i/theme/default/folders-fade.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:13 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Server: lighttpd/1.4.18
+
+Request 44:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/i/icons.png
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/i/icons.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:17 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Server: lighttpd/1.4.18
+
+Request 45:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/neo/14/i/theme/default/fade.png
+      Host: protos.transvaal.yandex.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 150 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/14/i/theme/default/fade.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 04 Jun 2009 09:04:13 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Length: 0
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Server: lighttpd/1.4.18
+
+Request 46:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/monitoring.txt?js_error=1&assert=Mail.initWidget%3A%20Invalid%20tag%20for%20%22SidebarLabelsBlock%22%20widget.&
+      Host: protos.transvaal.yandex.ru
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /monitoring.txt?js_error=1&assert=Mail.initWidget%3A%20Invalid%20tag%20for%20%22SidebarLabelsBlock%22%20widget.& HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+
+Request 47:
+      Action: POST
+      Url: http://protos.transvaal.yandex.ru/neo/informers/news
+      Host: protos.transvaal.yandex.ru
+      Result code: 404
+      Transaction time: 0.040 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 1919 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1778 Bytes
+  Request Headers:
+      POST /neo/informers/news HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept: text/plain, */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Content-Length: 0
+      Connection: Keep-Alive
+      Cache-Control: no-cache
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Transfer-Encoding: chunked
+      Content-Type: text/html
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Server: lighttpd/1.4.18
+
+Request 48:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/monitoring.txt?js_error=1&assert=Mail.initWidget%3A%20Invalid%20tag%20for%20%22DropDownFoldersList%22%20widget.&
+      Host: protos.transvaal.yandex.ru
+      Result code: 0
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 24
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /monitoring.txt?js_error=1&assert=Mail.initWidget%3A%20Invalid%20tag%20for%20%22DropDownFoldersList%22%20widget.& HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+
+Request 49:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/monitoring.txt?js_error=1&msg=%27checkbox%27%20is%20null%20or%20not%20an%20object&url=http%3A//protos.transvaal.yandex.ru/mail/newhead3/inbox&line=2&
+      Host: protos.transvaal.yandex.ru
+      Result code: 404
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 2820 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2679 Bytes
+  Request Headers:
+      GET /monitoring.txt?js_error=1&msg=%27checkbox%27%20is%20null%20or%20not%20an%20object&url=http%3A//protos.transvaal.yandex.ru/mail/newhead3/inbox&line=2& HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Transfer-Encoding: chunked
+      Content-Type: text/html
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Server: lighttpd/1.4.18
+
+Request 50:
+      Action: GET
+      Url: http://protos.transvaal.yandex.ru/monitoring.txt?js_error=1&assert=%u041E%u0448%u0438%u0431%u043A%u0430%20%u0437%u0430%u0433%u0440%u0443%u0437%u043A%u0438&
+      Host: protos.transvaal.yandex.ru
+      Result code: 404
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 2860 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2719 Bytes
+  Request Headers:
+      GET /monitoring.txt?js_error=1&assert=%u041E%u0448%u0438%u0431%u043A%u0430%20%u0437%u0430%u0433%u0440%u0443%u0437%u043A%u0438& HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: protos.transvaal.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=150837811244733342
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Transfer-Encoding: chunked
+      Content-Type: text/html
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Server: lighttpd/1.4.18
+
+Request 51:
+      Action: GET
+      Url: http://moikrug.ru/images/m_bg1.png
+      Host: moikrug.ru
+      Result code: 304
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 151 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/m_bg1.png HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 28 Nov 2008 07:59:00 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Last-Modified: Fri, 28 Nov 2008 07:59:00 GMT
+      Connection: keep-alive
+
+Request 52:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.024 seconds
+      Document: 0
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 549 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/122275155.jpg?2704778675 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: Cookie_check=CheckCookie; expires=Sat, 20-Jul-2013 15:14:45 GMT; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F122275155.jpg%3F2704778675
+      X-WholePageCache: YES
+      Content-Length: 0
+
+Request 53:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.029 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 549 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/869237509.jpg?4231512543 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: Cookie_check=CheckCookie; expires=Sat, 20-Jul-2013 15:14:45 GMT; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F869237509.jpg%3F4231512543
+      X-WholePageCache: YES
+      Content-Length: 0
+
+Request 54:
+      Action: GET
+      Url: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F122275155.jpg%3F2704778675
+      Host: pass.moikrug.ru
+      Result code: 302
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 16 Bytes
+      Response size (in): 214 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F122275155.jpg%3F2704778675 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Location: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675&ncrnd=2090&nocookiesupport=yes
+      Server: BAIDA/1.0.0
+
+Request 55:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.028 seconds
+      Document: 0
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 549 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/144948412.jpg?1123614201 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: Cookie_check=CheckCookie; expires=Sat, 20-Jul-2013 15:14:45 GMT; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F144948412.jpg%3F1123614201
+      X-WholePageCache: YES
+      Content-Length: 0
+
+Request 56:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675&ncrnd=2090&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.052 seconds
+      Time to first byte: 0.025 seconds
+      Document: 0
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 527 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/122275155.jpg?2704778675&ncrnd=2090&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=6lv7ger8cf85608s223cc4g982; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675&nocookiesupport=yes
+      Content-Length: 0
+
+Request 57:
+      Action: GET
+      Url: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F869237509.jpg%3F4231512543
+      Host: pass.moikrug.ru
+      Result code: 302
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 27
+      Request size (out): 16 Bytes
+      Response size (in): 214 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F869237509.jpg%3F4231512543 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Thu, 11 Jun 2009 15:15:48 GMT
+      Location: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543&ncrnd=2618&nocookiesupport=yes
+      Server: BAIDA/1.0.0
+
+Request 58:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.028 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 548 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/73702918.jpg?3112279852 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: Cookie_check=CheckCookie; expires=Sat, 20-Jul-2013 15:14:45 GMT; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F73702918.jpg%3F3112279852
+      X-WholePageCache: YES
+      Content-Length: 0
+
+Request 59:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543&ncrnd=2618&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.052 seconds
+      Time to first byte: 0.024 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 527 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/869237509.jpg?4231512543&ncrnd=2618&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=4veg9uhc2501uqeaq95suj3705; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543&nocookiesupport=yes
+      Content-Length: 0
+
+Request 60:
+      Action: GET
+      Url: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F144948412.jpg%3F1123614201
+      Host: pass.moikrug.ru
+      Result code: 302
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 214 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F144948412.jpg%3F1123614201 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Location: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201&ncrnd=2551&nocookiesupport=yes
+      Server: BAIDA/1.0.0
+
+Request 61:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201&ncrnd=2551&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.051 seconds
+      Time to first byte: 0.027 seconds
+      Document: 0
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 527 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/144948412.jpg?1123614201&ncrnd=2551&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=pl64d2m8as9mv8q2259su502s1; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201&nocookiesupport=yes
+      Content-Length: 0
+
+Request 62:
+      Action: GET
+      Url: http://pass.moikrug.ru/?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F73702918.jpg%3F3112279852
+      Host: pass.moikrug.ru
+      Result code: 302
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 29
+      Request size (out): 16 Bytes
+      Response size (in): 213 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmoikrug.ru%2Fimages%2Fphoto_middle%2F73702918.jpg%3F3112279852 HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Thu, 11 Jun 2009 15:15:49 GMT
+      Location: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852&ncrnd=7684&nocookiesupport=yes
+      Server: BAIDA/1.0.0
+
+Request 63:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852&ncrnd=7684&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 302
+      Transaction time: 0.051 seconds
+      Time to first byte: 0.027 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 526 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /images/photo_middle/73702918.jpg?3112279852&ncrnd=7684&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=skbp8fj8hgqjhfr1ll9k8dlup7; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      Location: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852&nocookiesupport=yes
+      Content-Length: 0
+
+Request 64:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/122275155.jpg?2704778675&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 200
+      Transaction time: 0.206 seconds
+      Time to first byte: 0.025 seconds
+      Document: 0
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 4993 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4513 Bytes
+  Request Headers:
+      GET /images/photo_middle/122275155.jpg?2704778675&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=4i6qv6culjvd0jg4n7qi3lnd05; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      X-WholePageCache: YES
+      Content-Encoding: gzip
+      Content-Length: 4513
+
+Request 65:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/869237509.jpg?4231512543&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 200
+      Transaction time: 0.201 seconds
+      Time to first byte: 0.025 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 4823 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4343 Bytes
+  Request Headers:
+      GET /images/photo_middle/869237509.jpg?4231512543&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=9nnsqec0s936juelkt46puo0t5; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      X-WholePageCache: YES
+      Content-Encoding: gzip
+      Content-Length: 4343
+
+Request 66:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/144948412.jpg?1123614201&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 200
+      Transaction time: 0.212 seconds
+      Time to first byte: 0.033 seconds
+      Document: 0
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 4822 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4342 Bytes
+  Request Headers:
+      GET /images/photo_middle/144948412.jpg?1123614201&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=n93i6is89paj8j0crcc5kt23i6; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      X-WholePageCache: YES
+      Content-Encoding: gzip
+      Content-Length: 4342
+
+Request 67:
+      Action: GET
+      Url: http://moikrug.ru/images/photo_middle/73702918.jpg?3112279852&nocookiesupport=yes
+      Host: moikrug.ru
+      Result code: 200
+      Transaction time: 0.204 seconds
+      Time to first byte: 0.029 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 4823 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4343 Bytes
+  Request Headers:
+      GET /images/photo_middle/73702918.jpg?3112279852&nocookiesupport=yes HTTP/1.1
+      Accept: */*
+      Referer: http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: moikrug.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 15:15:50 GMT
+      Content-Type: text/html; charset=windows-1251
+      Connection: keep-alive
+      Set-Cookie: ga_3476505953=%3A; path=/; domain=.moikrug.ru
+      Set-Cookie: mkrs=ou8i5nfqp1cq8jb1kat9nh9rm2; path=/; domain=.moikrug.ru
+      Expires: Thu, 19 Nov 1981 08:52:00 GMT
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Pragma: no-cache
+      X-WholePageCache: YES
+      Content-Encoding: gzip
+      Content-Length: 4343
+

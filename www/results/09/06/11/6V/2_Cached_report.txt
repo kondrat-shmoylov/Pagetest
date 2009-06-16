@@ -1,0 +1,83 @@
+Results for 'http://yandex.ru/yandsearch?text=%ED%E5%ED%E0%F5%EE%E4%E8%EC%E0%FF%F2%E5%F1%F2%EE%E2%E0%FF%F1%F2%F0%EE%EA%E0&i-m-a-hacker=1':
+
+Page load time: 0.218 seconds
+Time to first byte: 0.185 seconds
+Time to Base Page Downloaded: 0.185 seconds
+Time to Start Render: 0.045 seconds
+Time to Document Complete: 0.218 seconds
+Time to Fully Loaded: 0.218 seconds
+Bytes sent out: 2.887 KB
+Bytes received: 1.449 KB
+DNS Lookups: 3
+Connections: 4
+Requests: 5
+   OK Requests:  1
+   Redirects:    1
+   Not Modified: 3
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.185 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 818 Bytes
+      Response size (in): 250 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/cl.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.038 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 529 Bytes
+      Response size (in): 149 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/6D5vYLWi4Le40X00Zhfi2gC4KfK2cmTiFoq1YAbEz0MIhaw51ugaRB84ZG6Ge1y2tf6wM3UN39E53Oki8ouTGNm6?rnd=416381321
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.055 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 572 Bytes
+      Response size (in): 498 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 488 Bytes
+      Response size (in): 438 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/cFa1ifm_Cw^1zZJS0nYpjw.jpg
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 549 Bytes
+      Response size (in): 149 Bytes
+

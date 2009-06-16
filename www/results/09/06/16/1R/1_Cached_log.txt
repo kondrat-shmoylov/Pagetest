@@ -1,0 +1,1 @@
+2009/06/16 17:16:03	-1	-1	0	0	88888	Script Error	Cached-Run_1^090616_1R.pts_Step1	http://calendar.yandex.ru/	3		setValue name=login    Krassus 

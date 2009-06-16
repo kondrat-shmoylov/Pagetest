@@ -1,0 +1,131 @@
+Results for 'http://yandex.ru/yandsearch?text=%F2%E8%EC%20%E1%E8%EB%E4%E8%ED%E3&i-m-a-hacker=1':
+
+Page load time: 0.255 seconds
+Time to first byte: 0.214 seconds
+Time to Base Page Downloaded: 0.214 seconds
+Time to Start Render: 0.075 seconds
+Time to Document Complete: 0.255 seconds
+Time to Fully Loaded: 0.255 seconds
+Bytes sent out: 4.152 KB
+Bytes received: 1.555 KB
+DNS Lookups: 5
+Connections: 6
+Requests: 9
+   OK Requests:  1
+   Redirects:    0
+   Not Modified: 8
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.214 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 743 Bytes
+      Response size (in): 250 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://im0-tub.yandex.net/i?id=19379049&tov=0
+      Host: im0-tub.yandex.net
+      Result code: 304
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 426 Bytes
+      Response size (in): 101 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.062 seconds
+      Time to first byte: 0.045 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 446 Bytes
+      Response size (in): 438 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=3306054
+      Host: video-tub.yandex.ru
+      Result code: 304
+      Transaction time: 0.026 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 476 Bytes
+      Response size (in): 48 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.scandinavia-incentive.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 443 Bytes
+      Response size (in): 151 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.intelsport.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.050 seconds
+      Time to first byte: 0.045 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 432 Bytes
+      Response size (in): 151 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.iventashow.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 432 Bytes
+      Response size (in): 151 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/nextevent.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 427 Bytes
+      Response size (in): 151 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/megateams.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 427 Bytes
+      Response size (in): 151 Bytes
+

@@ -1,0 +1,75 @@
+Optimization Report : 06/05/09 at 19:49:19
+
+Results for 'http://google.ru/search?q=iRiver%20T10%202Gb&hl=ru':
+
+Page load time: 0.846 seconds
+Time to first byte: 0.282 seconds
+Time to Base Page Downloaded: 0.649 seconds
+Time to Start Render: 0.668 seconds
+Time to Document Complete: 0.846 seconds
+Time to Fully Loaded: 0.958 seconds
+Bytes sent out: 3.478 KB
+Bytes received: 15.015 KB
+DNS Lookups: 3
+Connections: 4
+Requests: 6
+   OK Requests:  3
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+  Cache score : 100
+
+Use one CDN for all static assets:
+
+  1 CDN's used:
+    www.google.ru
+
+  CDN score (static objects) : 100
+  CDN score (one CDN) : 100
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    7.0 KB total in compressible text, target size = 7.0 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    7.0 KB total in images, target size = 7.0 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://www.google.ru/images/nav_logo4.png
+  Keep-Alive score : 66
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/images/nav_logo4.png
+      cookie:PREF=ID=66765781ed50445f:NW=1:TM=1244216961:LM=1244216961:S=hZVLI-8wpzzTlqeN
+      cookie: NID=23=nq1CBKRoUEthgznGmRE8DjIxzH9B3g7sw-ijDQqO5v2DsBbI-9eb2j_N5VneQAb4D-KpTt9efGH3T8KuNzf2eunKtb9JCmn5dW8JualUpIRs-gv2Of1SrUudpBkzdkMQ
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/extern_js/f/CgJydRICcnUrMAo4G0ABLCswDjgFLCswFjgKLCswFzgBLCswGDgELCswJTjJiAEsKzAmOAQsKzAnOAAs/03GMdWh3OJw.js
+      cookie:PREF=ID=66765781ed50445f:NW=1:TM=1244216961:LM=1244216961:S=hZVLI-8wpzzTlqeN
+      cookie: NID=23=nq1CBKRoUEthgznGmRE8DjIxzH9B3g7sw-ijDQqO5v2DsBbI-9eb2j_N5VneQAb4D-KpTt9efGH3T8KuNzf2eunKtb9JCmn5dW8JualUpIRs-gv2Of1SrUudpBkzdkMQ
+   WARNING (2 cookies, 213 bytes) - http://clients1.google.ru/generate_204
+      cookie:PREF=ID=66765781ed50445f:NW=1:TM=1244216961:LM=1244216961:S=hZVLI-8wpzzTlqeN
+      cookie: NID=23=nq1CBKRoUEthgznGmRE8DjIxzH9B3g7sw-ijDQqO5v2DsBbI-9eb2j_N5VneQAb4D-KpTt9efGH3T8KuNzf2eunKtb9JCmn5dW8JualUpIRs-gv2Of1SrUudpBkzdkMQ
+   WARNING (2 cookies, 213 bytes) - http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=gT4pSsftC87B_Qa02ZSDCw&e=17259,20572,20721&rt=prt.79,xjs.219,ol.266
+      cookie:PREF=ID=66765781ed50445f:NW=1:TM=1244216961:LM=1244216961:S=hZVLI-8wpzzTlqeN
+      cookie: NID=23=nq1CBKRoUEthgznGmRE8DjIxzH9B3g7sw-ijDQqO5v2DsBbI-9eb2j_N5VneQAb4D-KpTt9efGH3T8KuNzf2eunKtb9JCmn5dW8JualUpIRs-gv2Of1SrUudpBkzdkMQ
+  Cookie score : 50
+    0.8 KB total in outbound cookies, target size = 0.4 KB - potential savings = 0.4 KB
+
+Minify JS:
+  Minify score : 100
+    6.0 KB total in minifiable text, target size = 6.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

@@ -1,0 +1,126 @@
+Optimization Report : 06/05/09 at 19:51:13
+
+Results for 'http://yandex.ru/yandsearch?text=%C5%E2%F0%EE%F1%E5%F2%FC%20%EC%EE%F1%EA%E2%E0&i-m-a-hacker=1':
+
+Page load time: 1.451 seconds
+Time to first byte: 0.112 seconds
+Time to Base Page Downloaded: 0.609 seconds
+Time to Start Render: 1.056 seconds
+Time to Document Complete: 1.451 seconds
+Time to Fully Loaded: 1.451 seconds
+Bytes sent out: 12.229 KB
+Bytes received: 68.011 KB
+DNS Lookups: 12
+Connections: 18
+Requests: 30
+   OK Requests:  27
+   Redirects:    3
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.club-ok.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.concert.ru
+    FAILED  (No max-age or expires) - http://im0-tub.yandex.net/i?id=33363972&tov=0
+    FAILED  (No max-age or expires) - http://video-tub.yandex.ru/i?&tov=0&id=2865391
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.js
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/euroset.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/gmstar.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/ru.wikipedia.org
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.mforum.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.salemsk.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.salons.su
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.spr.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.superjob.ru
+  Cache score : 59
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/euroset.ru
+    FAILED - http://favicon.yandex.net/favicon/gmstar.ru
+    FAILED - http://favicon.yandex.net/favicon/ru.wikipedia.org
+    FAILED - http://favicon.yandex.net/favicon/www.club-ok.ru
+    FAILED - http://favicon.yandex.net/favicon/www.concert.ru
+    FAILED - http://favicon.yandex.net/favicon/www.mforum.ru
+    FAILED - http://favicon.yandex.net/favicon/www.salemsk.ru
+    FAILED - http://favicon.yandex.net/favicon/www.salons.su
+    FAILED - http://favicon.yandex.net/favicon/www.spr.ru
+    FAILED - http://favicon.yandex.net/favicon/www.superjob.ru
+    FAILED - http://im0-tub.yandex.net/i?id=33363972&tov=0
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/stars-0.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://video-tub.yandex.ru/i?&tov=0&id=2865391
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.4 KB, compressed = 5.5 KB - savings of 16.9 KB) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED (11.9 KB, compressed = 4.8 KB - savings of 7.1 KB) - http://css.yandex.net/css/search/r13/_serp.js
+  GZIP score : 32
+    35.7 KB total in compressible text, target size = 11.7 KB - potential savings = 24.0 KB
+
+Compress Images:
+    FAILED  (8.0 KB, target = 4.3 KB - savings of 3.6 KB)- http://video-tub.yandex.ru/i?&tov=0&id=2865391
+    WARNING (8.8 KB, target = 6.2 KB - savings of 2.6 KB)- http://im0-tub.yandex.net/i?id=33363972&tov=0
+  Image Compression score : 75
+    25.5 KB total in images, target size = 19.3 KB - potential savings = 6.2 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+    FAILED - http://yandex.tns-counter.ru/V13b****yandex_ru/ru/UTF-8/tmsec=yandex_media3/
+  Keep-Alive score : 72
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=2865391
+      cookie:yandexuid=4864421244217074
+   WARNING (1 cookies, 26 bytes) - http://clck.yandex.ru/click/dtype=yabs/id=54/key=pack/*?260505991
+      cookie:yandexuid=4864421244217074
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=4864421244217074
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=EB9403034A293EF3X1244217075
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/3uS1XxcEmsC40X00ZhBlaw84KfK4cm5kK2A8gOXN0OckH_y1agUQA0AAgGTF0Oq1aRAU5ueFZxPEMBe1dxsRlte8auKDYwuY6mL1VmS0?260505991
+      cookie:yandexuid=4864421244217074
+   WARNING (1 cookies, 32 bytes) - http://yandex.tns-counter.ru/V13b****yandex_ru/ru/UTF-8/tmsec=yandex_media3/
+      cookie:guid=EB9403034A293EF3X1244217075
+  Cookie score : 88
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    11.9 KB total in minifiable text, target size = 11.9 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/stars-0.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 63
+
+JQuery Selectors not descended from an ID:
+  No problems found

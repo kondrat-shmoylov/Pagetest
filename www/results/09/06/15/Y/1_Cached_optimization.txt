@@ -1,0 +1,147 @@
+Optimization Report : 06/15/09 at 12:54:07
+
+Results for 'http://lenta.ru/':
+
+Page load time: 0.458 seconds
+Time to first byte: 0.133 seconds
+Time to Base Page Downloaded: 0.149 seconds
+Time to Start Render: 0.179 seconds
+Time to Document Complete: 0.458 seconds
+Time to Fully Loaded: 0.458 seconds
+Bytes sent out: 2.047 KB
+Bytes received: 112.036 KB
+DNS Lookups: 12
+Connections: 20
+Requests: 131
+   OK Requests:  28
+   Redirects:    3
+   Not Modified: 95
+   Not Found:    0
+   Other:        5 (301, 301, 301, 301, 204)
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://img.lenta.ru/ireal/news/2009/06/11/pik/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/octopus/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/rtcnn/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/12/eu/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/12/greenday/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/12/pasternak/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/13/endeavour/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/13/guilty/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/13/honorary/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/13/princess/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/14/kazakhstan/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/14/last/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/14/slon/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/15/collector/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/15/commission/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/15/kindle/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/15/newspaper/picture--85.jpg
+    FAILED  (No max-age or expires) - http://medportal.ru/common/11060903--340--150.jpg
+  Cache score : 10
+
+Use one CDN for all static assets:
+    FAILED - http://images.rambler.ru/patch_script.js
+    FAILED - http://images.rambler.ru/upl/lenta/2009/05/29/zagl_240x4002.gif
+    FAILED - http://img.lenta.ru/ireal/news/2009/06/11/pik/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/octopus/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/rtcnn/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/12/eu/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/12/greenday/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/12/pasternak/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/13/endeavour/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/13/guilty/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/13/honorary/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/13/princess/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/14/kazakhstan/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/14/last/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/14/slon/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/15/collector/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/15/commission/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/15/kindle/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/15/newspaper/picture--85.jpg
+    FAILED - http://medportal.ru/common/11060903--340--150.jpg
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (3.3 KB, compressed = 1.4 KB - savings of 1.9 KB) - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+  GZIP score : 95
+    40.5 KB total in compressible text, target size = 38.5 KB - potential savings = 1.9 KB
+
+Compress Images:
+    WARNING (2.7 KB, target = 2.4 KB - savings of 0.3 KB)- http://img.lenta.ru/news/2009/06/12/eu/picture--85.jpg
+  Image Compression score : 99
+    50.0 KB total in images, target size = 49.6 KB - potential savings = 0.4 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=5374&ifr=1
+    FAILED - http://medportal.ru/common/11060903--340--150.jpg
+  Keep-Alive score : 83
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 29 bytes) - http://images.rambler.ru/patch_script.js
+      cookie:ruid=yQAAACwMNkpFyAAAAXsGAA==
+    FAILED (Static object with 1 cookies - 29 bytes) - http://images.rambler.ru/upl/lenta/2009/05/29/zagl_240x4002.gif
+      cookie:ruid=yQAAACwMNkpFyAAAAXsGAA==
+   WARNING (1 cookies, 15 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=169536&pid=319322&bid=608728&bn=608728&rnd=855951795&tail256=http%3A//lenta.ru/&tuid=-5715657472
+      cookie:uid=-5715657472
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=5374&ifr=1
+      cookie:ruid=yQAAACwMNkpFyAAAAXsGAA==
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+      cookie:ruid=yQAAACwMNkpFyAAAAXsGAA==
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+      cookie:ruid=yQAAACwMNkpFyAAAAXsGAA==
+   WARNING (1 cookies, 29 bytes) - http://counter.rambler.ru/top100.cnt?80674
+      cookie:ruid=yQAAACwMNkpFyAAAAXsGAA==
+   WARNING (2 cookies, 35 bytes) - http://counter.yadro.ru/hit?t57.6;r;s1024*768*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.4307924718656505
+      cookie:FTID=1ADWmi11KTGe
+      cookie: VID=2NWobf39sA0e
+   WARNING (1 cookies, 16 bytes) - http://counter.yadro.ru/hit?q;t57.6;r;s1024*768*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.4307924718656505
+      cookie:VID=2NWobf39sA0e
+   WARNING (1 cookies, 16 bytes) - http://d0.c6.b0.a0.top.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=16;rand=0.07095012001200501
+      cookie:VID=1VNdfK2lAhme
+   WARNING (1 cookies, 16 bytes) - http://top3.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=16;rand=0.07095012001200501
+      cookie:VID=1VNdfK2lAhme
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****lenta_ru/ru/CP1251/tmsec=lenta_total/
+      cookie:guid=A61E02004A360C2CX1245056044
+  Cookie score : 94
+    0.3 KB total in outbound cookies, target size = 0.2 KB - potential savings = 0.1 KB
+
+Minify JS:
+  Minify score : 100
+    0.5 KB total in minifiable text, target size = 0.5 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://img.lenta.ru/news/2009/06/15/commission/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/14/kazakhstan/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/14/last/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/15/newspaper/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/13/guilty/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/15/collector/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/13/honorary/picture--85.jpg
+    FAILED - http://img.lenta.ru/ireal/news/2009/06/11/pik/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/rtcnn/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/12/pasternak/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/14/slon/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/13/endeavour/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/12/eu/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/15/kindle/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/12/greenday/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/octopus/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/13/princess/picture--85.jpg
+    FAILED - http://medportal.ru/common/14060901--340--150.jpg
+    FAILED - http://medportal.ru/common/11060903--340--150.jpg
+    FAILED - http://medportal.ru/common/11060994--150.jpg
+    FAILED - http://medportal.ru/common/10060994--150.jpg
+  ETag score : 83
+
+JQuery Selectors not descended from an ID:
+  No problems found

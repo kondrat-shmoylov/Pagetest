@@ -1,0 +1,3985 @@
+Results for 'http://mail.ru/':
+
+Page load time: 0.894 seconds
+Time to first byte: 0.150 seconds
+Time to Base Page Downloaded: 0.203 seconds
+Time to Start Render: 0.382 seconds
+Time to Document Complete: 0.894 seconds
+Time to Fully Loaded: 1.272 seconds
+Bytes sent out: 1.750 KB
+Bytes received: 236.458 KB
+DNS Lookups: 12
+Connections: 20
+Requests: 112
+   OK Requests:  107
+   Redirects:    4
+   Not Modified: 0
+   Not Found:    0
+   Other:        1 (204)
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://mail.ru/
+      Host: mail.ru
+      Result code: 200
+      Transaction time: 0.203 seconds
+      Time to first byte: 0.021 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 22622 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 21963 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Server: Apache/1.3.27 (Unix) mru_xml/0.471 gorgona/2.1 mod_jk/1.2.4 mod_ruby/1.0.7 Ruby/1.6.8 mod_mrim/0.17
+      Content-Encoding: gzip
+      Connection: close
+      Set-Cookie: Mpopl=425539678; expires=Tue, 16 Jun 2009 13:53:45 GMT; path=/; domain=.mail.ru
+      Set-Cookie: mrcu=9C134A37A0656D9F976271916C5F; expires=Fri, 14 Jun 2019 13:38:45 GMT; path=/; domain=.mail.ru
+      Cache-Control: no-cache,no-store,must-revalidate
+      Pragma: no-cache
+      Expires: Mon, 16 Jun 2008 13:38:45 GMT
+      Last-Modified: Tue, 16 Jun 2009 17:38:45 GMT
+      Vary: Accept-Encoding
+      Content-Length: 21963
+      Content-Type: text/html; charset=windows-1251
+
+Request 2:
+      Action: GET
+      Url: http://mail.radar.imgsmail.ru/update?p=mail0&t=main&v=0&rnd=152475254
+      Host: mail.radar.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.027 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 272 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /update?p=mail0&t=main&v=0&rnd=152475254 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.radar.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Server: Apache/1.3.27 (Unix) mru_xml/0.471 gorgona/2.1 mod_jk/1.2.4 mod_ruby/1.0.7 Ruby/1.6.8 mod_mrim/0.17
+      Connection: close
+      Content-Length: 43
+      Content-Type: image/gif
+
+Request 3:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/css/mail-splash3.css?30
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.026 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 7822 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7527 Bytes
+  Request Headers:
+      GET /mail/ru/css/mail-splash3.css?30 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: text/css
+      Last-Modified: Tue, 26 May 2009 15:13:59 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Content-Encoding: gzip
+
+Request 4:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/css/search_top.css?1
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1445 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1150 Bytes
+  Request Headers:
+      GET /mail/ru/css/search_top.css?1 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: text/css
+      Last-Modified: Mon, 15 Jun 2009 07:47:12 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Content-Encoding: gzip
+
+Request 5:
+      Action: GET
+      Url: http://js.imgsmail.ru/r/js/mail_splash.js?7
+      Host: js.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 7458 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7147 Bytes
+  Request Headers:
+      GET /r/js/mail_splash.js?7 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: js.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: application/x-javascript
+      Last-Modified: Tue, 26 May 2009 15:01:05 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Content-Encoding: gzip
+
+Request 6:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/css/blocks.css?6
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1718 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1423 Bytes
+  Request Headers:
+      GET /mail/ru/css/blocks.css?6 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: text/css
+      Last-Modified: Tue, 03 Mar 2009 15:20:36 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Content-Encoding: gzip
+
+Request 7:
+      Action: GET
+      Url: http://js.imgsmail.ru/mail/ru/images/js/ajax_json.js?3
+      Host: js.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 5048 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4737 Bytes
+  Request Headers:
+      GET /mail/ru/images/js/ajax_json.js?3 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: js.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: application/x-javascript
+      Last-Modified: Wed, 26 Nov 2008 15:51:54 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Content-Encoding: gzip
+
+Request 8:
+      Action: GET
+      Url: http://js.imgsmail.ru/r/js/search_top.js?251212
+      Host: js.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 8777 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 8466 Bytes
+  Request Headers:
+      GET /r/js/search_top.js?251212 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: js.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: application/x-javascript
+      Last-Modified: Mon, 15 Jun 2009 07:47:38 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Content-Encoding: gzip
+
+Request 9:
+      Action: GET
+      Url: http://rs.mail.ru/b7130045.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.055 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 679 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 283 Bytes
+  Request Headers:
+      GET /b7130045.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 283
+      Connection: keep-alive
+      Set-Cookie: p=dFzjAMRjWgAA; expires=Thu, 16-Jun-11 13:38:45 GMT; path=/; domain=.mail.ru
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 10:
+      Action: GET
+      Url: http://rs.mail.ru/b7130046.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.066 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 4306 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3909 Bytes
+  Request Headers:
+      GET /b7130046.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 3909
+      Connection: keep-alive
+      Set-Cookie: p=dVzjAMRjWgAA; expires=Thu, 16-Jun-11 13:38:45 GMT; path=/; domain=.mail.ru
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 11:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/images/ie8bar/top_fon.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 442 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 155 Bytes
+  Request Headers:
+      GET /mail/ru/images/ie8bar/top_fon.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 155
+      Last-Modified: Mon, 30 Mar 2009 12:43:04 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 12:
+      Action: GET
+      Url: http://top3.mail.ru/counter?id=110605;js=13;r=;j=true;s=1024*768;d=16;rand=0.23922615002380465
+      Host: top3.mail.ru
+      Result code: 200
+      Transaction time: 0.142 seconds
+      Time to first byte: 0.075 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 444 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /counter?id=110605;js=13;r=;j=true;s=1024*768;d=16;rand=0.23922615002380465 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: top3.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: wz/1.2
+      Date: Tue, 16 Jun 2009 13:38:44 GMT
+      Content-Type: image/gif
+      P3P: policyref="/w3c/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+      Set-Cookie: FTID=0000AQ0r5MGe; path=/; expires=Mon, 14 Sep 2009 13:38:44 GMT; domain=.mail.ru
+      Pragma: no-cache
+      Cache-control: no-cache
+      Connection: close
+      Accept-Ranges: bytes
+      Content-Length: 43
+
+Request 13:
+      Action: GET
+      Url: http://counter.rambler.ru/top100.cnt?260606
+      Host: counter.rambler.ru
+      Result code: 200
+      Transaction time: 0.083 seconds
+      Time to first byte: 0.051 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 1158 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 796 Bytes
+  Request Headers:
+      GET /top100.cnt?260606 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: counter.rambler.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.0 200 OK
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+      Cache-Control: no-cache
+      Content-type: image/gif
+      P3P: policyref="/w3c/p3p.xml", CP="NON ADM DEV TAI PSA PSD IVA OUR IND UNI COM NAV INT"
+      Set-Cookie: ruid=/tr5BWWgN0r4tQAAAawWjgBQz; path=/; domain=.rambler.ru; expires=Fri, 14-Jun-19 13:38:45 GMT
+
+Request 14:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****mail_ru/ru/CP1251/tmsec=mail_main/
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.179 seconds
+      Time to first byte: 0.100 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 16 Bytes
+      Response size (in): 602 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****mail_ru/ru/CP1251/tmsec=mail_main/ HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporarily
+      Server: tns-counter.0.5.2
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Location: http://www.tns-counter.ru/V13b****mail_ru/ru/CP1251/tmsec=mail_main/
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+      Set-Cookie: guid=DF5F02004A37A065X1245159525; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.tns-counter.ru; path=/
+
+Request 15:
+      Action: GET
+      Url: http://counter.yadro.ru/hit?r;s1024*768*16;uhttp%3A//mail.ru/;0.05275224381021437
+      Host: counter.yadro.ru
+      Result code: 302
+      Transaction time: 0.203 seconds
+      Time to first byte: 0.125 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 480 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 32 Bytes
+  Request Headers:
+      GET /hit?r;s1024*768*16;uhttp%3A//mail.ru/;0.05275224381021437 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: counter.yadro.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporarily
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Server: 0W/0.8c
+      Content-Type: text/html
+      Location: http://counter.yadro.ru/hit?q;r;s1024*768*16;uhttp%3A//mail.ru/;0.05275224381021437
+      Content-Length: 32
+      Expires: Sun, 15 Jun 2008 20:00:00 GMT
+      Pragma: no-cache
+      Cache-control: no-cache
+      P3P: policyref="/w3c/p3p.xml", CP="UNI"
+      Set-Cookie: FTID=1ADw1b3P0Pme; path=/; expires=Tue, 15 Jun 2010 20:00:00 GMT; domain=.yadro.ru
+
+Request 16:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/images/logon.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.129 seconds
+      Time to first byte: 0.128 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 2479 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2191 Bytes
+  Request Headers:
+      GET /mail/ru/images/logon.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 2191
+      Last-Modified: Wed, 02 May 2007 17:31:16 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 17:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/images/telephonem.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.129 seconds
+      Time to first byte: 0.128 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 426 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 139 Bytes
+  Request Headers:
+      GET /mail/ru/images/telephonem.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 139
+      Last-Modified: Wed, 02 May 2007 17:31:20 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 18:
+      Action: GET
+      Url: http://img.mail.ru/r/searchn2.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.152 seconds
+      Time to first byte: 0.099 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 871 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 584 Bytes
+  Request Headers:
+      GET /r/searchn2.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 584
+      Last-Modified: Fri, 08 Feb 2008 17:45:21 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 19:
+      Action: GET
+      Url: http://img.mail.ru/1.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.177 seconds
+      Time to first byte: 0.124 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 321 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 35 Bytes
+  Request Headers:
+      GET /1.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 35
+      Last-Modified: Wed, 02 May 2007 17:31:21 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 20:
+      Action: GET
+      Url: http://rs.mail.ru/b7130047.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.100 seconds
+      Time to first byte: 0.077 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 973 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 577 Bytes
+  Request Headers:
+      GET /b7130047.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 577
+      Connection: keep-alive
+      Set-Cookie: p=eVzjAMRjWgAA; expires=Thu, 16-Jun-11 13:38:45 GMT; path=/; domain=.mail.ru
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 21:
+      Action: GET
+      Url: http://rs.mail.ru/b7130048.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.098 seconds
+      Time to first byte: 0.073 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 679 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 283 Bytes
+  Request Headers:
+      GET /b7130048.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 283
+      Connection: keep-alive
+      Set-Cookie: p=elzjAMRjWgAA; expires=Thu, 16-Jun-11 13:38:45 GMT; path=/; domain=.mail.ru
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 22:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****mail_ru/ru/CP1251/tmsec=mail_main/
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.126 seconds
+      Time to first byte: 0.075 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13b****mail_ru/ru/CP1251/tmsec=mail_main/ HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=DF5F02004A37A065X1245159525
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 23:
+      Action: GET
+      Url: http://counter.yadro.ru/hit?q;r;s1024*768*16;uhttp%3A//mail.ru/;0.05275224381021437
+      Host: counter.yadro.ru
+      Result code: 200
+      Transaction time: 0.075 seconds
+      Time to first byte: 0.050 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 399 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /hit?q;r;s1024*768*16;uhttp%3A//mail.ru/;0.05275224381021437 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: counter.yadro.ru
+      Connection: Keep-Alive
+      Cookie: FTID=1ADw1b3P0Pme
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Server: 0W/0.8c
+      Connection: Close
+      Content-Type: image/gif
+      Content-Length: 43
+      Expires: Sun, 15 Jun 2008 20:00:00 GMT
+      Pragma: no-cache
+      Cache-control: no-cache
+      P3P: policyref="/w3c/p3p.xml", CP="UNI"
+      Set-Cookie: VID=2OIr0M0mt60e; path=/; expires=Tue, 15 Jun 2010 20:00:00 GMT; domain=.yadro.ru
+
+Request 24:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/images/log_bms.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.075 seconds
+      Time to first byte: 0.075 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1197 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 910 Bytes
+  Request Headers:
+      GET /mail/ru/images/log_bms.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 910
+      Last-Modified: Wed, 02 May 2007 17:31:16 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 25:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/images/helpm.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.075 seconds
+      Time to first byte: 0.074 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 361 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 75 Bytes
+  Request Headers:
+      GET /mail/ru/images/helpm.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 75
+      Last-Modified: Wed, 02 May 2007 17:31:16 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 26:
+      Action: GET
+      Url: http://rs.mail.ru/b7130049.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.050 seconds
+      Time to first byte: 0.025 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 4306 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3909 Bytes
+  Request Headers:
+      GET /b7130049.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 3909
+      Connection: keep-alive
+      Set-Cookie: p=fFzjAMRjWgAA; expires=Thu, 16-Jun-11 13:38:45 GMT; path=/; domain=.mail.ru
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 27:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/ico_satellite_plus.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.051 seconds
+      Time to first byte: 0.050 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 388 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 101 Bytes
+  Request Headers:
+      GET /mail/ru/images/ico_satellite_plus.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 101
+      Last-Modified: Thu, 13 Dec 2007 14:54:20 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 28:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/ico_keyboard_plus.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.075 seconds
+      Time to first byte: 0.074 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 376 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 90 Bytes
+  Request Headers:
+      GET /mail/ru/images/ico_keyboard_plus.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 90
+      Last-Modified: Thu, 13 Dec 2007 14:54:20 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 29:
+      Action: GET
+      Url: http://rs.mail.ru/b7130050.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.074 seconds
+      Time to first byte: 0.050 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 973 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 577 Bytes
+  Request Headers:
+      GET /b7130050.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 577
+      Connection: keep-alive
+      Set-Cookie: p=f1zjAMRjWgAA; expires=Thu, 16-Jun-11 13:38:45 GMT; path=/; domain=.mail.ru
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 30:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/ico_search_plus.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 358 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 72 Bytes
+  Request Headers:
+      GET /mail/ru/images/ico_search_plus.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 72
+      Last-Modified: Thu, 13 Dec 2007 14:54:20 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 31:
+      Action: GET
+      Url: http://img.mail.ru/r/searchn2a.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 1383 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1095 Bytes
+  Request Headers:
+      GET /r/searchn2a.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 1095
+      Last-Modified: Sat, 07 Jun 2008 12:44:33 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 32:
+      Action: GET
+      Url: http://img.mail.ru/r/js/blogs/tooltiplib.js
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 3800 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3489 Bytes
+  Request Headers:
+      GET /r/js/blogs/tooltiplib.js HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: application/x-javascript
+      Last-Modified: Fri, 10 Apr 2009 13:40:15 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Content-Encoding: gzip
+
+Request 33:
+      Action: GET
+      Url: http://img.mail.ru/r/d.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 329 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /r/d.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Tue, 22 Jan 2008 12:29:42 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 34:
+      Action: GET
+      Url: http://rs.mail.ru/b7579995.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 132 Bytes
+  Request Headers:
+      GET /b7579995.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 132
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 35:
+      Action: GET
+      Url: http://rs.mail.ru/b7872194.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 1970 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1662 Bytes
+  Request Headers:
+      GET /b7872194.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1662
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 36:
+      Action: GET
+      Url: http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=170743&pid=322136&bid=614282&bn=614282&rnd=1546243095
+      Host: ad.adriver.ru
+      Result code: 302
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 16 Bytes
+      Response size (in): 517 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 517 Bytes
+  Request Headers:
+      GET /cgi-bin/rle.cgi?sid=1&bt=21&ad=170743&pid=322136&bid=614282&bn=614282&rnd=1546243095 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: ad.adriver.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporarily
+      Date: Tue Jun 16 17:38:45 2009
+      Cache-control: no-cache, max-age=0, must-revalidate, no-store
+      Pragma: no-cache
+      Expires: Thu, 01 Jan 1970 00:00:00 GMT
+      P3P: policyref=/w3c/p3p.xml, CP=NON CUR ADM DEV PSA PSD OUR IND UNI NAV INT STA
+      Set-Cookie: uid=-6157402290; expires=Wednesday, 01-Jan-2020 00:00:00 GMT; path=/; domain=.adriver.ru
+      Location: /cgi-bin/rle.cgi?sid=1&bt=21&ad=170743&pid=322136&bid=614282&bn=614282&rnd=1546243095&tuid=-6157402290
+      Connection: close
+      Content-type: text/html
+
+Request 37:
+      Action: GET
+      Url: http://img.imgsmail.ru/r/books/img/books_bg.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 329 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /r/books/img/books_bg.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Thu, 04 Oct 2007 09:48:03 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 38:
+      Action: GET
+      Url: http://img.mail.ru/r/books/img/books_act_bg.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 331 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 45 Bytes
+  Request Headers:
+      GET /r/books/img/books_act_bg.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 45
+      Last-Modified: Thu, 04 Oct 2007 09:48:03 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 39:
+      Action: GET
+      Url: http://img.mail.ru/r/books/img/books_pas_bg.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 338 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 52 Bytes
+  Request Headers:
+      GET /r/books/img/books_pas_bg.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 52
+      Last-Modified: Thu, 04 Oct 2007 09:48:03 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 40:
+      Action: GET
+      Url: http://rs.mail.ru/b7872195.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1796 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1488 Bytes
+  Request Headers:
+      GET /b7872195.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1488
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 41:
+      Action: GET
+      Url: http://rs.mail.ru/b7872196.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 1931 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1623 Bytes
+  Request Headers:
+      GET /b7872196.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1623
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 42:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/ico_listing_top_off.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 716 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 429 Bytes
+  Request Headers:
+      GET /mail/ru/images/ico_listing_top_off.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 429
+      Last-Modified: Thu, 15 Jan 2009 08:40:42 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 43:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/ico_listing_bottom.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 949 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 662 Bytes
+  Request Headers:
+      GET /mail/ru/images/ico_listing_bottom.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 662
+      Last-Modified: Thu, 13 Dec 2007 14:54:20 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 44:
+      Action: GET
+      Url: http://rs.mail.ru/b7872197.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 1778 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1470 Bytes
+  Request Headers:
+      GET /b7872197.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1470
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 45:
+      Action: GET
+      Url: http://rs.mail.ru/b7589860.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 2333 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2026 Bytes
+  Request Headers:
+      GET /b7589860.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 2026
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 46:
+      Action: GET
+      Url: http://img.mail.ru/0.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 390 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 103 Bytes
+  Request Headers:
+      GET /0.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 103
+      Last-Modified: Wed, 02 May 2007 17:31:14 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 47:
+      Action: GET
+      Url: http://img.mail.ru/r/ico_li.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 334 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 48 Bytes
+  Request Headers:
+      GET /r/ico_li.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 48
+      Last-Modified: Thu, 13 Dec 2007 14:54:20 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 48:
+      Action: GET
+      Url: http://rs.mail.ru/b7589861.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2356 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2049 Bytes
+  Request Headers:
+      GET /b7589861.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 2049
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 49:
+      Action: GET
+      Url: http://rs.mail.ru/b7589862.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 2476 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2169 Bytes
+  Request Headers:
+      GET /b7589862.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 2169
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 50:
+      Action: GET
+      Url: http://img.mail.ru/r/weather_new/pict_weather_big_6.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 3567 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3279 Bytes
+  Request Headers:
+      GET /r/weather_new/pict_weather_big_6.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 3279
+      Last-Modified: Thu, 24 Apr 2008 14:08:38 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 51:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/jams3.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 1870 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1582 Bytes
+  Request Headers:
+      GET /mail/ru/images/jams3.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 1582
+      Last-Modified: Wed, 25 Feb 2009 15:31:45 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 52:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/images/folder1.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 424 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 137 Bytes
+  Request Headers:
+      GET /mail/ru/images/folder1.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 137
+      Last-Modified: Wed, 02 May 2007 17:31:14 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 53:
+      Action: GET
+      Url: http://rs.mail.ru/b7867198.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2289 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1981 Bytes
+  Request Headers:
+      GET /b7867198.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1981
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 54:
+      Action: GET
+      Url: http://rs.mail.ru/b7875088.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1538 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1230 Bytes
+  Request Headers:
+      GET /b7875088.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1230
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 55:
+      Action: GET
+      Url: http://img.mail.ru/r/tv/channels/8304.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 822 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 535 Bytes
+  Request Headers:
+      GET /r/tv/channels/8304.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 535
+      Last-Modified: Fri, 21 Dec 2007 18:22:21 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 56:
+      Action: GET
+      Url: http://rs.mail.ru/b7875195.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1739 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1431 Bytes
+  Request Headers:
+      GET /b7875195.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1431
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 57:
+      Action: GET
+      Url: http://rs.mail.ru/b7873228.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2416 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2108 Bytes
+  Request Headers:
+      GET /b7873228.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2108
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 58:
+      Action: GET
+      Url: http://engine.awaps.net/8/7185/300300.?34142-0-34142-0-la:0p:39327&swfcode=6&awcode=55&subsection=0&flash=0
+      Host: engine.awaps.net
+      Result code: 302
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 661 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5 Bytes
+  Request Headers:
+      GET /8/7185/300300.?34142-0-34142-0-la:0p:39327&swfcode=6&awcode=55&subsection=0&flash=0 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: engine.awaps.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporarily
+      Date: Tue, 16 Jun 2009 13:38:42 GMT
+      Location: http://engine.awaps.net/8/7185/300300.?34142-0-972849440-1-a:0p:39327&profileredir=1&swfcode=6&awcode=55&subsection=0&flash=0
+      Transfer-Encoding: chunked
+      Connection: close
+      Server: WebAudit/1.0
+      Cache-Control: no-cache, no-store, must-revalidate, max-age=5
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      AW_INFO: banner: 0, placement:0, type: 8, serverId 4
+      AW_INFO2: section 7185, action 8, placement 0, banner 0 (300x300 , 0 byte),  subsection 0, server 4, engine ae-7
+      Set-Cookie: UserId=8-1245159522-43723; domain=awaps.net; path=/; expires=Friday, 01-Jan-2010 00:00:00 GMT
+
+Request 59:
+      Action: GET
+      Url: http://img.mail.ru/r/tv/channels/17748.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 810 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 523 Bytes
+  Request Headers:
+      GET /r/tv/channels/17748.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 523
+      Last-Modified: Fri, 21 Dec 2007 18:22:21 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 60:
+      Action: GET
+      Url: http://img.mail.ru/r/tv/channels/8898.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 379 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 93 Bytes
+  Request Headers:
+      GET /r/tv/channels/8898.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 93
+      Last-Modified: Fri, 18 Jan 2008 13:01:14 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 61:
+      Action: GET
+      Url: http://rs.mail.ru/b7875451.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 3406 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3098 Bytes
+  Request Headers:
+      GET /b7875451.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 3098
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 62:
+      Action: GET
+      Url: http://rs.mail.ru/b7860632.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 2171 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1863 Bytes
+  Request Headers:
+      GET /b7860632.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1863
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 63:
+      Action: GET
+      Url: http://rs.mail.ru/b7873989.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.027 seconds
+      Time to first byte: 0.026 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 5426 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5118 Bytes
+  Request Headers:
+      GET /b7873989.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 5118
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 64:
+      Action: GET
+      Url: http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=170743&pid=322136&bid=614282&bn=614282&rnd=1546243095&tuid=-6157402290
+      Host: ad.adriver.ru
+      Result code: 204
+      Transaction time: 0.067 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 16 Bytes
+      Response size (in): 381 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 381 Bytes
+  Request Headers:
+      GET /cgi-bin/rle.cgi?sid=1&bt=21&ad=170743&pid=322136&bid=614282&bn=614282&rnd=1546243095&tuid=-6157402290 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: ad.adriver.ru
+      Connection: Keep-Alive
+      Cookie: uid=-6157402290
+  Response Headers:
+      HTTP/1.0 204 No Content
+      Date: Tue Jun 16 17:38:45 2009
+      Expires: Thu, 01 Jan 1970 00:00:00 GMT
+      Cache-control: no-cache, max-age=0, must-revalidate, no-store
+      Pragma: no-cache
+      P3P: policyref="/w3c/p3p.xml", CP="NON CUR ADM DEV PSA PSD OUR IND UNI NAV INT STA"
+      Set-Cookie: uid=1534091592; expires=Wednesday, 01-Jan-2020 00:00:00 GMT;path=/;domain=.adriver.ru
+      Connection: close
+
+Request 65:
+      Action: GET
+      Url: http://rs.mail.ru/b7802853.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.025 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1244 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 937 Bytes
+  Request Headers:
+      GET /b7802853.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 937
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 66:
+      Action: GET
+      Url: http://engine.awaps.net/8/7185/300300.?34142-0-972849440-1-a:0p:39327&profileredir=1&swfcode=6&awcode=55&subsection=0&flash=0
+      Host: engine.awaps.net
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 16 Bytes
+      Response size (in): 1079 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 536 Bytes
+  Request Headers:
+      GET /8/7185/300300.?34142-0-972849440-1-a:0p:39327&profileredir=1&swfcode=6&awcode=55&subsection=0&flash=0 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: engine.awaps.net
+      Connection: Keep-Alive
+      Cookie: UserId=8-1245159522-43723
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 13:38:44 GMT
+      Content-Type: text/plain
+      Connection: close
+      Server: WebAudit/1.0
+      Cache-Control: no-cache, no-store, must-revalidate, max-age=5
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      AW_INFO: banner: 75028, placement:39327, type: 0, serverId 3
+      AW_INFO2: section 7185, action 8, placement 39327, banner 75028 (300x300 , 17773 byte),  subsection 0, server 3, engine ae-7
+      Set-Cookie: UserId=8-1245159522-43723; domain=awaps.net; path=/; expires=Friday, 01-Jan-2010 00:00:00 GMT
+      Content-Length: 536
+
+Request 67:
+      Action: GET
+      Url: http://rs.mail.ru/b7865257.ru_75-50_298.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2089 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1781 Bytes
+  Request Headers:
+      GET /b7865257.ru_75-50_298.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1781
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 68:
+      Action: GET
+      Url: http://rs.mail.ru/b6939277.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 471 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 165 Bytes
+  Request Headers:
+      GET /b6939277.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 165
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 69:
+      Action: GET
+      Url: http://rs.mail.ru/b7874011.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 6253 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5945 Bytes
+  Request Headers:
+      GET /b7874011.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 5945
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 70:
+      Action: GET
+      Url: http://rs.mail.ru/b7862580.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 8247 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7939 Bytes
+  Request Headers:
+      GET /b7862580.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 7939
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 71:
+      Action: GET
+      Url: http://rs.mail.ru/b7829177.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 7156 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6848 Bytes
+  Request Headers:
+      GET /b7829177.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 6848
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 72:
+      Action: GET
+      Url: http://engine.awaps.net/0/7185/03000300.gif?0-0-33415-0-la:75028p:39327
+      Host: engine.awaps.net
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 16 Bytes
+      Response size (in): 18342 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 17773 Bytes
+  Request Headers:
+      GET /0/7185/03000300.gif?0-0-33415-0-la:75028p:39327 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: engine.awaps.net
+      Connection: Keep-Alive
+      Cookie: UserId=8-1245159522-43723
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 13:38:42 GMT
+      Content-Type: image/gif
+      Connection: close
+      Server: WebAudit/1.0
+      Cache-Control: no-cache, no-store, must-revalidate, max-age=5
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      AW_INFO: banner: 75028, placement:39327, type: 0, serverId 5
+      AW_INFO2: section 7185, action 0, placement 39327, banner 75028 (300x300 gif, 17773 byte),  subsection 0, server 5, engine ae-7
+      Set-Cookie: UserId=8-1245159522-43723; domain=awaps.net; path=/; expires=Friday, 01-Jan-2010 00:00:00 GMT
+      Accept-Ranges: bytes
+      Content-Length: 17773
+
+Request 73:
+      Action: GET
+      Url: http://rs.mail.ru/b7213628.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 437 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 131 Bytes
+  Request Headers:
+      GET /b7213628.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 131
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 74:
+      Action: GET
+      Url: http://rs.mail.ru/b7873352.kiss=399=pp-1434.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2299 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1991 Bytes
+  Request Headers:
+      GET /b7873352.kiss=399=pp-1434.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1991
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 75:
+      Action: GET
+      Url: http://rs.mail.ru/b7226663.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.027 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 2929 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2621 Bytes
+  Request Headers:
+      GET /b7226663.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2621
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 76:
+      Action: GET
+      Url: http://rs.mail.ru/b7213863.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.027 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 1963 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1655 Bytes
+  Request Headers:
+      GET /b7213863.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1655
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 77:
+      Action: GET
+      Url: http://img.mail.ru/r/watermark_90x50.png
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 1469 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1181 Bytes
+  Request Headers:
+      GET /r/watermark_90x50.png HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/png
+      Content-Length: 1181
+      Last-Modified: Fri, 06 Mar 2009 11:42:20 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 78:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/a60_l.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 418 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 131 Bytes
+  Request Headers:
+      GET /mail/ru/images/a60_l.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 131
+      Last-Modified: Thu, 10 Jan 2008 12:15:46 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 79:
+      Action: GET
+      Url: http://rs.mail.ru/b6727155.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 2191 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1883 Bytes
+  Request Headers:
+      GET /b6727155.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1883
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 80:
+      Action: GET
+      Url: http://rs.mail.ru/b6588627.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 3085 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2777 Bytes
+  Request Headers:
+      GET /b6588627.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2777
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 81:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/a60_r.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 415 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 128 Bytes
+  Request Headers:
+      GET /mail/ru/images/a60_r.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 128
+      Last-Modified: Thu, 10 Jan 2008 12:15:46 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 82:
+      Action: GET
+      Url: http://rs.mail.ru/b6727669.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 2945 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2637 Bytes
+  Request Headers:
+      GET /b6727669.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2637
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 83:
+      Action: GET
+      Url: http://rs.mail.ru/b6853191.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2360 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2052 Bytes
+  Request Headers:
+      GET /b6853191.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2052
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 84:
+      Action: GET
+      Url: http://mail.radar.imgsmail.ru/update?p=mail&t=main&v=625&i=&rnd=365102605
+      Host: mail.radar.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 33
+      Request size (out): 16 Bytes
+      Response size (in): 272 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /update?p=mail&t=main&v=625&i=&rnd=365102605 HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mail.radar.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Server: Apache/1.3.27 (Unix) mru_xml/0.471 gorgona/2.1 mod_jk/1.2.4 mod_ruby/1.0.7 Ruby/1.6.8 mod_mrim/0.17
+      Connection: close
+      Content-Length: 43
+      Content-Type: image/gif
+
+Request 85:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/top_menu_ico_all.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 2778 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2490 Bytes
+  Request Headers:
+      GET /mail/ru/images/top_menu_ico_all.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 2490
+      Last-Modified: Tue, 30 Sep 2008 09:58:54 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 86:
+      Action: GET
+      Url: http://rs.mail.ru/b7277487.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1719 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1412 Bytes
+  Request Headers:
+      GET /b7277487.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 1412
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 87:
+      Action: GET
+      Url: http://rs.mail.ru/b6837576.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 1438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1131 Bytes
+  Request Headers:
+      GET /b6837576.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 1131
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 88:
+      Action: GET
+      Url: http://rs.mail.ru/b7276850.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1732 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1425 Bytes
+  Request Headers:
+      GET /b7276850.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 1425
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 89:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/projects_menu_ico_all.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 5615 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5327 Bytes
+  Request Headers:
+      GET /mail/ru/images/projects_menu_ico_all.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 5327
+      Last-Modified: Tue, 30 Sep 2008 09:58:29 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 90:
+      Action: GET
+      Url: http://rs.mail.ru/b7277362.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2219 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1912 Bytes
+  Request Headers:
+      GET /b7277362.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 1912
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 91:
+      Action: GET
+      Url: http://rs.mail.ru/b7723616.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 2830 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2522 Bytes
+  Request Headers:
+      GET /b7723616.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2522
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 92:
+      Action: GET
+      Url: http://rs.mail.ru/b7213633.gif
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 434 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 128 Bytes
+  Request Headers:
+      GET /b7213633.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/gif
+      Content-Length: 128
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 93:
+      Action: GET
+      Url: http://img.mail.ru/r/books/img/books_act_lft.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 458 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 171 Bytes
+  Request Headers:
+      GET /r/books/img/books_act_lft.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 171
+      Last-Modified: Thu, 04 Oct 2007 09:48:03 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 94:
+      Action: GET
+      Url: http://img.mail.ru/r/books/img/books_act_rgt.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 403 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 116 Bytes
+  Request Headers:
+      GET /r/books/img/books_act_rgt.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 116
+      Last-Modified: Thu, 04 Oct 2007 09:48:03 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 95:
+      Action: GET
+      Url: http://img.mail.ru/r/books/img/books_pas_lfta.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 417 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 130 Bytes
+  Request Headers:
+      GET /r/books/img/books_pas_lfta.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 130
+      Last-Modified: Thu, 04 Oct 2007 09:48:03 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 96:
+      Action: GET
+      Url: http://img.mail.ru/r/books/img/books_pas_rgt.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 397 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 110 Bytes
+  Request Headers:
+      GET /r/books/img/books_pas_rgt.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 110
+      Last-Modified: Thu, 04 Oct 2007 09:48:03 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 97:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/images/flags/dollar_main.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 609 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 322 Bytes
+  Request Headers:
+      GET /mail/ru/images/flags/dollar_main.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 322
+      Last-Modified: Wed, 25 Feb 2009 14:23:40 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 98:
+      Action: GET
+      Url: http://img.imgsmail.ru/mail/ru/images/flags/euro_main.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 817 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 530 Bytes
+  Request Headers:
+      GET /mail/ru/images/flags/euro_main.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 530
+      Last-Modified: Wed, 25 Feb 2009 14:23:40 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 99:
+      Action: GET
+      Url: http://img.mail.ru/r/books/img/books_pas_lft.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 408 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 121 Bytes
+  Request Headers:
+      GET /r/books/img/books_pas_lft.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 121
+      Last-Modified: Fri, 05 Oct 2007 12:16:05 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 100:
+      Action: GET
+      Url: http://img.mail.ru/r/books/img/books_pas_lst.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 367 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 81 Bytes
+  Request Headers:
+      GET /r/books/img/books_pas_lst.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 81
+      Last-Modified: Thu, 04 Oct 2007 09:48:03 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 101:
+      Action: GET
+      Url: http://img.imgsmail.ru/r/ico_arrow_today.gif
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 1108 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 821 Bytes
+  Request Headers:
+      GET /r/ico_arrow_today.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 821
+      Last-Modified: Wed, 18 Feb 2009 15:26:56 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 102:
+      Action: GET
+      Url: http://img.mail.ru/mail/ru/images/ico_has_photo.gif
+      Host: img.mail.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 359 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 73 Bytes
+  Request Headers:
+      GET /mail/ru/images/ico_has_photo.gif HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/gif
+      Content-Length: 73
+      Last-Modified: Mon, 02 Feb 2009 11:11:59 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 103:
+      Action: GET
+      Url: http://rs.mail.ru/b7865274.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 2913 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2605 Bytes
+  Request Headers:
+      GET /b7865274.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2605
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 104:
+      Action: GET
+      Url: http://img.imgsmail.ru/r/bg_schedule_tv2.png
+      Host: img.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 515 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 228 Bytes
+  Request Headers:
+      GET /r/bg_schedule_tv2.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.imgsmail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.39
+      Date: Tue, 16 Jun 2009 13:38:47 GMT
+      Content-Type: image/png
+      Content-Length: 228
+      Last-Modified: Wed, 18 Feb 2009 15:26:56 GMT
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:47 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 105:
+      Action: GET
+      Url: http://rs.mail.ru/b7213662.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.319 seconds
+      Time to first byte: 0.319 seconds
+      Document: 0
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2411 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2103 Bytes
+  Request Headers:
+      GET /b7213662.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2103
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 106:
+      Action: GET
+      Url: http://rs.mail.ru/b7650384.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 2725 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2417 Bytes
+  Request Headers:
+      GET /b7650384.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2417
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 107:
+      Action: GET
+      Url: http://rs.mail.ru/b7807381.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.361 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1599 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1291 Bytes
+  Request Headers:
+      GET /b7807381.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:45 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1291
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:45 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 108:
+      Action: GET
+      Url: http://rs.mail.ru/b7216171.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 0
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2375 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2067 Bytes
+  Request Headers:
+      GET /b7216171.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2067
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 109:
+      Action: GET
+      Url: http://rs.mail.ru/b7266941.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2687 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2379 Bytes
+  Request Headers:
+      GET /b7266941.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2379
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 110:
+      Action: GET
+      Url: http://rs.mail.ru/b7494693.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 3172 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2864 Bytes
+  Request Headers:
+      GET /b7494693.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/jpeg
+      Content-Length: 2864
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 111:
+      Action: GET
+      Url: http://rs.mail.ru/b7216167.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 0
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 2154 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1846 Bytes
+  Request Headers:
+      GET /b7216167.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1846
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+
+Request 112:
+      Action: GET
+      Url: http://rs.mail.ru/b7807381.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 0
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 1599 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1291 Bytes
+  Request Headers:
+      GET /b7807381.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: rs.mail.ru
+      Connection: Keep-Alive
+      Cookie: Mpopl=425539678; mrcu=9C134A37A0656D9F976271916C5F; p=f1zjAMRjWgAA; FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.53
+      Date: Tue, 16 Jun 2009 13:38:46 GMT
+      Content-Type: image/jpeg
+      Content-Length: 1291
+      Connection: keep-alive
+      Expires: Tue, 23 Jun 2009 13:38:46 GMT
+      Cache-Control: max-age=604800
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSAo PSDo OUR BUS UNI NAV STA INT"
+

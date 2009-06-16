@@ -1,0 +1,143 @@
+Results for 'http://zelo.yandex.ru/test-direct-show/yandsearch-new.html':
+
+Page load time: 0.519 seconds
+Time to first byte: 0.138 seconds
+Time to Base Page Downloaded: 0.140 seconds
+Time to Start Render: 0.428 seconds
+Time to Document Complete: 0.519 seconds
+Time to Fully Loaded: 0.576 seconds
+Bytes sent out: 4.307 KB
+Bytes received: 2.648 KB
+DNS Lookups: 7
+Connections: 8
+Requests: 10
+   OK Requests:  4
+   Redirects:    0
+   Not Modified: 5
+   Not Found:    0
+   Other:        1 (0)
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://zelo.yandex.ru/test-direct-show/yandsearch-new.html
+      Host: zelo.yandex.ru
+      Result code: 200
+      Transaction time: 0.140 seconds
+      Time to first byte: 0.025 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 604 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://clck.yandex.ru/click/dtype=stred/pid=1/cid=1071/*http://www.yandex.ru/
+      Host: clck.yandex.ru
+      Result code: 0
+      Transaction time: 0.214 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 723 Bytes
+      Response size (in): 250 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.049 seconds
+      Time to first byte: 0.034 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 423 Bytes
+      Response size (in): 438 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://im3-tub.yandex.net/i?id=32145730&tov=3
+      Host: im3-tub.yandex.net
+      Result code: 304
+      Transaction time: 0.046 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 403 Bytes
+      Response size (in): 101 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.taxiglobal.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.042 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 409 Bytes
+      Response size (in): 151 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.taxi-t.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.040 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 405 Bytes
+      Response size (in): 151 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://clck.yandex.ru/click/dtype=stred/pid=1/cid=1072/*http://www.yandex.ru/
+      Host: clck.yandex.ru
+      Result code: 200
+      Transaction time: 0.042 seconds
+      Time to first byte: 0.036 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 424 Bytes
+      Response size (in): 131 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.taxi-reno.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 408 Bytes
+      Response size (in): 151 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/LdWGVCgriDO40X00Zh6OUg84XOxjbGAR16v3ZG6HjZROam-JXGrw0m00=ay22cpM9hiW50vAeENe7dQD8IWAWeA260PIT90f1UWC0=us87g3Q9fR9g4PAc8oO7dQFwJWAWe0gV0PIOzmL1UWC0=B2HiJpU9h9Ef3vAkB047dQk1wWAWa3v9b9b9545v0m00=IsmRE3W1YQowbGwIgVEv1fse3MO2e90N4PIOpGT1UWC0
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.012 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 611 Bytes
+      Response size (in): 315 Bytes
+

@@ -1,0 +1,311 @@
+Results for 'http://yandex.ru/yandsearch?text=http://www.eu.spb.ru/ethno/index.htm&i-m-a-hacker=1':
+
+Page load time: 1.207 seconds
+Time to first byte: 0.182 seconds
+Time to Base Page Downloaded: 0.635 seconds
+Time to Start Render: 1.091 seconds
+Time to Document Complete: 1.207 seconds
+Time to Fully Loaded: 1.207 seconds
+Bytes sent out: 9.771 KB
+Bytes received: 65.963 KB
+DNS Lookups: 9
+Connections: 15
+Requests: 24
+   OK Requests:  22
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://yandex.ru/yandsearch?text=http://www.eu.spb.ru/ethno/index.htm&i-m-a-hacker=1
+      Host: yandex.ru
+      Result code: 200
+      Transaction time: 0.635 seconds
+      Time to first byte: 0.093 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 591 Bytes
+      Response size (in): 453 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://css.yandex.net/css/search/r13/_serp.ie.css
+      Host: css.yandex.net
+      Result code: 200
+      Transaction time: 0.180 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 383 Bytes
+      Response size (in): 22907 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://css.yandex.net/css/search/r13/_serp.js
+      Host: css.yandex.net
+      Result code: 200
+      Transaction time: 0.195 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 379 Bytes
+      Response size (in): 12183 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://img.yandex.net/i/logo95x37x8.png
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.362 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 373 Bytes
+      Response size (in): 1688 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.140 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 424 Bytes
+      Response size (in): 638 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 200
+      Transaction time: 0.080 seconds
+      Time to first byte: 0.031 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 682 Bytes
+      Response size (in): 1024 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/cl.gif
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 407 Bytes
+      Response size (in): 284 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/Td0gbBE6Lqi40X00ZhqNbA84KfK2cmTiFoq1YAbEz0MIh4w51ugWRB84ZG6Ge1y2tf6syV_G3PE53Oki8YuTGNm6?rnd=1987062420
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.051 seconds
+      Time to first byte: 0.032 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 501 Bytes
+      Response size (in): 498 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/www.eu.spb.ru
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 33
+      Request size (out): 416 Bytes
+      Response size (in): 1123 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://img.yandex.net/i/arr-white.gif
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.225 seconds
+      Time to first byte: 0.032 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 371 Bytes
+      Response size (in): 800 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.083 seconds
+      Time to first byte: 0.026 seconds
+      Document: 1
+      Socket: 37
+      Request size (out): 407 Bytes
+      Response size (in): 607 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.komi.com
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.044 seconds
+      Time to first byte: 0.034 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 380 Bytes
+      Response size (in): 229 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.baikalfoto.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.046 seconds
+      Document: 1
+      Socket: 35
+      Request size (out): 385 Bytes
+      Response size (in): 229 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.055 seconds
+      Time to first byte: 0.045 seconds
+      Document: 1
+      Socket: 36
+      Request size (out): 303 Bytes
+      Response size (in): 1024 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/iMlnn4OAAVGCXEt5gP9lDw.jpg
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.084 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 460 Bytes
+      Response size (in): 18925 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.relarn.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 381 Bytes
+      Response size (in): 229 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/kuzinakka.livejournal.com
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.070 seconds
+      Time to first byte: 0.069 seconds
+      Document: 1
+      Socket: 35
+      Request size (out): 393 Bytes
+      Response size (in): 895 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.069 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 39
+      Request size (out): 449 Bytes
+      Response size (in): 438 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/peresedov.livejournal.com
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.051 seconds
+      Time to first byte: 0.050 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 393 Bytes
+      Response size (in): 895 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/mary-joe.livejournal.com
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 35
+      Request size (out): 392 Bytes
+      Response size (in): 895 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/a-mos.livejournal.com
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 389 Bytes
+      Response size (in): 895 Bytes
+
+Request 22:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/old.eu.spb.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 35
+      Request size (out): 381 Bytes
+      Response size (in): 229 Bytes
+
+Request 23:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/uchcom.botik.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 383 Bytes
+      Response size (in): 229 Bytes
+
+Request 24:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/kapija.narod.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 35
+      Request size (out): 383 Bytes
+      Response size (in): 229 Bytes
+

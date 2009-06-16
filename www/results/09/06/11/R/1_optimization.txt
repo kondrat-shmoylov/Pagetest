@@ -1,0 +1,72 @@
+Optimization Report : 06/11/09 at 20:52:32
+
+Results for 'http://yahoo.com/':
+
+Page load time: 2.753 seconds
+Time to first byte: 0.563 seconds
+Time to Base Page Downloaded: 1.162 seconds
+Time to Start Render: 1.152 seconds
+Time to Document Complete: 2.753 seconds
+Time to Fully Loaded: 3.073 seconds
+Bytes sent out: 0.547 KB
+Bytes received: 176.683 KB
+DNS Lookups: 5
+Connections: 7
+Requests: 35
+   OK Requests:  33
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        2 (301, 0)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+  Cache score : 100
+
+Use one CDN for all static assets:
+
+  2 CDN's used:
+    l.yimg.com
+    us.i1.yimg.com
+
+  CDN score (static objects) : 100
+  CDN score (one CDN) : 90
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    78.4 KB total in compressible text, target size = 78.4 KB - potential savings = 0.0 KB
+
+Compress Images:
+    FAILED  (10.5 KB, target = 6.5 KB - savings of 4.0 KB)- http://l.yimg.com/a/i/ww/news/2009/04/29/swine-level-6.jpg
+    FAILED  (3.6 KB, target = 1.0 KB - savings of 2.6 KB)- http://l.yimg.com/a/i/ww/news/2009/04/29/swine-level-6-sm.jpg
+    FAILED  (4.6 KB, target = 2.4 KB - savings of 2.2 KB)- http://l.yimg.com/a/i/mntl/sma/08q2/img_f4a22b34.jpg
+    FAILED  (1.8 KB, target = 0.9 KB - savings of 0.9 KB)- http://l.yimg.com/a/i/ww/news/2009/06/11/holocaust2-sm.jpg
+    FAILED  (1.7 KB, target = 0.9 KB - savings of 0.8 KB)- http://l.yimg.com/a/i/ww/news/2009/06/11/ocho-sm.jpg
+    WARNING (5.8 KB, target = 5.1 KB - savings of 0.8 KB)- http://l.yimg.com/a/i/us/per/pr/dishonest-dating-92.jpg
+  Image Compression score : 87
+    89.9 KB total in images, target size = 78.6 KB - potential savings = 11.4 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+   WARNING (2 cookies, 113 bytes) - http://us.bc.yahoo.com/b?P=wuotkFf4cdX8ew79Xgl0IEuCX2yRcUoxNk4ABz5F&T=13ti9r7fv%2fX%3d1244739150%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d1769211140%2fS%3d1%2fJ%3dD571F857&U=13fv4eh8n%2fN%3duWeLIkwNBmc-%2fC%3d385893.13484023.13562826.9641268%2fD%3dHDLN%2fB%3d5727906%2fV%3d1&U=13g2n2jp4%2fN%3dumeLIkwNBmc-%2fC%3d289534.13034496.13553720.5322130%2fD%3dHEADR%2fB%3d4040821%2fV%3d1&U=12d92cj4b%2fN%3du2eLIkwNBmc-%2fC%3d-1%2fD%3dFDMY2%2fB%3d-1%2fV%3d0&U=12br9ngko%2fN%3dvGeLIkwNBmc-%2fC%3d-2%2fD%3dNBM%2fB%3d-2%2fV%3d0&U=13g11g8ug%2fN%3dvmeLIkwNBmc-%2fC%3d261366.10729796.12726797.10391589%2fD%3dFPC1%2fB%3d1720487%2fV%3d1&U=12cm5poi3%2fN%3dv2eLIkwNBmc-%2fC%3d-1%2fD%3dSTCK%2fB%3d-1%2fV%3d0&U=13e93ip8g%2fN%3dwGeLIkwNBmc-%2fC%3d385895.13375714.13476789.9365916%2fD%3dMKP%2fB%3d5560268%2fV%3d1&U=13f255n9e%2fN%3dwWeLIkwNBmc-%2fC%3d385895.13375715.13476793.8855218%2fD%3dMKP1%2fB%3d4763740%2fV%3d1&U=13f4tugqs%2fN%3dwmeLIkwNBmc-%2fC%3d545301.13463913.13546279.9413843%2fD%3dMKP1%2fB%3d5727526%2fV%3d1&U=13fjb1rgl%2fN%3dw2eLIkwNBmc-%2fC%3d635447.13182398.13350799.9413843%2fD%3dMKP1%2fB%3d4758806%2fV%3d1&U=12c09h3jm%2fN%3dxGeLIkwNBmc-%2fC%3d-1%2fD%3dMKP4%2fB%3d-1%2fV%3d0&U=129vmqbmr%2fN%3dxWeLIkwNBmc-%2fC%3d-1%2fD%3dZ%2fB%3d-1%2fV%3d0&U=13fdh3usk%2fN%3dxmeLIkwNBmc-%2fC%3d545301.13442946.13530042.7674020%2fD%3dFPAD%2fB%3d5532888%2fV%3d1&U=13gk8fajd%2fN%3dx2eLIkwNBmc-%2fC%3d387002.13474973.13553962.10360830%2fD%3dMNTL%2fB%3d5727436%2fV%3d1&U=12bft3trk%2fN%3dy2eLIkwNBmc-%2fC%3d-1%2fD%3dSIP%2fB%3d-1%2fV%3d0&U=12brmt9ie%2fN%3dzWeLIkwNBmc-%2fC%3d-2%2fD%3dRMP%2fB%3d-2%2fV%3d0&U=12c3no9kg%2fN%3dymeLIkwNBmc-%2fC%3d-2%2fD%3dSIPR%2fB%3d-2%2fV%3d0&U=13dtcqurp%2fN%3dyGeLIkwNBmc-%2fC%3d224039.2072002.3536622.2012076%2fD%3dFOOT%2fB%3d1088125%2fV%3d1&Q=0&O=0.33477012494628255
+      cookie:B=8g6945p532die&b=3&s=ds
+      cookie: D=_ylh=X3oDMTFkZmYxajI5BF9TAzI3MTYxNDkEcGlkAzEyNDQ3MzgzODIEdGVzdAMwBHRtcGwDaW5kZXgtbA--
+  Cookie score : 98
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    41.3 KB total in minifiable text, target size = 41.3 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

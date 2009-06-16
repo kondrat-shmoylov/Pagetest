@@ -1,0 +1,94 @@
+Optimization Report : 06/11/09 at 12:26:18
+
+Results for 'http://www.yandex.ru/':
+
+Page load time: 0.607 seconds
+Time to first byte: 0.144 seconds
+Time to Base Page Downloaded: 0.162 seconds
+Time to Start Render: 0.562 seconds
+Time to DOM Element(type=submit): 0.563 seconds
+Time to Document Complete: 0.607 seconds
+Time to Fully Loaded: 0.607 seconds
+Bytes sent out: 5.047 KB
+Bytes received: 4.500 KB
+DNS Lookups: 5
+Connections: 6
+Requests: 11
+   OK Requests:  5
+   Redirects:    3
+   Not Modified: 3
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - https://passport.yandex.ru/js/smarthttps.js
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/spacer.gif?1130599947
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - https://passport.yandex.ru/js/smarthttps.js
+    FAILED - http://yabs.yandex.ru/resource/spacer.gif?1130599947
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    1.7 KB total in compressible text, target size = 1.7 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    0.1 KB total in images, target size = 0.1 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 58 bytes) - https://passport.yandex.ru/js/smarthttps.js
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1041
+    FAILED (Static object with 2 cookies - 58 bytes) - http://yabs.yandex.ru/resource/spacer.gif?1130599947
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1042
+   WARNING (2 cookies, 58 bytes) - http://suggest.yandex.ru/tsuggest-1.6.html
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1041
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a**106429711244708770**yandex_ru/ru/CP1251/tmsec=yandex_main/0
+      cookie:guid=377006044A30BFA2X1244708770
+   WARNING (2 cookies, 58 bytes) - http://www.yandex.ru/
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/GsEM2wQNaUC40X02Zhdw2wC4KPK5cm5fMeYXJSi5agkurGUAhVFn196yq4ba1fE53OkiKP0UGNi5
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/GsEM2uIqnum40X00Zhdw2wC4KP6yq4ba1fE53NW2=EsXjUvK2cm9jL9Abk6a6Um40=gf_nifK5cm5fMfAhkDK7Um40
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/resource/Qpt2_k^Sb8FDYczgOL9Sfg.png
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/GsEM2wQNaUC40X02Zhdw2wC4KPK5cm5fMeYXJSi5agkurGUAhVFn196yq4ba1fE53OkiKP0UGNi5
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/GsEM2pn_N2K40X02Zhdw2wC4KPK2cm9jL2A8ghiz0PAbk6a6YgAsnmEHlD19P0QJXGsBfsTA5a5y1G00?1130599947
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/resource/Qpt2_k^Sb8FDYczgOL9Sfg.png
+      cookie:yandexuid=106429711244708770
+      cookie: yabs-frequency=/2///fGBf1042
+  Cookie score : 40
+    0.6 KB total in outbound cookies, target size = 0.5 KB - potential savings = 0.1 KB
+
+Minify JS:
+  Minify score : 100
+    0.7 KB total in minifiable text, target size = 0.7 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

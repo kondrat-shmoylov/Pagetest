@@ -1,0 +1,132 @@
+Results for 'http://mail.yandex.ru/pda':
+
+Page load time: 0.258 seconds
+Time to first byte: 0.007 seconds
+Time to Base Page Downloaded: 0.182 seconds
+Time to Start Render: 0.241 seconds
+Time to Document Complete: 0.258 seconds
+Time to Fully Loaded: 0.258 seconds
+Bytes sent out: 4.677 KB
+Bytes received: 13.459 KB
+DNS Lookups: 0
+Connections: 2
+Requests: 9
+   OK Requests:  7
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    0
+   Other:        1 (301)
+Base Page Response: 200
+Base Page Redirects: 2
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://mail.yandex.ru/pda
+      Host: mail.yandex.ru
+      Result code: 301
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 902 Bytes
+      Response size (in): 247 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://mail.yandex.ru/pda/
+      Host: mail.yandex.ru
+      Result code: 302
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.025 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 903 Bytes
+      Response size (in): 468 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://mail.yandex.ru/pda/messages
+      Host: mail.yandex.ru
+      Result code: 200
+      Transaction time: 0.144 seconds
+      Time to first byte: 0.075 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 911 Bytes
+      Response size (in): 409 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://mailstatic.yandex.net/pda/9/css/local.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.052 seconds
+      Time to first byte: 0.041 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 332 Bytes
+      Response size (in): 7962 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://mailstatic.yandex.net/pda/9/js/toolbar.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.050 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 332 Bytes
+      Response size (in): 2078 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://mailstatic.yandex.net/pda/9/js/messages.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 333 Bytes
+      Response size (in): 421 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://mailstatic.yandex.net/pda/9/i/logo-mail.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.023 seconds
+      Time to first byte: 0.021 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 334 Bytes
+      Response size (in): 1418 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id3610521
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.023 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 408 Bytes
+      Response size (in): 438 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://mailstatic.yandex.net/pda/9/i//i-clip-1.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.024 seconds
+      Time to first byte: 0.023 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 334 Bytes
+      Response size (in): 341 Bytes
+

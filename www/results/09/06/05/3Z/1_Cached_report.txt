@@ -1,0 +1,72 @@
+Results for 'http://google.ru/search?q=%EF%EE%E3%EE%E4%E0%20%EA%EE%F0%EE%E1%E8%F6%FB%ED%EE&hl=ru':
+
+Page load time: 0.889 seconds
+Time to first byte: 0.278 seconds
+Time to Base Page Downloaded: 0.889 seconds
+Time to Start Render: 0.874 seconds
+Time to Document Complete: 0.889 seconds
+Time to Fully Loaded: 1.087 seconds
+Bytes sent out: 2.892 KB
+Bytes received: 1.930 KB
+DNS Lookups: 3
+Connections: 3
+Requests: 4
+   OK Requests:  1
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://google.ru/search?q=%EF%EE%E3%EE%E4%E0%20%EA%EE%F0%EE%E1%E8%F6%FB%ED%EE&hl=ru
+      Host: google.ru
+      Result code: 301
+      Transaction time: 0.278 seconds
+      Time to first byte: 0.116 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 813 Bytes
+      Response size (in): 612 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.google.ru/search?q=%EF%EE%E3%EE%E4%E0%20%EA%EE%F0%EE%E1%E8%F6%FB%ED%EE&hl=ru
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.611 seconds
+      Time to first byte: 0.086 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 817 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=YT0pSpWiEMresgb6ieHtCQ&e=17259,17291,17311,20572&rt=prt.109,ol.125,xjs.125
+      Host: www.google.ru
+      Result code: 204
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.056 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 714 Bytes
+      Response size (in): 215 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://clients1.google.ru/generate_204
+      Host: clients1.google.ru
+      Result code: 204
+      Transaction time: 0.144 seconds
+      Time to first byte: 0.063 seconds
+      Document: 0
+      Socket: 11
+      Request size (out): 617 Bytes
+      Response size (in): 125 Bytes
+

@@ -1,0 +1,110 @@
+Optimization Report : 06/04/09 at 16:58:18
+
+Results for 'http://zelo1.yandex.ru/yandsearch?text=%D1%82%D0%B0%D0%BA%D1%81%D0%B8&i-m-a-hacker=1':
+
+Page load time: 1.075 seconds
+Time to first byte: 0.114 seconds
+Time to Base Page Downloaded: 0.479 seconds
+Time to Start Render: 0.828 seconds
+Time to Document Complete: 1.075 seconds
+Time to Fully Loaded: 1.135 seconds
+Bytes sent out: 9.353 KB
+Bytes received: 56.402 KB
+DNS Lookups: 9
+Connections: 14
+Requests: 23
+   OK Requests:  22
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.taxi-reno.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.taxi-t.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.taxiglobal.ru
+    FAILED  (No max-age or expires) - http://im3-tub.yandex.net/i?id=32145730&tov=3
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r14/_serp.ie.css
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r14/_serp.js
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/ru.wikipedia.org
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.500-50-50.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.nyt.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.taxi-ladya.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.taxi-ritm.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.taxiescort.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.taxiford.ru
+  Cache score : 52
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r14/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r14/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/ru.wikipedia.org
+    FAILED - http://favicon.yandex.net/favicon/www.500-50-50.ru
+    FAILED - http://favicon.yandex.net/favicon/www.nyt.ru
+    FAILED - http://favicon.yandex.net/favicon/www.taxi-ladya.ru
+    FAILED - http://favicon.yandex.net/favicon/www.taxi-reno.ru
+    FAILED - http://favicon.yandex.net/favicon/www.taxi-ritm.ru
+    FAILED - http://favicon.yandex.net/favicon/www.taxi-t.ru
+    FAILED - http://favicon.yandex.net/favicon/www.taxiescort.ru
+    FAILED - http://favicon.yandex.net/favicon/www.taxiford.ru
+    FAILED - http://favicon.yandex.net/favicon/www.taxiglobal.ru
+    FAILED - http://im3-tub.yandex.net/i?id=32145730&tov=3
+    FAILED - http://img.yandex.net/i/ico-phone.gif
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/textad9.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.6 KB, compressed = 5.5 KB - savings of 17.1 KB) - http://css.yandex.net/css/search/r14/_serp.ie.css
+    FAILED (12.6 KB, compressed = 5.0 KB - savings of 7.6 KB) - http://css.yandex.net/css/search/r14/_serp.js
+  GZIP score : 32
+    36.7 KB total in compressible text, target size = 11.9 KB - potential savings = 24.7 KB
+
+Compress Images:
+  Image Compression score : 96
+    15.1 KB total in images, target size = 14.5 KB - potential savings = 0.6 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://css.yandex.net/css/search/r14/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r14/_serp.js
+    FAILED - http://img.yandex.net/i/textad9.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+  Keep-Alive score : 66
+
+Proper cookie usage:
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=6126401244120294
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=DE9406014A27C4E6X1244120294
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/HPCFT2gQk8e40X00ZhPEVA84XOxjbGAR16v3ZG6HjZROam-JXGrw0m00=7hsc83M9h6x-0fAiUTW2dPS-6A2WBJ41b9w13a5v0m00=bCIi0pQ9hiW50vAeENe7dQD8IWAWeA260PIR9mf1UWC0=EivJkpU9fR9g4PAc8oO7dQFwJWAWe0gV0PIK-GL1UWC0=xRjO8pW1YQlxO0kIgOzu0vsOymIWe3Pk0PIInGP1UWC0
+      cookie:yandexuid=6126401244120294
+  Cookie score : 93
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    12.6 KB total in minifiable text, target size = 12.6 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://css.yandex.net/css/search/r14/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r14/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/textad9.gif
+    FAILED - http://img.yandex.net/i/ico-phone.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 65
+
+JQuery Selectors not descended from an ID:
+  No problems found

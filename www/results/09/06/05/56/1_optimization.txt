@@ -1,0 +1,145 @@
+Optimization Report : 06/05/09 at 19:53:51
+
+Results for 'http://yandex.ru/yandsearch?text=%EA%E8%ED%EE%F2%E5%E0%F2%F0&i-m-a-hacker=1':
+
+Page load time: 1.953 seconds
+Time to first byte: 0.106 seconds
+Time to Base Page Downloaded: 0.689 seconds
+Time to Start Render: 1.282 seconds
+Time to Document Complete: 1.953 seconds
+Time to Fully Loaded: 1.953 seconds
+Bytes sent out: 12.962 KB
+Bytes received: 66.980 KB
+DNS Lookups: 12
+Connections: 18
+Requests: 33
+   OK Requests:  31
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://afisha.yandex.ru/media/events/images/thumbnails/98f6ec10cb97fab0c6a322ef160e3f22_92x51.jpeg
+    FAILED  (No max-age or expires) - http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+    FAILED  (No max-age or expires) - http://afisha.yandex.ru/media/events/images/thumbnails/c493b1e80f3e1a9f4e4900b5a5822a02_92x51.jpeg
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.kino35mm.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.kinomos.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.kinoteatrdoc.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.pobeda-cinema.ru
+    FAILED  (No max-age or expires) - http://im3-tub.yandex.net/i?id=62206317&tov=3
+    FAILED  (No max-age or expires) - http://video-tub.yandex.ru/i?&tov=0&id=13908647
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.js
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/ru.wikipedia.org
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.5zvezd.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.arbat-moskino.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.formulakino.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.karofilm.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.kinomax.ru
+  Cache score : 51
+
+Use one CDN for all static assets:
+    FAILED - http://afisha.yandex.ru/media/events/images/thumbnails/98f6ec10cb97fab0c6a322ef160e3f22_92x51.jpeg
+    FAILED - http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+    FAILED - http://afisha.yandex.ru/media/events/images/thumbnails/c493b1e80f3e1a9f4e4900b5a5822a02_92x51.jpeg
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/ru.wikipedia.org
+    FAILED - http://favicon.yandex.net/favicon/www.5zvezd.ru
+    FAILED - http://favicon.yandex.net/favicon/www.arbat-moskino.ru
+    FAILED - http://favicon.yandex.net/favicon/www.formulakino.ru
+    FAILED - http://favicon.yandex.net/favicon/www.karofilm.ru
+    FAILED - http://favicon.yandex.net/favicon/www.kino35mm.ru
+    FAILED - http://favicon.yandex.net/favicon/www.kinomax.ru
+    FAILED - http://favicon.yandex.net/favicon/www.kinomos.ru
+    FAILED - http://favicon.yandex.net/favicon/www.kinoteatrdoc.ru
+    FAILED - http://favicon.yandex.net/favicon/www.pobeda-cinema.ru
+    FAILED - http://im3-tub.yandex.net/i?id=62206317&tov=3
+    FAILED - http://img.yandex.net/i/afisha.gif
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/specarr.gif
+    FAILED - http://img.yandex.net/i/stars-3.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://video-tub.yandex.ru/i?&tov=0&id=13908647
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.4 KB, compressed = 5.5 KB - savings of 16.9 KB) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED (11.9 KB, compressed = 4.8 KB - savings of 7.1 KB) - http://css.yandex.net/css/search/r13/_serp.js
+  GZIP score : 32
+    35.7 KB total in compressible text, target size = 11.7 KB - potential savings = 24.0 KB
+
+Compress Images:
+    FAILED  (4.5 KB, target = 2.6 KB - savings of 1.9 KB)- http://video-tub.yandex.ru/i?&tov=0&id=13908647
+    WARNING (2.8 KB, target = 2.3 KB - savings of 0.5 KB)- http://afisha.yandex.ru/media/events/images/thumbnails/c493b1e80f3e1a9f4e4900b5a5822a02_92x51.jpeg
+    WARNING (2.5 KB, target = 2.0 KB - savings of 0.5 KB)- http://afisha.yandex.ru/media/events/images/thumbnails/98f6ec10cb97fab0c6a322ef160e3f22_92x51.jpeg
+    WARNING (2.1 KB, target = 1.8 KB - savings of 0.3 KB)- http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+  Image Compression score : 86
+    24.4 KB total in images, target size = 21.1 KB - potential savings = 3.2 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://afisha.yandex.ru/media/events/images/thumbnails/c493b1e80f3e1a9f4e4900b5a5822a02_92x51.jpeg
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+  Keep-Alive score : 76
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 26 bytes) - http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+      cookie:yandexuid=1330561244217232
+    FAILED (Static object with 1 cookies - 26 bytes) - http://afisha.yandex.ru/media/events/images/thumbnails/c493b1e80f3e1a9f4e4900b5a5822a02_92x51.jpeg
+      cookie:yandexuid=1330561244217232
+    FAILED (Static object with 1 cookies - 26 bytes) - http://afisha.yandex.ru/media/events/images/thumbnails/98f6ec10cb97fab0c6a322ef160e3f22_92x51.jpeg
+      cookie:yandexuid=1330561244217232
+    FAILED (Static object with 1 cookies - 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=13908647
+      cookie:yandexuid=1330561244217232
+   WARNING (1 cookies, 26 bytes) - http://clck.yandex.ru/click/dtype=yabs/id=65/key=pack/*?487626420
+      cookie:yandexuid=1330561244217232
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=1330561244217232
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=3BE806014A293F91X1244217233
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/7H2Mj7Bvg4e40X00Zh3vaw84KfK4cm5kK2A8fObN0OcSQpIIe9ye0egj2ay1ZG6HlmiRsmAJXGsBhYmR1K5w1W00?487626420
+      cookie:yandexuid=1330561244217232
+  Cookie score : 81
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.1 KB
+
+Minify JS:
+  Minify score : 100
+    11.9 KB total in minifiable text, target size = 11.9 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+    FAILED - http://afisha.yandex.ru/media/events/images/thumbnails/c493b1e80f3e1a9f4e4900b5a5822a02_92x51.jpeg
+    FAILED - http://afisha.yandex.ru/media/events/images/thumbnails/98f6ec10cb97fab0c6a322ef160e3f22_92x51.jpeg
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/stars-3.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://img.yandex.net/i/afisha.gif
+    FAILED - http://img.yandex.net/i/specarr.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 51
+
+JQuery Selectors not descended from an ID:
+  No problems found

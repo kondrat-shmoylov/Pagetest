@@ -1,0 +1,888 @@
+Results for 'http://pampers2.yandex.ru:2007/':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 0.459 seconds
+Time to first byte: 0.169 seconds
+Time to Base Page Downloaded: 0.172 seconds
+Time to Start Render: 0.356 seconds
+Time to Document Complete: 0.459 seconds
+Time to Fully Loaded: 0.459 seconds
+Bytes sent out: 0.438 KB
+Bytes received: 84.127 KB
+DNS Lookups: 4
+Connections: 12
+Requests: 26
+   OK Requests:  24
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    1
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.172 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 3202 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2815 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=utf-8
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Expires: Thu, 11 Jun 2009 16:17:22 GMT
+      Last-Modified: Thu, 11 Jun 2009 16:12:22 GMT
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 2:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/css/_common.css
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 7683 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7545 Bytes
+  Request Headers:
+      GET /modern/_static/css/_common.css HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/css;charset=utf-8
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Server: lighttpd/1.4.19
+
+Request 3:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/css/_mail-common.css
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.037 seconds
+      Time to first byte: 0.027 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 23493 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 23355 Bytes
+  Request Headers:
+      GET /modern/_static/css/_mail-common.css HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/css;charset=utf-8
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Server: lighttpd/1.4.19
+
+Request 4:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/css/_mail-login.css
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 4114 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3954 Bytes
+  Request Headers:
+      GET /modern/_static/css/_mail-login.css HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/css;charset=utf-8
+      Content-Length: 3954
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Server: lighttpd/1.4.19
+
+Request 5:
+      Action: GET
+      Url: http://passport.yandex.ru/passport?mode=testloginjs&id32732533
+      Host: passport.yandex.ru
+      Result code: 200
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 429 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 36 Bytes
+  Request Headers:
+      GET /passport?mode=testloginjs&id32732533 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: passport.yandex.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Content-Type: application/x-javascript; charset=windows-1251
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Vary: Accept-Encoding
+      Set-Cookie: yandexuid=1503034641244736742; path=/; expires=Sun, 09-Jun-19 16:12:22 GMT; domain=.yandex.ru
+      Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+      Pragma: no-cache
+
+Request 6:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/js/index_main.js
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 4667 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4458 Bytes
+  Request Headers:
+      GET /modern/_static/js/index_main.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: application/x-javascript
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 4458
+      Server: BAIDA/2.0.2
+
+Request 7:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/js/test_xslt.js
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 9050 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 8841 Bytes
+  Request Headers:
+      GET /modern/_static/js/test_xslt.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: application/x-javascript
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 8841
+      Server: BAIDA/2.0.2
+
+Request 8:
+      Action: GET
+      Url: http://mailstatic.yandex.net/classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0
+      Host: mailstatic.yandex.net
+      Result code: 404
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 502 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 345 Bytes
+  Request Headers:
+      GET /classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mailstatic.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Vary: Accept-Encoding
+      Content-Type: text/html
+      Content-Length: 345
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Server: lighttpd/1.4.19
+
+Request 9:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i//login/logo50.png
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 2141 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1947 Bytes
+  Request Headers:
+      GET /modern/_static/i//login/logo50.png HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/png
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 1947
+      Server: BAIDA/2.0.2
+
+Request 10:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/logo_so.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 2342 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2148 Bytes
+  Request Headers:
+      GET /modern/_static/i/logo_so.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 2148
+      Server: BAIDA/2.0.2
+
+Request 11:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/drweb2.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 3815 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3621 Bytes
+  Request Headers:
+      GET /modern/_static/i/drweb2.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 3621
+      Server: BAIDA/2.0.2
+
+Request 12:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/heading.png
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 768 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 575 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/heading.png HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/png
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 575
+      Server: BAIDA/2.0.2
+
+Request 13:
+      Action: GET
+      Url: https://passport.yandex.ru/js/forcehttps.js
+      Host: passport.yandex.ru
+      Result code: 200
+      Transaction time: 0.105 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 48 Bytes
+      Response size (in): 3795 Bytes
+      Request Object Size (out): -284 Bytes
+      Response Object Size (in): 3455 Bytes
+  Request Headers:
+      GET /js/forcehttps.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: passport.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Content-Type: application/x-javascript; charset=windows-1251
+      Content-Length: 341
+      Last-Modified: Wed, 18 Feb 2009 10:51:36 GMT
+      Connection: keep-alive
+      Vary: Accept-Encoding
+      Expires: Thu, 18 Jun 2009 16:12:22 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+
+Request 14:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id32732533
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 16 Bytes
+      Response size (in): 617 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id32732533 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporarily
+      Server: tns-counter.0.5.2
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Location: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id32732533
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+      Set-Cookie: guid=C80903034A312CE6X1244736742; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.tns-counter.ru; path=/
+
+Request 15:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/plus-blue.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 399 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 206 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/plus-blue.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 206
+      Server: BAIDA/2.0.2
+
+Request 16:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/plus-green.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 399 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 206 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/plus-green.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 206
+      Server: BAIDA/2.0.2
+
+Request 17:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/sh-tl.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1531 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1337 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/sh-tl.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 1337
+      Server: BAIDA/2.0.2
+
+Request 18:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/sh-tr.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 1586 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1392 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/sh-tr.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 1392
+      Server: BAIDA/2.0.2
+
+Request 19:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/sh-bl.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 3218 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3024 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/sh-bl.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 3024
+      Server: BAIDA/2.0.2
+
+Request 20:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/sh-br.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 1051 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 858 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/sh-br.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 858
+      Server: BAIDA/2.0.2
+
+Request 21:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/form-bg.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1590 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1396 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/form-bg.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 1396
+      Server: BAIDA/2.0.2
+
+Request 22:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id32732533
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.071 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13b****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id32732533 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=C80903034A312CE6X1244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 23:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i//login/marka9.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 6971 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6777 Bytes
+  Request Headers:
+      GET /modern/_static/i//login/marka9.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 6777
+      Server: BAIDA/2.0.2
+
+Request 24:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i//login/logo-artlebedev.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 826 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 633 Bytes
+  Request Headers:
+      GET /modern/_static/i//login/logo-artlebedev.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 633
+      Server: BAIDA/2.0.2
+
+Request 25:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/p-end.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 1120 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 927 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/p-end.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 927
+      Server: BAIDA/2.0.2
+
+Request 26:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2007/modern/_static/i/login/plus-orange.gif
+      Host: pampers2.yandex.ru:2007
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 399 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 206 Bytes
+  Request Headers:
+      GET /modern/_static/i/login/plus-orange.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2007/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2007
+      Connection: Keep-Alive
+      Cookie: yandexuid=1503034641244736742
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Keep-Alive
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 16:12:22 GMT
+      Last-Modified: Mon, 08 Jun 2009 19:08:33 GMT
+      Content-Length: 206
+      Server: BAIDA/2.0.2
+

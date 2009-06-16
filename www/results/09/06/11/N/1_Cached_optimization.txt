@@ -1,0 +1,387 @@
+Optimization Report : 06/11/09 at 20:23:45
+
+Results for 'https://passport.yandex.ru/passport?mode=auth':
+
+Page load time: 1.922 seconds
+Time to first byte: 0.048 seconds
+Time to Base Page Downloaded: 0.117 seconds
+Time to Start Render: 0.505 seconds
+Time to Document Complete: 1.922 seconds
+Time to Fully Loaded: 2.282 seconds
+Bytes sent out: 3.106 KB
+Bytes received: 2380.469 KB
+DNS Lookups: 7
+Connections: 24
+Requests: 154
+   OK Requests:  137
+   Redirects:    6
+   Not Modified: 4
+   Not Found:    0
+   Other:        7 (204, 0, 0, 0, 0, 0, 0)
+Base Page Response: 302
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://default.avatars.yandex.net/it/44-small
+    FAILED  (No max-age or expires) - http://neim-tub.yandex.ru/i?id=57890&n=3
+    FAILED  (No max-age or expires) - http://pass.yandex.ru/services?callback=jsonp1244737420984&_=1244737422312&locale=ru&login=yes
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/XhyADgF9PmC1cHCs60GA8Q.gif?rnd=486200
+  Cache score : 97
+
+Use one CDN for all static assets:
+    FAILED - http://mailstatic.yandex.net/neo/35515/css/m-ie6.css
+    FAILED - http://mailstatic.yandex.net/neo/35515/css/page-inbox.ie.css
+    FAILED - http://mailstatic.yandex.net/neo/35515/css/theme/green/theme-page-inbox.ie.css
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/b-round/b-round.001.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/ico-close.gif
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/languages.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/languages.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/loader.gif
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/progress.gif
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/teasers/feedback/bg2.gif
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/dialog.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/folder-icons.gif
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/folders-fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/green/folders-fade.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/i/theme/logo-bg.png
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/etc/jquery/jquery.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/lego.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/Mail.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/pages/messages.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js_texts/ru/Mail_js.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js_texts/ru/messages_js.js
+    FAILED - http://neim-tub.yandex.ru/i?id=57890&n=3
+    FAILED - http://pass.yandex.ru/services?callback=jsonp1244737420984&_=1244737422312&locale=ru&login=yes
+    FAILED - http://yabs.yandex.ru/resource/XhyADgF9PmC1cHCs60GA8Q.gif?rnd=486200
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/etc/jquery/jquery.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/lego.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js_texts/ru/Mail_js.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/Mail.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/pages/messages.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/js_texts/ru/messages_js.js
+    FAILED - http://mailstatic.yandex.net/neo/35515/css/m-ie6.css
+    FAILED - http://mailstatic.yandex.net/neo/35515/css/page-inbox.ie.css
+    FAILED - http://mailstatic.yandex.net/neo/35515/css/theme/green/theme-page-inbox.ie.css
+  Combine score : 40
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (117.7 KB, compressed = 33.5 KB - savings of 84.2 KB) - http://mailstatic.yandex.net/neo/35515/js/etc/jquery/jquery.js
+    FAILED (75.6 KB, compressed = 20.0 KB - savings of 55.5 KB) - http://mailstatic.yandex.net/neo/35515/js/Mail.js
+    FAILED (66.0 KB, compressed = 12.5 KB - savings of 53.5 KB) - http://mailstatic.yandex.net/neo/35515/css/m-ie6.css
+    FAILED (24.7 KB, compressed = 6.7 KB - savings of 17.9 KB) - http://mailstatic.yandex.net/neo/35515/js/pages/messages.js
+    FAILED (17.0 KB, compressed = 3.7 KB - savings of 13.3 KB) - http://mailstatic.yandex.net/neo/35515/css/page-inbox.ie.css
+    FAILED (10.7 KB, compressed = 4.5 KB - savings of 6.2 KB) - http://mailstatic.yandex.net/neo/35515/js/lego.js
+    FAILED (8.8 KB, compressed = 2.9 KB - savings of 5.9 KB) - http://mailstatic.yandex.net/neo/35515/js_texts/ru/Mail_js.js
+    FAILED (5.9 KB, compressed = 1.2 KB - savings of 4.7 KB) - http://mailstatic.yandex.net/neo/35515/css/theme/green/theme-page-inbox.ie.css
+    FAILED (1.5 KB, compressed = 0.9 KB - savings of 0.6 KB) - http://mailstatic.yandex.net/neo/35515/js_texts/ru/messages_js.js
+  GZIP score : 28
+    340.2 KB total in compressible text, target size = 98.4 KB - potential savings = 241.8 KB
+
+Compress Images:
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (53.3 KB, target = 19.9 KB - savings of 33.4 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/icons.png
+    FAILED  (10.9 KB, target = 4.1 KB - savings of 6.8 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED  (10.9 KB, target = 4.1 KB - savings of 6.8 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED  (10.9 KB, target = 4.1 KB - savings of 6.8 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED  (10.9 KB, target = 4.1 KB - savings of 6.8 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED  (10.9 KB, target = 4.1 KB - savings of 6.8 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED  (10.9 KB, target = 4.1 KB - savings of 6.8 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/neo/35515/i/bottom-toolbar.png
+    FAILED  (5.5 KB, target = 1.8 KB - savings of 3.8 KB)- http://neim-tub.yandex.ru/i?id=57890&n=3
+  Image Compression score : 40
+    1996.5 KB total in images, target size = 816.2 KB - potential savings = 1180.3 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://neim-tub.yandex.ru/i?id=57890&n=3
+    FAILED - http://pass.yandex.ru/services?callback=jsonp1244737420984&_=1244737422312&locale=ru&login=yes
+  Keep-Alive score : 98
+
+Proper cookie usage:
+    FAILED (Static object with 7 cookies - 374 bytes) - http://neim-tub.yandex.ru/i?id=57890&n=3
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/oZTZ0Ea48LTMOm3f12S0/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+    FAILED (Static object with 7 cookies - 374 bytes) - http://pass.yandex.ru/services?callback=jsonp1244737420984&_=1244737422312&locale=ru&login=yes
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/oZTZ0Ea48LTMOm3f12S0/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+    FAILED (Static object with 7 cookies - 366 bytes) - http://yabs.yandex.ru/resource/XhyADgF9PmC1cHCs60GA8Q.gif?rnd=486200
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/LrPZ0Ea49m00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+   WARNING (1 cookies, 14 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=170503&pid=321576&bid=613254&bn=613254&rnd=182498847
+      cookie:uid=1514083657
+   WARNING (7 cookies, 374 bytes) - http://mail.yandex.ru/neo/informers/news
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/oZTZ0Ea48LTMOm3f12S0/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 366 bytes) - http://mail.yandex.ru/?from=mail&r=id39774775&ncrnd=3940
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/LrPZ0Ea49m00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 366 bytes) - http://mail.yandex.ru/neo/messages_thread?d=id39766962
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/LrPZ0Ea49m00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 374 bytes) - http://neim-tub.yandex.ru/i?id=57907&n=3
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/oZTZ0Ea48LTMOm3f12S0/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 374 bytes) - http://neim-tub.yandex.ru/i?id=57150&n=3
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/oZTZ0Ea48LTMOm3f12S0/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 367 bytes) - http://pass.yandex.ru/login?retpath=http%3a%2f%2fmail%2eyandex%2eru%2f%3ffrom%3dmail%26r%3did39774775&ncrnd=956408
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/LrPZ0Ea49m00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737423.0.0.13458412.2:31287569:0.58566.79089.6967f46cfcc3aef98a275b2d06884a6f
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 367 bytes) - http://passport-ckicheck.yandex.ru/passport?mode=ckicheck&idkey=06a1244738623vS9jJAZpf&ncrnd=948743
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/LrPZ0Ea49m00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737423.0.0.13458412.2:31287569:0.58566.79089.6967f46cfcc3aef98a275b2d06884a6f
+      cookie: yandex_nickname=
+   WARNING (3 cookies, 210 bytes) - https://passport.yandex.ru/passport?mode=auth
+      cookie:yandexuid=1049945891244737407
+      cookie: L=YQ85XndhY0QPXUJ4dEBwRgdIBAZ8UQxceXZbHQpbZTBuD1UOKw17MgMCFkIsDgUbJx8xLzwwFkUCJkI9WmdkCQ==.1244737409.5247.237212.75db079cd643527005f283a8cb01cffc
+      cookie: yabs-frequency=/2/LrPZ0Ea49m00/
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/0
+      cookie:guid=DC4E02014A312F7FX1244737407
+   WARNING (7 cookies, 366 bytes) - http://yabs.yandex.ru/resource/flashldr006.js
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/LrPZ0Ea49m00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 366 bytes) - http://yabs.yandex.ru/count/Eto_VlKt6J040X00Zh_u4gC4N0kL0Pi1RqWZYAfyCmQIglxM1ugieV04aA0V0jwHjpZAlWsJXGsBfLs87a6CZVMWZVLu1m00
+      cookie:yandexuid=1049945891244737407
+      cookie: L=ZA8mXndiYUUDWEB+eUh8QgFIAQN6UgRRcjkHUFZRJykzFEwNcxsvNAsUFwRiEhAbKwl8OiQhFRcFIBQ1Gmc3DQ==.1244737423.5247.210389.01b6e437920edf30431a8f763065c515
+      cookie: yabs-frequency=/2/LrPZ0Ea49m00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244737422.0.0.13458412.2:31287569:0.58566.9811.a7126d3c1778ca968ceaa811f70afa40
+      cookie: yandex_nickname=
+  Cookie score : 94
+    4.6 KB total in outbound cookies, target size = 3.5 KB - potential savings = 1.1 KB
+
+Minify JS:
+  Minify score : 100
+    239.7 KB total in minifiable text, target size = 239.7 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://default.avatars.yandex.net/it/44-small
+  ETag score : 99
+
+JQuery Selectors not descended from an ID:
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/etc/jquery/jquery.js
+        Line 19: jQuery("<div/>")
+      (1 occurrences)
+
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/Mail.js
+        Line 1: $("body")
+        Line 1: $('<div class="g-hidden"></div>')
+        Line 1: $("<a></a>")
+        Line 1: $("<a><span></span></a>")
+        Line 1: $('<div class="g-hidden"></div>')
+        Line 1: $('<div class="b-form-error"></div>')
+        Line 1: $('<input type="button"/>')
+        Line 1: $('<iframe class="b-fader" frameborder="0"/><div class="b-fader"/>')
+        Line 1: $("div.b-pager")
+        Line 1: $("div.search-pager")
+        ...
+      (21 occurrences)
+
+    FAILED - http://mailstatic.yandex.net/neo/35515/js/pages/messages.js
+        Line 1: $("tbody.table-rows-body > tr")
+        Line 1: $("tbody.table-rows-body")
+        Line 1: $("input.select-all")
+        Line 1: $("a.action-button, button.action-button")
+        Line 1: $(".l-page .b-system-message a.jsaction-clear")
+      (5 occurrences)
+

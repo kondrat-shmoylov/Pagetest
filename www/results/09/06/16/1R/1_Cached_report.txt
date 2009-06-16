@@ -1,0 +1,55 @@
+Results for 'http://calendar.yandex.ru/':
+
+Page load time: 0.218 seconds
+Time to first byte: 0.131 seconds
+Time to Base Page Downloaded: 0.137 seconds
+Time to Start Render: 0.231 seconds
+Time to Document Complete: 0.218 seconds
+Time to Fully Loaded: 0.218 seconds
+Bytes sent out: 0.016 KB
+Bytes received: 6.047 KB
+DNS Lookups: 1
+Connections: 1
+Requests: 1
+   OK Requests:  1
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://calendar.yandex.ru/
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.137 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 6192 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5959 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=8147612591245158163
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=utf-8
+      Expires: Tue, 16 Jun 2009 13:16:08 GMT
+      Date: Tue, 16 Jun 2009 13:16:08 GMT
+      Server: lighttpd/1.4.19
+

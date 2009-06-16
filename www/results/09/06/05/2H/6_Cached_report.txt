@@ -1,0 +1,71 @@
+Results for 'http://www.yandex.ru/':
+
+Page load time: 22.039 seconds
+Time to first byte: 0.680 seconds
+Time to Base Page Downloaded: 21.008 seconds
+Time to Start Render: 21.304 seconds
+Time to Document Complete: 22.039 seconds
+Time to Fully Loaded: 22.039 seconds
+Bytes sent out: 2.173 KB
+Bytes received: 2.419 KB
+DNS Lookups: 4
+Connections: 4
+Requests: 4
+   OK Requests:  3
+   Redirects:    0
+   Not Modified: 1
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://www.yandex.ru/
+      Host: www.yandex.ru
+      Result code: 200
+      Transaction time: 21.008 seconds
+      Time to first byte: 0.412 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 673 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a**1505175671244203410**yandex_ru/ru/CP1251/tmsec=yandex_main/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.839 seconds
+      Time to first byte: 0.124 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 405 Bytes
+      Response size (in): 438 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.6.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.731 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 726 Bytes
+      Response size (in): 250 Bytes
+
+Request 4:
+      Action: GET
+      Url: https://passport.yandex.ru/js/smarthttps.js
+      Host: passport.yandex.ru
+      Result code: 200
+      Transaction time: 0.259 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 421 Bytes
+      Response size (in): 765 Bytes
+

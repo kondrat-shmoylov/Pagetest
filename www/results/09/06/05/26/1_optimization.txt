@@ -1,0 +1,382 @@
+Optimization Report : 06/05/09 at 10:52:36
+
+Results for 'http://aol.com/':
+
+Page load time: 9.827 seconds
+Time to first byte: 0.480 seconds
+Time to Base Page Downloaded: 1.427 seconds
+Time to Start Render: 2.692 seconds
+Time to Document Complete: 9.827 seconds
+Time to Fully Loaded: 14.077 seconds
+Bytes sent out: 52.539 KB
+Bytes received: 506.992 KB
+DNS Lookups: 35
+Connections: 63
+Requests: 126
+   OK Requests:  111
+   Redirects:    11
+   Not Modified: 0
+   Not Found:    0
+   Other:        4 (301, 0, 0, 0)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://about-search.aol.com/crossdomain.xml
+    FAILED  (No max-age or expires) - http://about-search.aol.com/feed/data.txt
+    FAILED  (No max-age or expires) - http://aka-cdn-ns.adtechus.com/apps/266/Ad0St3Sz2211Sq0V2Id573706/job-4.jpg
+    FAILED  (No max-age or expires) - http://anrtx.tacoda.net/rtx/r.js?cmd=OTH&si=16649&xs=1&v=4.0&cb=8544
+    FAILED  (No max-age or expires) - http://bh.contextweb.com/bh/set.aspx?action=replace&advid=1148&token=MAOL1
+    FAILED  (No max-age or expires) - http://bh.contextweb.com/bh/set.aspx?action=replace&advid=301&token=AOLE9
+    FAILED  (No max-age or expires) - http://www.aol.com/track/aggregate?u=http%3A%2F%2Fwww.aol.com%2F&d=d%3D22470_23410_8033_50692_22979_45766_7935_47175_9_45765_22471_23410_25707_47175_623_53798_27731_31003_10_53622_7934_47175_23747_43993_22952_8594_37422_53752_24099_52900_7891_43156_25698_23410_8049_7932_22411_53873_23602_49231_23389_53301_826_44717_625_53875_25696_8594_8066_8359_25512_31096_25513_52894_22950_8594_24524_53708_25527_7799_27730_27751_624_53869_7892_43156_25716_43156&_=1244184747921
+    FAILED  (No max-age or expires) - http://www.aol.com/track/aggregate?u=http%3A%2F%2Fwww.aol.com%2F&d=d%3D37423_53717&_=1244184750390
+    FAILED  (15.0 minutes) - http://an.tacoda.net/an/16649/slf.js
+    FAILED  (15.0 minutes) - http://an.tacoda.net/an/g10000/slf.js
+    FAILED  (15.0 minutes) - http://an.tacoda.net/an/tpp2.js
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_main_swf.swf
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_overlay_swf.swf
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/A118422_300_250.js
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/script_300_250.js?0.3482447471301692
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/assets/uc/3.0/u3.0.54.swf
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/assets/uc/3.0/v.txt?=0.13559208298102
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/assets/uc/3.0/v.txt?=0.441870630718768
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/assets/uc/3.0/v3.0.54.swf
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/script2/V3.00/deliver.js
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/script2/V3.00/extern.js
+    FAILED  (30.0 minutes) - http://creativeby2.unicast.com/script2/V3.00/select.js
+    WARNING (6.0 hours) - http://o.aolcdn.com/feedback/feedback1.js
+    WARNING (23.7 hours) - http://o.aolcdn.com/ads/adsWrapperAT.js
+    WARNING (24.0 hours) - http://m1.2mdn.net/viewad/2080520/88x31_7_j.gif
+    WARNING (24.0 hours) - http://o.aolcdn.com/dims/PGMC/5/271/406/90/http://www.aolcdn.com/photogalleryassets/movies/395485/angelina-jolie-intro-quad-330b.jpg
+    WARNING (5.1 days) - http://portal.aolcdn.com/p/socnet-assets/1-bottom-shadow
+    WARNING (5.1 days) - http://portal.aolcdn.com/p/socnet-assets/1-carousel-back
+    WARNING (5.1 days) - http://portal.aolcdn.com/p/socnet-assets/1-default-loader
+    WARNING (5.1 days) - http://portal.aolcdn.com/p/socnet-assets/1-facebook-carousel
+    WARNING (5.1 days) - http://portal.aolcdn.com/p/socnet-assets/1-myspace-carousel
+    WARNING (5.1 days) - http://portal.aolcdn.com/p/socnet-assets/1-top-shadow
+    WARNING (5.1 days) - http://portal.aolcdn.com/p/socnet-assets/1-twitter-carousel
+    WARNING (5.1 days) - http://portal.aolcdn.com/p/socnet-assets/1-splash-image
+    WARNING (5.3 days) - http://o.aolcdn.com/omniunih.js
+    WARNING (7.0 days) - http://www.aolcdn.com/pops_promo/1020_search_6_link_v6.swf
+    WARNING (7.0 days) - http://www.aolcdn.com/pops_promo/dentist_cm_50x50.gif
+    WARNING (7.0 days) - http://www.aolcdn.com/pops_promo/dinner2_cm_50x50.jpg
+    WARNING (7.0 days) - http://www.aolcdn.com/pops_promo/doctor2_cm_50x50.jpg
+    WARNING (7.0 days) - http://www.aolcdn.com/pops_promo/pixel
+    WARNING (7.0 days) - http://www.aolcdn.com/pops_promo/plumber2_cm_50x50.jpg
+    WARNING (7.0 days) - http://www.aolcdn.com/pops_promo/salon2_cm_50x50.jpg
+    WARNING (7.0 days) - http://www.aolcdn.com/pops_promo/wrtflash_v7.js
+    WARNING (7.9 days) - http://portal.aolcdn.com/p/pubtool/form1663/mainlogo.image/30c594c9-6401-438b-9e79-7e5babade1e6,1
+    WARNING (8.6 days) - http://portal.aolcdn.com/p/pubtool/form1762/tabimage_flagdown.image/1-Mail.gif
+    WARNING (8.6 days) - http://portal.aolcdn.com/skn/main_v1/2-pctrl.gif
+    WARNING (8.6 days) - http://portal.aolcdn.com/p/pubtool/form940/pointerImg/c78a4b53-4b82-427e-a3c4-d76e9f41c166,1
+    WARNING (8.6 days) - http://portal.aolcdn.com/skn/main_v1/2-bctrl.gif
+    WARNING (8.6 days) - http://portal.aolcdn.com/skn/main_v1/2-fctrl.gif
+    WARNING (8.6 days) - http://portal.aolcdn.com/p/pubtool/form940/howToDiagramImg.image/1b2cf226-ac4c-4e86-a7ce-d31302b9cd94,1
+    WARNING (8.6 days) - http://portal.aolcdn.com/p/pubtool/form1171/loadingimage/a8489b87-4c2c-428d-a22e-e6f64e868b1e,1
+    WARNING (8.6 days) - http://portal.aolcdn.com/p/pubtool/form794/tabimage.image/radio_ico,1
+    WARNING (8.6 days) - http://portal.aolcdn.com/p/pubtool/form993/tabimage.image/yahoo-mail.gif,1
+    WARNING (9.1 days) - http://portal.aolcdn.com/p/pubtool/form948/snagbutton.image/dlsnag_but,1
+    WARNING (9.1 days) - http://portal.aolcdn.com/p/skn/blue_v1/1-mailbtn_gradient.gif
+    WARNING (9.1 days) - http://portal.aolcdn.com/p/pubtool/form1080/tabimage_flagdown.image/gmail.gif,1
+    WARNING (19.1 days) - http://portal.aolcdn.com/p/_v3/css/main/stb-shad.gif
+    WARNING (19.1 days) - http://portal.aolcdn.com/p/_v3/css/main/main.css
+    WARNING (19.1 days) - http://portal.aolcdn.com/p/_v3/js/main.js
+    WARNING (19.1 days) - http://portal.aolcdn.com/p/_v3/css/main/aol_chicklet_sprite.png
+    WARNING (19.1 days) - http://portal.aolcdn.com/p/_v3/css/main/m_sprite.png
+    WARNING (19.1 days) - http://portal.aolcdn.com/p/_v3/css/blue/cols_stripe.gif
+    WARNING (19.1 days) - http://portal.aolcdn.com/p/_v3/css/blue/main.css
+    WARNING (19.1 days) - http://portal.aolcdn.com/p/_v3/css/blue/bg_stripe.gif
+    WARNING (19.1 days) - http://portal.aolcdn.com/p/_v3/css/blue/blue_skin.png
+    WARNING (19.2 days) - http://portal.aolcdn.com/p/pubtool/form1698/preload_image.image/1-ad45c8d5-82c4-460e-ab44-20de23764c2b.gif
+    WARNING (20.8 days) - http://portal.aolcdn.com/p/socnet-assets/4-aim-carousel
+    WARNING (21.5 days) - http://portal.aolcdn.com/p/socnet-assets/2-bebo-carousel
+    WARNING (22.2 days) - http://portal.aolcdn.com/p/2-t
+    WARNING (23.1 days) - http://portal.aolcdn.com/p/pubtool/form2885/preload_image.image/1-35e0cd05-2e0c-4f16-8584-dac969ec57d3.gif
+    WARNING (28.6 days) - http://portal.aolcdn.com/p/1promo_images/1-feedmefhb3.jpg
+    WARNING (29.6 days) - http://portal.aolcdn.com/p/pubtool/form597/promoimglink.image/1-aa53d1f7-c6a2-442b-a3a3-5a74f3279a43.jpg
+    WARNING (29.7 days) - http://portal.aolcdn.com/p/images4/1-gosselin-200mc-060409.jpg
+    WARNING (29.7 days) - http://portal.aolcdn.com/p/images4/1-living-peroxide-bottle-200mk060409.jpg
+    WARNING (29.9 days) - http://portal.aolcdn.com/p/pubtool/form595/promoimglink.image/1-14899421-b38b-4f46-b52e-828ebc276b7f.jpg
+    WARNING (29.9 days) - http://portal.aolcdn.com/p/pubtool/form596/promoimglink.image/1-best-soundtracks-dirty-dancing-78x78.jpg
+  Cache score : 37
+
+Use one CDN for all static assets:
+    FAILED - http://about-search.aol.com/crossdomain.xml
+    FAILED - http://about-search.aol.com/feed/data.txt
+    FAILED - http://anrtx.tacoda.net/rtx/r.js?cmd=OTH&si=16649&xs=1&v=4.0&cb=8544
+    FAILED - http://bh.contextweb.com/bh/set.aspx?action=replace&advid=1148&token=MAOL1
+    FAILED - http://bh.contextweb.com/bh/set.aspx?action=replace&advid=301&token=AOLE9
+    FAILED - http://www.aol.com/track/aggregate?u=http%3A%2F%2Fwww.aol.com%2F&d=d%3D22470_23410_8033_50692_22979_45766_7935_47175_9_45765_22471_23410_25707_47175_623_53798_27731_31003_10_53622_7934_47175_23747_43993_22952_8594_37422_53752_24099_52900_7891_43156_25698_23410_8049_7932_22411_53873_23602_49231_23389_53301_826_44717_625_53875_25696_8594_8066_8359_25512_31096_25513_52894_22950_8594_24524_53708_25527_7799_27730_27751_624_53869_7892_43156_25716_43156&_=1244184747921
+    FAILED - http://www.aol.com/track/aggregate?u=http%3A%2F%2Fwww.aol.com%2F&d=d%3D37423_53717&_=1244184750390
+
+  8 CDN's used:
+    portal.aolcdn.com
+    o.aolcdn.com
+    cdn.amgdgt.com
+    www.aolcdn.com
+    m1.2mdn.net
+    aka-cdn-ns.adtechus.com
+    creativeby2.unicast.com
+    an.tacoda.net
+
+  CDN score (static objects) : 91
+  CDN score (one CDN) : 30
+
+Combine static CSS and JS files:
+    FAILED - http://o.aolcdn.com/ads/adsWrapperAT.js
+    FAILED - http://o.aolcdn.com/omniunih.js
+    FAILED - http://portal.aolcdn.com/p/_v3/js/main.js
+    FAILED - http://portal.aolcdn.com/p/_v3/css/main/main.css
+    FAILED - http://portal.aolcdn.com/p/_v3/css/blue/main.css
+  Combine score : 75
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (58.1 KB, compressed = 19.0 KB - savings of 39.1 KB) - http://creativeby2.unicast.com/script2/V3.00/deliver.js
+    FAILED (30.8 KB, compressed = 9.8 KB - savings of 21.0 KB) - http://creativeby2.unicast.com/script2/V3.00/select.js
+    FAILED (7.7 KB, compressed = 2.6 KB - savings of 5.1 KB) - http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/A118422_300_250.js
+    FAILED (3.5 KB, compressed = 1.7 KB - savings of 1.8 KB) - http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/script_300_250.js?0.3482447471301692
+  GZIP score : 75
+    270.2 KB total in compressible text, target size = 203.2 KB - potential savings = 67.0 KB
+
+Compress Images:
+    FAILED  (29.0 KB, target = 8.5 KB - savings of 20.5 KB)- http://portal.aolcdn.com/p/images4/1-gosselin-200mc-060409.jpg
+    WARNING (43.5 KB, target = 33.6 KB - savings of 9.9 KB)- http://o.aolcdn.com/dims/PGMC/5/271/406/90/http://www.aolcdn.com/photogalleryassets/movies/395485/angelina-jolie-intro-quad-330b.jpg
+    FAILED  (12.3 KB, target = 4.0 KB - savings of 8.3 KB)- http://aka-cdn-ns.adtechus.com/apps/266/Ad0St3Sz2211Sq0V2Id573706/job-4.jpg
+    FAILED  (11.9 KB, target = 7.0 KB - savings of 4.9 KB)- http://portal.aolcdn.com/p/images4/1-living-peroxide-bottle-200mk060409.jpg
+    FAILED  (5.3 KB, target = 2.5 KB - savings of 2.8 KB)- http://portal.aolcdn.com/p/pubtool/form597/promoimglink.image/1-aa53d1f7-c6a2-442b-a3a3-5a74f3279a43.jpg
+    FAILED  (1.9 KB, target = 1.1 KB - savings of 0.8 KB)- http://www.aolcdn.com/pops_promo/dinner2_cm_50x50.jpg
+    FAILED  (1.9 KB, target = 1.1 KB - savings of 0.7 KB)- http://www.aolcdn.com/pops_promo/plumber2_cm_50x50.jpg
+    WARNING (4.2 KB, target = 3.5 KB - savings of 0.7 KB)- http://portal.aolcdn.com/p/pubtool/form595/promoimglink.image/1-14899421-b38b-4f46-b52e-828ebc276b7f.jpg
+    WARNING (1.4 KB, target = 1.1 KB - savings of 0.3 KB)- http://www.aolcdn.com/pops_promo/doctor2_cm_50x50.jpg
+    WARNING (1.2 KB, target = 0.9 KB - savings of 0.3 KB)- http://www.aolcdn.com/pops_promo/salon2_cm_50x50.jpg
+  Image Compression score : 75
+    204.3 KB total in images, target size = 155.1 KB - potential savings = 49.2 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://about-search.aol.com/crossdomain.xml
+    FAILED - http://about-search.aol.com/feed/data.txt
+    FAILED - http://ad.de.doubleclick.net/activity;src=2044558;type=aolco003;cat=aolho775;ord=1;num=1702728481001.3842?;~oref=http://www.aol.com/&_dc_ck=try
+    FAILED - http://ad.yieldmanager.com/pixel?id=343461&t=2
+    FAILED - http://ad.yieldmanager.com/unpixel?id=343461
+    FAILED - http://ad.yieldmanager.com/unpixel?id=349833
+    FAILED - http://bh.contextweb.com/bh/set.aspx?action=replace&advid=1148&token=MAOL1
+    FAILED - http://bh.contextweb.com/bh/set.aspx?action=replace&advid=301&token=AOLE9
+    FAILED - http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_main_swf.swf
+    FAILED - http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_overlay_swf.swf
+    FAILED - http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/A118422_300_250.js
+    FAILED - http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/script_300_250.js?0.3482447471301692
+    FAILED - http://creativeby2.unicast.com/assets/uc/3.0/v.txt?=0.441870630718768
+    FAILED - http://creativeby2.unicast.com/assets/uc/3.0/v3.0.54.swf
+    FAILED - http://creativeby2.unicast.com/script2/V3.00/deliver2.html?pid=29492&cid=5700&pub=5&a=118422&VwDebug=false&pc=116473&exp=%27060609%27&fc=false&sc=false&png='http%253A//ping1.unicast.com/adstracking.gif%253FDV%253D3.00%2526PT%253DI%2526AD%253D118422%2526AV%253D_AV_%2526PV%253D_PV_%2526CV%253D_CV_%2526RV%253D_RV_%2526UV%253D_UV_%2526UC%253D_UC_%2526VP%253D0.0.0.0%2526VU%253D_VU_%2526RD%253D9467804____CH%253D'&pip=''&tpi=''&rd=0.5351183394648016
+    FAILED - http://creativeby2.unicast.com/script2/V3.00/select.js
+  Keep-Alive score : 84
+
+Proper cookie usage:
+    FAILED (Static object with 4 cookies - 125 bytes) - http://about-search.aol.com/crossdomain.xml
+      cookie:POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: s_vi=[CS]v1|4A28C0AA000061C5-A3A095600001DC2[CE]
+    FAILED (Static object with 4 cookies - 125 bytes) - http://about-search.aol.com/feed/data.txt
+      cookie:POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: s_vi=[CS]v1|4A28C0AA000061C5-A3A095600001DC2[CE]
+    FAILED (Static object with 5 cookies - 113 bytes) - http://an.tacoda.net/an/tpp2.js
+      cookie:TID=152h1od09p5bna
+      cookie: ANRTT=50280^1^1244774797
+      cookie: TData=99999|^|#|50280
+      cookie: Anxd=x
+      cookie: N=2:a2a2ced6db4dea817e332bbae71d942a
+    FAILED (Static object with 3 cookies - 269 bytes) - http://cdn.amgdgt.com/base/pixels/transparent.gif
+      cookie:ID=AAAAAQAUQDIO4O9d_jkPMbDLDE.TxcTEc5IAAFOAuYXg5E_gicqQnfMPBDoAAAEhrzCZgw--
+      cookie: UA=AAAAAQAUQTyGSj2Ehryqj0BRrY2ot.AYCdgCA3gBY2BAAC.NBAYGRgYGxTxGEAUBABdsAWU-
+      cookie: LO=AAAAAQAUyj8QxUBqlGPjfjhHH6bn7Q.iW0cBAHJ1czttb3c7LTE7bW9zY293Oz87eWFuZGV4IGxsYzticm9hZGJhbmQ7OTUuMTA4LjE3NS4xOA--
+    FAILED (Static object with 2 cookies - 91 bytes) - http://creativeby2.unicast.com/script2/V3.00/deliver.js
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+    FAILED (Static object with 2 cookies - 91 bytes) - http://creativeby2.unicast.com/script2/V3.00/extern.js
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+    FAILED (Static object with 2 cookies - 91 bytes) - http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_main_swf.swf
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+    FAILED (Static object with 2 cookies - 91 bytes) - http://creativeby2.unicast.com/assets/uc/3.0/v.txt?=0.13559208298102
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+    FAILED (Static object with 2 cookies - 91 bytes) - http://creativeby2.unicast.com/assets/uc/3.0/u3.0.54.swf
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+    FAILED (Static object with 2 cookies - 91 bytes) - http://creativeby2.unicast.com/assets/uc/3.0/v3.0.54.swf
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+    FAILED (Static object with 2 cookies - 91 bytes) - http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_overlay_swf.swf
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+    FAILED (Static object with 2 cookies - 91 bytes) - http://creativeby2.unicast.com/assets/uc/3.0/v.txt?=0.441870630718768
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+    FAILED (Static object with 11 cookies - 284 bytes) - http://www.aol.com/track/aggregate?u=http%3A%2F%2Fwww.aol.com%2F&d=d%3D37423_53717&_=1244184750390
+      cookie:tst=%2C0%2Cold-dp
+      cookie: stips=1
+      cookie: stcpp=1
+      cookie: tips=1~feedtab:1
+      cookie: VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+      cookie: dlact=dl2
+      cookie: POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: s_vi=[CS]v1|4A28C0AA000061C5-A3A095600001DC2[CE]
+    FAILED (Static object with 7 cookies - 162 bytes) - http://www.aol.com/track/aggregate?u=http%3A%2F%2Fwww.aol.com%2F&d=d%3D22470_23410_8033_50692_22979_45766_7935_47175_9_45765_22471_23410_25707_47175_623_53798_27731_31003_10_53622_7934_47175_23747_43993_22952_8594_37422_53752_24099_52900_7891_43156_25698_23410_8049_7932_22411_53873_23602_49231_23389_53301_826_44717_625_53875_25696_8594_8066_8359_25512_31096_25513_52894_22950_8594_24524_53708_25527_7799_27730_27751_624_53869_7892_43156_25716_43156&_=1244184747921
+      cookie:tst=%2C0%2Cold-dp
+      cookie: stips=1
+      cookie: stcpp=1
+      cookie: POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: s_vi=[CS]v1|4A28C0AA000061C5-A3A095600001DC2[CE]
+   WARNING (1 cookies, 30 bytes) - http://ad.de.doubleclick.net/activity;src=2044558;type=aolco003;cat=aolho775;ord=1;num=1702728481001.3842?;~oref=http://www.aol.com/&_dc_ck=try
+      cookie:test_cookie=CheckForPermission
+   WARNING (1 cookies, 30 bytes) - http://ad.doubleclick.net/ad/N5043.aolcom/B3313079.31;sz=88x31;ord=184747705?
+      cookie:test_cookie=CheckForPermission
+   WARNING (1 cookies, 71 bytes) - http://ad.yieldmanager.com/pixel?id=343461&t=2
+      cookie:bh="b!!!!'!!K>f!!!!#:kuNW!!K>g!!!!#:kuNW!!K>h!!!!#:kuNW!!K>i!!!!#:kuNW"
+   WARNING (1 cookies, 71 bytes) - http://ad.yieldmanager.com/unpixel?id=343461
+      cookie:bh="b!!!!'!!K>f!!!!#:kuNW!!K>g!!!!#:kuNW!!K>h!!!!#:kuNW!!K>i!!!!#:kuNW"
+   WARNING (5 cookies, 113 bytes) - http://an.tacoda.net/an/tpp.html
+      cookie:TID=152h1od09p5bna
+      cookie: ANRTT=50280^1^1244774797
+      cookie: TData=99999|^|#|50280
+      cookie: Anxd=x
+      cookie: N=2:a2a2ced6db4dea817e332bbae71d942a
+   WARNING (2 cookies, 44 bytes) - http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=88x31;noperf=1;alias=93247222;cfp=1;noaddonpl=y;kvmn=93247222;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      cookie:CfP=1
+      cookie: JEB2=4A28B4947572181C5F6CAF12F0000622
+   WARNING (2 cookies, 44 bytes) - http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=300x250;noperf=1;alias=93247227;cfp=1;noaddonpl=y;kvmn=93247227;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      cookie:CfP=1
+      cookie: JEB2=4A28B4947572181C5F6CAF12F0000622
+   WARNING (2 cookies, 44 bytes) - http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=61x21;noperf=1;alias=93247230;cfp=1;noaddonpl=y;kvmn=93247230;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      cookie:CfP=1
+      cookie: JEB2=4A28B4947572181C5F6CAF12F0000622
+   WARNING (2 cookies, 44 bytes) - http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=322x90;noperf=1;alias=93301607;cfp=1;noaddonpl=y;kvmn=93301607;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      cookie:CfP=1
+      cookie: JEB2=4A28B4947572181C5F6CAF12F0000622
+   WARNING (1 cookies, 5 bytes) - http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=291x15;cfp=1;rndc=124418474;noperf=1;alias=93247218;kvmn=93247218;target=_blank;aduho=-240;grp=184742437;misc=184742437
+      cookie:CfP=1
+   WARNING (4 cookies, 61 bytes) - http://cdn.at.atwola.com/_media/uac/anatp.html?t=152h1od09p5bna&s=99999,50280&b=85063
+      cookie:CfP=1
+      cookie: JEB2=4A28B4947572181C5F6CAF12F0000622
+      cookie: AxData=
+      cookie: Axxd=1
+   WARNING (2 cookies, 44 bytes) - http://cdn.at.atwola.com/_media/uac/tcode3.html
+      cookie:CfP=1
+      cookie: JEB2=4A28B4947572181C5F6CAF12F0000622
+   WARNING (5 cookies, 171 bytes) - http://eatps.web.aol.com/open_web_adhoc?subtype=4152&distset=3LS052709p0CMt1_n&1244184746656
+      cookie:POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: s_vi=[CS]v1|4A28C0AA000061C5-A3A095600001DC2[CE]
+      cookie: POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+   WARNING (5 cookies, 171 bytes) - http://eatps.web.aol.com/open_web_adhoc?subtype=4153&distset=ffa_dynapub_test3&1244184747656
+      cookie:POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: s_vi=[CS]v1|4A28C0AA000061C5-A3A095600001DC2[CE]
+      cookie: POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+   WARNING (4 cookies, 125 bytes) - http://eatps.web.aol.com/open_web_adhoc?subtype=4150&distset=3ml0309nonaolmct_n&1244184744875
+      cookie:POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: s_vi=[CS]v1|4A28C0AA000061C5-A3A095600001DC2[CE]
+   WARNING (1 cookies, 41 bytes) - http://leadback.advertising.com/adcedge/lb?site=695501&betr=tc=1,99999,50280&guidm=1:152h1od09p5bna&bnum=53369
+      cookie:C2=uCMKK5JHy4GFGAKnUAAFLYASBUxCGgPCXvgBwB
+   WARNING (1 cookies, 18 bytes) - http://leadback.advertising.com/adcedge/lb?site=695501&srvc=1&betr=asuper_cs=1[24],2[168],3[720]
+      cookie:C2=qCMKK5JHy4GFGAK
+   WARNING (4 cookies, 125 bytes) - http://o.sa.aol.com/b/ss/aolcommem,aolsvc/1/H.20/s24702906615268?AQB=1&pccr=true&vidn=4A28C0AA000061C5-A3A095600001DC2&&ndh=1&t=5/5/2009%2010%3A52%3A22%205%20-240&ns=aolllc&cl=63072000&pageName=acm%20%3A%20main%20AOL.com%20Main%2010x7&g=http%3A//www.aol.com/&cc=USD&ch=us.aolportal&events=event10&c1=acm%20%3A%20main%20AOL.com%20Main%2010x7&c2=acm%20%3A%20&c3=gmt_5&c10=external%20web%20browser&c11=anonymous&c12=http%3A//www.aol.com/&c13=non-authenticated&v14=acm%3Adp&c15=unavailable&c17=default-blue&c20=main%20AOL.com%20Main%2010x7&c24=uaid_na&c49=H.20-Mar2009&s=1024x768&c=32&j=1.5&v=Y&k=Y&bw=1024&bh=599&ct=lan&hp=N&AQE=1
+      cookie:POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: s_vi=[CS]v1|4A28C0AA000061C5-A3A095600001DC2[CE]
+   WARNING (2 cookies, 55 bytes) - http://o.sa.aol.com/b/ss/aolcommem,aolsvc/1/H.20/s24702906615268?AQB=1&ndh=1&t=5/5/2009%2010%3A52%3A22%205%20-240&ns=aolllc&cl=63072000&pageName=acm%20%3A%20main%20AOL.com%20Main%2010x7&g=http%3A//www.aol.com/&cc=USD&ch=us.aolportal&events=event10&c1=acm%20%3A%20main%20AOL.com%20Main%2010x7&c2=acm%20%3A%20&c3=gmt_5&c10=external%20web%20browser&c11=anonymous&c12=http%3A//www.aol.com/&c13=non-authenticated&v14=acm%3Adp&c15=unavailable&c17=default-blue&c20=main%20AOL.com%20Main%2010x7&c24=uaid_na&c49=H.20-Mar2009&s=1024x768&c=32&j=1.5&v=Y&k=Y&bw=1024&bh=599&ct=lan&hp=N&AQE=1
+      cookie:POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+   WARNING (1 cookies, 71 bytes) - http://ping1.unicast.com/adstracking.gif?DV=3.00&PT=I&AD=118422&AV=1&PV=1&CV=1&RV=1&UV=1&UC=1&VP=0.0.0.0&VU=0&RD=9467804***&CH=5031
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+   WARNING (1 cookies, 71 bytes) - http://ping1.unicast.com/adstracking.gif?DV=3.00&PT=A&AD=118422&ED=Video%5FLandOfTheLostFloating%5FStart&EV=0&PS=A&AC=1&PI=220698&TV=4&RD=9078082***&CH=7730
+      cookie:VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+   WARNING (10 cookies, 273 bytes) - http://www.aol.com/ajax.jsp?module=dl&dv=dlC&id=2&dlact=dl2&cback=dlc%28%29
+      cookie:tst=%2C0%2Cold-dp
+      cookie: stips=1
+      cookie: stcpp=1
+      cookie: tips=1~feedtab:1
+      cookie: VWCUK200=L060509/Q29492_5700_5_060509_1_060609_118422x116473x060509x1x1
+      cookie: SVWCUK200=118422_1
+      cookie: POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: s_vi=[CS]v1|4A28C0AA000061C5-A3A095600001DC2[CE]
+   WARNING (5 cookies, 103 bytes) - http://www.aol.com/ads/load_v6.htm
+      cookie:tst=%2C0%2Cold-dp
+      cookie: stips=1
+      cookie: POP_COOKIE=name=aGRtMDcxMjQ0MTg0NzQzeA%3d%3d
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+  Cookie score : 80
+    3.5 KB total in outbound cookies, target size = 1.8 KB - potential savings = 1.8 KB
+
+Minify JS:
+    FAILED (78.1 KB, minified = 69.1 KB - savings of 9.0 KB) - http://portal.aolcdn.com/p/_v3/js/main.js
+    FAILED (7.7 KB, minified = 6.7 KB - savings of 1.0 KB) - http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/A118422_300_250.js
+  Minify score : 95
+    215.1 KB total in minifiable text, target size = 205.2 KB - potential savings = 10.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://about-search.aol.com/crossdomain.xml
+    FAILED - http://about-search.aol.com/feed/data.txt
+    FAILED - http://aka-cdn-ns.adtechus.com/apps/266/Ad0St3Sz2211Sq0V2Id573706/job-4.jpg
+    FAILED - http://an.tacoda.net/an/g10000/slf.js
+    FAILED - http://an.tacoda.net/an/16649/slf.js
+    FAILED - http://an.tacoda.net/an/tpp.html
+    FAILED - http://an.tacoda.net/an/tpp2.js
+    FAILED - http://c7.zedo.com/img/bh.gif?n=162&g=20&a=497&s=1&l=1&t=e
+    FAILED - http://cdn.amgdgt.com/base/pixels/transparent.gif
+    FAILED - http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/script_300_250.js?0.3482447471301692
+    FAILED - http://creativeby2.unicast.com/script2/V3.00/select.js
+    FAILED - http://creativeby2.unicast.com/script2/V3.00/deliver2.html?pid=29492&cid=5700&pub=5&a=118422&VwDebug=false&pc=116473&exp=%27060609%27&fc=false&sc=false&png='http%253A//ping1.unicast.com/adstracking.gif%253FDV%253D3.00%2526PT%253DI%2526AD%253D118422%2526AV%253D_AV_%2526PV%253D_PV_%2526CV%253D_CV_%2526RV%253D_RV_%2526UV%253D_UV_%2526UC%253D_UC_%2526VP%253D0.0.0.0%2526VU%253D_VU_%2526RD%253D9467804____CH%253D'&pip=''&tpi=''&rd=0.5351183394648016
+    FAILED - http://creativeby2.unicast.com/assets/A23/N231/M5700/P5/Q29492/A118422_300_250.js
+    FAILED - http://creativeby2.unicast.com/script2/V3.00/deliver.js
+    FAILED - http://creativeby2.unicast.com/script2/V3.00/extern.js
+    FAILED - http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_main_swf.swf
+    FAILED - http://creativeby2.unicast.com/assets/uc/3.0/v.txt?=0.13559208298102
+    FAILED - http://creativeby2.unicast.com/assets/uc/3.0/u3.0.54.swf
+    FAILED - http://creativeby2.unicast.com/assets/uc/3.0/v3.0.54.swf
+    FAILED - http://creativeby2.unicast.com/assets/A23/N231/M5700/C116473/Land_of_the_Lost_AOL_300x250_exp_overlay_swf.swf
+    FAILED - http://creativeby2.unicast.com/assets/uc/3.0/v.txt?=0.441870630718768
+    FAILED - http://leadback.advertising.com/adcedge/lb?site=695501&srvc=1&betr=aolpix_cs=1[4320]
+    FAILED - http://leadback.advertising.com/adcedge/lb?site=695501&srvc=1&betr=asuper_cs=1[24],2[168],3[720]
+    FAILED - http://leadback.advertising.com/adcedge/lb?site=695501&betr=tc=1,99999,50280&guidm=1:152h1od09p5bna&bnum=53369
+    FAILED - http://o.aolcdn.com/omniunih.js
+    FAILED - http://o.aolcdn.com/feedback/feedback1.js
+    FAILED - http://o.sa.aol.com/b/ss/aolcommem,aolsvc/1/H.20/s24702906615268?AQB=1&ndh=1&t=5/5/2009%2010%3A52%3A22%205%20-240&ns=aolllc&cl=63072000&pageName=acm%20%3A%20main%20AOL.com%20Main%2010x7&g=http%3A//www.aol.com/&cc=USD&ch=us.aolportal&events=event10&c1=acm%20%3A%20main%20AOL.com%20Main%2010x7&c2=acm%20%3A%20&c3=gmt_5&c10=external%20web%20browser&c11=anonymous&c12=http%3A//www.aol.com/&c13=non-authenticated&v14=acm%3Adp&c15=unavailable&c17=default-blue&c20=main%20AOL.com%20Main%2010x7&c24=uaid_na&c49=H.20-Mar2009&s=1024x768&c=32&j=1.5&v=Y&k=Y&bw=1024&bh=599&ct=lan&hp=N&AQE=1
+    FAILED - http://o.sa.aol.com/b/ss/aolcommem,aolsvc/1/H.20/s24702906615268?AQB=1&pccr=true&vidn=4A28C0AA000061C5-A3A095600001DC2&&ndh=1&t=5/5/2009%2010%3A52%3A22%205%20-240&ns=aolllc&cl=63072000&pageName=acm%20%3A%20main%20AOL.com%20Main%2010x7&g=http%3A//www.aol.com/&cc=USD&ch=us.aolportal&events=event10&c1=acm%20%3A%20main%20AOL.com%20Main%2010x7&c2=acm%20%3A%20&c3=gmt_5&c10=external%20web%20browser&c11=anonymous&c12=http%3A//www.aol.com/&c13=non-authenticated&v14=acm%3Adp&c15=unavailable&c17=default-blue&c20=main%20AOL.com%20Main%2010x7&c24=uaid_na&c49=H.20-Mar2009&s=1024x768&c=32&j=1.5&v=Y&k=Y&bw=1024&bh=599&ct=lan&hp=N&AQE=1
+    FAILED - http://p.opt.fimserve.com/bht/?r=p&px=1081&v=1&rnd=[RANDOMNUMBERHERE]
+    FAILED - http://www.aol.com/ads/load_v6.htm
+  ETag score : 76
+
+JQuery Selectors not descended from an ID:
+    FAILED - http://portal.aolcdn.com/p/_v3/js/main.js
+        Line 156: $("<img/>")
+        Line 156: $('<button type="button"></button>')
+        Line 156: $("<img/>")
+        Line 156: $("body")
+        Line 156: $("iframe.ui-datepicker-cover")
+        Line 156: $("body")
+        Line 157: $("body")
+        Line 157: $("<div></div>")
+        Line 157: $("body")
+        Line 157: $("<div></div>")
+        ...
+      (69 occurrences)
+

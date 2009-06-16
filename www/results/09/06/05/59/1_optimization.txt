@@ -1,0 +1,119 @@
+Optimization Report : 06/05/09 at 19:54:35
+
+Results for 'http://yandex.ru/yandsearch?text=%EB%F3%E1%FF%ED%EA%E0&i-m-a-hacker=1':
+
+Page load time: 1.225 seconds
+Time to first byte: 0.106 seconds
+Time to Base Page Downloaded: 0.235 seconds
+Time to Start Render: 0.742 seconds
+Time to Document Complete: 1.225 seconds
+Time to Fully Loaded: 1.225 seconds
+Bytes sent out: 9.868 KB
+Bytes received: 61.339 KB
+DNS Lookups: 9
+Connections: 14
+Requests: 26
+   OK Requests:  25
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.a-lubyanka.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.glavpivtorg.ru
+    FAILED  (No max-age or expires) - http://im2-tub.yandex.net/i?id=1464038&tov=2
+    FAILED  (No max-age or expires) - http://video-tub.yandex.ru/i?&tov=0&id=9340347
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.js
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/ru.wikipedia.org
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.agentura.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.apartment.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.flashcom.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.kleos.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.lubanka.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.mosmetro.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.tv-ostankino.ru
+  Cache score : 59
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/ru.wikipedia.org
+    FAILED - http://favicon.yandex.net/favicon/www.a-lubyanka.ru
+    FAILED - http://favicon.yandex.net/favicon/www.agentura.ru
+    FAILED - http://favicon.yandex.net/favicon/www.apartment.ru
+    FAILED - http://favicon.yandex.net/favicon/www.flashcom.ru
+    FAILED - http://favicon.yandex.net/favicon/www.glavpivtorg.ru
+    FAILED - http://favicon.yandex.net/favicon/www.kleos.ru
+    FAILED - http://favicon.yandex.net/favicon/www.lubanka.ru
+    FAILED - http://favicon.yandex.net/favicon/www.mosmetro.ru
+    FAILED - http://favicon.yandex.net/favicon/www.tv-ostankino.ru
+    FAILED - http://im2-tub.yandex.net/i?id=1464038&tov=2
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/stars-1.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://video-tub.yandex.ru/i?&tov=0&id=9340347
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.4 KB, compressed = 5.5 KB - savings of 16.9 KB) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED (11.9 KB, compressed = 4.8 KB - savings of 7.1 KB) - http://css.yandex.net/css/search/r13/_serp.js
+  GZIP score : 32
+    35.7 KB total in compressible text, target size = 11.7 KB - potential savings = 24.0 KB
+
+Compress Images:
+    FAILED  (3.5 KB, target = 1.1 KB - savings of 2.5 KB - Convert PNG to 8 bit)- http://favicon.yandex.net/favicon/www.flashcom.ru
+    FAILED  (3.9 KB, target = 2.0 KB - savings of 1.8 KB)- http://video-tub.yandex.ru/i?&tov=0&id=9340347
+  Image Compression score : 78
+    20.3 KB total in images, target size = 16.0 KB - potential savings = 4.3 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+  Keep-Alive score : 76
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=9340347
+      cookie:yandexuid=7288561244217276
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=7288561244217276
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=452E06044A293FBDX1244217277
+  Cookie score : 92
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    11.9 KB total in minifiable text, target size = 11.9 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/stars-1.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 57
+
+JQuery Selectors not descended from an ID:
+  No problems found

@@ -1,0 +1,71 @@
+Optimization Report : 06/11/09 at 21:22:40
+
+Results for 'http://my.ya.ru/':
+
+Page load time: 0.260 seconds
+Time to first byte: 0.132 seconds
+Time to Base Page Downloaded: 0.159 seconds
+Time to Start Render: 0.270 seconds
+Time to Document Complete: 0.260 seconds
+Time to Fully Loaded: 0.260 seconds
+Bytes sent out: 0.094 KB
+Bytes received: 7.415 KB
+DNS Lookups: 3
+Connections: 3
+Requests: 6
+   OK Requests:  2
+   Redirects:    4
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+Base Page Redirects: 4
+
+
+Enable browser caching of static assets:
+  No appropriate resources present
+
+Use one CDN for all static assets:
+  No appropriate resources present
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (5.6 KB, compressed = 2.2 KB - savings of 3.3 KB) - http://my.ya.ru/?ncrnd=4906
+  GZIP score : 40
+    5.6 KB total in compressible text, target size = 2.2 KB - potential savings = 3.3 KB
+
+Compress Images:
+  Image Compression score : 100
+    0.0 KB total in images, target size = 0.0 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+   WARNING (2 cookies, 59 bytes) - http://my.ya.ru/?ncrnd=4906
+      cookie:yandexuid=3517973691244740954
+      cookie: Session_id=noauth:1244740960
+   WARNING (2 cookies, 45 bytes) - http://my.ya.ru/pass/?retpath=http%3A%2F%2Fmy.ya.ru%2F
+      cookie:yandexuid=3517973691244740954
+      cookie: Cookie_check=1
+   WARNING (1 cookies, 29 bytes) - http://my.ya.ru/
+      cookie:yandexuid=3517973691244740954
+   WARNING (1 cookies, 29 bytes) - http://my.ya.ru/pass?retpath=http%3A%2F%2Fmy.ya.ru%2F&session_info=noauth%3A1244740960.sah%5E5F6C9171.yandexuid%5E3517973691244740954.my%3Aya_ru%3A24177.8819.c89f04e5cdd24a009b74e67941889947&ncrnd=9336
+      cookie:yandexuid=3517973691244740954
+   WARNING (1 cookies, 29 bytes) - http://pass.yandex.ru/?retpath=http%3A%2F%2Fmy.ya.ru%2F&ncrnd=4813
+      cookie:yandexuid=3517973691244740954
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_yaru/0
+      cookie:guid=2CB403004A313D5BX1244740955
+  Cookie score : 50
+    0.2 KB total in outbound cookies, target size = 0.2 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

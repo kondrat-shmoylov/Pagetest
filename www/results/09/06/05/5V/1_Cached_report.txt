@@ -1,0 +1,131 @@
+Results for 'http://yandex.ru/yandsearch?text=%F2%E5%EB%E5%E2%E8%E7%EE%F0%20Sony%20KDL-52x2000&i-m-a-hacker=1':
+
+Page load time: 0.475 seconds
+Time to first byte: 0.108 seconds
+Time to Base Page Downloaded: 0.108 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.475 seconds
+Time to Fully Loaded: 0.475 seconds
+Bytes sent out: 4.857 KB
+Bytes received: 18.338 KB
+DNS Lookups: 5
+Connections: 6
+Requests: 9
+   OK Requests:  3
+   Redirects:    2
+   Not Modified: 4
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.108 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 795 Bytes
+      Response size (in): 250 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/flashldr006.js
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.031 seconds
+      Time to first byte: 0.021 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 514 Bytes
+      Response size (in): 149 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.069 seconds
+      Time to first byte: 0.061 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 461 Bytes
+      Response size (in): 438 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/DBzQkzqSYzvpe7wNQtdOqg.swf?rnd=365500&link1=http://yabs.yandex.ru/count/AsQP3ItsiSW40X00ZhKCbA84KfK2cm9kKYq1DOYcFfO5YQkhJ16IeoUK1ugizxq4ZG6HlrwPLG-Fi4IfB0oVi7x_omMJXGsBfz-27KAWc1e6b9Qn7ta9
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.042 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 638 Bytes
+      Response size (in): 16680 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/AsQP3Vp0vPy40X00ZhKCbA84KfK2cm9kKYq1DOYcFfO5YQkhJ16IeoUK1ugizxq4ZG6HlrwPLG-Fi4IfB0oVi7x_omMJXGsBgT-27K6Cc1e6e9WQ1fIMiHzz2G00
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.038 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 571 Bytes
+      Response size (in): 486 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/spacer.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.033 seconds
+      Time to first byte: 0.032 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 510 Bytes
+      Response size (in): 149 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://im4-tub.yandex.net/i?id=36540886&tov=4
+      Host: im4-tub.yandex.net
+      Result code: 304
+      Transaction time: 0.128 seconds
+      Time to first byte: 0.028 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 441 Bytes
+      Response size (in): 101 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/AsQP3PwH18y40X00ZhKCbA84KfK4cm5kK2A8b0DzYQBKhW6If8Se0egc-qu1ZG6HlrwPLG-FkfHVSWYViR5_7GoJXGsBgVGQ1K5-1m00?728144141
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 561 Bytes
+      Response size (in): 394 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://clck.yandex.ru/click/dtype=yabs/id=7/key=pack/*?728144141
+      Host: clck.yandex.ru
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 483 Bytes
+      Response size (in): 131 Bytes
+

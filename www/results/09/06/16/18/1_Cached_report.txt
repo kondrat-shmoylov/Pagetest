@@ -1,0 +1,994 @@
+Results for 'http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1':
+
+Error loading page: 99996 (0x0001869C)
+Page load time: 0.310 seconds
+Time to first byte: 0.150 seconds
+Time to Base Page Downloaded: 0.155 seconds
+Time to Start Render: 0.283 seconds
+Time to DOM Element(class=l-results): 0.000 seconds
+Time to Document Complete: 0.310 seconds
+Time to Fully Loaded: 0.310 seconds
+Bytes sent out: 0.484 KB
+Bytes received: 43.660 KB
+DNS Lookups: 11
+Connections: 13
+Requests: 31
+   OK Requests:  21
+   Redirects:    2
+   Not Modified: 7
+   Not Found:    1
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://export.yandex.ru/geoselectorData.xml
+      Host: export.yandex.ru
+      Result code: 200
+      Transaction time: 0.155 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 24575 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 24290 Bytes
+  Request Headers:
+      GET /geoselectorData.xml HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 16 Jun 2009 13:38:16 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: export.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=9507101245145096; yabs-frequency=/2/DQPZ0Eu48G00/; ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/javascript; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 09:40:21 GMT
+      Last-Modified: Tue, 16 Jun 2009 13:40:21 GMT
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Server: lighttpd/1.4.19
+
+Request 2:
+      Action: GET
+      Url: http://css.yandex.net/n.gif
+      Host: css.yandex.net
+      Result code: 404
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 389 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 203 Bytes
+  Request Headers:
+      GET /n.gif HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: css.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Server: nginx/0.6.35
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Content-Type: text/html
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Content-Encoding: gzip
+
+Request 3:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 250 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /tsuggest-1.5b3.html HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 31 Mar 2009 13:16:44 GMT; length=13874
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: suggest.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=9507101245145096; yabs-frequency=/2/DQPZ0Eu48G00/; ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Tue, 31 Mar 2009 13:16:44 GMT
+      ETag: "630937004"
+      Content-Type: text/html
+      Accept-Ranges: bytes
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Server: lighttpd/1.4.18
+
+Request 4:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/cl.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 149 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /resource/cl.gif HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 23 Sep 2003 12:17:48 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=9507101245145096; yabs-frequency=/2/DQPZ0Eu48G00/; ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Content-Length: 0
+
+Request 5:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/3ebVQtI3d2K40X00ZhY0TgC4KfK2cmTiFoq1YALZEWQIe4lX1ugh2la4ZG6Ge1y2tf6oi07M29E53OkdOhyUGNm6?rnd=243883883
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 498 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /count/3ebVQtI3d2K40X00ZhY0TgC4KfK2cmTiFoq1YALZEWQIe4lX1ugh2la4ZG6Ge1y2tf6oi07M29E53OkdOhyUGNm6?rnd=243883883 HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=9507101245145096; yabs-frequency=/2/DQPZ0Eu48G00/; ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+  Response Headers:
+      HTTP/1.1 302 Found
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Tue, 16 Jun 2009 09:40:21 GMT
+      Expires: Tue, 16 Jun 2009 09:40:21 GMT
+      Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+      Pragma: no-cache
+      Location: http://yabs.yandex.ru/resource/ZU9HL^AHyGMDVGh_pVbkUA.png
+      Set-Cookie: yabs-frequency=/2/DQPZ0Eu4GG00/; domain=.yandex.ru; path=/; expires=Thu, 24-Sep-2009 09:40:21 GMT
+      Content-Length: 0
+
+Request 6:
+      Action: GET
+      Url: http://im5-tub.yandex.net/i?id=95141303&tov=5
+      Host: im5-tub.yandex.net
+      Result code: 304
+      Transaction time: 0.031 seconds
+      Time to first byte: 0.028 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 101 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i?id=95141303&tov=5 HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 03 Jun 2009 20:28:20 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: im5-tub.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Connection: close
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Server: yandex
+
+Request 7:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.034 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0 HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=D25B02014A376809X1245145097
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 8:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/ZU9HL^AHyGMDVGh_pVbkUA.png
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 149 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /resource/ZU9HL^AHyGMDVGh_pVbkUA.png HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=9507101245145096; yabs-frequency=/2/DQPZ0Eu4GG00/; ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+      If-Modified-Since: Tue, 16 Jun 2009 05:19:31 GMT
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Content-Length: 0
+
+Request 9:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=13&endLine=16&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 1027 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 859 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=13&endLine=16&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 10:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=12&endLine=15&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 875 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 707 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=12&endLine=15&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 11:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=11&endLine=14&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 756 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 588 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=11&endLine=14&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 12:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=10&endLine=13&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 598 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 430 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=10&endLine=13&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 13:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=9&endLine=12&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 558 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 390 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=9&endLine=12&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 14:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=8&endLine=11&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 697 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 529 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=8&endLine=11&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 15:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=7&endLine=10&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 809 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 641 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=7&endLine=10&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 16:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=6&endLine=9&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 971 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 803 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=6&endLine=9&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 17:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=5&endLine=8&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 950 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 782 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=5&endLine=8&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 18:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=14&endLine=17&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 988 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 820 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=14&endLine=17&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 19:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=15&endLine=18&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 960 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 792 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=15&endLine=18&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 20:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=7382008
+      Host: video-tub.yandex.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 3611 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3479 Bytes
+  Request Headers:
+      GET /i?&tov=0&id=7382008 HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 15 Jun 2009 21:10:36 GMT; length=3479
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: video-tub.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=9507101245145096; yabs-frequency=/2/DQPZ0Eu4GG00/; ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+  Response Headers:
+      HTTP/1.0 200 Ok
+      Content-Type: image/jpeg
+      Last-Modified: Mon, 15 Jun 2009 21:10:40 GMT
+      Content-Length: 3479
+      Connection: Close
+
+Request 21:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=16&endLine=19&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 949 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 781 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=16&endLine=19&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 22:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=17&endLine=20&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 948 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 780 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=17&endLine=20&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 23:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=18&endLine=21&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 828 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 660 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=18&endLine=21&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 24:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=19&endLine=22&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 717 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 549 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=19&endLine=22&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 25:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=20&endLine=23&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 589 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 421 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=20&endLine=23&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 26:
+      Action: GET
+      Url: http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=21&endLine=24&callback=oPoetrylover.setNewDataFirstTime
+      Host: poetrylover.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 574 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 406 Bytes
+  Request Headers:
+      GET /poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=21&endLine=24&callback=oPoetrylover.setNewDataFirstTime HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: poetrylover.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: application/javascript; charset=utf-8
+      Server: nginx/0.8.0
+      Date: Tue, 16 Jun 2009 09:40:10 GMT
+
+Request 27:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/guitarsng.narod.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 151 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /favicon/guitarsng.narod.ru HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 28 Sep 1970 06:00:00 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: keep-alive
+
+Request 28:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/polnolunie.baikal.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 151 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /favicon/polnolunie.baikal.ru HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 28 Sep 1970 06:00:00 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: keep-alive
+
+Request 29:
+      Action: GET
+      Url: http://bscork.yandex.ru/su/
+      Host: bscork.yandex.ru
+      Result code: 302
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 16 Bytes
+      Response size (in): 194 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /su/ HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: bscork.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=9507101245145096; yabs-frequency=/2/DQPZ0Eu4GG00/; ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+  Response Headers:
+      HTTP/1.1 302 Found
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Location: http://yabs.yandex.ru/resource/fc03.html
+      Content-Length: 0
+
+Request 30:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/fc03.html
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 149 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /resource/fc03.html HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      If-Modified-Since: Tue, 16 Jun 2009 07:54:13 GMT
+      Connection: Keep-Alive
+      Cookie: yandexuid=9507101245145096; yabs-frequency=/2/DQPZ0Eu4GG00/; ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+      Host: yabs.yandex.ru
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Date: Tue, 16 Jun 2009 09:40:21 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Content-Length: 0
+
+Request 31:
+      Action: GET
+      Url: http://clck.yandex.ru/jclck/dtype=fc/pid=5/ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T/*http://www.yandex.ru/
+      Host: clck.yandex.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 16 Bytes
+      Response size (in): 109 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 15 Bytes
+  Request Headers:
+      GET /jclck/dtype=fc/pid=5/ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T/*http://www.yandex.ru/ HTTP/1.1
+      Accept: */*
+      Referer: http://yabs.yandex.ru/resource/fc03.html
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: clck.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=9507101245145096; yabs-frequency=/2/DQPZ0Eu4GG00/; ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+  Response Headers:
+      HTTP/1.1 200 Ok
+      Content-Type: text/javascript
+      Connection: Close
+      Cache-Control: no-cache
+

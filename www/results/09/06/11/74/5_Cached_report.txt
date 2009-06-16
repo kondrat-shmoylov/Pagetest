@@ -1,0 +1,83 @@
+Results for 'http://ya.ru/':
+
+Page load time: 0.254 seconds
+Time to first byte: 0.097 seconds
+Time to Base Page Downloaded: 0.098 seconds
+Time to Start Render: 0.185 seconds
+Time to Document Complete: 0.254 seconds
+Time to Fully Loaded: 0.254 seconds
+Bytes sent out: 2.012 KB
+Bytes received: 1.201 KB
+DNS Lookups: 4
+Connections: 4
+Requests: 5
+   OK Requests:  2
+   Redirects:    1
+   Not Modified: 2
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://ya.ru/
+      Host: ya.ru
+      Result code: 304
+      Transaction time: 0.098 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 583 Bytes
+      Response size (in): 158 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_ya/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.107 seconds
+      Time to first byte: 0.028 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 376 Bytes
+      Response size (in): 438 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://ya.ru/logo.png
+      Host: ya.ru
+      Result code: 304
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 334 Bytes
+      Response size (in): 158 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://clck.yandex.ru/redir/dtype=stred/pid=17/cid=1729/*http://export.yandex.ru/morda/mail.xml?host=yandex.ru
+      Host: clck.yandex.ru
+      Result code: 302
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 412 Bytes
+      Response size (in): 134 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://export.yandex.ru/morda/mail.xml?host=yandex.ru
+      Host: export.yandex.ru
+      Result code: 200
+      Transaction time: 0.023 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 355 Bytes
+      Response size (in): 342 Bytes
+

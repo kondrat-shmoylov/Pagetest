@@ -1,0 +1,221 @@
+Results for 'http://my.ya.ru/':
+
+Page load time: 0.260 seconds
+Time to first byte: 0.132 seconds
+Time to Base Page Downloaded: 0.159 seconds
+Time to Start Render: 0.270 seconds
+Time to Document Complete: 0.260 seconds
+Time to Fully Loaded: 0.260 seconds
+Bytes sent out: 0.094 KB
+Bytes received: 7.415 KB
+DNS Lookups: 3
+Connections: 3
+Requests: 6
+   OK Requests:  2
+   Redirects:    4
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+Base Page Redirects: 4
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://my.ya.ru/
+      Host: my.ya.ru
+      Result code: 302
+      Transaction time: 0.133 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 333 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=3517973691244740954
+  Response Headers:
+      HTTP/1.1 302 Found
+      Location: http://my.ya.ru/pass/?retpath=http%3A%2F%2Fmy.ya.ru%2F
+      P3P: policyref="http://pass.yandex.ru/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+      Set-Cookie: Cookie_check=1; domain=my.ya.ru; path=/
+      Content-Length: 0
+      Date: Thu, 11 Jun 2009 17:22:40 GMT
+      Server: lighttpd/1.4.18
+
+Request 2:
+      Action: GET
+      Url: http://my.ya.ru/pass/?retpath=http%3A%2F%2Fmy.ya.ru%2F
+      Host: my.ya.ru
+      Result code: 302
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 255 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /pass/?retpath=http%3A%2F%2Fmy.ya.ru%2F HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=3517973691244740954; Cookie_check=1
+  Response Headers:
+      HTTP/1.1 302 Found
+      Location: http://pass.yandex.ru/?retpath=http%3A%2F%2Fmy.ya.ru%2F&ncrnd=4813
+      Set-Cookie: Cookie_check=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT
+      Content-Length: 0
+      Date: Thu, 11 Jun 2009 17:22:40 GMT
+      Server: lighttpd/1.4.18
+
+Request 3:
+      Action: GET
+      Url: http://pass.yandex.ru/?retpath=http%3A%2F%2Fmy.ya.ru%2F&ncrnd=4813
+      Host: pass.yandex.ru
+      Result code: 302
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 478 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmy.ya.ru%2F&ncrnd=4813 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=3517973691244740954
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Thu, 11 Jun 2009 17:22:39 GMT
+      Location: http://my.ya.ru/pass?retpath=http%3A%2F%2Fmy.ya.ru%2F&session_info=noauth%3A1244740960.sah%5E5F6C9171.yandexuid%5E3517973691244740954.my%3Aya_ru%3A24177.8819.c89f04e5cdd24a009b74e67941889947&ncrnd=9336
+      P3P: policyref="http://pass.yandex.ru/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+      Server: BAIDA/1.0.0
+      Set-Cookie: M_my_ya_ru=1244740960/0; path=/
+
+Request 4:
+      Action: GET
+      Url: http://my.ya.ru/pass?retpath=http%3A%2F%2Fmy.ya.ru%2F&session_info=noauth%3A1244740960.sah%5E5F6C9171.yandexuid%5E3517973691244740954.my%3Aya_ru%3A24177.8819.c89f04e5cdd24a009b74e67941889947&ncrnd=9336
+      Host: my.ya.ru
+      Result code: 302
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 393 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /pass?retpath=http%3A%2F%2Fmy.ya.ru%2F&session_info=noauth%3A1244740960.sah%5E5F6C9171.yandexuid%5E3517973691244740954.my%3Aya_ru%3A24177.8819.c89f04e5cdd24a009b74e67941889947&ncrnd=9336 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Cookie: yandexuid=3517973691244740954
+      Connection: Keep-Alive
+      Host: my.ya.ru
+  Response Headers:
+      HTTP/1.1 302 Found
+      Location: http://my.ya.ru/?ncrnd=4906
+      P3P: policyref="http://pass.yandex.ru/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+      Set-Cookie: Session_id=noauth:1244740960; path=/
+      Set-Cookie: yandexuid=3517973691244740954; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT
+      Content-Length: 0
+      Date: Thu, 11 Jun 2009 17:22:40 GMT
+      Server: lighttpd/1.4.18
+
+Request 5:
+      Action: GET
+      Url: http://my.ya.ru/?ncrnd=4906
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 5696 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5463 Bytes
+  Request Headers:
+      GET /?ncrnd=4906 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Cookie: yandexuid=3517973691244740954; Session_id=noauth:1244740960
+      Connection: Keep-Alive
+      Host: my.ya.ru
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Thu, 11 Jun 2009 17:22:40 GMT
+      Date: Thu, 11 Jun 2009 17:22:40 GMT
+      Server: lighttpd/1.4.18
+
+Request 6:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_yaru/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****yandex_ru/ru/CP1251/tmsec=yandex_yaru/0 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=4906
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=2CB403004A313D5BX1244740955
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Thu, 11 Jun 2009 17:22:40 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+

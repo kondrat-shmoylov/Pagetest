@@ -1,0 +1,75 @@
+Optimization Report : 06/11/09 at 20:50:31
+
+Results for 'http://yahoo.com/':
+
+Page load time: 2.577 seconds
+Time to first byte: 0.561 seconds
+Time to Base Page Downloaded: 1.243 seconds
+Time to Start Render: 1.223 seconds
+Time to Document Complete: 2.577 seconds
+Time to Fully Loaded: 2.868 seconds
+Bytes sent out: 0.547 KB
+Bytes received: 176.373 KB
+DNS Lookups: 5
+Connections: 8
+Requests: 35
+   OK Requests:  33
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        2 (301, 0)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+  Cache score : 100
+
+Use one CDN for all static assets:
+
+  2 CDN's used:
+    l.yimg.com
+    us.i1.yimg.com
+
+  CDN score (static objects) : 100
+  CDN score (one CDN) : 90
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    78.4 KB total in compressible text, target size = 78.4 KB - potential savings = 0.0 KB
+
+Compress Images:
+    WARNING (17.4 KB, target = 12.6 KB - savings of 4.8 KB)- http://l.yimg.com/a/i/us/mntl/sea/09q2/090500_img02.jpg
+    FAILED  (10.5 KB, target = 6.5 KB - savings of 4.0 KB)- http://l.yimg.com/a/i/ww/news/2009/04/29/swine-level-6.jpg
+    FAILED  (3.6 KB, target = 1.0 KB - savings of 2.6 KB)- http://l.yimg.com/a/i/ww/news/2009/04/29/swine-level-6-sm.jpg
+    FAILED  (3.6 KB, target = 1.0 KB - savings of 2.6 KB)- http://l.yimg.com/a/i/ww/news/2009/06/10/prejean-sm.jpg
+    FAILED  (4.6 KB, target = 2.4 KB - savings of 2.2 KB)- http://l.yimg.com/a/i/mntl/sma/08q2/img_f4a22b34.jpg
+    FAILED  (1.8 KB, target = 0.9 KB - savings of 0.9 KB)- http://l.yimg.com/a/i/ww/news/2009/06/11/holocaust2-sm.jpg
+    FAILED  (1.7 KB, target = 0.9 KB - savings of 0.8 KB)- http://l.yimg.com/a/i/ww/news/2009/06/11/ocho-sm.jpg
+    WARNING (5.1 KB, target = 4.4 KB - savings of 0.7 KB)- http://l.yimg.com/a/i/us/omg/pulse/parisdoug_omg_pulse.jpg
+    WARNING (1.4 KB, target = 1.3 KB - savings of 0.2 KB)- http://l.yimg.com/a/a/1-/flash/promotions/yahoo/081120/70x50iltla.jpg
+  Image Compression score : 79
+    89.6 KB total in images, target size = 70.8 KB - potential savings = 18.8 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+   WARNING (2 cookies, 113 bytes) - http://us.bc.yahoo.com/b?P=lO.kYFf4cQyIWzwIqOcXV3dSX2yRcUoxNdYABwxQ&T=13tq8btmp%2fX%3d1244739030%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d2673540413%2fS%3d1%2fJ%3d0C71F857&U=13f1uajhf%2fN%3domd3IkwNBmA-%2fC%3d387001.13474993.13553996.9641268%2fD%3dHDLN%2fB%3d5298385%2fV%3d1&U=13gd8ik43%2fN%3do2d3IkwNBmA-%2fC%3d289534.13034496.13553720.5322130%2fD%3dHEADR%2fB%3d4040821%2fV%3d1&U=12d2dnl68%2fN%3dpGd3IkwNBmA-%2fC%3d-1%2fD%3dFDMY2%2fB%3d-1%2fV%3d0&U=12bls6f0t%2fN%3dpWd3IkwNBmA-%2fC%3d-2%2fD%3dNBM%2fB%3d-2%2fV%3d0&U=13gqu0o50%2fN%3dp2d3IkwNBmA-%2fC%3d261366.10729796.12726797.10391589%2fD%3dFPC1%2fB%3d1720487%2fV%3d1&U=12ca788tj%2fN%3dqGd3IkwNBmA-%2fC%3d-1%2fD%3dSTCK%2fB%3d-1%2fV%3d0&U=13eh1f7kl%2fN%3dqWd3IkwNBmA-%2fC%3d385895.13375714.13476789.9365916%2fD%3dMKP%2fB%3d5560267%2fV%3d1&U=13fltf7ok%2fN%3dqmd3IkwNBmA-%2fC%3d635447.13182398.13350799.9413843%2fD%3dMKP1%2fB%3d4758806%2fV%3d1&U=13fkt7nhf%2fN%3dq2d3IkwNBmA-%2fC%3d385895.13375715.13476793.8855218%2fD%3dMKP1%2fB%3d4763742%2fV%3d1&U=13fb8a0ei%2fN%3drGd3IkwNBmA-%2fC%3d545301.13463913.13546279.9413843%2fD%3dMKP1%2fB%3d5727526%2fV%3d1&U=12crqcjfh%2fN%3drWd3IkwNBmA-%2fC%3d-1%2fD%3dMKP4%2fB%3d-1%2fV%3d0&U=129i6jr1u%2fN%3drmd3IkwNBmA-%2fC%3d-1%2fD%3dZ%2fB%3d-1%2fV%3d0&U=13fojsod5%2fN%3dr2d3IkwNBmA-%2fC%3d637076.13503298.13578496.7674020%2fD%3dFPAD%2fB%3d5722423%2fV%3d1&U=13gkh0noe%2fN%3dsGd3IkwNBmA-%2fC%3d387002.13474972.13553959.10360830%2fD%3dMNTL%2fB%3d5637231%2fV%3d1&U=12bt3lq5j%2fN%3dtGd3IkwNBmA-%2fC%3d-1%2fD%3dSIP%2fB%3d-1%2fV%3d0&U=12b9bjkd3%2fN%3dtmd3IkwNBmA-%2fC%3d-2%2fD%3dRMP%2fB%3d-2%2fV%3d0&U=12cl38ng6%2fN%3ds2d3IkwNBmA-%2fC%3d-2%2fD%3dSIPR%2fB%3d-2%2fV%3d0&U=13dfseuln%2fN%3dsWd3IkwNBmA-%2fC%3d224039.2072002.3536622.2012076%2fD%3dFOOT%2fB%3d1088125%2fV%3d1&Q=0&O=0.8224097784563404
+      cookie:B=bj5443h532dem&b=3&s=uf
+      cookie: D=_ylh=X3oDMTFkZmYxajI5BF9TAzI3MTYxNDkEcGlkAzEyNDQ3MzgzODIEdGVzdAMwBHRtcGwDaW5kZXgtbA--
+  Cookie score : 98
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    41.3 KB total in minifiable text, target size = 41.3 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

@@ -1,0 +1,1 @@
+2009/06/16 17:39:42	-1	-1	0	0	99996	Pagetest result	Cached-Run_1^http://yandex.ru	http://yandex.ru/	3	attribute=value	

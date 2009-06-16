@@ -1,0 +1,96 @@
+Results for 'http://google.ru/search?q=dzen&hl=ru':
+
+Page load time: 0.872 seconds
+Time to first byte: 0.223 seconds
+Time to Base Page Downloaded: 0.678 seconds
+Time to Start Render: 0.691 seconds
+Time to Document Complete: 0.872 seconds
+Time to Fully Loaded: 0.986 seconds
+Bytes sent out: 3.390 KB
+Bytes received: 14.991 KB
+DNS Lookups: 3
+Connections: 4
+Requests: 6
+   OK Requests:  3
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://google.ru/search?q=dzen&hl=ru
+      Host: google.ru
+      Result code: 301
+      Transaction time: 0.223 seconds
+      Time to first byte: 0.085 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 543 Bytes
+      Response size (in): 518 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.google.ru/search?q=dzen&hl=ru
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.455 seconds
+      Time to first byte: 0.087 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 547 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.google.ru/images/nav_logo4.png
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.194 seconds
+      Time to first byte: 0.066 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 554 Bytes
+      Response size (in): 7372 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://www.google.ru/extern_js/f/CgJydRICcnUrMAo4G0ABLCswDjgFLCswFjgKLCswFzgBLCswGDgELCswJTjJiAEsKzAmOAQsKzAnOAAs/03GMdWh3OJw.js
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.090 seconds
+      Time to first byte: 0.080 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 641 Bytes
+      Response size (in): 6097 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://clients1.google.ru/generate_204
+      Host: clients1.google.ru
+      Result code: 204
+      Transaction time: 0.121 seconds
+      Time to first byte: 0.063 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 551 Bytes
+      Response size (in): 125 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=aDwpSoaYMcmNsAaa8LjbCQ&e=17259,20572&rt=prt.78,xjs.219,ol.266
+      Host: www.google.ru
+      Result code: 204
+      Transaction time: 0.055 seconds
+      Time to first byte: 0.054 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 635 Bytes
+      Response size (in): 215 Bytes
+

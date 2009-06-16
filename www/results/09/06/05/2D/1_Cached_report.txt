@@ -1,0 +1,168 @@
+Results for 'http://yandex.ru/yandsearch?text=Sony-Ericsson%20K810i':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 1.510 seconds
+Time to first byte: 0.126 seconds
+Time to Base Page Downloaded: 0.143 seconds
+Time to Start Render: 0.406 seconds
+Time to Document Complete: 1.510 seconds
+Time to Fully Loaded: 1.510 seconds
+Bytes sent out: 6.838 KB
+Bytes received: 26.692 KB
+DNS Lookups: 10
+Connections: 10
+Requests: 12
+   OK Requests:  4
+   Redirects:    2
+   Not Modified: 5
+   Not Found:    1
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://export.yandex.ru/geoselectorData.xml
+      Host: export.yandex.ru
+      Result code: 200
+      Transaction time: 0.143 seconds
+      Time to first byte: 0.025 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 583 Bytes
+      Response size (in): 24560 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://css.yandex.net/n.gif
+      Host: css.yandex.net
+      Result code: 404
+      Transaction time: 1.168 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 331 Bytes
+      Response size (in): 479 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://im8-tub.yandex.net/i?id=36701195&tov=8
+      Host: im8-tub.yandex.net
+      Result code: 304
+      Transaction time: 1.060 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 399 Bytes
+      Response size (in): 101 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.024 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 866 Bytes
+      Response size (in): 250 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/Faclm5sTh_y40X00Zh2FaA84KfK4cm5kK2A8g8XN0OcNX0EIffee0egd1qy1ZG6Hk_0TPmEFeO2Oiv-pGpL529E53Oki8Xi5GNq7?1045016512
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.027 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 629 Bytes
+      Response size (in): 396 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://yandex.tns-counter.ru/V13a****yandex_ru/ru/UTF-8/tmsec=yandex_media3/
+      Host: yandex.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.039 seconds
+      Time to first byte: 0.026 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 422 Bytes
+      Response size (in): 438 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://bscork.yandex.ru/su/
+      Host: bscork.yandex.ru
+      Result code: 302
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 785 Bytes
+      Response size (in): 194 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.073 seconds
+      Time to first byte: 0.064 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 419 Bytes
+      Response size (in): 438 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=9744399
+      Host: video-tub.yandex.ru
+      Result code: 304
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 599 Bytes
+      Response size (in): 48 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://clck.yandex.ru/click/dtype=yabs/id=53/key=pack/*?1045016512
+      Host: clck.yandex.ru
+      Result code: 200
+      Transaction time: 0.138 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 556 Bytes
+      Response size (in): 131 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/fc02.html
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 848 Bytes
+      Response size (in): 149 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/fc02.swf
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 565 Bytes
+      Response size (in): 149 Bytes
+

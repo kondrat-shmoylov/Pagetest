@@ -1,0 +1,143 @@
+Results for 'http://yandex.ru/yandsearch?text=%EC%F3%E7%E5%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%20%E2%E0%EB%E5%ED%EA%E0&i-m-a-hacker=1':
+
+Page load time: 0.753 seconds
+Time to first byte: 0.110 seconds
+Time to Base Page Downloaded: 0.207 seconds
+Time to Start Render: 0.669 seconds
+Time to Document Complete: 0.753 seconds
+Time to Fully Loaded: 0.753 seconds
+Bytes sent out: 5.076 KB
+Bytes received: 41.116 KB
+DNS Lookups: 6
+Connections: 10
+Requests: 10
+   OK Requests:  9
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://yandex.ru/yandsearch?text=%EC%F3%E7%E5%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%E9%20%E2%E0%EB%E5%ED%EA%E0&i-m-a-hacker=1
+      Host: yandex.ru
+      Result code: 200
+      Transaction time: 0.207 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 684 Bytes
+      Response size (in): 452 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://css.yandex.net/css/search/r13/_serp.ie.css
+      Host: css.yandex.net
+      Result code: 200
+      Transaction time: 0.249 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 476 Bytes
+      Response size (in): 22906 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://css.yandex.net/css/search/r13/_serp.js
+      Host: css.yandex.net
+      Result code: 200
+      Transaction time: 0.136 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 472 Bytes
+      Response size (in): 12184 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://img.yandex.net/i/logo95x37x8.png
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.264 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 466 Bytes
+      Response size (in): 1688 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.107 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 517 Bytes
+      Response size (in): 638 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 200
+      Transaction time: 0.042 seconds
+      Time to first byte: 0.032 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 774 Bytes
+      Response size (in): 1024 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.023 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 500 Bytes
+      Response size (in): 607 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://img.yandex.net/i/ico-phone.gif
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.154 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 464 Bytes
+      Response size (in): 1142 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.023 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 303 Bytes
+      Response size (in): 1024 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.052 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 542 Bytes
+      Response size (in): 438 Bytes
+

@@ -1,0 +1,1 @@
+2009/06/11 19:27:15	-1	-1	0	0	88888	Script Error	Cleared Cache-Run_1^090611_B.pts_Step1	http://mail.yandex.ru/	3		setValue name=login your-login 

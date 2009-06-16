@@ -1,0 +1,105 @@
+Optimization Report : 06/16/09 at 14:04:06
+
+Results for 'http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1':
+
+Page load time: 2.505 seconds
+Time to first byte: 0.131 seconds
+Time to Base Page Downloaded: 0.354 seconds
+Time to Start Render: 0.554 seconds
+Time to DOM Element(id=text): 0.554 seconds
+Time to Document Complete: 2.505 seconds
+Time to Fully Loaded: 2.505 seconds
+Bytes sent out: 0.359 KB
+Bytes received: 60.796 KB
+DNS Lookups: 9
+Connections: 13
+Requests: 23
+   OK Requests:  21
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/licey102.k26.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.diclib.com
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.internetseti.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.ubrus.org
+    FAILED  (No max-age or expires) - http://im7-tub.yandex.net/i?id=126324406&tov=7
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/2BRE6ruXDMLKATwm^yO2RQ.gif
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/cl.gif
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/dic.academic.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/forum.lingvo.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/slovari.yandex.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.inslov.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.slovar.info
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.tetatet-club.ru
+  Cache score : 44
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r15/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r15/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/dic.academic.ru
+    FAILED - http://favicon.yandex.net/favicon/forum.lingvo.ru
+    FAILED - http://favicon.yandex.net/favicon/licey102.k26.ru
+    FAILED - http://favicon.yandex.net/favicon/slovari.yandex.ru
+    FAILED - http://favicon.yandex.net/favicon/www.diclib.com
+    FAILED - http://favicon.yandex.net/favicon/www.inslov.ru
+    FAILED - http://favicon.yandex.net/favicon/www.internetseti.ru
+    FAILED - http://favicon.yandex.net/favicon/www.slovar.info
+    FAILED - http://favicon.yandex.net/favicon/www.tetatet-club.ru
+    FAILED - http://favicon.yandex.net/favicon/www.ubrus.org
+    FAILED - http://im7-tub.yandex.net/i?id=126324406&tov=7
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://yabs.yandex.ru/resource/2BRE6ruXDMLKATwm^yO2RQ.gif
+    FAILED - http://yabs.yandex.ru/resource/cl.gif
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    25.5 KB total in compressible text, target size = 25.5 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 99
+    30.0 KB total in images, target size = 30.0 KB - potential savings = 0.1 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+    FAILED - http://yabs.yandex.ru/resource/cl.gif
+  Keep-Alive score : 88
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 59 bytes) - http://yabs.yandex.ru/resource/2BRE6ruXDMLKATwm^yO2RQ.gif
+      cookie:yandexuid=1473321245146649
+      cookie: yabs-frequency=/2/FMLV0Eu48G00/
+    FAILED (Static object with 1 cookies - 26 bytes) - http://yabs.yandex.ru/resource/cl.gif
+      cookie:yandexuid=1473321245146649
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=1473321245146649
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=169B02014A376E19X1245146649
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/7lvlw4u9Mga40X00ZhdXTgC4KfK2cmTiFoq1YArJzWMIeRc71ugjRxG4ZG6Ge1y2tf6pC48P29E53Okh33yTGNm6?rnd=519991272
+      cookie:yandexuid=1473321245146649
+  Cookie score : 84
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.1 KB
+
+Minify JS:
+  Minify score : 100
+    5.9 KB total in minifiable text, target size = 5.9 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 86
+
+JQuery Selectors not descended from an ID:
+  No problems found

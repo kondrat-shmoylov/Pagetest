@@ -1,0 +1,335 @@
+Results for 'http://mail.yandex.ru/':
+
+Page load time: 0.602 seconds
+Time to first byte: 0.108 seconds
+Time to Base Page Downloaded: 0.114 seconds
+Time to Start Render: 0.316 seconds
+Time to Document Complete: 0.602 seconds
+Time to Fully Loaded: 0.602 seconds
+Bytes sent out: 8.837 KB
+Bytes received: 45.764 KB
+DNS Lookups: 4
+Connections: 7
+Requests: 26
+   OK Requests:  25
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://mail.yandex.ru/
+      Host: mail.yandex.ru
+      Result code: 200
+      Transaction time: 0.114 seconds
+      Time to first byte: 0.024 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 529 Bytes
+      Response size (in): 402 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/css/common.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.026 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 328 Bytes
+      Response size (in): 1884 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/css/mail-common.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 333 Bytes
+      Response size (in): 4832 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/css/mail-login.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 332 Bytes
+      Response size (in): 1293 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://passport.yandex.ru/passport?mode=testloginjs&id39594191
+      Host: passport.yandex.ru
+      Result code: 200
+      Transaction time: 0.059 seconds
+      Time to first byte: 0.049 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 334 Bytes
+      Response size (in): 428 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/js/index_main.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 330 Bytes
+      Response size (in): 1318 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/js/test_xslt.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 329 Bytes
+      Response size (in): 2025 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://mailstatic.yandex.net/classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 410 Bytes
+      Response size (in): 333 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i//login/logo50.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 333 Bytes
+      Response size (in): 2239 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id39594191
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 355 Bytes
+      Response size (in): 617 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/logo_so.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.023 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 327 Bytes
+      Response size (in): 2440 Bytes
+
+Request 12:
+      Action: GET
+      Url: https://passport.yandex.ru/js/forcehttps.js
+      Host: passport.yandex.ru
+      Result code: 200
+      Transaction time: 0.132 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 381 Bytes
+      Response size (in): 681 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/drweb2.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 326 Bytes
+      Response size (in): 3913 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/heading.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 333 Bytes
+      Response size (in): 3705 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id39594191
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.107 seconds
+      Time to first byte: 0.100 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 397 Bytes
+      Response size (in): 438 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/plus-blue.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 335 Bytes
+      Response size (in): 497 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/plus-green.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 336 Bytes
+      Response size (in): 497 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/sh-tl.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.098 seconds
+      Time to first byte: 0.097 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 331 Bytes
+      Response size (in): 1629 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/sh-tr.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 331 Bytes
+      Response size (in): 1684 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/sh-bl.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 331 Bytes
+      Response size (in): 3315 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/sh-br.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 331 Bytes
+      Response size (in): 1149 Bytes
+
+Request 22:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/form-bg.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.071 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 333 Bytes
+      Response size (in): 1688 Bytes
+
+Request 23:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i//login/marka11.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 334 Bytes
+      Response size (in): 7216 Bytes
+
+Request 24:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i//login/logo-artlebedev.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 342 Bytes
+      Response size (in): 924 Bytes
+
+Request 25:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/p-end.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 331 Bytes
+      Response size (in): 1218 Bytes
+
+Request 26:
+      Action: GET
+      Url: http://mailstatic.yandex.net/modern/34154/i/login/plus-orange.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 337 Bytes
+      Response size (in): 497 Bytes
+

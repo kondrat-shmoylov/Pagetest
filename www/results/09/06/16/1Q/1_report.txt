@@ -1,0 +1,1043 @@
+Results for 'http://calendar.yandex.ru/':
+
+Page load time: 0.300 seconds
+Time to first byte: 0.132 seconds
+Time to Base Page Downloaded: 0.147 seconds
+Time to Start Render: 0.249 seconds
+Time to Document Complete: 0.300 seconds
+Time to Fully Loaded: 0.300 seconds
+Bytes sent out: 0.438 KB
+Bytes received: 93.341 KB
+DNS Lookups: 2
+Connections: 4
+Requests: 28
+   OK Requests:  28
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://calendar.yandex.ru/
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.147 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 6420 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6079 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=utf-8
+      Expires: Tue, 16 Jun 2009 13:12:02 GMT
+      Set-Cookie: yandexuid=249257221245157922; domain=.yandex.ru; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 2:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/_calendar-lego.ie.css?build=26
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 3774 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3439 Bytes
+  Request Headers:
+      GET /css/_calendar-lego.ie.css?build=26 HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      ETag: "1774481433"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 3439
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 3:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/theme//_theme-calendar.ie.css?build=26
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 3554 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3358 Bytes
+  Request Headers:
+      GET /css/theme//_theme-calendar.ie.css?build=26 HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Content-Type: text/html; charset=windows-1251
+      Expires: Tue, 16 Jun 2009 13:17:02 GMT
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 4:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/_calendar.ie.css?build=26
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 13375 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 13039 Bytes
+  Request Headers:
+      GET /css/_calendar.ie.css?build=26 HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      ETag: "1438843331"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 13039
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 5:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/_welcome.css?build=26
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 1116 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 782 Bytes
+  Request Headers:
+      GET /css/_welcome.css?build=26 HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      ETag: "1653766870"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 782
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 6:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/biglogo.png
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 2242 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1953 Bytes
+  Request Headers:
+      GET /i/biglogo.png HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "-281513891"
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      Content-Length: 1953
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 7:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/b.gif
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 330 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /i/b.gif HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "-949342769"
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      Content-Length: 43
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 8:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/login-title.png
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 4175 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3885 Bytes
+  Request Headers:
+      GET /i/login-title.png HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "-1946656761"
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      Content-Length: 3885
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 9:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/global.css
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 984 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 650 Bytes
+  Request Headers:
+      GET /css/global.css HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      ETag: "1448239875"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 650
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 10:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/head/common.css
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 1689 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1354 Bytes
+  Request Headers:
+      GET /css/head/common.css HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      ETag: "1138249840"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 1354
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 11:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/head/common-login.css
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 528 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 194 Bytes
+  Request Headers:
+      GET /css/head/common-login.css HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      ETag: "-405814841"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 194
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 12:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/head/common-username.css
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 495 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 162 Bytes
+  Request Headers:
+      GET /css/head/common-username.css HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      ETag: "399425615"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 162
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 13:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/foot/common-absolute.css
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 1305 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 971 Bytes
+  Request Headers:
+      GET /css/foot/common-absolute.css HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      ETag: "2056420224"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 971
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 14:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/foot/common-absolute-4-columns.css
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 461 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 126 Bytes
+  Request Headers:
+      GET /css/foot/common-absolute-4-columns.css HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      ETag: "-1106276125"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 126
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 15:
+      Action: GET
+      Url: http://calendar.yandex.ru/css/b-form.css
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 975 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 642 Bytes
+  Request Headers:
+      GET /css/b-form.css HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      ETag: "869823408"
+      Content-Type: text/css
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 642
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 16:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/n.gif
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 330 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /i/n.gif HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "1400971071"
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      Content-Length: 43
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 17:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/sh-tl.gif
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 1625 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1337 Bytes
+  Request Headers:
+      GET /i/sh-tl.gif HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "582103248"
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      Content-Length: 1337
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 18:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/sh-tr.gif
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 1682 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1392 Bytes
+  Request Headers:
+      GET /i/sh-tr.gif HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "-1032293644"
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      Content-Length: 1392
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 19:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/sh-bl.gif
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 2894 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2604 Bytes
+  Request Headers:
+      GET /i/sh-bl.gif HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "-1162729067"
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      Content-Length: 2604
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 20:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/sh-br.gif
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 912 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 625 Bytes
+  Request Headers:
+      GET /i/sh-br.gif HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "705270241"
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      Content-Length: 625
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 21:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/form-bg.png
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 1244 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 955 Bytes
+  Request Headers:
+      GET /i/form-bg.png HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "-1216167843"
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      Content-Length: 955
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 22:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/t-import.png
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 6236 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5946 Bytes
+  Request Headers:
+      GET /i/t-import.png HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "-1151840146"
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      Content-Length: 5946
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 23:
+      Action: GET
+      Url: http://img.yandex.net/i/artlebedev2007.png
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 764 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 474 Bytes
+  Request Headers:
+      GET /i/artlebedev2007.png HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.35
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Content-Type: image/png
+      Content-Length: 474
+      Last-Modified: Wed, 16 May 2007 12:27:34 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 24:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5-os-c/all-y5.js?build=26
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 35905 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 35591 Bytes
+  Request Headers:
+      GET /y5/1.5-os-c/all-y5.js?build=26 HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.35
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Content-Type: application/x-javascript
+      Last-Modified: Fri, 24 Apr 2009 08:07:43 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Content-Encoding: gzip
+
+Request 25:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/bg-yellow.png
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 671 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 383 Bytes
+  Request Headers:
+      GET /i/bg-yellow.png HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "-679427385"
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      Content-Length: 383
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 26:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/i-blue.gif
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 495 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 206 Bytes
+  Request Headers:
+      GET /i/i-blue.gif HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "-1834053403"
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      Content-Length: 206
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 27:
+      Action: GET
+      Url: http://calendar.yandex.ru/i/i-green.gif
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 493 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 206 Bytes
+  Request Headers:
+      GET /i/i-green.gif HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "524468227"
+      Last-Modified: Thu, 04 Jun 2009 15:14:56 GMT
+      Content-Length: 206
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+
+Request 28:
+      Action: GET
+      Url: http://calendar.yandex.ru/js/Index.js?build=26
+      Host: calendar.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 907 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 557 Bytes
+  Request Headers:
+      GET /js/Index.js?build=26 HTTP/1.1
+      Accept: */*
+      Referer: http://calendar.yandex.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: calendar.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=249257221245157922
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 15:14:55 GMT
+      ETag: "1341682503"
+      Content-Type: application/x-javascript
+      Expires: Fri, 11 Jun 2010 13:12:02 GMT
+      Cache-Control: max-age=31104000
+      Accept-Ranges: bytes
+      Content-Length: 557
+      Date: Tue, 16 Jun 2009 13:12:02 GMT
+      Server: lighttpd/1.4.19
+

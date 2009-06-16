@@ -1,0 +1,120 @@
+Results for 'http://google.ru/search?q=%C5%E2%F0%EE%F1%E5%F2%FC%20%EC%EE%F1%EA%E2%E0&hl=ru':
+
+Page load time: 3.394 seconds
+Time to first byte: 0.829 seconds
+Time to Base Page Downloaded: 2.703 seconds
+Time to Start Render: 3.123 seconds
+Time to Document Complete: 3.394 seconds
+Time to Fully Loaded: 3.662 seconds
+Bytes sent out: 5.170 KB
+Bytes received: 35.510 KB
+DNS Lookups: 3
+Connections: 4
+Requests: 8
+   OK Requests:  5
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://google.ru/search?q=%C5%E2%F0%EE%F1%E5%F2%FC%20%EC%EE%F1%EA%E2%E0&hl=ru
+      Host: google.ru
+      Result code: 301
+      Transaction time: 0.829 seconds
+      Time to first byte: 0.284 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 584 Bytes
+      Response size (in): 600 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.google.ru/search?q=%C5%E2%F0%EE%F1%E5%F2%FC%20%EC%EE%F1%EA%E2%E0&hl=ru
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 1.874 seconds
+      Time to first byte: 0.071 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 588 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.google.ru/images/nav_logo4.png
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.082 seconds
+      Time to first byte: 0.053 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 595 Bytes
+      Response size (in): 7373 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://www.google.ru/mapdata?CxVyzlIDHeruPQIgEQwLFTDiUgMddtQ9AiASDAsVcs5SAx3q7j0CIBMMCxW1K1QDHcMROgIgFAwLFeNXUwMdhrFCAiCbAQwLFTeIUgMd0xw-AiAWDAsVO7ZSAx1vrD0CIBcMCxX0BFMDHQg2PgIgGAwLFXptUgMdPUE-AiAZDAsVglxSAx3fED4CIBoMCxXKnVIDHcH1PAIgJAwLFYdGUwMd1UA-AiAkDAsVSFVTAx1dGzwCICQMCxV-2FMDHflKPQIgJAwLFS7cUwMdGIQ8AiAkDAsV-oBUAx1nTD4CICQMCxVo6VEDHTQYQAIgJAwLFd0ZVAMdA1c9AiAkDAsVDnBRAx1nfjwCICQMCxWrgFQDHWe_PgIgJAxAqgFI3AFSAlJVygECcnU
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.296 seconds
+      Time to first byte: 0.072 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 978 Bytes
+      Response size (in): 20462 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://www.google.ru/mapfiles/tiny_marker.gif
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.079 seconds
+      Time to first byte: 0.071 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 599 Bytes
+      Response size (in): 466 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://www.google.ru/extern_js/f/CgJydRICcnUrMAo4G0ABLCswDjgFLCswFjgKLCswFzgBLCswGDgELCswJTjJiAEsKzAmOAQsKzAnOAAs/03GMdWh3OJw.js
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.088 seconds
+      Time to first byte: 0.074 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 682 Bytes
+      Response size (in): 6097 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://clients1.google.ru/generate_204
+      Host: clients1.google.ru
+      Result code: 204
+      Transaction time: 0.272 seconds
+      Time to first byte: 0.196 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 592 Bytes
+      Response size (in): 125 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=2TspSpT2BoLK_gbBgfnfCg&e=17259,20572&rt=prt.63,xjs.313,ol.375
+      Host: www.google.ru
+      Result code: 204
+      Transaction time: 0.059 seconds
+      Time to first byte: 0.058 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 676 Bytes
+      Response size (in): 215 Bytes
+

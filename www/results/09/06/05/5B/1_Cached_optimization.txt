@@ -1,0 +1,71 @@
+Optimization Report : 06/05/09 at 19:55:10
+
+Results for 'http://yandex.ru/yandsearch?text=%EC%E5%F2%E5%EE%F1%E2%EE%E4%EA%E0%20%ED%E0%20%F1%E5%E3%EE%E4%ED%FF&i-m-a-hacker=1':
+
+Page load time: 0.294 seconds
+Time to first byte: 0.240 seconds
+Time to Base Page Downloaded: 0.240 seconds
+Time to Start Render: 0.089 seconds
+Time to Document Complete: 0.294 seconds
+Time to Fully Loaded: 0.294 seconds
+Bytes sent out: 5.171 KB
+Bytes received: 2.036 KB
+DNS Lookups: 6
+Connections: 8
+Requests: 10
+   OK Requests:  1
+   Redirects:    1
+   Not Modified: 8
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Enable browser caching of static assets:
+  No appropriate resources present
+
+Use one CDN for all static assets:
+  No appropriate resources present
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  No appropriate resources present
+
+Compress Images:
+  Image Compression score : 100
+    0.0 KB total in images, target size = 0.0 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+   WARNING (2 cookies, 58 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=199701244217304
+      cookie: yabs-frequency=/2/wKHV0EC48G00/
+   WARNING (2 cookies, 58 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=6055111
+      cookie:yandexuid=199701244217304
+      cookie: yabs-frequency=/2/wKHV0EC48G00/
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=6BDF06054A293FDAX1244217306
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/resource/cl.gif
+      cookie:yandexuid=199701244217304
+      cookie: yabs-frequency=/2/wKHV0EC48G00/
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/7X41gicY3gK40X00ZhZzaw84KfK2cmTiFoq1YAbEz0MIhKw51ugYRB84ZG6Ge1y2tf6pCKWv0PE53Oka8ouTGNm6?rnd=504431018
+      cookie:yandexuid=199701244217304
+      cookie: yabs-frequency=/2/wKHV0EC48G00/
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/resource/KIeooBqtRROr9QkVpHu3XA.jpg
+      cookie:yandexuid=199701244217304
+      cookie: yabs-frequency=/2/wKHV0EC4GG00/
+  Cookie score : 70
+    0.3 KB total in outbound cookies, target size = 0.3 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

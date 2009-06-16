@@ -1,0 +1,61 @@
+Optimization Report : 06/05/09 at 19:53:00
+
+Results for 'http://yandex.ru/yandsearch?text=dzen&i-m-a-hacker=1':
+
+Page load time: 0.155 seconds
+Time to first byte: 0.152 seconds
+Time to Base Page Downloaded: 0.155 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.155 seconds
+Time to Fully Loaded: 0.155 seconds
+Bytes sent out: 1.881 KB
+Bytes received: 3.572 KB
+DNS Lookups: 4
+Connections: 4
+Requests: 4
+   OK Requests:  2
+   Redirects:    0
+   Not Modified: 2
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://im0-tub.yandex.net/i?id=15635400&tov=0
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://im0-tub.yandex.net/i?id=15635400&tov=0
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  No appropriate resources present
+
+Compress Images:
+  Image Compression score : 100
+    2.6 KB total in images, target size = 2.6 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=5439231244217175
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=2A7406034A293F57X1244217175
+  Cookie score : 75
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

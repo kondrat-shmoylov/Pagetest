@@ -1,0 +1,3957 @@
+Results for 'http://maps.mail.ru/':
+
+Page load time: 4.889 seconds
+Time to first byte: 0.132 seconds
+Time to Base Page Downloaded: 0.132 seconds
+Time to Start Render: 4.149 seconds
+Time to Document Complete: 4.144 seconds
+Time to Fully Loaded: 4.889 seconds
+Bytes sent out: 1.813 KB
+Bytes received: 1756.402 KB
+DNS Lookups: 6
+Connections: 20
+Requests: 121
+   OK Requests:  58
+   Redirects:    0
+   Not Modified: 47
+   Not Found:    4
+   Other:        12 (0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://maps.mail.ru/
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.132 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 230 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 10 Jun 2009 12:19:09 GMT
+      If-None-Match: "809ccfa7c5e9c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; FTID=0000AQ0r5MGe; p=c1wAAET+4gAA; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Last-Modified: Wed, 10 Jun 2009 12:19:09 GMT
+      Accept-Ranges: bytes
+      ETag: "809ccfa7c5e9c91:0"
+      X-Powered-By: ASP.NET
+
+Request 2:
+      Action: GET
+      Url: http://maps.mail.ru/style.css
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 230 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /style.css HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 09 Jun 2009 10:51:43 GMT
+      If-None-Match: "80c98946f0e8c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; FTID=0000AQ0r5MGe; p=c1wAAET+4gAA; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Last-Modified: Tue, 09 Jun 2009 10:51:43 GMT
+      Accept-Ranges: bytes
+      ETag: "80c98946f0e8c91:0"
+      X-Powered-By: ASP.NET
+
+Request 3:
+      Action: GET
+      Url: http://maps.mail.ru/map/map.js
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/map.js HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 11 Jun 2009 07:32:31 GMT
+      If-None-Match: "80d16ac766eac91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; FTID=0000AQ0r5MGe; p=c1wAAET+4gAA; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80d16ac766eac91:0"
+
+Request 4:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****mail_ru/ru/CP1251/tmsec=mail_maps/
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.039 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****mail_ru/ru/CP1251/tmsec=mail_maps/ HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=587B02014A313B01X1244740353
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Thu, 11 Jun 2009 17:12:44 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 5:
+      Action: GET
+      Url: http://d7.c1.b1.a1.top.mail.ru/counter?js=na;id=1120054
+      Host: d7.c1.b1.a1.top.mail.ru
+      Result code: 200
+      Transaction time: 0.041 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 16 Bytes
+      Response size (in): 527 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /counter?js=na;id=1120054 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: d7.c1.b1.a1.top.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; FTID=0000AQ0r5MGe; p=c1wAAET+4gAA
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: wz/1.2
+      Date: Thu, 11 Jun 2009 17:12:44 GMT
+      Content-Type: image/gif
+      P3P: policyref="/w3c/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+      Set-Cookie: VID=1QmnE_1-9VGe; path=/; expires=Wed, 09 Sep 2009 17:12:44 GMT; domain=.mail.ru
+      Set-Cookie: FTID=0; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT; domain=.mail.ru
+      Pragma: no-cache
+      Cache-control: no-cache
+      Connection: close
+      Accept-Ranges: bytes
+      Content-Length: 43
+
+Request 6:
+      Action: GET
+      Url: http://counter.yadro.ru/hit?r;s1024*768*16;uhttp%3A//maps.mail.ru/;0.07116501489383958
+      Host: counter.yadro.ru
+      Result code: 0
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /hit?r;s1024*768*16;uhttp%3A//maps.mail.ru/;0.07116501489383958 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: counter.yadro.ru
+      Connection: Keep-Alive
+      Cookie: FTID=1ACJi10OSYme; VID=2LXTr52Uo-me
+  Response Headers:
+
+Request 7:
+      Action: GET
+      Url: http://maps.mail.ru/img/logo_maps_2.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.040 seconds
+      Time to first byte: 0.039 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/logo_maps_2.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:20:01 GMT
+      If-None-Match: "80463f97264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; FTID=0000AQ0r5MGe; p=c1wAAET+4gAA; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80463f97264ec91:0"
+
+Request 8:
+      Action: GET
+      Url: http://maps.mail.ru/img/logo_mail2.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.040 seconds
+      Time to first byte: 0.039 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/logo_mail2.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:20:01 GMT
+      If-None-Match: "80463f97264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; FTID=0000AQ0r5MGe; p=c1wAAET+4gAA; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80463f97264ec91:0"
+
+Request 9:
+      Action: GET
+      Url: http://luxup.ru/tr/937/&r=&t=1244740361484
+      Host: luxup.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 206 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 54 Bytes
+  Request Headers:
+      GET /tr/937/&r=&t=1244740361484 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: luxup.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200
+      Server: nginx/0.8.0
+      Date: Thu, 11 Jun 2009 17:12:44 GMT
+      Content-Type: image/gif
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+
+Request 10:
+      Action: GET
+      Url: http://fe.banners.mail.ru/b/757?site_id=51&size=200x300&target=http%3A%2F%2Fr.mail.ru%2Fcgi-bin%2Fbanners%2Fget%2F2866&charset=windows-1251&flash=0&rnd=995839570
+      Host: fe.banners.mail.ru
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 1618 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 739 Bytes
+  Request Headers:
+      GET /b/757?site_id=51&size=200x300&target=http%3A%2F%2Fr.mail.ru%2Fcgi-bin%2Fbanners%2Fget%2F2866&charset=windows-1251&flash=0&rnd=995839570 HTTP/1.1
+      Accept: */*
+      Referer: http://r.mail.ru/cgi-bin/banners/get/2866
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: fe.banners.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.54.2230.22706bd
+      Date: Thu, 11 Jun 2009 17:12:44 GMT
+      Content-Type: text/javascript; charset=windows-1251
+      Content-Length: 739
+      Connection: close
+      X-Mediaplanners: 10.105.30.10:9900
+      X-Mediaplanner-Request-String: uid=23FB4A313B0170A8F65571916C5F&slotid=757&ref-domain=ru.mail.r&ref-path=cgi-bin/banners/get/2866&sex=&age=&ip=95.108.145.113&flash=0&se=&q=&geo=0&mra=0&preview=&email=
+      X-Mediaplanner-Response-Code: 200 OK
+      X-Mediaplanner-Response-String: bannerid=1672&slotid=757&campaignid=185&subtype=flash&type=media&cprice=0&vprice=0&sex=0&age=0&geo=0
+      X-Mediaplanner-Response-Time: 4967 microseconds
+      X-Mediaplanner-Last-Response: 200 OK
+      X-Mediaplanner-Last: 10.105.30.10:9900
+      X-Request-Id: banfe1.banners.mail.ru_1313_5378402
+      Expires: Thu, 11 Jun 2009 17:12:43 GMT
+      Cache-Control: no-cache
+      X-Frontend-Name: banfe1.banners.mail.ru
+
+Request 11:
+      Action: GET
+      Url: http://maps.mail.ru/img/beta_logo2.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/beta_logo2.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:19:58 GMT
+      If-None-Match: "0837595264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; FTID=0000AQ0r5MGe; p=c1wAAET+4gAA; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0837595264ec91:0"
+
+Request 12:
+      Action: GET
+      Url: http://maps.mail.ru/img/wimax_icon.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/wimax_icon.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 29 Apr 2009 12:08:32 GMT
+      If-None-Match: "0a0c736c3c8c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; FTID=0000AQ0r5MGe; p=c1wAAET+4gAA; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0a0c736c3c8c91:0"
+
+Request 13:
+      Action: GET
+      Url: http://maps.mail.ru/map/ico_open.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/ico_open.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 03 Apr 2009 12:21:33 GMT
+      If-None-Match: "80448db956b4c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80448db956b4c91:0"
+
+Request 14:
+      Action: GET
+      Url: http://maps.mail.ru/map/UI_close_2.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/UI_close_2.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 13 Mar 2009 11:41:42 GMT
+      If-None-Match: "0dfbaadd0a3c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0dfbaadd0a3c91:0"
+
+Request 15:
+      Action: GET
+      Url: http://maps.mail.ru/close-white-small.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /close-white-small.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 09 Jun 2009 09:49:57 GMT
+      If-None-Match: "801097a5e7e8c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "801097a5e7e8c91:0"
+
+Request 16:
+      Action: GET
+      Url: http://maps.mail.ru/close-white.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /close-white.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 13 Nov 2008 12:16:11 GMT
+      If-None-Match: "8037619d8945c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "8037619d8945c91:0"
+
+Request 17:
+      Action: GET
+      Url: http://maps.mail.ru/progress.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /progress.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 13 Nov 2008 12:16:11 GMT
+      If-None-Match: "8037619d8945c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "8037619d8945c91:0"
+
+Request 18:
+      Action: GET
+      Url: http://maps.mail.ru/img/POI/ico_poi_cinema.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/POI/ico_poi_cinema.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 15 Apr 2009 07:31:22 GMT
+      If-None-Match: "081be2c9cbdc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "081be2c9cbdc91:0"
+
+Request 19:
+      Action: GET
+      Url: http://maps.mail.ru/img/POI/ico_poi_club1.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/POI/ico_poi_club1.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 15 Apr 2009 07:31:22 GMT
+      If-None-Match: "081be2c9cbdc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "081be2c9cbdc91:0"
+
+Request 20:
+      Action: GET
+      Url: http://maps.mail.ru/img/POI/ico_poi_koncertny_zal1.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 137 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/POI/ico_poi_koncertny_zal1.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 15 Apr 2009 07:31:28 GMT
+      If-None-Match: "0852309cbdc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0852309cbdc91:0"
+
+Request 21:
+      Action: GET
+      Url: http://maps.mail.ru/img/POI/ico_poi_theatre.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/POI/ico_poi_theatre.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 15 Apr 2009 07:31:37 GMT
+      If-None-Match: "8052af359cbdc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "8052af359cbdc91:0"
+
+Request 22:
+      Action: GET
+      Url: http://maps.mail.ru/img/POI/ico_poi_muzey.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/POI/ico_poi_muzey.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 15 Apr 2009 07:31:29 GMT
+      If-None-Match: "809eea309cbdc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "809eea309cbdc91:0"
+
+Request 23:
+      Action: GET
+      Url: http://maps.mail.ru/img/POI/ico_poi_resroraunt.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/POI/ico_poi_resroraunt.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 15 Apr 2009 07:31:32 GMT
+      If-None-Match: "062b4329cbdc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "062b4329cbdc91:0"
+
+Request 24:
+      Action: GET
+      Url: http://maps.mail.ru/img/POI/ico_poi_wimax.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/POI/ico_poi_wimax.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 17 Apr 2009 13:12:55 GMT
+      If-None-Match: "80a559385ebfc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80a559385ebfc91:0"
+
+Request 25:
+      Action: GET
+      Url: http://maps.mail.ru/img/blue_dott.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/blue_dott.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:19:58 GMT
+      If-None-Match: "0837595264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0837595264ec91:0"
+
+Request 26:
+      Action: GET
+      Url: http://maps.mail.ru/img/arrow_l.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/arrow_l.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:19:57 GMT
+      If-None-Match: "80ecdc94264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80ecdc94264ec91:0"
+
+Request 27:
+      Action: GET
+      Url: http://maps.mail.ru/img/arrow_l_2.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/arrow_l_2.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:19:57 GMT
+      If-None-Match: "80ecdc94264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80ecdc94264ec91:0"
+
+Request 28:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_mode_bg.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_mode_bg.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:24 GMT
+      If-None-Match: "03cfd3c7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "03cfd3c7549c91:0"
+
+Request 29:
+      Action: GET
+      Url: http://maps.mail.ru/img/arrow_r.png
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/arrow_r.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:19:57 GMT
+      If-None-Match: "80ecdc94264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+
+Request 30:
+      Action: GET
+      Url: http://maps.mail.ru/img/arrow_r.png
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/arrow_r.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:19:57 GMT
+      If-None-Match: "80ecdc94264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+
+Request 31:
+      Action: GET
+      Url: http://maps.mail.ru/img/arrow_r.png
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 16
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 32:
+      Action: GET
+      Url: http://maps.mail.ru/img/arrow_r.png
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 17
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 33:
+      Action: GET
+      Url: http://maps.mail.ru/img/arrow_r.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/arrow_r.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:19:57 GMT
+      If-None-Match: "80ecdc94264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80ecdc94264ec91:0"
+
+Request 34:
+      Action: GET
+      Url: http://maps.mail.ru/map/map.css
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 19
+      Request size (out): 16 Bytes
+      Response size (in): 230 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/map.css HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 05 Jun 2009 14:09:47 GMT
+      If-None-Match: "80474d48e7e5c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Last-Modified: Fri, 05 Jun 2009 14:09:47 GMT
+      Accept-Ranges: bytes
+      ETag: "80474d48e7e5c91:0"
+      X-Powered-By: ASP.NET
+
+Request 35:
+      Action: GET
+      Url: http://maps.mail.ru/map/close_map2b.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 137 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/close_map2b.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:22 GMT
+      If-None-Match: "0fcc3b7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0fcc3b7549c91:0"
+
+Request 36:
+      Action: GET
+      Url: http://maps.mail.ru/map/open_map2.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 19
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/open_map2.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:28 GMT
+      If-None-Match: "0965f3f7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0965f3f7549c91:0"
+
+Request 37:
+      Action: GET
+      Url: http://maps.mail.ru/img/logo_maps2.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/logo_maps2.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:20:01 GMT
+      If-None-Match: "80463f97264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80463f97264ec91:0"
+
+Request 38:
+      Action: GET
+      Url: http://maps.mail.ru/map/jam-tooltip.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 19
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/jam-tooltip.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:26 GMT
+      If-None-Match: "0692e3e7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0692e3e7549c91:0"
+
+Request 39:
+      Action: GET
+      Url: http://maps.mail.ru/map/crosshair.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/crosshair.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:23 GMT
+      If-None-Match: "80a5643c7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80a5643c7549c91:0"
+
+Request 40:
+      Action: GET
+      Url: http://maps.mail.ru/map/UI_close.png
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 19
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/UI_close.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 26 Nov 2008 14:59:48 GMT
+      If-None-Match: "04a23a0d74fc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+
+Request 41:
+      Action: GET
+      Url: http://maps.mail.ru/map/UI_close.png
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/UI_close.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 26 Nov 2008 14:59:48 GMT
+      If-None-Match: "04a23a0d74fc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+
+Request 42:
+      Action: GET
+      Url: http://maps.mail.ru/map/UI_close.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/UI_close.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 26 Nov 2008 14:59:48 GMT
+      If-None-Match: "04a23a0d74fc91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "04a23a0d74fc91:0"
+
+Request 43:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_zoom_plus.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_zoom_plus.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:25 GMT
+      If-None-Match: "80d2953d7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80d2953d7549c91:0"
+
+Request 44:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_zoom_minus.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_zoom_minus.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:24 GMT
+      If-None-Match: "03cfd3c7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "03cfd3c7549c91:0"
+
+Request 45:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_move_tool_a.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_move_tool_a.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:24 GMT
+      If-None-Match: "03cfd3c7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "03cfd3c7549c91:0"
+
+Request 46:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_zoom_tool.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_zoom_tool.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:25 GMT
+      If-None-Match: "80d2953d7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80d2953d7549c91:0"
+
+Request 47:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_marker_tool.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 136 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_marker_tool.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 01 Apr 2009 14:56:26 GMT
+      If-None-Match: "09c97dab2c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "09c97dab2c91:0"
+
+Request 48:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_route_tool.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 136 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_route_tool.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 01 Apr 2009 14:56:26 GMT
+      If-None-Match: "09c97dab2c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "09c97dab2c91:0"
+
+Request 49:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_mode_bg_a.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_mode_bg_a.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:24 GMT
+      If-None-Match: "03cfd3c7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "03cfd3c7549c91:0"
+
+Request 50:
+      Action: GET
+      Url: http://maps.mail.ru/stamp/77mos_jams_timestamp.txt?rand=6537865204
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 285 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 19 Bytes
+  Request Headers:
+      GET /stamp/77mos_jams_timestamp.txt?rand=6537865204 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: text/plain
+      Connection: keep-alive
+      Last-Modified: Thu, 11 Jun 2009 17:07:10 GMT
+      Accept-Ranges: bytes
+      ETag: W/"0b380eb7eac91:0"
+      X-Powered-By: ASP.NET
+      Content-Length: 19
+
+Request 51:
+      Action: GET
+      Url: http://maps.mail.ru/stamp/78spb_jams_timestamp.txt?rand=6537865204
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 286 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 19 Bytes
+  Request Headers:
+      GET /stamp/78spb_jams_timestamp.txt?rand=6537865204 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: text/plain
+      Connection: keep-alive
+      Last-Modified: Thu, 11 Jun 2009 16:56:28 GMT
+      Accept-Ranges: bytes
+      ETag: W/"046d78fb5eac91:0"
+      X-Powered-By: ASP.NET
+      Content-Length: 19
+
+Request 52:
+      Action: GET
+      Url: http://maps.mail.ru/img/corner2.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/corner2.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:19:58 GMT
+      If-None-Match: "0837595264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0837595264ec91:0"
+
+Request 53:
+      Action: GET
+      Url: http://maps.mail.ru/img/corner.gif
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /img/corner.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Mon, 24 Nov 2008 11:19:58 GMT
+      If-None-Match: "0837595264ec91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "0837595264ec91:0"
+
+Request 54:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_mode_bg2.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_mode_bg2.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Thu, 02 Apr 2009 10:50:49 GMT
+      If-None-Match: "80a43e280b3c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "80a43e280b3c91:0"
+
+Request 55:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=189
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=189 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+
+Request 56:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=189
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 24072 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 23846 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=189 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 23846
+
+Request 57:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=190
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 22
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 58:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=190
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 32179 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 31953 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=190 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 31953
+
+Request 59:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=191
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 28899 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 28673 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=191 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 28673
+
+Request 60:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=192
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 28468 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 28242 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=105&y=192 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 28242
+
+Request 61:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=106&y=189
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 34412 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 34186 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=106&y=189 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 34186
+
+Request 62:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=105&y=189&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.014 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 3344 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3119 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=105&y=189&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 3119
+
+Request 63:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=106&y=190
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 41133 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 40907 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=106&y=190 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 40907
+
+Request 64:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=106&y=191
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 43296 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43070 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=106&y=191 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 43070
+
+Request 65:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=106&y=192
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 27950 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 27724 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=106&y=192 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 27724
+
+Request 66:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=105&y=190&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 826 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 602 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=105&y=190&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 602
+
+Request 67:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=107&y=189
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 31767 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 31541 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=107&y=189 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 31541
+
+Request 68:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=107&y=190
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.011 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 43255 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43029 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=107&y=190 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 43029
+
+Request 69:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=107&y=191
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 41865 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 41639 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=107&y=191 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 41639
+
+Request 70:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=107&y=192
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 30733 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 30507 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=107&y=192 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 30507
+
+Request 71:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=105&y=191&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.053 seconds
+      Time to first byte: 0.052 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 2294 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2069 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=105&y=191&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 2069
+
+Request 72:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=108&y=189
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 25701 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 25475 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=108&y=189 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 25475
+
+Request 73:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=108&y=190
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 32921 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 32695 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=108&y=190 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 32695
+
+Request 74:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=108&y=191
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 31848 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 31622 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=108&y=191 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 31622
+
+Request 75:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=108&y=192
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 24318 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 24092 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=10&x=108&y=192 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 24092
+
+Request 76:
+      Action: GET
+      Url: http://maps.mail.ru/map/black_overlay.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 3.003 seconds
+      Time to first byte: 3.002 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/black_overlay.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:21 GMT
+      If-None-Match: "8078333b7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:40 GMT
+      Connection: keep-alive
+      Etag: "8078333b7549c91:0"
+
+Request 77:
+      Action: GET
+      Url: http://maps.mail.ru/map/black_overlay.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/black_overlay.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:21 GMT
+      If-None-Match: "8078333b7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "8078333b7549c91:0"
+
+Request 78:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=105&y=192&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.008 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 2814 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2589 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=105&y=192&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 2589
+
+Request 79:
+      Action: GET
+      Url: http://maps.mail.ru/map/black_overlay.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/black_overlay.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:21 GMT
+      If-None-Match: "8078333b7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:37 GMT
+      Connection: keep-alive
+      Etag: "8078333b7549c91:0"
+
+Request 80:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=106&y=189&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 3.105 seconds
+      Time to first byte: 2.995 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 1788 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1563 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=106&y=189&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:40 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 1563
+
+Request 81:
+      Action: GET
+      Url: http://maps.mail.ru/map/black_overlay.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/black_overlay.png HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:21 GMT
+      If-None-Match: "8078333b7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:40 GMT
+      Connection: keep-alive
+      Etag: "8078333b7549c91:0"
+
+Request 82:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=106&y=190&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.083 seconds
+      Time to first byte: 0.072 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 28393 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 28167 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=106&y=190&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:40 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 28167
+
+Request 83:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=106&y=191&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 24368 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 24142 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=106&y=191&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:40 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 24142
+
+Request 84:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=106&y=192&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 3435 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3210 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=106&y=192&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:40 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 3210
+
+Request 85:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=107&y=189&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 5623 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5398 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=107&y=189&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:40 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 5398
+
+Request 86:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=107&y=190&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 20772 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 20546 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=107&y=190&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 20546
+
+Request 87:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=107&y=191&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 16518 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 16292 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=107&y=191&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 16292
+
+Request 88:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=107&y=192&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 1370 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1145 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=107&y=192&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 1145
+
+Request 89:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=108&y=189&768473
+      Host: maps.mail.ru
+      Result code: 404
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 1024 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 792 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=108&y=189&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/html
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 1245
+
+Request 90:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=108&y=190&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 3770 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3545 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=108&y=190&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 3545
+
+Request 91:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=108&y=191&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 2177 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1952 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=108&y=191&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 1952
+
+Request 92:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=108&y=192&768473
+      Host: maps.mail.ru
+      Result code: 404
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 1024 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 792 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=10&x=108&y=192&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/html
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 1245
+
+Request 93:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=7&x=13&y=23
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 24
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 94:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=7&x=13&y=23
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.018 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 38986 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 38760 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=7&x=13&y=23 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 38760
+
+Request 95:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=7&x=13&y=24
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 96:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=7&x=13&y=24
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.018 seconds
+      Document: 0
+      Socket: 27
+      Request size (out): 16 Bytes
+      Response size (in): 32044 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 31818 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=7&x=13&y=24 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 31818
+
+Request 97:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Jams&z=14&x=1712&y=3055&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 27
+      Request size (out): 16 Bytes
+      Response size (in): 11638 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 11412 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Jams&z=14&x=1712&y=3055&768473 HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 11412
+
+Request 98:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=14&x=1712&y=3055
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 38386 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 38160 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=14&x=1712&y=3055 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 38160
+
+Request 99:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Images&z=15&x=3424&y=6111
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 27
+      Request size (out): 16 Bytes
+      Response size (in): 18525 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 18298 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Images&z=15&x=3424&y=6111 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/jpeg
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 18298
+
+Request 100:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_zoom_raw.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 139 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_zoom_raw.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:25 GMT
+      If-None-Match: "80d2953d7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Connection: keep-alive
+      Etag: "80d2953d7549c91:0"
+
+Request 101:
+      Action: GET
+      Url: http://maps.mail.ru/map/final_zoom_active.png
+      Host: maps.mail.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 27
+      Request size (out): 16 Bytes
+      Response size (in): 138 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /map/final_zoom_active.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Tue, 18 Nov 2008 12:00:24 GMT
+      If-None-Match: "03cfd3c7549c91:0"
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Connection: keep-alive
+      Etag: "03cfd3c7549c91:0"
+
+Request 102:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Maps&z=15&x=3424&y=6111
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 30081 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 29855 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Maps&z=15&x=3424&y=6111 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/png
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 29855
+
+Request 103:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Images&z=16&x=6849&y=12222
+      Host: maps.mail.ru
+      Result code: 0
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 27
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Images&z=16&x=6849&y=12222 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+
+Request 104:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=Images&z=16&x=6849&y=12222
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 13885 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 13658 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=Images&z=16&x=6849&y=12222 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.mail.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: image/jpeg
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 13658
+
+Request 105:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=105&y=192&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 16186 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 15939 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=105&y=192&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 15939
+
+Request 106:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=107&y=189&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 13181 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 12934 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=107&y=189&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 12934
+
+Request 107:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=105&y=189&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 3933 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3687 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=105&y=189&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 3687
+
+Request 108:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=108&y=192&768473
+      Host: maps.mail.ru
+      Result code: 404
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 1477 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1245 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=108&y=192&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/html
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 1245
+
+Request 109:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=106&y=191&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.009 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 227073 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 226825 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=106&y=191&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 226825
+
+Request 110:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=106&y=189&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 4933 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4687 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=106&y=189&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 4687
+
+Request 111:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=105&y=190&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 796 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 551 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=105&y=190&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 551
+
+Request 112:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=106&y=192&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 12953 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 12706 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=106&y=192&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 12706
+
+Request 113:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=107&y=191&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.008 seconds
+      Document: 0
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 164968 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 164720 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=107&y=191&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 164720
+
+Request 114:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=108&y=189&768473
+      Host: maps.mail.ru
+      Result code: 404
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 1477 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1245 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=108&y=189&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/html
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 1245
+
+Request 115:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=14&x=1712&y=3055&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 11271 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 11024 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=14&x=1712&y=3055&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 11024
+
+Request 116:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=105&y=191&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.027 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 5893 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5647 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=105&y=191&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 5647
+
+Request 117:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=107&y=192&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.027 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 1421 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1175 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=107&y=192&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 1175
+
+Request 118:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=108&y=190&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.055 seconds
+      Document: 0
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 15530 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 15283 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=108&y=190&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 15283
+
+Request 119:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=108&y=191&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.070 seconds
+      Time to first byte: 0.049 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 10976 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 10729 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=108&y=191&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 10729
+
+Request 120:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=106&y=190&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.045 seconds
+      Time to first byte: 0.011 seconds
+      Document: 0
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 273854 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 273606 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=106&y=190&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:41 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 273606
+
+Request 121:
+      Action: GET
+      Url: http://maps.mail.ru/TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=107&y=190&768473
+      Host: maps.mail.ru
+      Result code: 200
+      Transaction time: 0.840 seconds
+      Time to first byte: 0.009 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 196594 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 196346 Bytes
+  Request Headers:
+      GET /TileSender.aspx?ModeKey=tiles&t=JamJS&z=10&x=107&y=190&768473 HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.mail.ru/#x=37.624562&y=55.75297299826559&z=10&mode=map&fullscreen=true&jams=true&pid=-1
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.mail.ru
+      Connection: Keep-Alive
+      Cookie: mrcu=23FB4A313B0170A8F65571916C5F; p=c1wAAET+4gAA; VID=1QmnE_1-9VGe; mode=map; fullscreen=true; jams=true; over=true; zoom=false; pos=false; cr=false; fz=false
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.34
+      Date: Thu, 11 Jun 2009 17:12:42 GMT
+      Content-Type: text/javascript; charset=utf-8
+      Connection: keep-alive
+      Cache-Control: private
+      X-AspNet-Version: 2.0.50727
+      X-Powered-By: ASP.NET
+      Content-Length: 196346
+

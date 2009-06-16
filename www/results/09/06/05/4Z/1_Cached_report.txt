@@ -1,0 +1,131 @@
+Results for 'http://yandex.ru/yandsearch?text=%D1%F2%F0%E0%ED%E8%F6%E0%20%ED%E0%F1%F2%F0%EE%E5%EA%20%EF%EE%E8%F1%EA%E0%20%ED%E0-%F0%F3%F1%F1%EA%EE%EC&i-m-a-hacker=1':
+
+Page load time: 0.257 seconds
+Time to first byte: 0.213 seconds
+Time to Base Page Downloaded: 0.213 seconds
+Time to Start Render: 0.084 seconds
+Time to Document Complete: 0.257 seconds
+Time to Fully Loaded: 0.257 seconds
+Bytes sent out: 5.062 KB
+Bytes received: 1.890 KB
+DNS Lookups: 6
+Connections: 8
+Requests: 9
+   OK Requests:  1
+   Redirects:    1
+   Not Modified: 7
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.213 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 846 Bytes
+      Response size (in): 250 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/cl.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 557 Bytes
+      Response size (in): 149 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/PY0lKWvMtum40X00Zhloaw84KfK2cmTiFoq1YArJzWMIeRc71ugjRxG4ZG6Ge1y2tf6nbGrv3PE53Okh33yTGNm6?rnd=1713385298
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 601 Bytes
+      Response size (in): 498 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://im5-tub.yandex.net/i?id=14064179&tov=5
+      Host: im5-tub.yandex.net
+      Result code: 304
+      Transaction time: 0.061 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 496 Bytes
+      Response size (in): 101 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 516 Bytes
+      Response size (in): 438 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=13172351
+      Host: video-tub.yandex.ru
+      Result code: 304
+      Transaction time: 0.047 seconds
+      Time to first byte: 0.034 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 580 Bytes
+      Response size (in): 48 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.wpcredo.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.048 seconds
+      Time to first byte: 0.039 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 499 Bytes
+      Response size (in): 151 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/mozutil.mozilla-russia.org
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.048 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 511 Bytes
+      Response size (in): 151 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/2BRE6ruXDMLKATwm^yO2RQ.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 577 Bytes
+      Response size (in): 149 Bytes
+

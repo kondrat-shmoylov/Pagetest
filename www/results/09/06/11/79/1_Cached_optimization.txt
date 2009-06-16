@@ -1,0 +1,84 @@
+Optimization Report : 06/11/09 at 15:26:54
+
+Results for 'http://mail.yandex.ru/':
+
+Page load time: 0.501 seconds
+Time to first byte: 0.104 seconds
+Time to Base Page Downloaded: 0.111 seconds
+Time to Start Render: 0.214 seconds
+Time to Document Complete: 0.501 seconds
+Time to Fully Loaded: 0.501 seconds
+Bytes sent out: 7.010 KB
+Bytes received: 34.087 KB
+DNS Lookups: 4
+Connections: 6
+Requests: 20
+   OK Requests:  20
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    WARNING (7.0 days) - https://passport.yandex.ru/js/forcehttps.js
+  Cache score : 97
+
+Use one CDN for all static assets:
+    FAILED - http://mailstatic.yandex.net/classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0
+    FAILED - http://mailstatic.yandex.net/modern/34154/i//login/logo-artlebedev.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i//login/logo50.png
+    FAILED - http://mailstatic.yandex.net/modern/34154/i//login/marka4.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/drweb2.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/form-bg.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/heading.png
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/p-end.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/plus-blue.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/plus-green.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/plus-orange.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/sh-bl.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/sh-br.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/sh-tl.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/sh-tr.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/logo_so.gif
+    FAILED - https://passport.yandex.ru/js/forcehttps.js
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    1.4 KB total in compressible text, target size = 1.4 KB - potential savings = 0.0 KB
+
+Compress Images:
+    FAILED  (3.3 KB, target = 1.1 KB - savings of 2.2 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/modern/34154/i/login/heading.png
+  Image Compression score : 91
+    27.8 KB total in images, target size = 25.5 KB - potential savings = 2.2 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 28 bytes) - https://passport.yandex.ru/js/forcehttps.js
+      cookie:yandexuid=588784891244719605
+   WARNING (1 cookies, 28 bytes) - http://mail.yandex.ru/
+      cookie:yandexuid=588784891244719605
+   WARNING (1 cookies, 28 bytes) - http://passport.yandex.ru/passport?mode=testloginjs&id5357940
+      cookie:yandexuid=588784891244719605
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id5357940
+      cookie:guid=20AD06054A30E9F6X1244719606
+  Cookie score : 87
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    1.0 KB total in minifiable text, target size = 1.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

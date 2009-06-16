@@ -1,0 +1,93 @@
+Optimization Report : 06/16/09 at 16:40:29
+
+Results for 'http://www.yandex.ru/':
+
+Page load time: 0.253 seconds
+Time to first byte: 0.162 seconds
+Time to Base Page Downloaded: 0.170 seconds
+Time to Start Render: 0.179 seconds
+Time to Document Complete: 0.253 seconds
+Time to Fully Loaded: 0.329 seconds
+Bytes sent out: 0.188 KB
+Bytes received: 22.345 KB
+DNS Lookups: 5
+Connections: 6
+Requests: 10
+   OK Requests:  5
+   Redirects:    3
+   Not Modified: 2
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - https://passport.yandex.ru/js/smarthttps.js
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/spacer.gif?663174999
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - https://passport.yandex.ru/js/smarthttps.js
+    FAILED - http://yabs.yandex.ru/resource/spacer.gif?663174999
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (3.8 KB, compressed = 0.5 KB - savings of 3.3 KB) - https://passport.yandex.ru/js/smarthttps.js
+  GZIP score : 83
+    19.7 KB total in compressible text, target size = 16.5 KB - potential savings = 3.3 KB
+
+Compress Images:
+  Image Compression score : 100
+    0.1 KB total in images, target size = 0.1 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 58 bytes) - https://passport.yandex.ru/js/smarthttps.js
+      cookie:yandexuid=821731091245156029
+      cookie: yabs-frequency=/2///fGBk1042
+    FAILED (Static object with 2 cookies - 58 bytes) - http://yabs.yandex.ru/resource/spacer.gif?663174999
+      cookie:yandexuid=821731091245156029
+      cookie: yabs-frequency=/2///fGBk1042
+   WARNING (2 cookies, 58 bytes) - http://suggest.yandex.ru/tsuggest-1.6.html
+      cookie:yandexuid=821731091245156029
+      cookie: yabs-frequency=/2///fGBk1042
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a**821731091245156029**yandex_ru/ru/CP1251/tmsec=yandex_main/0
+      cookie:guid=162104014A3792BDX1245156029
+   WARNING (2 cookies, 58 bytes) - http://www.yandex.ru/
+      cookie:yandexuid=821731091245156029
+      cookie: yabs-frequency=/2///fGBk1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/9uS_Lqrjs5440X02Zh8iUQC4KPK5cm5fMeYeoxG4agbshmUAe63I196yq4ba1fE53OkdSleTGNi5
+      cookie:yandexuid=821731091245156029
+      cookie: yabs-frequency=/2///fGBk1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/resource/75PxZvdq_j3l1WEhKHeIGg.png
+      cookie:yandexuid=821731091245156029
+      cookie: yabs-frequency=/2///fGBk1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/9uS_Lqrjs5440X02Zh8iUQC4KPK5cm5fMeYeoxG4agbshmUAe63I196yq4ba1fE53OkdSleTGNi5
+      cookie:yandexuid=821731091245156029
+      cookie: yabs-frequency=/2///fGBk1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/9uS_LtvXp2a40X00Zh8iUQC4KP6yq4ba1fE53NW2=znrlB9K2cm9jL9Abk6a6Um40=BufsMfK5cm5fMfAfTgy7Um40
+      cookie:yandexuid=821731091245156029
+      cookie: yabs-frequency=/2///fGBk1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/9uS_Lz7N_rC40X02Zh8iUQC4KPK2cm9jL2A8ghiz0PAbk6a6YgAsnmEHlD19P0QJXGsBfsTA5a5y1G00?663174999
+      cookie:yandexuid=821731091245156029
+      cookie: yabs-frequency=/2///fGBk1041
+  Cookie score : 45
+    0.5 KB total in outbound cookies, target size = 0.4 KB - potential savings = 0.1 KB
+
+Minify JS:
+    FAILED (3.8 KB, minified = 0.5 KB - savings of 3.3 KB) - https://passport.yandex.ru/js/smarthttps.js
+  Minify score : 13
+    3.8 KB total in minifiable text, target size = 0.5 KB - potential savings = 3.3 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://suggest.yandex.ru/tsuggest-1.6.html
+  ETag score : 90
+
+JQuery Selectors not descended from an ID:
+  No problems found

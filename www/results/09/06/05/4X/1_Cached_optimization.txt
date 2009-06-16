@@ -1,0 +1,66 @@
+Optimization Report : 06/05/09 at 19:51:48
+
+Results for 'http://yandex.ru/yandsearch?text=%D0%E0%F1%EF%E8%F1%E0%ED%E8%E5%20%DF%F0%EE%F1%EB%E0%E2%F1%EA%EE%E3%EE%20%E2%EE%EA%E7%E0%EB%E0&i-m-a-hacker=1':
+
+Page load time: 0.170 seconds
+Time to first byte: 0.122 seconds
+Time to Base Page Downloaded: 0.122 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.170 seconds
+Time to Fully Loaded: 0.170 seconds
+Bytes sent out: 4.319 KB
+Bytes received: 1.835 KB
+DNS Lookups: 7
+Connections: 8
+Requests: 8
+   OK Requests:  2
+   Redirects:    2
+   Not Modified: 4
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Enable browser caching of static assets:
+  No appropriate resources present
+
+Use one CDN for all static assets:
+  No appropriate resources present
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  No appropriate resources present
+
+Compress Images:
+  Image Compression score : 100
+    0.1 KB total in images, target size = 0.1 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+   WARNING (1 cookies, 26 bytes) - http://clck.yandex.ru/click/dtype=yabs/id=26/key=pack/*?238742457
+      cookie:yandexuid=2262931244217103
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=2262931244217103
+   WARNING (1 cookies, 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=11759976
+      cookie:yandexuid=2262931244217103
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=94EB06024A293F0FX1244217103
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/3ZhhkIdy5vK40X00Zh_maw84KfK5cm5gLeYlUS43YQEcm0UIe7VK18gb_tW2ZG6Hj0VaqWkJXGsBfZHv3K5w1W00
+      cookie:yandexuid=2262931244217103
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/3ZhhkOXp0wi40X00Zh_maw84KfK4cm5kK2A8et1N0OcW5_y1ags8A0AAhVvE0Oq1aRG7vD8BZx9QPJC6dxBlSwW9auKDYwO16mL1VmS0?238742457
+      cookie:yandexuid=2262931244217103
+  Cookie score : 66
+    0.2 KB total in outbound cookies, target size = 0.2 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

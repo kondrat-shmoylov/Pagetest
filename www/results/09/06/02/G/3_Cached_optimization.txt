@@ -1,0 +1,109 @@
+Optimization Report : 06/02/09 at 20:39:25
+
+Results for 'http://maps.yandex.ru/':
+
+Page load time: 1.176 seconds
+Time to first byte: 0.126 seconds
+Time to Base Page Downloaded: 0.126 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 1.176 seconds
+Time to Fully Loaded: 1.176 seconds
+Bytes sent out: 7.197 KB
+Bytes received: 31.212 KB
+DNS Lookups: 7
+Connections: 9
+Requests: 15
+   OK Requests:  9
+   Redirects:    3
+   Not Modified: 3
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://bs.yandex.ru/resource/_8A7SdcdYV1N^54eCqXMYg.swf?rnd=670599&link1=http://bs.yandex.ru/count/MYAGtKlqPli40X00ZhXRLQ84MmYL0Pi1QbybYAQlxWMUAPAkQ7i7YgBQgmIGe1y2tf6yq4ba1fE53OkWS-mSGg2IAG9u1m00
+    FAILED  (No max-age or expires) - http://bs.yandex.ru/resource/flashldr006.js
+    FAILED  (4.0 minutes) - http://trf.maps.yandex.net/trf/coverage.js?id=0.8622797534474356
+    FAILED  (4.0 minutes) - http://trf.maps.yandex.net/trf/stat.js?id=0.1962094109610733
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://bs.yandex.ru/resource/_8A7SdcdYV1N^54eCqXMYg.swf?rnd=670599&link1=http://bs.yandex.ru/count/MYAGtKlqPli40X00ZhXRLQ84MmYL0Pi1QbybYAQlxWMUAPAkQ7i7YgBQgmIGe1y2tf6yq4ba1fE53OkWS-mSGg2IAG9u1m00
+    FAILED - http://bs.yandex.ru/resource/flashldr006.js
+    FAILED - http://trf.maps.yandex.net/trf/coverage.js?id=0.8622797534474356
+    FAILED - http://trf.maps.yandex.net/trf/stat.js?id=0.1962094109610733
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (2.3 KB, compressed = 0.8 KB - savings of 1.5 KB) - http://trf.maps.yandex.net/trf/coverage.js?id=0.8622797534474356
+    FAILED (2.2 KB, compressed = 0.9 KB - savings of 1.3 KB) - http://bs.yandex.ru/resource/flashldr006.js
+    FAILED (1.6 KB, compressed = 0.6 KB - savings of 1.1 KB) - http://trf.maps.yandex.net/trf/stat.js?id=0.1962094109610733
+  GZIP score : 46
+    7.1 KB total in compressible text, target size = 3.3 KB - potential savings = 3.8 KB
+
+Compress Images:
+  Image Compression score : 100
+    0.1 KB total in images, target size = 0.1 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://engine.awaps.net/0/7193/001001.gif?0-0-428603042-1-a:74441p:39631&profileredir=1&
+  Keep-Alive score : 87
+
+Proper cookie usage:
+    FAILED (Static object with 3 cookies - 92 bytes) - http://bs.yandex.ru/resource/flashldr006.js
+      cookie:yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+      cookie: yabs-sid=1786423361243960761
+    FAILED (Static object with 3 cookies - 92 bytes) - http://bs.yandex.ru/resource/_8A7SdcdYV1N^54eCqXMYg.swf?rnd=670599&link1=http://bs.yandex.ru/count/MYAGtKlqPli40X00ZhXRLQ84MmYL0Pi1QbybYAQlxWMUAPAkQ7i7YgBQgmIGe1y2tf6yq4ba1fE53OkWS-mSGg2IAG9u1m00
+      cookie:yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+      cookie: yabs-sid=1786423361243960761
+   WARNING (3 cookies, 90 bytes) - http://awaps.yandex.ru/0/8940/200300.gif?1663153424
+      cookie:UserId=60-1243960709-19087
+      cookie: yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+   WARNING (3 cookies, 92 bytes) - http://bs.yandex.ru/count/MYAGtODixqm40X00ZhXRLQ84MmYL0Pi1QbybYAQlxWMUAPAkQ7i7YgBQgmIGe1y2tf6yq4ba1fE53OkYS-mSGOoIAGAWaYa2V0S0
+      cookie:yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+      cookie: yabs-sid=1786423361243960761
+   WARNING (2 cookies, 62 bytes) - http://bs.yandex.ru/page/67?rnd=1663153424&stat-id=41
+      cookie:yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+   WARNING (2 cookies, 62 bytes) - http://bs.yandex.ru/resource/watch.js
+      cookie:yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+   WARNING (2 cookies, 62 bytes) - http://bs.yandex.ru/watch/114208?rn=856868&cnt-class=0&page-ref=&page-url=http%3A%2F%2Fmaps.yandex.ru%2F&browser-info=j:1:s:1024x768x32:f:10.0.22.87:t:%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9A%D0%B0%D1%80%D1%82%D1%8B&wmode=1
+      cookie:yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+   WARNING (2 cookies, 62 bytes) - http://bs.yandex.ru/resource/slider.html
+      cookie:yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+   WARNING (1 cookies, 26 bytes) - http://engine.awaps.net/0/7193/001001.gif?0-0-428603042-1-a:74441p:39631&profileredir=1&
+      cookie:UserId=15-1243960734-26683
+   WARNING (2 cookies, 62 bytes) - http://maps.yandex.ru/home.html
+      cookie:yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_maps/0
+      cookie:guid=4D2F03024A2555AFX1243960751
+   WARNING (2 cookies, 62 bytes) - http://yabs.yandex.ru/count/Oo6r4Am4oeu40X00ZhvQLQ84MGML0vi1RriYCeYlmWm3agpHf0QAeOtx0v6yq4ba1fE53Oke4_ONGNu5?1663153424
+      cookie:yandexuid=7143653571243960750
+      cookie: yabs-frequency=/2/04HV0E048G00/
+  Cookie score : 53
+    0.8 KB total in outbound cookies, target size = 0.6 KB - potential savings = 0.2 KB
+
+Minify JS:
+    FAILED (1.6 KB, minified = 0.8 KB - savings of 0.8 KB) - http://trf.maps.yandex.net/trf/stat.js?id=0.1962094109610733
+    FAILED (2.3 KB, minified = 1.7 KB - savings of 0.6 KB) - http://trf.maps.yandex.net/trf/coverage.js?id=0.8622797534474356
+  Minify score : 77
+    6.1 KB total in minifiable text, target size = 4.7 KB - potential savings = 1.4 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

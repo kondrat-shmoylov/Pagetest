@@ -1,0 +1,99 @@
+Optimization Report : 06/03/09 at 11:41:03
+
+Results for 'http://mail.yandex.ru/pda':
+
+Page load time: 0.469 seconds
+Time to first byte: 0.006 seconds
+Time to Base Page Downloaded: 0.348 seconds
+Time to Start Render: 0.444 seconds
+Time to Document Complete: 0.469 seconds
+Time to Fully Loaded: 0.469 seconds
+Bytes sent out: 4.678 KB
+Bytes received: 13.316 KB
+DNS Lookups: 0
+Connections: 2
+Requests: 9
+   OK Requests:  7
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    0
+   Other:        1 (301)
+Base Page Response: 200
+Base Page Redirects: 2
+
+
+Enable browser caching of static assets:
+  Cache score : 100
+
+Use one CDN for all static assets:
+    FAILED - http://mailstatic.yandex.net/pda/9/css/local.css
+    FAILED - http://mailstatic.yandex.net/pda/9/i//i-clip-1.gif
+    FAILED - http://mailstatic.yandex.net/pda/9/i/logo-mail.gif
+    FAILED - http://mailstatic.yandex.net/pda/9/js/messages.js
+    FAILED - http://mailstatic.yandex.net/pda/9/js/toolbar.js
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+    FAILED - http://mailstatic.yandex.net/pda/9/js/toolbar.js
+    FAILED - http://mailstatic.yandex.net/pda/9/js/messages.js
+  Combine score : 90
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (7.6 KB, compressed = 2.5 KB - savings of 5.2 KB) - http://mailstatic.yandex.net/pda/9/css/local.css
+    FAILED (2.0 KB, compressed = 1.1 KB - savings of 0.9 KB) - http://mailstatic.yandex.net/pda/9/js/toolbar.js
+  GZIP score : 42
+    10.5 KB total in compressible text, target size = 4.4 KB - potential savings = 6.1 KB
+
+Compress Images:
+  Image Compression score : 100
+    1.2 KB total in images, target size = 1.2 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://mailstatic.yandex.net/pda/9/i//i-clip-1.gif
+  Keep-Alive score : 83
+
+Proper cookie usage:
+   WARNING (7 cookies, 360 bytes) - http://mail.yandex.ru/pda
+      cookie:yandexuid=601266771244014842
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244014844.0.0.55867781.2:152905355:0.58365.1124.439bf4e827905b13de2fd9b30d98c4e6
+      cookie: L=MUI5dEJOXA9DZE8MQGpffFAKZVV/DgZzJl8IKGQjI2ZzORIABFYuCTkXKFIUE2IxTSwDRwASXAcMBUwWXjgfcQ==.1244014844.5196.295477.582e220135acda2637782ccd542251a4
+      cookie: yandex_nickname=
+      cookie: yabs-frequency=/2/-4nV0E44GG00/
+   WARNING (7 cookies, 360 bytes) - http://mail.yandex.ru/pda/
+      cookie:yandexuid=601266771244014842
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244014844.0.0.55867781.2:152905355:0.58365.1124.439bf4e827905b13de2fd9b30d98c4e6
+      cookie: L=MUI5dEJOXA9DZE8MQGpffFAKZVV/DgZzJl8IKGQjI2ZzORIABFYuCTkXKFIUE2IxTSwDRwASXAcMBUwWXjgfcQ==.1244014844.5196.295477.582e220135acda2637782ccd542251a4
+      cookie: yandex_nickname=
+      cookie: yabs-frequency=/2/-4nV0E44GG00/
+   WARNING (7 cookies, 360 bytes) - http://mail.yandex.ru/pda/messages
+      cookie:yandexuid=601266771244014842
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244014844.0.0.55867781.2:152905355:0.58365.1124.439bf4e827905b13de2fd9b30d98c4e6
+      cookie: L=MUI5dEJOXA9DZE8MQGpffFAKZVV/DgZzJl8IKGQjI2ZzORIABFYuCTkXKFIUE2IxTSwDRwASXAcMBUwWXjgfcQ==.1244014844.5196.295477.582e220135acda2637782ccd542251a4
+      cookie: yandex_nickname=
+      cookie: yabs-frequency=/2/-4nV0E44GG00/
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id23554773
+      cookie:guid=4A2703014A2628FAX1244014842
+  Cookie score : 77
+    1.1 KB total in outbound cookies, target size = 1.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    2.5 KB total in minifiable text, target size = 2.5 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://mailstatic.yandex.net/pda/9/css/local.css
+    FAILED - http://mailstatic.yandex.net/pda/9/js/toolbar.js
+    FAILED - http://mailstatic.yandex.net/pda/9/js/messages.js
+    FAILED - http://mailstatic.yandex.net/pda/9/i/logo-mail.gif
+    FAILED - http://mailstatic.yandex.net/pda/9/i//i-clip-1.gif
+  ETag score : 44
+
+JQuery Selectors not descended from an ID:
+  No problems found

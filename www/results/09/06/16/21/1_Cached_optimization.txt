@@ -1,0 +1,55 @@
+Optimization Report : 06/16/09 at 18:23:20
+
+Results for 'http://pagetest.yandex-team.ru/':
+
+Page load time: 0.141 seconds
+Time to first byte: 0.128 seconds
+Time to Base Page Downloaded: 0.129 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.141 seconds
+Time to Fully Loaded: 0.141 seconds
+Bytes sent out: 0.016 KB
+Bytes received: 6.116 KB
+DNS Lookups: 1
+Connections: 1
+Requests: 1
+   OK Requests:  1
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+  No appropriate resources present
+
+Use one CDN for all static assets:
+  No appropriate resources present
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (6.1 KB, compressed = 2.3 KB - savings of 3.8 KB) - http://pagetest.yandex-team.ru/
+  GZIP score : 37
+    6.1 KB total in compressible text, target size = 2.3 KB - potential savings = 3.8 KB
+
+Compress Images:
+  No appropriate resources present
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+  Cookie score : 100
+    0.0 KB total in outbound cookies, target size = 0.0 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

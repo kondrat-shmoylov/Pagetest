@@ -1,0 +1,1 @@
+2009/06/16 13:53:06	-1	-1	0	0	99996	Pagetest result	Cached-Run_1^http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1	http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1	3	class=l-results	

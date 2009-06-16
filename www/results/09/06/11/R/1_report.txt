@@ -1,0 +1,1269 @@
+Results for 'http://yahoo.com/':
+
+Page load time: 2.753 seconds
+Time to first byte: 0.563 seconds
+Time to Base Page Downloaded: 1.162 seconds
+Time to Start Render: 1.152 seconds
+Time to Document Complete: 2.753 seconds
+Time to Fully Loaded: 3.073 seconds
+Bytes sent out: 0.547 KB
+Bytes received: 176.683 KB
+DNS Lookups: 5
+Connections: 7
+Requests: 35
+   OK Requests:  33
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        2 (301, 0)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://yahoo.com/
+      Host: yahoo.com
+      Result code: 301
+      Transaction time: 0.563 seconds
+      Time to first byte: 0.218 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 380 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 165 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yahoo.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 301 Moved Permanently
+      Date: Thu, 11 Jun 2009 16:52:30 GMT
+      Location: http://www.yahoo.com/
+      Cache-Control: private
+      Connection: close
+      Transfer-Encoding: chunked
+      Content-Type: text/html; charset=utf-8
+
+Request 2:
+      Action: GET
+      Url: http://www.yahoo.com/
+      Host: www.yahoo.com
+      Result code: 200
+      Transaction time: 0.599 seconds
+      Time to first byte: 0.218 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 35767 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 34857 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Connection: Keep-Alive
+      Host: www.yahoo.com
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 16:52:30 GMT
+      Set-Cookie: B=8g6945p532die&b=3&s=ds; expires=Tue, 12-Jun-2011 20:00:00 GMT; path=/; domain=.yahoo.com
+      P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+      Cache-Control: private
+      Vary: User-Agent
+      Set-Cookie: IU=deleted; expires=Wed, 11 Jun 2008 16:52:29 GMT; path=/; domain=.yahoo.com
+      Set-Cookie: FPCM=deleted; expires=Wed, 11 Jun 2008 16:52:29 GMT; path=/
+      Set-Cookie: PH=deleted; expires=Wed, 11 Jun 2008 16:52:29 GMT; path=/; domain=.yahoo.com
+      Set-Cookie: D=_ylh=X3oDMTFkZmYxajI5BF9TAzI3MTYxNDkEcGlkAzEyNDQ3MzgzODIEdGVzdAMwBHRtcGwDaW5kZXgtbA--; path=/; domain=.yahoo.com
+      Connection: close
+      Transfer-Encoding: chunked
+      Content-Type: text/html; charset=utf-8
+      Content-Encoding: gzip
+
+Request 3:
+      Action: GET
+      Url: http://l.yimg.com/d/a/1-/java/promotions/js/ad_eo_1.1.js
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.086 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 916 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 553 Bytes
+  Request Headers:
+      GET /d/a/1-/java/promotions/js/ad_eo_1.1.js HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Wed, 10 Jun 2009 19:07:52 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sat, 08 Jun 2019 19:07:52 GMT
+      Last-Modified: Thu, 06 Apr 2006 21:17:12 GMT
+      Accept-Ranges: bytes
+      Vary: Accept-Encoding
+      Content-Type: application/x-javascript
+      Content-Encoding: gzip
+      Age: 78278
+      Content-Length: 553
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 4:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/thm/1/grd-1px_1.4.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 1463 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1160 Bytes
+  Request Headers:
+      GET /a/i/ww/thm/1/grd-1px_1.4.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Mon, 01 Jun 2009 21:22:44 GMT
+      Cache-Control: max-age=315360000
+      Expires: Thu, 30 May 2019 21:22:44 GMT
+      Last-Modified: Wed, 04 Mar 2009 13:50:32 GMT
+      Accept-Ranges: bytes
+      Content-Length: 1160
+      Content-Type: image/gif
+      Age: 847786
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 5:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/beta/y3.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.128 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 2177 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1874 Bytes
+  Request Headers:
+      GET /a/i/ww/beta/y3.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Sat, 06 Jun 2009 23:16:17 GMT
+      Cache-Control: max-age=315360000
+      Expires: Tue, 04 Jun 2019 23:16:17 GMT
+      Last-Modified: Tue, 16 Dec 2008 21:25:26 GMT
+      Accept-Ranges: bytes
+      Content-Length: 1874
+      Content-Type: image/gif
+      Age: 408973
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 6:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/thm/1/wlip_closed.png
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 701 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 399 Bytes
+  Request Headers:
+      GET /a/i/ww/thm/1/wlip_closed.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Sat, 06 Jun 2009 04:09:39 GMT
+      Cache-Control: max-age=315360000
+      Expires: Tue, 04 Jun 2019 04:09:39 GMT
+      Last-Modified: Wed, 04 Mar 2009 13:50:32 GMT
+      Accept-Ranges: bytes
+      Content-Length: 399
+      Content-Type: image/png
+      Age: 477771
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 7:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/thm/1/whood.png
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 710 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 408 Bytes
+  Request Headers:
+      GET /a/i/ww/thm/1/whood.png HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Mon, 01 Jun 2009 07:03:26 GMT
+      Cache-Control: max-age=315360000
+      Expires: Thu, 30 May 2019 07:03:26 GMT
+      Last-Modified: Wed, 04 Mar 2009 13:50:32 GMT
+      Accept-Ranges: bytes
+      Content-Length: 408
+      Content-Type: image/png
+      Age: 899345
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 8:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/thm/1/whood.png
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 710 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 408 Bytes
+  Request Headers:
+      GET /a/i/ww/thm/1/whood.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Mon, 01 Jun 2009 07:03:26 GMT
+      Cache-Control: max-age=315360000
+      Expires: Thu, 30 May 2019 07:03:26 GMT
+      Last-Modified: Wed, 04 Mar 2009 13:50:32 GMT
+      Accept-Ranges: bytes
+      Content-Length: 408
+      Content-Type: image/png
+      Age: 899345
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 9:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/thm/1/wlip_closed.png
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.052 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 701 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 399 Bytes
+  Request Headers:
+      GET /a/i/ww/thm/1/wlip_closed.png HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Sun, 07 Jun 2009 07:34:10 GMT
+      Cache-Control: max-age=315360000
+      Expires: Wed, 05 Jun 2019 07:34:10 GMT
+      Last-Modified: Wed, 04 Mar 2009 13:50:32 GMT
+      Accept-Ranges: bytes
+      Content-Length: 399
+      Content-Type: image/png
+      Age: 379101
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 10:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/t4/sbox-bg.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 1556 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1253 Bytes
+  Request Headers:
+      GET /a/i/ww/t4/sbox-bg.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Sat, 06 Jun 2009 20:54:27 GMT
+      Cache-Control: max-age=315360000
+      Expires: Tue, 04 Jun 2019 20:54:27 GMT
+      Last-Modified: Thu, 12 Jul 2007 22:10:55 GMT
+      Accept-Ranges: bytes
+      Content-Length: 1253
+      Content-Type: image/gif
+      Age: 417484
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 11:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/sp/icons_1.8.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.085 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 3691 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3388 Bytes
+  Request Headers:
+      GET /a/i/ww/sp/icons_1.8.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Sun, 07 Jun 2009 21:28:49 GMT
+      Cache-Control: max-age=315360000
+      Expires: Wed, 05 Jun 2019 21:28:49 GMT
+      Last-Modified: Thu, 30 Apr 2009 21:53:38 GMT
+      Accept-Ranges: bytes
+      Content-Length: 3388
+      Content-Type: image/gif
+      Age: 329023
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 12:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/thm/1/grd-4px_1.1.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.087 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 6044 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5741 Bytes
+  Request Headers:
+      GET /a/i/ww/thm/1/grd-4px_1.1.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Wed, 10 Jun 2009 00:08:53 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sat, 08 Jun 2019 00:08:53 GMT
+      Last-Modified: Wed, 04 Mar 2009 13:50:32 GMT
+      Accept-Ranges: bytes
+      Content-Length: 5741
+      Content-Type: image/gif
+      Age: 146618
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 13:
+      Action: GET
+      Url: http://us.i1.yimg.com/us.yimg.com/i/ww/t4/events_s.gif
+      Host: us.i1.yimg.com
+      Result code: 200
+      Transaction time: 0.109 seconds
+      Time to first byte: 0.027 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 1641 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1372 Bytes
+  Request Headers:
+      GET /us.yimg.com/i/ww/t4/events_s.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: us.i1.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Last-Modified: Mon, 24 Mar 2008 18:02:32 GMT
+      Accept-Ranges: bytes
+      Content-Length: 1372
+      Content-Type: image/gif
+      Cache-Control: max-age=297683249
+      Expires: Sat, 17 Nov 2018 02:40:00 GMT
+      Date: Thu, 11 Jun 2009 16:52:31 GMT
+      Connection: keep-alive
+
+Request 14:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/sp/trough_2.1.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.128 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 16602 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 16299 Bytes
+  Request Headers:
+      GET /a/i/ww/sp/trough_2.1.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 03:05:49 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sun, 09 Jun 2019 03:05:49 GMT
+      Last-Modified: Fri, 29 May 2009 00:26:52 GMT
+      Accept-Ranges: bytes
+      Content-Length: 16299
+      Content-Type: image/gif
+      Age: 49602
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 15:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/news/2009/04/29/swine-level-6.jpg
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.128 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 11073 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 10770 Bytes
+  Request Headers:
+      GET /a/i/ww/news/2009/04/29/swine-level-6.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 14:38:02 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sun, 09 Jun 2019 14:38:02 GMT
+      Last-Modified: Wed, 29 Apr 2009 23:25:34 GMT
+      Accept-Ranges: bytes
+      Content-Length: 10770
+      Content-Type: image/jpeg
+      Age: 8070
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 16:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/news/2009/04/29/swine-level-6-sm.jpg
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.044 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 3999 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3697 Bytes
+  Request Headers:
+      GET /a/i/ww/news/2009/04/29/swine-level-6-sm.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 14:37:57 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sun, 09 Jun 2019 14:37:57 GMT
+      Last-Modified: Wed, 29 Apr 2009 23:25:34 GMT
+      Accept-Ranges: bytes
+      Content-Length: 3697
+      Content-Type: image/jpeg
+      Age: 8074
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 17:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/news/2009/06/11/ocho-sm.jpg
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 2048 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1746 Bytes
+  Request Headers:
+      GET /a/i/ww/news/2009/06/11/ocho-sm.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 15:50:54 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sun, 09 Jun 2019 15:50:54 GMT
+      Last-Modified: Thu, 11 Jun 2009 15:30:51 GMT
+      Accept-Ranges: bytes
+      Content-Length: 1746
+      Content-Type: image/jpeg
+      Age: 3697
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 18:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/news/2009/06/11/familyphoto-sm.jpg
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1087 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 787 Bytes
+  Request Headers:
+      GET /a/i/ww/news/2009/06/11/familyphoto-sm.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 16:39:59 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sun, 09 Jun 2019 16:39:59 GMT
+      Last-Modified: Thu, 11 Jun 2009 14:51:11 GMT
+      Accept-Ranges: bytes
+      Content-Length: 787
+      Content-Type: image/jpeg
+      Age: 752
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 19:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/news/2009/06/11/holocaust2-sm.jpg
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 2154 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1851 Bytes
+  Request Headers:
+      GET /a/i/ww/news/2009/06/11/holocaust2-sm.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 13:54:21 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sun, 09 Jun 2019 13:54:21 GMT
+      Last-Modified: Thu, 11 Jun 2009 12:23:36 GMT
+      Accept-Ranges: bytes
+      Content-Length: 1851
+      Content-Type: image/jpeg
+      Age: 10690
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 20:
+      Action: GET
+      Url: http://l.yimg.com/a/a/1-/flash/promotions/yahoo/081120/70x50iltlb.jpg
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1606 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1302 Bytes
+  Request Headers:
+      GET /a/a/1-/flash/promotions/yahoo/081120/70x50iltlb.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 02 Jun 2009 08:45:30 GMT
+      Cache-Control: max-age=315360000
+      Expires: Fri, 31 May 2019 08:45:30 GMT
+      Last-Modified: Wed, 25 Mar 2009 19:08:46 GMT
+      Accept-Ranges: bytes
+      Content-Length: 1302
+      Content-Type: image/jpeg
+      Age: 806821
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 21:
+      Action: GET
+      Url: http://l.yimg.com/a/i/us/ent/pulse/games/102208_3_cooking.jpg
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.130 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 20386 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 20082 Bytes
+  Request Headers:
+      GET /a/i/us/ent/pulse/games/102208_3_cooking.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Wed, 10 Jun 2009 23:47:16 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sat, 08 Jun 2019 23:47:16 GMT
+      Last-Modified: Thu, 23 Oct 2008 00:48:51 GMT
+      Accept-Ranges: bytes
+      Content-Length: 20082
+      Content-Type: image/jpeg
+      Age: 61515
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 22:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/sp/pa-icons3.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 7099 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6796 Bytes
+  Request Headers:
+      GET /a/i/ww/sp/pa-icons3.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Fri, 05 Jun 2009 15:29:44 GMT
+      Cache-Control: max-age=315360000
+      Expires: Mon, 03 Jun 2019 15:29:44 GMT
+      Last-Modified: Thu, 30 Apr 2009 21:54:22 GMT
+      Accept-Ranges: bytes
+      Content-Length: 6796
+      Content-Type: image/gif
+      Age: 523367
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 23:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/t4/pa-preview-shadow.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 344 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /a/i/ww/t4/pa-preview-shadow.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Sun, 07 Jun 2009 07:34:21 GMT
+      Cache-Control: max-age=315360000
+      Expires: Wed, 05 Jun 2019 07:34:21 GMT
+      Last-Modified: Thu, 12 Jul 2007 22:10:55 GMT
+      Accept-Ranges: bytes
+      Content-Length: 43
+      Content-Type: image/gif
+      Age: 379090
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 24:
+      Action: GET
+      Url: http://l.yimg.com/a/i/mntl/ga/08q3/hd_0807_v1a.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1730 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1428 Bytes
+  Request Headers:
+      GET /a/i/mntl/ga/08q3/hd_0807_v1a.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Wed, 10 Jun 2009 20:55:00 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sat, 08 Jun 2019 20:55:00 GMT
+      Last-Modified: Wed, 09 Jul 2008 19:57:57 GMT
+      Accept-Ranges: bytes
+      Content-Length: 1428
+      Content-Type: image/gif
+      Age: 71851
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 25:
+      Action: GET
+      Url: http://l.yimg.com/a/i/mntl/sma/08q2/img_f4a22b34.jpg
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 5026 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4722 Bytes
+  Request Headers:
+      GET /a/i/mntl/sma/08q2/img_f4a22b34.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Sun, 07 Jun 2009 06:42:51 GMT
+      Cache-Control: max-age=315360000
+      Expires: Wed, 05 Jun 2019 06:42:51 GMT
+      Last-Modified: Mon, 05 May 2008 20:02:36 GMT
+      Accept-Ranges: bytes
+      Content-Length: 4722
+      Content-Type: image/jpeg
+      Age: 382180
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 26:
+      Action: GET
+      Url: http://l.yimg.com/a/i/us/per/pr/dishonest-dating-92.jpg
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.086 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 6263 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5960 Bytes
+  Request Headers:
+      GET /a/i/us/per/pr/dishonest-dating-92.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Wed, 10 Jun 2009 16:17:59 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sat, 08 Jun 2019 16:17:59 GMT
+      Last-Modified: Wed, 15 Apr 2009 18:43:49 GMT
+      Accept-Ranges: bytes
+      Content-Length: 5960
+      Content-Type: image/jpeg
+      Age: 88473
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 27:
+      Action: GET
+      Url: http://l.yimg.com/a/i/nt/gr/li/2x2/003399.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 288 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /a/i/nt/gr/li/2x2/003399.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Fri, 15 Apr 1994 00:00:00 GMT
+      Expires: Thu, 15 Apr 2010 20:00:00 GMT
+      Date: Tue, 02 Jun 2009 07:38:16 GMT
+      Age: 810855
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 28:
+      Action: GET
+      Url: http://l.yimg.com/d/i/ww/sp/js_3.037.js
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.192 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 27923 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 27557 Bytes
+  Request Headers:
+      GET /d/i/ww/sp/js_3.037.js HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Mon, 08 Jun 2009 09:45:40 GMT
+      Cache-Control: max-age=315360000
+      Expires: Thu, 06 Jun 2019 09:45:40 GMT
+      Last-Modified: Fri, 01 May 2009 18:55:31 GMT
+      Accept-Ranges: bytes
+      Vary: Accept-Encoding
+      Content-Type: application/x-javascript
+      Content-Encoding: gzip
+      Content-Length: 27557
+      Age: 284811
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 29:
+      Action: GET
+      Url: http://l.yimg.com/d/lib/bc/bc_2.0.4.js
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.354 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1314 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 950 Bytes
+  Request Headers:
+      GET /d/lib/bc/bc_2.0.4.js HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Sun, 07 Jun 2009 22:20:32 GMT
+      Cache-Control: max-age=315360000
+      Expires: Wed, 05 Jun 2019 22:20:32 GMT
+      Last-Modified: Sat, 23 Aug 2008 04:14:13 GMT
+      Accept-Ranges: bytes
+      Vary: Accept-Encoding
+      Content-Type: application/x-javascript
+      Content-Encoding: gzip
+      Age: 325920
+      Content-Length: 950
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 30:
+      Action: GET
+      Url: http://l.yimg.com/d/i/ww/sp/onload_1.4.3.css
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 2273 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1924 Bytes
+  Request Headers:
+      GET /d/i/ww/sp/onload_1.4.3.css HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Wed, 03 Jun 2009 20:22:50 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sat, 01 Jun 2019 20:22:50 GMT
+      Last-Modified: Thu, 30 Apr 2009 23:34:20 GMT
+      Accept-Ranges: bytes
+      Vary: Accept-Encoding
+      Content-Type: text/css
+      Content-Encoding: gzip
+      Age: 678583
+      Content-Length: 1924
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 31:
+      Action: GET
+      Url: http://l.yimg.com/d/i/ww/sp/onload_1.7.4.js
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.192 seconds
+      Time to first byte: 0.042 seconds
+      Document: 0
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 12087 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 11721 Bytes
+  Request Headers:
+      GET /d/i/ww/sp/onload_1.7.4.js HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 04 Jun 2009 00:29:48 GMT
+      Cache-Control: max-age=315360000
+      Expires: Sun, 02 Jun 2019 00:29:48 GMT
+      Last-Modified: Thu, 30 Apr 2009 21:54:29 GMT
+      Accept-Ranges: bytes
+      Vary: Accept-Encoding
+      Content-Type: application/x-javascript
+      Content-Encoding: gzip
+      Age: 663764
+      Content-Length: 11721
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 32:
+      Action: GET
+      Url: http://us.bc.yahoo.com/b?P=wuotkFf4cdX8ew79Xgl0IEuCX2yRcUoxNk4ABz5F&T=13ti9r7fv%2fX%3d1244739150%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d1769211140%2fS%3d1%2fJ%3dD571F857&U=13fv4eh8n%2fN%3duWeLIkwNBmc-%2fC%3d385893.13484023.13562826.9641268%2fD%3dHDLN%2fB%3d5727906%2fV%3d1&U=13g2n2jp4%2fN%3dumeLIkwNBmc-%2fC%3d289534.13034496.13553720.5322130%2fD%3dHEADR%2fB%3d4040821%2fV%3d1&U=12d92cj4b%2fN%3du2eLIkwNBmc-%2fC%3d-1%2fD%3dFDMY2%2fB%3d-1%2fV%3d0&U=12br9ngko%2fN%3dvGeLIkwNBmc-%2fC%3d-2%2fD%3dNBM%2fB%3d-2%2fV%3d0&U=13g11g8ug%2fN%3dvmeLIkwNBmc-%2fC%3d261366.10729796.12726797.10391589%2fD%3dFPC1%2fB%3d1720487%2fV%3d1&U=12cm5poi3%2fN%3dv2eLIkwNBmc-%2fC%3d-1%2fD%3dSTCK%2fB%3d-1%2fV%3d0&U=13e93ip8g%2fN%3dwGeLIkwNBmc-%2fC%3d385895.13375714.13476789.9365916%2fD%3dMKP%2fB%3d5560268%2fV%3d1&U=13f255n9e%2fN%3dwWeLIkwNBmc-%2fC%3d385895.13375715.13476793.8855218%2fD%3dMKP1%2fB%3d4763740%2fV%3d1&U=13f4tugqs%2fN%3dwmeLIkwNBmc-%2fC%3d545301.13463913.13546279.9413843%2fD%3dMKP1%2fB%3d5727526%2fV%3d1&U=13fjb1rgl%2fN%3dw2eLIkwNBmc-%2fC%3d635447.13182398.13350799.9413843%2fD%3dMKP1%2fB%3d4758806%2fV%3d1&U=12c09h3jm%2fN%3dxGeLIkwNBmc-%2fC%3d-1%2fD%3dMKP4%2fB%3d-1%2fV%3d0&U=129vmqbmr%2fN%3dxWeLIkwNBmc-%2fC%3d-1%2fD%3dZ%2fB%3d-1%2fV%3d0&U=13fdh3usk%2fN%3dxmeLIkwNBmc-%2fC%3d545301.13442946.13530042.7674020%2fD%3dFPAD%2fB%3d5532888%2fV%3d1&U=13gk8fajd%2fN%3dx2eLIkwNBmc-%2fC%3d387002.13474973.13553962.10360830%2fD%3dMNTL%2fB%3d5727436%2fV%3d1&U=12bft3trk%2fN%3dy2eLIkwNBmc-%2fC%3d-1%2fD%3dSIP%2fB%3d-1%2fV%3d0&U=12brmt9ie%2fN%3dzWeLIkwNBmc-%2fC%3d-2%2fD%3dRMP%2fB%3d-2%2fV%3d0&U=12c3no9kg%2fN%3dymeLIkwNBmc-%2fC%3d-2%2fD%3dSIPR%2fB%3d-2%2fV%3d0&U=13dtcqurp%2fN%3dyGeLIkwNBmc-%2fC%3d224039.2072002.3536622.2012076%2fD%3dFOOT%2fB%3d1088125%2fV%3d1&Q=0&O=0.33477012494628255
+      Host: us.bc.yahoo.com
+      Result code: 200
+      Transaction time: 0.131 seconds
+      Time to first byte: 0.066 seconds
+      Document: 0
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 428 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 59 Bytes
+  Request Headers:
+      GET /b?P=wuotkFf4cdX8ew79Xgl0IEuCX2yRcUoxNk4ABz5F&T=13ti9r7fv%2fX%3d1244739150%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d1769211140%2fS%3d1%2fJ%3dD571F857&U=13fv4eh8n%2fN%3duWeLIkwNBmc-%2fC%3d385893.13484023.13562826.9641268%2fD%3dHDLN%2fB%3d5727906%2fV%3d1&U=13g2n2jp4%2fN%3dumeLIkwNBmc-%2fC%3d289534.13034496.13553720.5322130%2fD%3dHEADR%2fB%3d4040821%2fV%3d1&U=12d92cj4b%2fN%3du2eLIkwNBmc-%2fC%3d-1%2fD%3dFDMY2%2fB%3d-1%2fV%3d0&U=12br9ngko%2fN%3dvGeLIkwNBmc-%2fC%3d-2%2fD%3dNBM%2fB%3d-2%2fV%3d0&U=13g11g8ug%2fN%3dvmeLIkwNBmc-%2fC%3d261366.10729796.12726797.10391589%2fD%3dFPC1%2fB%3d1720487%2fV%3d1&U=12cm5poi3%2fN%3dv2eLIkwNBmc-%2fC%3d-1%2fD%3dSTCK%2fB%3d-1%2fV%3d0&U=13e93ip8g%2fN%3dwGeLIkwNBmc-%2fC%3d385895.13375714.13476789.9365916%2fD%3dMKP%2fB%3d5560268%2fV%3d1&U=13f255n9e%2fN%3dwWeLIkwNBmc-%2fC%3d385895.13375715.13476793.8855218%2fD%3dMKP1%2fB%3d4763740%2fV%3d1&U=13f4tugqs%2fN%3dwmeLIkwNBmc-%2fC%3d545301.13463913.13546279.9413843%2fD%3dMKP1%2fB%3d5727526%2fV%3d1&U=13fjb1rgl%2fN%3dw2eLIkwNBmc-%2fC%3d635447.13182398.13350799.9413843%2fD%3dMKP1%2fB%3d4758806%2fV%3d1&U=12c09h3jm%2fN%3dxGeLIkwNBmc-%2fC%3d-1%2fD%3dMKP4%2fB%3d-1%2fV%3d0&U=129vmqbmr%2fN%3dxWeLIkwNBmc-%2fC%3d-1%2fD%3dZ%2fB%3d-1%2fV%3d0&U=13fdh3usk%2fN%3dxmeLIkwNBmc-%2fC%3d545301.13442946.13530042.7674020%2fD%3dFPAD%2fB%3d5532888%2fV%3d1&U=13gk8fajd%2fN%3dx2eLIkwNBmc-%2fC%3d387002.13474973.13553962.10360830%2fD%3dMNTL%2fB%3d5727436%2fV%3d1&U=12bft3trk%2fN%3dy2eLIkwNBmc-%2fC%3d-1%2fD%3dSIP%2fB%3d-1%2fV%3d0&U=12brmt9ie%2fN%3dzWeLIkwNBmc-%2fC%3d-2%2fD%3dRMP%2fB%3d-2%2fV%3d0&U=12c3no9kg%2fN%3dymeLIkwNBmc-%2fC%3d-2%2fD%3dSIPR%2fB%3d-2%2fV%3d0&U=13dtcqurp%2fN%3dyGeLIkwNBmc-%2fC%3d224039.2072002.3536622.2012076%2fD%3dFOOT%2fB%3d1088125%2fV%3d1&Q=0&O=0.33477012494628255 HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: us.bc.yahoo.com
+      Connection: Keep-Alive
+      Cookie: B=8g6945p532die&b=3&s=ds; D=_ylh=X3oDMTFkZmYxajI5BF9TAzI3MTYxNDkEcGlkAzEyNDQ3MzgzODIEdGVzdAMwBHRtcGwDaW5kZXgtbA--
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 16:52:32 GMT
+      P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+      Cache-Control: no-cache
+      Connection: close
+      Transfer-Encoding: chunked
+      Content-Type: image/gif
+
+Request 33:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/sp/arrow.gif
+      Host: l.yimg.com
+      Result code: 0
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /a/i/ww/sp/arrow.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+
+Request 34:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/sp/arrow.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.042 seconds
+      Document: 0
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 368 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 67 Bytes
+  Request Headers:
+      GET /a/i/ww/sp/arrow.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 09 Jun 2009 19:39:34 GMT
+      Cache-Control: max-age=315360000
+      Expires: Fri, 07 Jun 2019 19:39:34 GMT
+      Last-Modified: Thu, 30 Apr 2009 21:53:35 GMT
+      Accept-Ranges: bytes
+      Content-Length: 67
+      Content-Type: image/gif
+      Age: 162778
+      Connection: keep-alive
+      Server: YTS/1.17.16
+
+Request 35:
+      Action: GET
+      Url: http://l.yimg.com/a/i/ww/sp/arrow.gif
+      Host: l.yimg.com
+      Result code: 200
+      Transaction time: 0.085 seconds
+      Time to first byte: 0.042 seconds
+      Document: 0
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 368 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 67 Bytes
+  Request Headers:
+      GET /a/i/ww/sp/arrow.gif HTTP/1.1
+      Accept: */*
+      Referer: http://www.yahoo.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: l.yimg.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 09 Jun 2009 19:39:34 GMT
+      Cache-Control: max-age=315360000
+      Expires: Fri, 07 Jun 2019 19:39:34 GMT
+      Last-Modified: Thu, 30 Apr 2009 21:53:35 GMT
+      Accept-Ranges: bytes
+      Content-Length: 67
+      Content-Type: image/gif
+      Age: 162778
+      Connection: keep-alive
+      Server: YTS/1.17.16
+

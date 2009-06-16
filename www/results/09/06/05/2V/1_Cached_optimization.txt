@@ -1,0 +1,64 @@
+Optimization Report : 06/05/09 at 17:45:48
+
+Results for 'http://yandex.ru/yandsearch?text=%C2%E8%E9&i-m-a-hacker=1':
+
+Page load time: 0.318 seconds
+Time to first byte: 0.299 seconds
+Time to Base Page Downloaded: 0.303 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.318 seconds
+Time to Fully Loaded: 0.318 seconds
+Bytes sent out: 3.135 KB
+Bytes received: 9.388 KB
+DNS Lookups: 5
+Connections: 6
+Requests: 7
+   OK Requests:  2
+   Redirects:    0
+   Not Modified: 5
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://im4-tub.yandex.net/i?id=17659597&tov=4
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://im4-tub.yandex.net/i?id=17659597&tov=4
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  No appropriate resources present
+
+Compress Images:
+    WARNING (8.0 KB, target = 6.7 KB - savings of 1.4 KB)- http://im4-tub.yandex.net/i?id=17659597&tov=4
+  Image Compression score : 82
+    8.1 KB total in images, target size = 6.7 KB - potential savings = 1.4 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=9747501244209543
+   WARNING (1 cookies, 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=10394578
+      cookie:yandexuid=9747501244209543
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=F72506034A292188X1244209544
+  Cookie score : 78
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

@@ -1,0 +1,77 @@
+Optimization Report : 06/05/09 at 19:42:45
+
+Results for 'http://google.ru/search?q=%EC%EE%E9%20ip&hl=ru':
+
+Page load time: 0.713 seconds
+Time to first byte: 0.281 seconds
+Time to Base Page Downloaded: 0.536 seconds
+Time to Start Render: 0.620 seconds
+Time to Document Complete: 0.713 seconds
+Time to Fully Loaded: 1.086 seconds
+Bytes sent out: 4.000 KB
+Bytes received: 17.146 KB
+DNS Lookups: 3
+Connections: 4
+Requests: 7
+   OK Requests:  4
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+  Cache score : 100
+
+Use one CDN for all static assets:
+
+  1 CDN's used:
+    www.google.ru
+
+  CDN score (static objects) : 100
+  CDN score (one CDN) : 100
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    7.0 KB total in compressible text, target size = 7.0 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    8.8 KB total in images, target size = 8.8 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/images/nav_logo4.png
+      cookie:PREF=ID=fa70bbf15b4d9faa:NW=1:TM=1244216566:LM=1244216566:S=Gqgr-_joA2nNEd0D
+      cookie: NID=23=Aj6Nx9dhOP8UuAxNS2Oquq165Z2Y1ALhzZf3qrCepcz_ACOBkoMN17fLyjz2VgoI6JKYrz3y-vKAswd6cA1GH8DaWE_ESZTQmZmjIlo0ICQqCyXNhkKy8_ZVhAr2lfmy
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/options/icons/translate.gif
+      cookie:PREF=ID=fa70bbf15b4d9faa:NW=1:TM=1244216566:LM=1244216566:S=Gqgr-_joA2nNEd0D
+      cookie: NID=23=Aj6Nx9dhOP8UuAxNS2Oquq165Z2Y1ALhzZf3qrCepcz_ACOBkoMN17fLyjz2VgoI6JKYrz3y-vKAswd6cA1GH8DaWE_ESZTQmZmjIlo0ICQqCyXNhkKy8_ZVhAr2lfmy
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/extern_js/f/CgJydRICcnUrMAo4G0ABLCswDjgFLCswFjgKLCswFzgBLCswGDgELCswJTjJiAEsKzAmOAQsKzAnOAAs/03GMdWh3OJw.js
+      cookie:PREF=ID=fa70bbf15b4d9faa:NW=1:TM=1244216566:LM=1244216566:S=Gqgr-_joA2nNEd0D
+      cookie: NID=23=Aj6Nx9dhOP8UuAxNS2Oquq165Z2Y1ALhzZf3qrCepcz_ACOBkoMN17fLyjz2VgoI6JKYrz3y-vKAswd6cA1GH8DaWE_ESZTQmZmjIlo0ICQqCyXNhkKy8_ZVhAr2lfmy
+   WARNING (2 cookies, 213 bytes) - http://clients1.google.ru/generate_204
+      cookie:PREF=ID=fa70bbf15b4d9faa:NW=1:TM=1244216566:LM=1244216566:S=Gqgr-_joA2nNEd0D
+      cookie: NID=23=Aj6Nx9dhOP8UuAxNS2Oquq165Z2Y1ALhzZf3qrCepcz_ACOBkoMN17fLyjz2VgoI6JKYrz3y-vKAswd6cA1GH8DaWE_ESZTQmZmjIlo0ICQqCyXNhkKy8_ZVhAr2lfmy
+   WARNING (2 cookies, 213 bytes) - http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=9jwpStrLOM6OsAawoKXfCQ&e=20572&rt=prt.94,ol.188,xjs.391
+      cookie:PREF=ID=fa70bbf15b4d9faa:NW=1:TM=1244216566:LM=1244216566:S=Gqgr-_joA2nNEd0D
+      cookie: NID=23=Aj6Nx9dhOP8UuAxNS2Oquq165Z2Y1ALhzZf3qrCepcz_ACOBkoMN17fLyjz2VgoI6JKYrz3y-vKAswd6cA1GH8DaWE_ESZTQmZmjIlo0ICQqCyXNhkKy8_ZVhAr2lfmy
+  Cookie score : 42
+    1.0 KB total in outbound cookies, target size = 0.4 KB - potential savings = 0.6 KB
+
+Minify JS:
+  Minify score : 100
+    6.0 KB total in minifiable text, target size = 6.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

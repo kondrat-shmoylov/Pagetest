@@ -1,0 +1,46 @@
+Results for 'http://google.ru/search?q=%D1%F2%F0%E0%ED%E8%F6%E0%20%ED%E0%F1%F2%F0%EE%E5%EA%20%EF%EE%E8%F1%EA%E0%20%ED%E0-%F0%F3%F1%F1%EA%EE%EC&hl=ru':
+
+Error loading page: -2146697211 (0x800C0005)
+Page load time: 26.337 seconds
+Time to first byte: 0.000 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 26.337 seconds
+Time to Fully Loaded: 26.337 seconds
+Bytes sent out: 0.000 KB
+Bytes received: 0.000 KB
+DNS Lookups: 2
+Connections: 0
+Requests: 2
+   OK Requests:  0
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        2 (0, -1)
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://google.ru/search?q=%D1%F2%F0%E0%ED%E8%F6%E0%20%ED%E0%F1%F2%F0%EE%E5%EA%20%EF%EE%E8%F1%EA%E0%20%ED%E0-%F0%F3%F1%F1%EA%EE%EC&hl=ru
+      Host: google.ru
+      Result code: 0
+      Transaction time: 26.337 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://google.ru/search?q=%D1%F2%F0%E0%ED%E8%F6%E0%20%ED%E0%F1%F2%F0%EE%E5%EA%20%EF%EE%E8%F1%EA%E0%20%ED%E0-%F0%F3%F1%F1%EA%EE%EC&hl=ru
+      Host: google.ru
+      Result code: -1
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 0
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+

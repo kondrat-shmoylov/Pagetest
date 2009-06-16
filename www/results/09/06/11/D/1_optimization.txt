@@ -1,0 +1,475 @@
+Optimization Report : 06/11/09 at 19:29:16
+
+Results for 'http://lenta.ru/':
+
+Page load time: 0.774 seconds
+Time to first byte: 0.132 seconds
+Time to Base Page Downloaded: 0.149 seconds
+Time to Start Render: 0.195 seconds
+Time to Document Complete: 0.774 seconds
+Time to Fully Loaded: 0.774 seconds
+Bytes sent out: 2.078 KB
+Bytes received: 575.378 KB
+DNS Lookups: 12
+Connections: 21
+Requests: 133
+   OK Requests:  126
+   Redirects:    3
+   Not Modified: 0
+   Not Found:    0
+   Other:        4 (301, 301, 301, 301)
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/05/29/augment/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/04/mu/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/05/fire/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/05/tourist/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/08/fail/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/09/arms/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/09/chr/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/09/dohod/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/09/infamous/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/09/sherman/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/10/elevator/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/10/gates/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/10/judge/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/10/madonna/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/10/plagiat/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/11/dig/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/11/dreamtheater/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/11/nazi/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/11/oil/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/11/pear/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/11/shooting/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/11/ssj100/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/articles/2009/06/11/wallstreet/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/conf/babich/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/conf/grib/pic.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/conf/kirotake/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/conf/martinovich/pic.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/conf/myskina/pic.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/conf/panfilova/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/conf/rybakova/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/arrow.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/conf_a.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/ed.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/flag.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/logowrambler.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/p_conf.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/refresh.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/style.css
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/ts.css
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/ts.css?a
+    FAILED  (No max-age or expires) - http://img.lenta.ru/iauto/articles/2009/06/09/salesmay/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/iauto/articles/2009/06/11/seatbelt/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/iauto/i/ts-auto-background.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/iauto/i/ts-auto-logo.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/iauto/news/2009/06/11/golf/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/iauto/news/2009/06/11/wind/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/ireal/articles/2009/06/10/novosibirsk/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/ireal/articles/2009/06/11/pik/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/ireal/news/2009/06/11/msk/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/ireal/news/2009/06/11/viselenie/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/10/flag/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/10/poker/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/10/runaway/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/anne/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/anticrisis/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/battlefield/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/bcbk/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/britney/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/coldwar/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/crackdown/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/duma1/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/evidence/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/evidence/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/first/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/forman/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/fourteen/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/gamble/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/granade/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/intel/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/izhevsk/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/killerbee/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/lastfm/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/layoffs/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/madonna/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/medialogy/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/mid/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/mistake/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/money/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/nobeer/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/nokia/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/nova/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/octopus/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/pipes/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/prison/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/redknapp/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/repayment/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/rtcnn/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/samara/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/sharapova/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/tomsk/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/warming/picturesmall.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/wpp/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/news/2009/06/11/wto/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/online/2009/06/08/wwdc/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/photo/2009/05/31/transformers2/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/photo/2009/06/09/usadbajazz/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/photo/2009/06/10/chehovfestival/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/photo/2009/06/11/easel/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/photo/2009/06/11/finrus/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/story/catastrophe/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/story/catastrophe/picture--85.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/story/fas/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/story/hacker/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/story/klitchag/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/story/kndr2009/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/story/magomedtagirov/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/story/milk/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/story/telenor/picture--113.jpg
+    FAILED  (No max-age or expires) - http://img.lenta.ru/topics/e3expo2009/picture--113.jpg
+    FAILED  (No max-age or expires) - http://medportal.ru/common/08060951--150.jpg
+    FAILED  (No max-age or expires) - http://medportal.ru/common/10060994--150.jpg
+    FAILED  (No max-age or expires) - http://medportal.ru/common/11060903--340--150.jpg
+    FAILED  (No max-age or expires) - http://medportal.ru/common/11060955--150.jpg
+    FAILED  (No max-age or expires) - http://ts.lenta.ru/export/auto.js
+    FAILED  (No max-age or expires) - http://ts.lenta.ru/img/0001720.jpg
+    FAILED  (No max-age or expires) - http://ts.lenta.ru/img/0001727.jpg
+    FAILED  (No max-age or expires) - http://ts.lenta.ru/img/0001779.jpg
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://img.lenta.ru/articles/2009/05/29/augment/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/04/mu/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/05/fire/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/05/tourist/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/08/fail/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/arms/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/chr/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/dohod/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/infamous/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/sherman/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/elevator/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/gates/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/judge/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/madonna/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/plagiat/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/dig/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/dreamtheater/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/nazi/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/oil/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/pear/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/shooting/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/ssj100/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/wallstreet/picture--113.jpg
+    FAILED - http://img.lenta.ru/conf/babich/picture--113.jpg
+    FAILED - http://img.lenta.ru/conf/grib/pic.jpg
+    FAILED - http://img.lenta.ru/conf/kirotake/picture--113.jpg
+    FAILED - http://img.lenta.ru/conf/martinovich/pic.jpg
+    FAILED - http://img.lenta.ru/conf/myskina/pic.jpg
+    FAILED - http://img.lenta.ru/conf/panfilova/picture--113.jpg
+    FAILED - http://img.lenta.ru/conf/rybakova/picture--113.jpg
+    FAILED - http://img.lenta.ru/i/arrow.gif
+    FAILED - http://img.lenta.ru/i/conf_a.gif
+    FAILED - http://img.lenta.ru/i/ed.gif
+    FAILED - http://img.lenta.ru/i/flag.gif
+    FAILED - http://img.lenta.ru/i/logowrambler.gif
+    FAILED - http://img.lenta.ru/i/p_conf.gif
+    FAILED - http://img.lenta.ru/i/refresh.gif
+    FAILED - http://img.lenta.ru/i/style.css
+    FAILED - http://img.lenta.ru/i/ts.css
+    FAILED - http://img.lenta.ru/i/ts.css?a
+    FAILED - http://img.lenta.ru/iauto/articles/2009/06/09/salesmay/picture--113.jpg
+    FAILED - http://img.lenta.ru/iauto/articles/2009/06/11/seatbelt/picture--113.jpg
+    FAILED - http://img.lenta.ru/iauto/i/ts-auto-background.gif
+    FAILED - http://img.lenta.ru/iauto/i/ts-auto-logo.gif
+    FAILED - http://img.lenta.ru/iauto/news/2009/06/11/golf/picture--85.jpg
+    FAILED - http://img.lenta.ru/iauto/news/2009/06/11/wind/picturesmall.jpg
+    FAILED - http://img.lenta.ru/ireal/articles/2009/06/10/novosibirsk/picture--113.jpg
+    FAILED - http://img.lenta.ru/ireal/articles/2009/06/11/pik/picture--113.jpg
+    FAILED - http://img.lenta.ru/ireal/news/2009/06/11/msk/picturesmall.jpg
+    FAILED - http://img.lenta.ru/ireal/news/2009/06/11/viselenie/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/10/flag/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/10/poker/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/10/runaway/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/anne/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/anticrisis/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/battlefield/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/bcbk/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/britney/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/coldwar/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/crackdown/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/duma1/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/evidence/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/evidence/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/first/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/forman/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/fourteen/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/gamble/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/granade/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/intel/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/izhevsk/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/killerbee/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/lastfm/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/layoffs/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/madonna/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/medialogy/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/mid/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/mistake/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/money/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/nobeer/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/nokia/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/nova/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/octopus/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/pipes/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/prison/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/redknapp/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/repayment/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/rtcnn/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/samara/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/sharapova/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/tomsk/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/warming/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/wpp/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/wto/picture--85.jpg
+    FAILED - http://img.lenta.ru/online/2009/06/08/wwdc/picture--113.jpg
+    FAILED - http://img.lenta.ru/photo/2009/05/31/transformers2/picture--113.jpg
+    FAILED - http://img.lenta.ru/photo/2009/06/09/usadbajazz/picture--113.jpg
+    FAILED - http://img.lenta.ru/photo/2009/06/10/chehovfestival/picture--113.jpg
+    FAILED - http://img.lenta.ru/photo/2009/06/11/easel/picture--113.jpg
+    FAILED - http://img.lenta.ru/photo/2009/06/11/finrus/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/catastrophe/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/catastrophe/picture--85.jpg
+    FAILED - http://img.lenta.ru/story/fas/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/hacker/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/klitchag/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/kndr2009/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/magomedtagirov/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/milk/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/telenor/picture--113.jpg
+    FAILED - http://img.lenta.ru/topics/e3expo2009/picture--113.jpg
+    FAILED - http://medportal.ru/common/08060951--150.jpg
+    FAILED - http://medportal.ru/common/10060994--150.jpg
+    FAILED - http://medportal.ru/common/11060903--340--150.jpg
+    FAILED - http://medportal.ru/common/11060955--150.jpg
+    FAILED - http://top100-images.rambler.ru/top100/w1.gif
+    FAILED - http://ts.lenta.ru/export/auto.js
+    FAILED - http://ts.lenta.ru/img/0001720.jpg
+    FAILED - http://ts.lenta.ru/img/0001727.jpg
+    FAILED - http://ts.lenta.ru/img/0001779.jpg
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+    FAILED - http://img.lenta.ru/i/style.css
+    FAILED - http://img.lenta.ru/i/ts.css
+  Combine score : 95
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    47.8 KB total in compressible text, target size = 47.8 KB - potential savings = 0.0 KB
+
+Compress Images:
+    FAILED  (20.8 KB, target = 2.3 KB - savings of 18.4 KB)- http://ts.lenta.ru/img/0001779.jpg
+    FAILED  (10.0 KB, target = 2.6 KB - savings of 7.4 KB)- http://img.lenta.ru/photo/2009/06/10/chehovfestival/picture--113.jpg
+    FAILED  (10.0 KB, target = 2.9 KB - savings of 7.1 KB)- http://img.lenta.ru/conf/kirotake/picture--113.jpg
+    FAILED  (7.8 KB, target = 3.5 KB - savings of 4.3 KB)- http://img.lenta.ru/articles/2009/06/05/tourist/picture--113.jpg
+    FAILED  (7.8 KB, target = 3.7 KB - savings of 4.1 KB)- http://img.lenta.ru/articles/2009/06/11/ssj100/picture--113.jpg
+    FAILED  (11.7 KB, target = 7.7 KB - savings of 4.1 KB)- http://img.lenta.ru/iauto/news/2009/06/11/wind/picturesmall.jpg
+    FAILED  (7.0 KB, target = 2.9 KB - savings of 4.0 KB)- http://img.lenta.ru/articles/2009/06/10/gates/picture--113.jpg
+    FAILED  (8.4 KB, target = 5.3 KB - savings of 3.1 KB)- http://img.lenta.ru/news/2009/06/11/evidence/picturesmall.jpg
+    FAILED  (6.5 KB, target = 3.4 KB - savings of 3.1 KB)- http://img.lenta.ru/news/2009/06/11/evidence/picture--113.jpg
+    FAILED  (7.7 KB, target = 4.6 KB - savings of 3.0 KB)- http://img.lenta.ru/articles/2009/06/04/mu/picture--113.jpg
+    FAILED  (6.7 KB, target = 3.8 KB - savings of 3.0 KB)- http://img.lenta.ru/ireal/articles/2009/06/11/pik/picture--113.jpg
+    FAILED  (5.0 KB, target = 2.1 KB - savings of 2.9 KB)- http://img.lenta.ru/news/2009/06/11/madonna/picture--85.jpg
+    FAILED  (7.3 KB, target = 4.4 KB - savings of 2.9 KB)- http://img.lenta.ru/articles/2009/06/11/dig/picture--113.jpg
+    FAILED  (6.4 KB, target = 3.6 KB - savings of 2.8 KB)- http://img.lenta.ru/articles/2009/06/11/shooting/picture--113.jpg
+    FAILED  (6.7 KB, target = 4.0 KB - savings of 2.7 KB)- http://img.lenta.ru/story/milk/picture--113.jpg
+    FAILED  (7.5 KB, target = 4.9 KB - savings of 2.6 KB)- http://img.lenta.ru/news/2009/06/11/medialogy/picturesmall.jpg
+    WARNING (7.1 KB, target = 5.2 KB - savings of 1.9 KB)- http://img.lenta.ru/photo/2009/06/09/usadbajazz/picture--113.jpg
+    WARNING (5.8 KB, target = 4.1 KB - savings of 1.7 KB)- http://img.lenta.ru/iauto/articles/2009/06/11/seatbelt/picture--113.jpg
+    WARNING (6.6 KB, target = 5.1 KB - savings of 1.5 KB)- http://img.lenta.ru/news/2009/06/11/britney/picturesmall.jpg
+    WARNING (5.6 KB, target = 4.1 KB - savings of 1.4 KB)- http://img.lenta.ru/photo/2009/06/11/easel/picture--113.jpg
+    WARNING (6.6 KB, target = 5.3 KB - savings of 1.3 KB)- http://img.lenta.ru/news/2009/06/11/lastfm/picturesmall.jpg
+    WARNING (6.6 KB, target = 5.4 KB - savings of 1.2 KB)- http://img.lenta.ru/news/2009/06/11/bcbk/picturesmall.jpg
+    WARNING (4.4 KB, target = 3.2 KB - savings of 1.1 KB)- http://ts.lenta.ru/img/0001727.jpg
+    WARNING (5.6 KB, target = 4.5 KB - savings of 1.1 KB)- http://img.lenta.ru/articles/2009/06/11/wallstreet/picture--113.jpg
+    WARNING (3.3 KB, target = 2.2 KB - savings of 1.1 KB)- http://img.lenta.ru/conf/grib/pic.jpg
+    WARNING (3.5 KB, target = 2.5 KB - savings of 1.1 KB)- http://img.lenta.ru/articles/2009/06/05/fire/picture--113.jpg
+    WARNING (5.4 KB, target = 4.3 KB - savings of 1.1 KB)- http://img.lenta.ru/photo/2009/05/31/transformers2/picture--113.jpg
+    WARNING (6.6 KB, target = 5.6 KB - savings of 1.0 KB)- http://img.lenta.ru/news/2009/06/11/sharapova/picturesmall.jpg
+    WARNING (5.9 KB, target = 4.9 KB - savings of 1.0 KB)- http://img.lenta.ru/iauto/articles/2009/06/09/salesmay/picture--113.jpg
+    WARNING (4.5 KB, target = 3.5 KB - savings of 1.0 KB)- http://img.lenta.ru/story/hacker/picture--113.jpg
+    WARNING (6.1 KB, target = 5.1 KB - savings of 1.0 KB)- http://img.lenta.ru/news/2009/06/11/warming/picturesmall.jpg
+    WARNING (3.5 KB, target = 2.7 KB - savings of 0.8 KB)- http://img.lenta.ru/articles/2009/06/11/nazi/picture--113.jpg
+    WARNING (6.1 KB, target = 5.3 KB - savings of 0.8 KB)- http://img.lenta.ru/news/2009/06/11/forman/picturesmall.jpg
+    WARNING (4.3 KB, target = 3.5 KB - savings of 0.8 KB)- http://img.lenta.ru/conf/panfilova/picture--113.jpg
+    WARNING (4.8 KB, target = 4.1 KB - savings of 0.7 KB)- http://img.lenta.ru/conf/myskina/pic.jpg
+    WARNING (3.9 KB, target = 3.2 KB - savings of 0.7 KB)- http://img.lenta.ru/articles/2009/06/10/madonna/picture--113.jpg
+    WARNING (4.6 KB, target = 3.9 KB - savings of 0.7 KB)- http://img.lenta.ru/articles/2009/06/09/arms/picture--113.jpg
+    WARNING (5.9 KB, target = 5.3 KB - savings of 0.6 KB)- http://img.lenta.ru/ireal/news/2009/06/11/msk/picturesmall.jpg
+    WARNING (3.4 KB, target = 2.8 KB - savings of 0.6 KB)- http://img.lenta.ru/story/kndr2009/picture--113.jpg
+    WARNING (3.9 KB, target = 3.4 KB - savings of 0.5 KB)- http://img.lenta.ru/conf/rybakova/picture--113.jpg
+    WARNING (4.2 KB, target = 3.8 KB - savings of 0.4 KB)- http://img.lenta.ru/articles/2009/06/10/plagiat/picture--113.jpg
+    WARNING (2.9 KB, target = 2.6 KB - savings of 0.4 KB)- http://img.lenta.ru/iauto/news/2009/06/11/golf/picture--85.jpg
+    WARNING (3.6 KB, target = 3.2 KB - savings of 0.4 KB)- http://img.lenta.ru/articles/2009/06/11/dreamtheater/picture--113.jpg
+    WARNING (3.7 KB, target = 3.3 KB - savings of 0.3 KB)- http://img.lenta.ru/articles/2009/06/09/infamous/picture--113.jpg
+    WARNING (3.1 KB, target = 2.8 KB - savings of 0.3 KB)- http://ts.lenta.ru/img/0001720.jpg
+  Image Compression score : 79
+    496.7 KB total in images, target size = 394.1 KB - potential savings = 102.7 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=5374&ifr=1
+    FAILED - http://medportal.ru/common/11060955--150.jpg
+    FAILED - http://www.tns-counter.ru/V13b****lenta_ru/ru/CP1251/tmsec=lenta_total/
+  Keep-Alive score : 95
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 29 bytes) - http://top100-images.rambler.ru/top100/w1.gif
+      cookie:ruid=yQAAAMwiMUrsWgAAAdQJAA==
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+      cookie:ruid=yQAAAMwiMUrsWgAAAdQJAA==
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+      cookie:ruid=yQAAAMwiMUrsWgAAAdQJAA==
+   WARNING (1 cookies, 29 bytes) - http://counter.rambler.ru/top100.cnt?80674
+      cookie:ruid=yQAAAMwiMUrsWgAAAdQJAA==
+   WARNING (1 cookies, 17 bytes) - http://counter.yadro.ru/hit?q;t57.6;r;s800*600*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.41186314173762456
+      cookie:FTID=1ACIBC22SxGe
+   WARNING (1 cookies, 17 bytes) - http://top3.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=800*600;d=16;rand=0.32257546729870873
+      cookie:FTID=0000AQ0r5MGe
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****lenta_ru/ru/CP1251/tmsec=lenta_total/
+      cookie:guid=343F04004A3122CCX1244734156
+  Cookie score : 96
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    0.7 KB total in minifiable text, target size = 0.7 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://img.lenta.ru/i/style.css
+    FAILED - http://img.lenta.ru/i/ts.css
+    FAILED - http://img.lenta.ru/i/flag.gif
+    FAILED - http://img.lenta.ru/i/logowrambler.gif
+    FAILED - http://img.lenta.ru/i/refresh.gif
+    FAILED - http://img.lenta.ru/i/arrow.gif
+    FAILED - http://img.lenta.ru/news/2009/06/11/evidence/picture--113.jpg
+    FAILED - http://img.lenta.ru/i/ed.gif
+    FAILED - http://img.lenta.ru/articles/2009/06/11/nazi/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/ssj100/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/dig/picture--113.jpg
+    FAILED - http://img.lenta.ru/conf/grib/pic.jpg
+    FAILED - http://img.lenta.ru/conf/myskina/pic.jpg
+    FAILED - http://img.lenta.ru/conf/martinovich/pic.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/mid/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/catastrophe/picture--85.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/samara/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/pipes/picture--85.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/judge/picture--113.jpg
+    FAILED - http://img.lenta.ru/conf/panfilova/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/nobeer/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/10/runaway/picture--85.jpg
+    FAILED - http://img.lenta.ru/conf/kirotake/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/gamble/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/10/flag/picture--85.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/08/fail/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/05/fire/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/evidence/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/coldwar/picture--85.jpg
+    FAILED - http://img.lenta.ru/story/catastrophe/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/kndr2009/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/crackdown/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/prison/picture--85.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/shooting/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/gates/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/anticrisis/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/wto/picture--85.jpg
+    FAILED - http://img.lenta.ru/story/milk/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/oil/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/money/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/repayment/picture--85.jpg
+    FAILED - http://img.lenta.ru/conf/rybakova/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/dohod/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/bcbk/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/duma1/picture--85.jpg
+    FAILED - http://img.lenta.ru/story/telenor/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/fourteen/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/10/poker/picture--85.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/04/mu/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/05/29/augment/picture--113.jpg
+    FAILED - http://img.lenta.ru/ireal/news/2009/06/11/msk/picturesmall.jpg
+    FAILED - http://img.lenta.ru/ireal/news/2009/06/11/viselenie/picture--85.jpg
+    FAILED - http://img.lenta.ru/ireal/articles/2009/06/11/pik/picture--113.jpg
+    FAILED - http://img.lenta.ru/ireal/articles/2009/06/10/novosibirsk/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/tomsk/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/granade/picture--85.jpg
+    FAILED - http://img.lenta.ru/story/magomedtagirov/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/medialogy/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/rtcnn/picture--85.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/plagiat/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/chr/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/anne/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/wpp/picture--85.jpg
+    FAILED - http://img.lenta.ru/photo/2009/06/11/easel/picture--113.jpg
+    FAILED - http://img.lenta.ru/photo/2009/06/10/chehovfestival/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/forman/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/first/picture--85.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/wallstreet/picture--113.jpg
+    FAILED - http://img.lenta.ru/photo/2009/05/31/transformers2/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/britney/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/madonna/picture--85.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/dreamtheater/picture--113.jpg
+    FAILED - http://img.lenta.ru/photo/2009/06/09/usadbajazz/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/sharapova/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/redknapp/picture--85.jpg
+    FAILED - http://img.lenta.ru/photo/2009/06/11/finrus/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/klitchag/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/warming/picturesmall.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/elevator/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/05/tourist/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/lastfm/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/layoffs/picture--85.jpg
+    FAILED - http://img.lenta.ru/story/hacker/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/sherman/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/intel/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/nokia/picture--85.jpg
+    FAILED - http://img.lenta.ru/online/2009/06/08/wwdc/picture--113.jpg
+    FAILED - http://img.lenta.ru/story/fas/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/nova/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/battlefield/picture--85.jpg
+    FAILED - http://img.lenta.ru/topics/e3expo2009/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/infamous/picture--113.jpg
+    FAILED - http://img.lenta.ru/iauto/news/2009/06/11/wind/picturesmall.jpg
+    FAILED - http://img.lenta.ru/iauto/news/2009/06/11/golf/picture--85.jpg
+    FAILED - http://img.lenta.ru/iauto/articles/2009/06/11/seatbelt/picture--113.jpg
+    FAILED - http://img.lenta.ru/iauto/articles/2009/06/09/salesmay/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/octopus/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/killerbee/picture--85.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/09/arms/picture--113.jpg
+    FAILED - http://img.lenta.ru/conf/babich/picture--113.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/izhevsk/picturesmall.jpg
+    FAILED - http://img.lenta.ru/news/2009/06/11/mistake/picture--85.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/11/pear/picture--113.jpg
+    FAILED - http://img.lenta.ru/articles/2009/06/10/madonna/picture--113.jpg
+    FAILED - http://img.lenta.ru/i/p_conf.gif
+    FAILED - http://img.lenta.ru/i/conf_a.gif
+    FAILED - http://img.lenta.ru/i/ts.css?a
+    FAILED - http://img.lenta.ru/iauto/i/ts-auto-logo.gif
+    FAILED - http://img.lenta.ru/iauto/i/ts-auto-background.gif
+    FAILED - http://medportal.ru/common/11060903--340--150.jpg
+    FAILED - http://medportal.ru/common/10060994--150.jpg
+    FAILED - http://medportal.ru/common/11060955--150.jpg
+    FAILED - http://medportal.ru/common/08060951--150.jpg
+    FAILED - http://ts.lenta.ru/export/auto.js
+    FAILED - http://ts.lenta.ru/img/0001727.jpg
+    FAILED - http://ts.lenta.ru/img/0001720.jpg
+    FAILED - http://ts.lenta.ru/img/0001779.jpg
+  ETag score : 12
+
+JQuery Selectors not descended from an ID:
+  No problems found

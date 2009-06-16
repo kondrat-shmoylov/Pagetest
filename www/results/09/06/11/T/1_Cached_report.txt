@@ -1,0 +1,226 @@
+Results for 'http://maps.google.com/':
+
+Page load time: 1.699 seconds
+Time to first byte: 0.351 seconds
+Time to Base Page Downloaded: 0.539 seconds
+Time to Start Render: 0.539 seconds
+Time to Document Complete: 0.561 seconds
+Time to Fully Loaded: 1.699 seconds
+Bytes sent out: 0.109 KB
+Bytes received: 59.110 KB
+DNS Lookups: 4
+Connections: 4
+Requests: 6
+   OK Requests:  6
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://maps.google.com/
+      Host: maps.google.com
+      Result code: 200
+      Transaction time: 0.539 seconds
+      Time to first byte: 0.163 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 24763 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 24583 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.google.com
+      Connection: Keep-Alive
+      Cookie: PREF=ID=989ba5f167cb58c0:TM=1244740145:LM=1244740145:S=SA5TLyUiXjxn2Y-w; NID=23=Y3AOYwLYOiBsqRC5PSVoo-Fh0fyuRNoRHCdaBaGSgdS2zsUKSDNsDPEFMQjDDWjsrIN7lB-CE75eukqM4n5K9v5p-Dfb2eFTdQ881bdLjItomaYv_2HO_tbjiS_p30N4
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: private
+      Content-Type: text/html; charset=UTF-8
+      Content-Encoding: gzip
+      Date: Thu, 11 Jun 2009 17:09:13 GMT
+      Server: mfe
+      Content-Length: 24583
+
+Request 2:
+      Action: GET
+      Url: http://maps.google.com/maps/vp?spn=34.259599,56.25&z=4&vp=37.0625,-95.677068
+      Host: maps.google.com
+      Result code: 200
+      Transaction time: 0.155 seconds
+      Time to first byte: 0.089 seconds
+      Document: 0
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 2731 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2532 Bytes
+  Request Headers:
+      GET /maps/vp?spn=34.259599,56.25&z=4&vp=37.0625,-95.677068 HTTP/1.1
+      Accept: */*
+      Referer: http://maps.google.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.google.com
+      Connection: Keep-Alive
+      Cookie: PREF=ID=989ba5f167cb58c0:TM=1244740145:LM=1244740145:S=SA5TLyUiXjxn2Y-w; NID=23=Y3AOYwLYOiBsqRC5PSVoo-Fh0fyuRNoRHCdaBaGSgdS2zsUKSDNsDPEFMQjDDWjsrIN7lB-CE75eukqM4n5K9v5p-Dfb2eFTdQ881bdLjItomaYv_2HO_tbjiS_p30N4
+  Response Headers:
+      HTTP/1.1 200 OK
+      Content-Type: text/javascript; charset=UTF-8
+      Content-Encoding: gzip
+      Date: Thu, 11 Jun 2009 17:09:14 GMT
+      Server: mfe
+      Cache-Control: private, x-gzip-ok=""
+      Content-Length: 2532
+
+Request 3:
+      Action: GET
+      Url: http://id.google.com/verify/EAAAAB4sGT0sQwLabxgLmq37G7Q.gif
+      Host: id.google.com
+      Result code: 200
+      Transaction time: 0.317 seconds
+      Time to first byte: 0.103 seconds
+      Document: 0
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 429 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /verify/EAAAAB4sGT0sQwLabxgLmq37G7Q.gif HTTP/1.1
+      Accept: */*
+      Referer: http://maps.google.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: id.google.com
+      Connection: Keep-Alive
+      Cookie: PREF=ID=989ba5f167cb58c0:TM=1244740145:LM=1244740145:S=SA5TLyUiXjxn2Y-w; NID=23=Y3AOYwLYOiBsqRC5PSVoo-Fh0fyuRNoRHCdaBaGSgdS2zsUKSDNsDPEFMQjDDWjsrIN7lB-CE75eukqM4n5K9v5p-Dfb2eFTdQ881bdLjItomaYv_2HO_tbjiS_p30N4
+  Response Headers:
+      HTTP/1.1 200 OK
+      Set-Cookie: SNID=23=gfwKm7OP7XkZPskqUii-9eofRZaA-AEkxNuDahhz=aOPYvHAazt8raSCW; expires=Fri, 11-Dec-2009 17:09:14 GMT; path=/verify; domain=.google.com; HttpOnly
+      Cache-Control: no-cache, private, must-revalidate
+      Pragma: no-cache
+      Expires: Fri, 01 Jan 1990 00:00:00 GMT
+      Content-Type: image/gif
+      Date: Thu, 11 Jun 2009 17:09:14 GMT
+      Server: zwbk
+      Content-Length: 43
+
+Request 4:
+      Action: GET
+      Url: http://maps.gstatic.com/cat_js/intl/ru_ALL/mapfiles/160h/maps2/%7Bmod_jslinker,mod_drag,mod_controls_app,mod_scrollwheel,mod_zoom,mod_extended_dom,mod_keyboard,mod_traffic_app,mod_lyrsctrl,mod_lyrs,mod_quadtree,mod_transitlyr,mod_cb_launchpad,mod_adfetcher%7D.js
+      Host: maps.gstatic.com
+      Result code: 200
+      Transaction time: 0.315 seconds
+      Time to first byte: 0.064 seconds
+      Document: 0
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 32143 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 31804 Bytes
+  Request Headers:
+      GET /cat_js/intl/ru_ALL/mapfiles/160h/maps2/%7Bmod_jslinker,mod_drag,mod_controls_app,mod_scrollwheel,mod_zoom,mod_extended_dom,mod_keyboard,mod_traffic_app,mod_lyrsctrl,mod_lyrs,mod_quadtree,mod_transitlyr,mod_cb_launchpad,mod_adfetcher%7D.js HTTP/1.1
+      Accept: */*
+      Referer: http://maps.google.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.gstatic.com
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Content-Type: text/javascript; charset=UTF-8
+      Last-Modified: Tue, 02 Jun 2009 16:21:41 GMT
+      Date: Thu, 11 Jun 2009 16:13:55 GMT
+      Expires: Fri, 11 Jun 2010 16:13:55 GMT
+      Cache-Control: public, max-age=31536000
+      X-Content-Type-Options: nosniff
+      Server: sffe
+      Content-Encoding: gzip
+      Age: 3319
+      Transfer-Encoding: chunked
+
+Request 5:
+      Action: POST
+      Url: http://maps.google.com/maps/setprefs
+      Host: maps.google.com
+      Result code: 200
+      Transaction time: 0.087 seconds
+      Time to first byte: 0.087 seconds
+      Document: 0
+      Socket: 3
+      Request size (out): 32 Bytes
+      Response size (in): 128 Bytes
+      Request Object Size (out): 32 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      POST /maps/setprefs HTTP/1.1
+      Accept: */*
+      Accept-Language: ru
+      Referer: http://maps.google.com/
+      Content-Type: application/x-www-form-urlencoded
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: maps.google.com
+      Content-Length: 193
+      Connection: Keep-Alive
+      Cache-Control: no-cache
+      Cookie: PREF=ID=989ba5f167cb58c0:TM=1244740145:LM=1244740145:S=SA5TLyUiXjxn2Y-w; NID=23=Y3AOYwLYOiBsqRC5PSVoo-Fh0fyuRNoRHCdaBaGSgdS2zsUKSDNsDPEFMQjDDWjsrIN7lB-CE75eukqM4n5K9v5p-Dfb2eFTdQ881bdLjItomaYv_2HO_tbjiS_p30N4
+  Response Headers:
+      HTTP/1.1 200 OK
+      Content-Type: text/html; charset=UTF-8
+      Date: Thu, 11 Jun 2009 17:09:14 GMT
+      Server: mfe
+      Content-Length: 0
+
+Request 6:
+      Action: GET
+      Url: http://mt0.google.com/vt/ft?lyrs=w2.97&las=tuvu,tuwt,tuwu,tuvw,tuwv,tuww,twtu,twut,twuu&z=4&hl=ru&callback=_xdc_._1fvtq5ccp
+      Host: mt0.google.com
+      Result code: 200
+      Transaction time: 0.157 seconds
+      Time to first byte: 0.093 seconds
+      Document: 0
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 335 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 119 Bytes
+  Request Headers:
+      GET /vt/ft?lyrs=w2.97&las=tuvu,tuwt,tuwu,tuvw,tuwv,tuww,twtu,twut,twuu&z=4&hl=ru&callback=_xdc_._1fvtq5ccp HTTP/1.1
+      Accept: */*
+      Referer: http://maps.google.com/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: mt0.google.com
+      Connection: Keep-Alive
+      Cookie: PREF=ID=989ba5f167cb58c0:TM=1244740145:LM=1244740145:S=SA5TLyUiXjxn2Y-w; NID=23=Y3AOYwLYOiBsqRC5PSVoo-Fh0fyuRNoRHCdaBaGSgdS2zsUKSDNsDPEFMQjDDWjsrIN7lB-CE75eukqM4n5K9v5p-Dfb2eFTdQ881bdLjItomaYv_2HO_tbjiS_p30N4
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 17:09:15 GMT
+      Cache-Control: public, max-age=22222222
+      Content-Type: text/javascript; charset=UTF-8
+      Content-Encoding: gzip
+      Server: maptiles-versatile
+      Content-Length: 119
+

@@ -1,0 +1,93 @@
+Optimization Report : 06/05/09 at 19:49:47
+
+Results for 'http://google.ru/search?q=Nokia%20N70&hl=ru':
+
+Page load time: 0.805 seconds
+Time to first byte: 0.216 seconds
+Time to Base Page Downloaded: 0.478 seconds
+Time to Start Render: 0.567 seconds
+Time to Document Complete: 0.805 seconds
+Time to Fully Loaded: 1.102 seconds
+Bytes sent out: 6.597 KB
+Bytes received: 25.585 KB
+DNS Lookups: 3
+Connections: 4
+Requests: 11
+   OK Requests:  8
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+    WARNING (7.0 days) - http://www.google.ru/images?q=tbn:-KhExw2-D42_XM::www.topwords.ua/Mobilnews/katalog/images/nokiaimages/n70.jpg&h=80&w=71&usg=__iu7vUkY45mgzA4jsG_PBQaNXwEk=
+    WARNING (7.0 days) - http://www.google.ru/images?q=tbn:d9KLf0C49uBL9M::n-series.org.ua/images/n70-5.jpg&h=80&w=86&usg=__mp1zUoy5o3EVrmEavkUiYthXcaY=
+    WARNING (7.0 days) - http://www.google.ru/images?q=tbn:GiNrh-STHuqK3M::skirda.net/photos/nashevashe/mob/Nokia/Nokia-N70-1.jpg&h=80&w=96&usg=__AZP_K0TGJ1yRIutX0oIwR3uXqJ8=
+    WARNING (7.0 days) - http://www.google.ru/images?q=tbn:NjVkDDcdFNNw9M::www.helpix.ru/sovetnik/200703/27/nokia_n70_music_edition_2.jpg&h=80&w=83&usg=__JVpaL41Hj93lGCWZ3o_cSG1BMFg=
+  Cache score : 71
+
+Use one CDN for all static assets:
+
+  1 CDN's used:
+    www.google.ru
+
+  CDN score (static objects) : 100
+  CDN score (one CDN) : 100
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    7.0 KB total in compressible text, target size = 7.0 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    16.7 KB total in images, target size = 16.7 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/images/nav_logo4.png
+      cookie:PREF=ID=90a0c00ad7a47bc0:NW=1:TM=1244216989:LM=1244216989:S=YcUz-BLoJHUClZ7m
+      cookie: NID=23=JYMS9W-dqXdhAwBmN1ckTSEtL9ELRSrklQAkjehb4P_-LYhD1dW_0pzsMwXWSua4vt0LXYdJ-KltTCd0cqGmy-TMA-mqtbLUbC9jNABISprFzi6oINCZpPLza6a6-Dre
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/images?q=tbn:GiNrh-STHuqK3M::skirda.net/photos/nashevashe/mob/Nokia/Nokia-N70-1.jpg&h=80&w=96&usg=__AZP_K0TGJ1yRIutX0oIwR3uXqJ8=
+      cookie:PREF=ID=90a0c00ad7a47bc0:NW=1:TM=1244216989:LM=1244216989:S=YcUz-BLoJHUClZ7m
+      cookie: NID=23=JYMS9W-dqXdhAwBmN1ckTSEtL9ELRSrklQAkjehb4P_-LYhD1dW_0pzsMwXWSua4vt0LXYdJ-KltTCd0cqGmy-TMA-mqtbLUbC9jNABISprFzi6oINCZpPLza6a6-Dre
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/images?q=tbn:NjVkDDcdFNNw9M::www.helpix.ru/sovetnik/200703/27/nokia_n70_music_edition_2.jpg&h=80&w=83&usg=__JVpaL41Hj93lGCWZ3o_cSG1BMFg=
+      cookie:PREF=ID=90a0c00ad7a47bc0:NW=1:TM=1244216989:LM=1244216989:S=YcUz-BLoJHUClZ7m
+      cookie: NID=23=JYMS9W-dqXdhAwBmN1ckTSEtL9ELRSrklQAkjehb4P_-LYhD1dW_0pzsMwXWSua4vt0LXYdJ-KltTCd0cqGmy-TMA-mqtbLUbC9jNABISprFzi6oINCZpPLza6a6-Dre
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/images?q=tbn:-KhExw2-D42_XM::www.topwords.ua/Mobilnews/katalog/images/nokiaimages/n70.jpg&h=80&w=71&usg=__iu7vUkY45mgzA4jsG_PBQaNXwEk=
+      cookie:PREF=ID=90a0c00ad7a47bc0:NW=1:TM=1244216989:LM=1244216989:S=YcUz-BLoJHUClZ7m
+      cookie: NID=23=JYMS9W-dqXdhAwBmN1ckTSEtL9ELRSrklQAkjehb4P_-LYhD1dW_0pzsMwXWSua4vt0LXYdJ-KltTCd0cqGmy-TMA-mqtbLUbC9jNABISprFzi6oINCZpPLza6a6-Dre
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/images?q=tbn:d9KLf0C49uBL9M::n-series.org.ua/images/n70-5.jpg&h=80&w=86&usg=__mp1zUoy5o3EVrmEavkUiYthXcaY=
+      cookie:PREF=ID=90a0c00ad7a47bc0:NW=1:TM=1244216989:LM=1244216989:S=YcUz-BLoJHUClZ7m
+      cookie: NID=23=JYMS9W-dqXdhAwBmN1ckTSEtL9ELRSrklQAkjehb4P_-LYhD1dW_0pzsMwXWSua4vt0LXYdJ-KltTCd0cqGmy-TMA-mqtbLUbC9jNABISprFzi6oINCZpPLza6a6-Dre
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/options/icons/translate.gif
+      cookie:PREF=ID=90a0c00ad7a47bc0:NW=1:TM=1244216989:LM=1244216989:S=YcUz-BLoJHUClZ7m
+      cookie: NID=23=JYMS9W-dqXdhAwBmN1ckTSEtL9ELRSrklQAkjehb4P_-LYhD1dW_0pzsMwXWSua4vt0LXYdJ-KltTCd0cqGmy-TMA-mqtbLUbC9jNABISprFzi6oINCZpPLza6a6-Dre
+    FAILED (Static object with 2 cookies - 213 bytes) - http://www.google.ru/extern_js/f/CgJydRICcnUrMAo4G0ABLCswDjgFLCswFjgKLCswFzgBLCswGDgELCswJTjJiAEsKzAmOAQsKzAnOAAs/03GMdWh3OJw.js
+      cookie:PREF=ID=90a0c00ad7a47bc0:NW=1:TM=1244216989:LM=1244216989:S=YcUz-BLoJHUClZ7m
+      cookie: NID=23=JYMS9W-dqXdhAwBmN1ckTSEtL9ELRSrklQAkjehb4P_-LYhD1dW_0pzsMwXWSua4vt0LXYdJ-KltTCd0cqGmy-TMA-mqtbLUbC9jNABISprFzi6oINCZpPLza6a6-Dre
+   WARNING (2 cookies, 213 bytes) - http://clients1.google.ru/generate_204
+      cookie:PREF=ID=90a0c00ad7a47bc0:NW=1:TM=1244216989:LM=1244216989:S=YcUz-BLoJHUClZ7m
+      cookie: NID=23=JYMS9W-dqXdhAwBmN1ckTSEtL9ELRSrklQAkjehb4P_-LYhD1dW_0pzsMwXWSua4vt0LXYdJ-KltTCd0cqGmy-TMA-mqtbLUbC9jNABISprFzi6oINCZpPLza6a6-Dre
+   WARNING (2 cookies, 213 bytes) - http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=nT4pSq-1G4SI_QbezqjfCg&e=17259,20572,20721&rt=prt.78,ol.344,xjs.453
+      cookie:PREF=ID=90a0c00ad7a47bc0:NW=1:TM=1244216989:LM=1244216989:S=YcUz-BLoJHUClZ7m
+      cookie: NID=23=JYMS9W-dqXdhAwBmN1ckTSEtL9ELRSrklQAkjehb4P_-LYhD1dW_0pzsMwXWSua4vt0LXYdJ-KltTCd0cqGmy-TMA-mqtbLUbC9jNABISprFzi6oINCZpPLza6a6-Dre
+  Cookie score : 27
+    1.9 KB total in outbound cookies, target size = 0.4 KB - potential savings = 1.5 KB
+
+Minify JS:
+  Minify score : 100
+    6.0 KB total in minifiable text, target size = 6.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

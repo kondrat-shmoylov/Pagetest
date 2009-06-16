@@ -1,0 +1,152 @@
+Optimization Report : 06/02/09 at 11:27:52
+
+Results for 'http://blogs.yandex.ru/':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 1.561 seconds
+Time to first byte: 0.249 seconds
+Time to Base Page Downloaded: 0.291 seconds
+Time to Start Render: 1.644 seconds
+Time to Document Complete: 1.561 seconds
+Time to Fully Loaded: 1.816 seconds
+Bytes sent out: 16.763 KB
+Bytes received: 35.880 KB
+DNS Lookups: 3
+Connections: 29
+Requests: 48
+   OK Requests:  2
+   Redirects:    0
+   Not Modified: 21
+   Not Found:    25
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+  No appropriate resources present
+
+Use one CDN for all static assets:
+  No appropriate resources present
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    1.0 KB total in compressible text, target size = 1.0 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    0.0 KB total in images, target size = 0.0 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+   WARNING (1 cookies, 29 bytes) - http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/_page-index-ie.css?build=7208
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/js/_blogs.js?build=7208
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/js/Ppb.js?build=7250
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/pulse-b.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/pulse-t.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/spin.gif
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/themes-item-c.gif
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/undefined
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/themes-item.gif
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/pulse-lb.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/pulse-br.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/promo-bg.gif
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/rubric-c.gif
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/promo-rb.gif
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/fade.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/common/i/corners.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/ny/pulse.gif
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/block/b-accordeon/plus.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/lenta-icons.gif
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/blogger.png
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/i/lj_userinfo.gif
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/js/IndexSwitcher.js?build=7250
+      cookie:yandexuid=6792879501243927655
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_blogs/0
+      cookie:guid=C8CF06034A24D469X1243927657
+  Cookie score : 50
+    1.4 KB total in outbound cookies, target size = 1.4 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

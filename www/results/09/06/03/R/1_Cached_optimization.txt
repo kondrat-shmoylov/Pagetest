@@ -1,0 +1,79 @@
+Optimization Report : 06/03/09 at 11:27:41
+
+Results for 'https://my.screenname.aol.com/_cqr/login/login.psp':
+
+Page load time: 0.732 seconds
+Time to first byte: 0.366 seconds
+Time to Base Page Downloaded: 0.370 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.732 seconds
+Time to Fully Loaded: 0.732 seconds
+Bytes sent out: 4.879 KB
+Bytes received: 28.958 KB
+DNS Lookups: 0
+Connections: 1
+Requests: 6
+   OK Requests:  4
+   Redirects:    0
+   Not Modified: 2
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - https://eatps.web.aol.com:9001/open_web_adhoc?subtype=6915&pl=mail-en-us&r1=752308
+    WARNING (7.0 days) - https://s.aolcdn.com/art/pops_promo/cs_180x150_aolmail_0409b.gif
+  Cache score : 25
+
+Use one CDN for all static assets:
+    FAILED - https://eatps.web.aol.com:9001/open_web_adhoc?subtype=6915&pl=mail-en-us&r1=752308
+
+  1 CDN's used:
+    s.aolcdn.com
+
+  CDN score (static objects) : 50
+  CDN score (one CDN) : 100
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    1.6 KB total in compressible text, target size = 1.6 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    26.0 KB total in images, target size = 26.0 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 4 cookies - 125 bytes) - https://eatps.web.aol.com:9001/open_web_adhoc?subtype=6915&pl=mail-en-us&r1=752308
+      cookie:POP_COOKIE=name=ZGhtMDgxMjQ0MDE0MDQxeA%3d%3d
+      cookie: s_vi=[CS]v1|4A2625D9000060C0-A3A083900004D6C[CE]
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+   WARNING (5 cookies, 316 bytes) - https://my.screenname.aol.com/_cqr/login/login.psp
+      cookie:s_vi=[CS]v1|4A2625D9000060C0-A3A083900004D6C[CE]
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+      cookie: SNS_LDC=1&-&-&1244014038&3&1244014038&0
+      cookie: SNS_SC=diAxLjAga2lkIDEgZ1JISFVjYlVObjEyZTRnVEFUS3pmVkowRk5rPQ%3D%3D-1IfjI3K16DvYQqoYknrs9uqpxcJUowXv8k8n3tJ6FaQMNpq7UdGTzsk9AHvZ0NPJk8gOevOvpo8SHo2QW6cBQ2TNo%2B5oIf2SwAdD6rBLQOC9pAExUdhdEA%3D%3D
+   WARNING (3 cookies, 79 bytes) - https://s.sa.aol.com/b/ss/aolsnssignin/1/H.20/s63811016233705?AQB=1&ndh=1&t=3/5/2009%2011%3A27%3A39%203%20-240&ns=aolllc&cl=63072000&pageName=sso%20%3A%20login&g=https%3A//my.screenname.aol.com/_cqr/login/login.psp&r=https%3A//my.screenname.aol.com/_cqr/login/login.psp%3Fsitedomain%3Dsns.webmail.aol.com%26lang%3Den%26locale%3Dus%26authLev%3D0%26siteState%3Dver%253a4%257crt%253aSTANDARD%257cac%253aWS%257cat%253aSNS%257cld%253awebmail.aol.com%257cuv%253aAOL%257clc%253aen-us%257cmt%253aAOL%257csnt%253aScreenName%26offerId%3Dmail-&cc=USD&ch=us.snssignin&server=my.screenname.aol.com&events=event10&c1=sso%20%3A%20ssologin&c2=sso%20%3A%20&c3=gmt_5&c10=external%20web%20browser&c11=anonymous&c12=/snsUiDriver.jsp&c13=non-authenticated&c15=unavailable&c16=sns.webmail.aol.com&c17=lp&c18=0&c19=wa3&c20=en-us&c21=AOLPortal&c22=.aol.com&c23=mail-first-en-us&c24=uaid_na&c49=H.20-Mar2009&s=1024x768&c=32&j=1.5&v=Y&k=Y&bw=1024&bh=599&ct=lan&hp=N&AQE=1
+      cookie:s_vi=[CS]v1|4A2625D9000060C0-A3A083900004D6C[CE]
+      cookie: s_cc=true
+      cookie: s_sq=%5B%5BB%5D%5D
+  Cookie score : 66
+    0.5 KB total in outbound cookies, target size = 0.4 KB - potential savings = 0.1 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - https://s.sa.aol.com/b/ss/aolsnssignin/1/H.20/s63811016233705?AQB=1&ndh=1&t=3/5/2009%2011%3A27%3A39%203%20-240&ns=aolllc&cl=63072000&pageName=sso%20%3A%20login&g=https%3A//my.screenname.aol.com/_cqr/login/login.psp&r=https%3A//my.screenname.aol.com/_cqr/login/login.psp%3Fsitedomain%3Dsns.webmail.aol.com%26lang%3Den%26locale%3Dus%26authLev%3D0%26siteState%3Dver%253a4%257crt%253aSTANDARD%257cac%253aWS%257cat%253aSNS%257cld%253awebmail.aol.com%257cuv%253aAOL%257clc%253aen-us%257cmt%253aAOL%257csnt%253aScreenName%26offerId%3Dmail-&cc=USD&ch=us.snssignin&server=my.screenname.aol.com&events=event10&c1=sso%20%3A%20ssologin&c2=sso%20%3A%20&c3=gmt_5&c10=external%20web%20browser&c11=anonymous&c12=/snsUiDriver.jsp&c13=non-authenticated&c15=unavailable&c16=sns.webmail.aol.com&c17=lp&c18=0&c19=wa3&c20=en-us&c21=AOLPortal&c22=.aol.com&c23=mail-first-en-us&c24=uaid_na&c49=H.20-Mar2009&s=1024x768&c=32&j=1.5&v=Y&k=Y&bw=1024&bh=599&ct=lan&hp=N&AQE=1
+  ETag score : 83
+
+JQuery Selectors not descended from an ID:
+  No problems found

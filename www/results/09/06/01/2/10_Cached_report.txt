@@ -1,0 +1,204 @@
+Results for 'http://yandex.ru/':
+
+Page load time: 0.771 seconds
+Time to first byte: 0.150 seconds
+Time to Base Page Downloaded: 0.215 seconds
+Time to Start Render: 0.470 seconds
+Time to Document Complete: 0.771 seconds
+Time to Fully Loaded: 0.951 seconds
+Bytes sent out: 6.988 KB
+Bytes received: 31.096 KB
+DNS Lookups: 8
+Connections: 9
+Requests: 15
+   OK Requests:  6
+   Redirects:    4
+   Not Modified: 4
+   Not Found:    0
+   Other:        1 (301)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://yandex.ru/
+      Host: yandex.ru
+      Result code: 301
+      Transaction time: 0.150 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 605 Bytes
+      Response size (in): 481 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.yandex.ru/
+      Host: www.yandex.ru
+      Result code: 200
+      Transaction time: 0.065 seconds
+      Time to first byte: 0.049 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 673 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a**1691724121243868337**yandex_ru/ru/CP1251/tmsec=yandex_main/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.106 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 405 Bytes
+      Response size (in): 438 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/6huWg8QMNDe40X02ZhdBFg84KPK5cm5fMeYfpia4agWzb0UAgmI-196yq4ba1fE53OkaC8CTGNi5
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 456 Bytes
+      Response size (in): 387 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/6huWg8QMNDe40X02ZhdBFg84KPK5cm5fMeYfpia4agWzb0UAgmI-196yq4ba1fE53OkaC8CTGNi5
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 403 Bytes
+      Response size (in): 387 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/e9uifJEz4veexu0n58^iJg.png
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 459 Bytes
+      Response size (in): 149 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/e9uifJEz4veexu0n58^iJg.png
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 406 Bytes
+      Response size (in): 149 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/6huWg0pVaL840X00ZhdBFg84KP6yq4ba1fE53NW2=6NS73fK2cm9jL9AYLPG7e9Ek0Ny1=z5T5QPK5cm5fMfAeFPG7Um40
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.039 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 474 Bytes
+      Response size (in): 443 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.6.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.067 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 726 Bytes
+      Response size (in): 250 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/flashldr006.js
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 447 Bytes
+      Response size (in): 149 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/TPNiSPcsFiMsEXIUJeAkgg.swf?rnd=169173&link1=http://yabs.yandex.ru/count/6huWgCjDlg440X00ZhdBFg84KPK2cm9jL2A8hQp_1PAYLPG7YgSLlWIHlD19P0QJXGsBfv637KAWawu1U0O0
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.077 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 547 Bytes
+      Response size (in): 25865 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/6huWg2aBvkG40X02ZhdBFg84KPK2cm9jL2A8hQp_1PAYLPG7YgSLlWIHlD19P0QJXGsBgP637K6Cawu1e9Ek0Nm6
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 476 Bytes
+      Response size (in): 409 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://front2.imho.ru/image.ng/site=yandex.ru&adsize=1x1&pos=main.13050914.view
+      Host: front2.imho.ru
+      Result code: 302
+      Transaction time: 0.128 seconds
+      Time to first byte: 0.032 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 350 Bytes
+      Response size (in): 715 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://front1.imho.ru/dot.gif
+      Host: front1.imho.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 300 Bytes
+      Response size (in): 231 Bytes
+
+Request 15:
+      Action: GET
+      Url: https://passport.yandex.ru/js/smarthttps.js
+      Host: passport.yandex.ru
+      Result code: 200
+      Transaction time: 0.194 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 429 Bytes
+      Response size (in): 765 Bytes
+

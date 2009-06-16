@@ -1,0 +1,71 @@
+Results for 'http://yandex.ru/yandsearch?text=%EC%E5%F2%E5%EE%ED%EE%E2%EE%F1%F2%E8%20%E8%E7%20%CD%EE%E2%EE%F1%E8%E1%E8%F0%F1%EA%E0%20%ED%E0%20%E7%E0%E2%F2%F0%E0&i-m-a-hacker=1':
+
+Page load time: 0.149 seconds
+Time to first byte: 0.117 seconds
+Time to Base Page Downloaded: 0.117 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.149 seconds
+Time to Fully Loaded: 0.149 seconds
+Bytes sent out: 2.313 KB
+Bytes received: 0.917 KB
+DNS Lookups: 4
+Connections: 4
+Requests: 4
+   OK Requests:  1
+   Redirects:    0
+   Not Modified: 3
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://im8-tub.yandex.net/i?id=34904271&tov=8
+      Host: im8-tub.yandex.net
+      Result code: 304
+      Transaction time: 0.117 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 507 Bytes
+      Response size (in): 100 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.031 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 824 Bytes
+      Response size (in): 250 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.055 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 527 Bytes
+      Response size (in): 438 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.ecoteco.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.051 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 510 Bytes
+      Response size (in): 151 Bytes
+

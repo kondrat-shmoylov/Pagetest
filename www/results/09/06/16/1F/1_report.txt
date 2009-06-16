@@ -1,0 +1,2832 @@
+Results for 'http://my.ya.ru/':
+
+Error loading page: 99997 (0x0001869D)
+Page load time: 0.816 seconds
+Time to first byte: 0.006 seconds
+Time to Base Page Downloaded: 0.360 seconds
+Time to Start Render: 0.705 seconds
+Time to Document Complete: 0.816 seconds
+Time to Fully Loaded: 1.747 seconds
+Bytes sent out: 2.198 KB
+Bytes received: 549.591 KB
+DNS Lookups: 7
+Connections: 20
+Requests: 82
+   OK Requests:  69
+   Redirects:    5
+   Not Modified: 0
+   Not Found:    0
+   Other:        8 (0, 0, 0, -1, 0, 0, 0, 0)
+Base Page Response: 200
+Base Page Redirects: 4
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://my.ya.ru/
+      Host: my.ya.ru
+      Result code: 302
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 333 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Location: http://my.ya.ru/pass/?retpath=http%3A%2F%2Fmy.ya.ru%2F
+      P3P: policyref="http://pass.yandex.ru/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+      Set-Cookie: Cookie_check=1; domain=my.ya.ru; path=/
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.18
+
+Request 2:
+      Action: GET
+      Url: http://my.ya.ru/pass/?retpath=http%3A%2F%2Fmy.ya.ru%2F
+      Host: my.ya.ru
+      Result code: 302
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 255 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /pass/?retpath=http%3A%2F%2Fmy.ya.ru%2F HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: Cookie_check=1
+  Response Headers:
+      HTTP/1.1 302 Found
+      Location: http://pass.yandex.ru/?retpath=http%3A%2F%2Fmy.ya.ru%2F&ncrnd=4323
+      Set-Cookie: Cookie_check=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.18
+
+Request 3:
+      Action: GET
+      Url: http://pass.yandex.ru/?retpath=http%3A%2F%2Fmy.ya.ru%2F&ncrnd=4323
+      Host: pass.yandex.ru
+      Result code: 302
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 836 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /?retpath=http%3A%2F%2Fmy.ya.ru%2F&ncrnd=4323 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=145022131245147040; yandex_mail=jstester; yandex_login=jstester; Session_id=1245147041.0.0.13458412.2:31287569:0.58680.4286.1d39523dc456ffdec81fb9d7d643e865; L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; yandex_nickname=; yabs-frequency=/2/y9fZ0Eu49m00/
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Connection: Close
+      Date: Tue, 16 Jun 2009 10:10:46 GMT
+      Location: http://my.ya.ru/pass?retpath=http%3A%2F%2Fmy.ya.ru%2F&session_info=1245147046.0.13458412.L%5EWUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA%253D%253D%252E1245147043%252E5275%252E285786%252Ef49ef9b4cbfd627da8e4750e28e0e6bb.sah%5E5F6C9171.yandex_login%5Ejstester.yandexuid%5E145022131245147040.intother%5E2%3A31287569%3A0.my%3Aya_ru%3A24290.4395.1f40c0aa7350e447565e6fa1f6e7154c&ncrnd=6029
+      P3P: policyref="http://pass.yandex.ru/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+      Server: BAIDA/1.0.0
+      Set-Cookie: Session_id=1245147046.0.0.13458412.2:31287569:0.58680.8858.f7e8b6e222be3cff6c033293328e2534; path=/; domain=.yandex.ru
+      Set-Cookie: M_my_ya_ru=1245147046/0; path=/
+
+Request 4:
+      Action: GET
+      Url: http://my.ya.ru/pass?retpath=http%3A%2F%2Fmy.ya.ru%2F&session_info=1245147046.0.13458412.L%5EWUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA%253D%253D%252E1245147043%252E5275%252E285786%252Ef49ef9b4cbfd627da8e4750e28e0e6bb.sah%5E5F6C9171.yandex_login%5Ejstester.yandexuid%5E145022131245147040.intother%5E2%3A31287569%3A0.my%3Aya_ru%3A24290.4395.1f40c0aa7350e447565e6fa1f6e7154c&ncrnd=6029
+      Host: my.ya.ru
+      Result code: 302
+      Transaction time: 0.046 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 714 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /pass?retpath=http%3A%2F%2Fmy.ya.ru%2F&session_info=1245147046.0.13458412.L%5EWUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA%253D%253D%252E1245147043%252E5275%252E285786%252Ef49ef9b4cbfd627da8e4750e28e0e6bb.sah%5E5F6C9171.yandex_login%5Ejstester.yandexuid%5E145022131245147040.intother%5E2%3A31287569%3A0.my%3Aya_ru%3A24290.4395.1f40c0aa7350e447565e6fa1f6e7154c&ncrnd=6029 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Connection: Keep-Alive
+      Host: my.ya.ru
+  Response Headers:
+      HTTP/1.1 302 Found
+      Location: http://my.ya.ru/?ncrnd=6820
+      P3P: policyref="http://pass.yandex.ru/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+      Set-Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; path=/
+      Set-Cookie: Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; path=/
+      Set-Cookie: yandex_login=jstester; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT
+      Set-Cookie: yandexuid=145022131245147040; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.18
+
+Request 5:
+      Action: GET
+      Url: http://my.ya.ru/?ncrnd=6820
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.302 seconds
+      Time to first byte: 0.253 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 26628 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 26395 Bytes
+  Request Headers:
+      GET /?ncrnd=6820 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+      Connection: Keep-Alive
+      Host: my.ya.ru
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 10:10:47 GMT
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.18
+
+Request 6:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/css/_ya.ru-ie6.css?build=20703
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.037 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 13107 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 12757 Bytes
+  Request Headers:
+      GET /css/_ya.ru-ie6.css?build=20703 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "1098738951"
+      Content-Type: text/css; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 12757
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 7:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/mega-y5.js?build=20710
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 82220 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 81913 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/mega-y5.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 81913
+      Last-Modified: Wed, 13 May 2009 14:38:13 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 8:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/css/_user-lenta-ie.css?build=20703
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 18259 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 17909 Bytes
+  Request Headers:
+      GET /css/_user-lenta-ie.css?build=20703 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "1097940591"
+      Content-Type: text/css; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 17909
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 9:
+      Action: GET
+      Url: http://js.static.yandex.net/jquery/1.3.2/_jquery.js
+      Host: js.static.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 20093 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 19741 Bytes
+  Request Headers:
+      GET /jquery/1.3.2/_jquery.js HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: js.static.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Thu, 25 Apr 2019 10:10:47 GMT
+      Cache-Control: max-age=311040000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 16 Apr 2009 07:13:42 GMT
+      ETag: "957220975"
+      Content-Type: application/x-javascript
+      Accept-Ranges: bytes
+      Content-Length: 19741
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 10:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/js/_common.js
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 3605 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3254 Bytes
+  Request Headers:
+      GET /2.0/common/js/_common.js HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: lego.static.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Thu, 25 Apr 2019 10:10:47 GMT
+      Cache-Control: max-age=311040000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 28 May 2009 12:17:12 GMT
+      ETag: "929761782"
+      Content-Type: application/x-javascript
+      Accept-Ranges: bytes
+      Content-Length: 3254
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 11:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/error.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 1378 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1023 Bytes
+  Request Headers:
+      GET /js/error.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "826803469"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 1023
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 12:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/_common.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 13960 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 13603 Bytes
+  Request Headers:
+      GET /js/_common.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "2977705533"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 13603
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 13:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Arrays.js?build=20710
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 781 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 476 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Arrays.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 476
+      Last-Modified: Tue, 24 Jun 2008 09:58:25 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 14:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/ActionsControl.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 16380 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 16024 Bytes
+  Request Headers:
+      GET /js/control/ActionsControl.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "561003851"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 16024
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 15:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Form.js?build=20710
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 1578 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1272 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Form.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 1272
+      Last-Modified: Thu, 28 Aug 2008 11:13:03 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 16:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Widget.js?build=20710
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 1986 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1680 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Widget.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 1680
+      Last-Modified: Tue, 25 Mar 2008 17:42:21 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 17:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/Subscribe.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1839 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1483 Bytes
+  Request Headers:
+      GET /js/control/Subscribe.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "1632112319"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 1483
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 18:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/SubmitShortcut.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 1517 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1161 Bytes
+  Request Headers:
+      GET /js/control/SubmitShortcut.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "2974299869"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 1161
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 19:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/RepliesControl.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.024 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 3073 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2717 Bytes
+  Request Headers:
+      GET /js/control/RepliesControl.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "1098458983"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 2717
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 20:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/CommonConstructor.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 599 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 244 Bytes
+  Request Headers:
+      GET /js/control/CommonConstructor.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "1095345695"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 244
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 21:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/BasicControl.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1172 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 817 Bytes
+  Request Headers:
+      GET /js/control/BasicControl.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "1900558269"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 817
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 22:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/MoreRepliesControl.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 2774 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2418 Bytes
+  Request Headers:
+      GET /js/control/MoreRepliesControl.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "1095245445"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 2418
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 23:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/reusable/FormTracker.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1120 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 765 Bytes
+  Request Headers:
+      GET /js/reusable/FormTracker.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "1632122657"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 765
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 24:
+      Action: GET
+      Url: http://upics.yandex.net/get/jstester/small
+      Host: upics.yandex.net
+      Result code: 302
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 244 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /get/jstester/small HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: upics.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Cache-Control: max-age=0, proxy-revalidate
+      Expires: Tue, 16 Jun 2009 10:10:47 GMT
+      Location: http://default.avatars.yandex.net/it/44-small
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.18
+
+Request 25:
+      Action: GET
+      Url: http://clck.yandex.ru/click/dtype=stred/pid=116/cid=2303&path=step.profile/*http://my.ya.ru
+      Host: clck.yandex.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 131 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /click/dtype=stred/pid=116/cid=2303&path=step.profile/*http://my.ya.ru HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: clck.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandex_mail=jstester; yandex_login=jstester; Session_id=1245147046.0.0.13458412.2:31287569:0.58680.8858.f7e8b6e222be3cff6c033293328e2534; L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; yandex_nickname=; yabs-frequency=/2/y9fZ0Eu49m00/
+  Response Headers:
+      HTTP/1.1 200 Ok
+      Content-Type: image/gif
+      Connection: Close
+      Cache-Control: no-cache
+
+Request 26:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/i/theme/orange/filter.png
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 565 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 277 Bytes
+  Request Headers:
+      GET /i/theme/orange/filter.png HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "1095346049"
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      Content-Length: 277
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 27:
+      Action: GET
+      Url: http://my.ya.ru/update_session.xml?build=32
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 816 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 583 Bytes
+  Request Headers:
+      GET /update_session.xml?build=32 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 10:10:47 GMT
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.18
+
+Request 28:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/w5g/tiny_mce_src.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.046 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 56197 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 55841 Bytes
+  Request Headers:
+      GET /js/w5g/tiny_mce_src.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "658048547"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 55841
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 29:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_yaru/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****yandex_ru/ru/CP1251/tmsec=yandex_yaru/0 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=E9F205014A376FA0X1245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 30:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/i/head-normal.png
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 504 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 216 Bytes
+  Request Headers:
+      GET /i/head-normal.png HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "1363781517"
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      Content-Length: 216
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 31:
+      Action: GET
+      Url: http://img.yandex.net/i/shortcut.gif
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 412 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 122 Bytes
+  Request Headers:
+      GET /i/shortcut.gif HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Content-Type: image/gif
+      Content-Length: 122
+      Last-Modified: Thu, 29 Jan 2004 11:57:50 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 32:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/i/tutorial-sprite.gif
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 778 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 491 Bytes
+  Request Headers:
+      GET /i/tutorial-sprite.gif HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:47 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "558474781"
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      Content-Length: 491
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 33:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/mega-y5.js?build=32
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 82220 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 81913 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/mega-y5.js?build=32 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/update_session.xml?build=32
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 81913
+      Last-Modified: Wed, 13 May 2009 14:38:13 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 34:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-round/b-round.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 16 Bytes
+      Response size (in): 4459 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4170 Bytes
+  Request Headers:
+      GET /2.0/common/block/b-round/b-round.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: lego.static.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Thu, 25 Apr 2019 10:10:47 GMT
+      Cache-Control: max-age=311040000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "929765336"
+      Last-Modified: Thu, 28 May 2009 12:17:03 GMT
+      Content-Length: 4170
+      Date: Tue, 16 Jun 2009 10:10:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 35:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/update_session.js?build=32
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 758 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 404 Bytes
+  Request Headers:
+      GET /js/update_session.js?build=32 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/update_session.xml?build=32
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:48 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "826910339"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 404
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 36:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/5320/_webchat.js?build=20710
+      Host: img-css.webchat2.yandex.net
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 16 Bytes
+      Response size (in): 36477 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 36128 Bytes
+  Request Headers:
+      GET /5320/_webchat.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Tue, 23 Jun 2009 10:10:48 GMT
+      Cache-Control: max-age=604800
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 21 May 2009 17:26:49 GMT
+      ETag: "120405909"
+      Content-Type: application/x-javascript
+      Accept-Ranges: bytes
+      Content-Length: 36128
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 37:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/css/_ya.chat-ie.css?5320
+      Host: img-css.webchat2.yandex.net
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 16 Bytes
+      Response size (in): 3420 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3088 Bytes
+  Request Headers:
+      GET /css/_ya.chat-ie.css?5320 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Tue, 23 Jun 2009 10:10:48 GMT
+      Cache-Control: max-age=604800
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 11 Jun 2009 09:48:15 GMT
+      ETag: "928579880"
+      Content-Type: text/css
+      Accept-Ranges: bytes
+      Content-Length: 3088
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 38:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/i/marker/opening_window.png
+      Host: img-css.webchat2.yandex.net
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 0 Bytes
+      Response size (in): 0 Bytes
+
+Request 39:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Dates.js?build=20710
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4611 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4305 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Dates.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 4305
+      Last-Modified: Mon, 04 Aug 2008 13:05:18 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 40:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/css/_webchat.roster.ie.css?5320
+      Host: img-css.webchat2.yandex.net
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 3055 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2723 Bytes
+  Request Headers:
+      GET /css/_webchat.roster.ie.css?5320 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Tue, 23 Jun 2009 10:10:48 GMT
+      Cache-Control: max-age=604800
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 11 Jun 2009 09:48:17 GMT
+      ETag: "928582438"
+      Content-Type: text/css
+      Accept-Ranges: bytes
+      Content-Length: 2723
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 41:
+      Action: GET
+      Url: http://pass.yandex.ru/services?callback=jsonp1245147040171&_=1245147040828&locale=ru&login=yes
+      Host: pass.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 16 Bytes
+      Response size (in): 793 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 651 Bytes
+  Request Headers:
+      GET /services?callback=jsonp1245147040171&_=1245147040828&locale=ru&login=yes HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandex_mail=jstester; yandex_login=jstester; Session_id=1245147046.0.0.13458412.2:31287569:0.58680.8858.f7e8b6e222be3cff6c033293328e2534; L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; yandex_nickname=; yabs-frequency=/2/y9fZ0Eu49m00/; M_my_ya_ru=1245147046/0
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Close
+      Content-Type: text/javascript; charset=utf-8
+      Date: Tue, 16 Jun 2009 10:10:46 GMT
+      Server: BAIDA/1.0.0
+
+Request 42:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/Statface.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.045 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1489 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1134 Bytes
+  Request Headers:
+      GET /js/control/Statface.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:48 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "289945067"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 1134
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 43:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/PseudoWidgetControl.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.044 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 2295 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1940 Bytes
+  Request Headers:
+      GET /js/control/PseudoWidgetControl.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:48 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "826806173"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 1940
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 44:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/SimpleWidgetControl.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1188 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 833 Bytes
+  Request Headers:
+      GET /js/control/SimpleWidgetControl.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:48 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "2974300031"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 833
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 45:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/YauserSearchInPost.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 2675 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2320 Bytes
+  Request Headers:
+      GET /js/control/YauserSearchInPost.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:48 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "826828353"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 2320
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 46:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/AjaxObject.js?build=20710
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 395 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 91 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/AjaxObject.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 91
+      Last-Modified: Fri, 08 Feb 2008 14:52:42 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 47:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Fx.js?build=20710
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 8891 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 8585 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Fx.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 8585
+      Last-Modified: Thu, 28 Aug 2008 11:13:03 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 48:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/Tutorial.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1380 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1025 Bytes
+  Request Headers:
+      GET /js/control/Tutorial.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:48 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "558368555"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 1025
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 49:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/YauserSearch.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 2698 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2343 Bytes
+  Request Headers:
+      GET /js/control/YauserSearch.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:48 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "826828045"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 2343
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 50:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Color.js?build=20710
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 4768 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4462 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Color.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 4462
+      Last-Modified: Thu, 28 Aug 2008 11:13:03 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 51:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/FriendControl.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 2950 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2594 Bytes
+  Request Headers:
+      GET /js/control/FriendControl.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:48 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:03 GMT
+      ETag: "2974312425"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 2594
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 52:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/js/control/InputPlaceholder.js?build=20710
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.002 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 1098 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 745 Bytes
+  Request Headers:
+      GET /js/control/InputPlaceholder.js?build=20710 HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.friends.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Sun, 13 Dec 2009 10:10:48 GMT
+      Cache-Control: max-age=15552000
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 04 Jun 2009 13:21:06 GMT
+      ETag: "21509663"
+      Content-Type: text/javascript; charset=utf8
+      Accept-Ranges: bytes
+      Content-Length: 745
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 53:
+      Action: GET
+      Url: http://my.ya.ru/pylons.xml?widget_name=foaf&login=jstester
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.047 seconds
+      Time to first byte: 0.045 seconds
+      Document: 0
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 245 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 12 Bytes
+  Request Headers:
+      GET /pylons.xml?widget_name=foaf&login=jstester HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 10:10:48 GMT
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.18
+
+Request 54:
+      Action: GET
+      Url: http://my.ya.ru/ajax/birthdays.xml
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.033 seconds
+      Time to first byte: 0.019 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 224 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /ajax/birthdays.xml HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.18
+
+Request 55:
+      Action: GET
+      Url: http://my.ya.ru/ajax/holiday.xml
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.013 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 224 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /ajax/holiday.xml HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.18
+
+Request 56:
+      Action: GET
+      Url: http://my.ya.ru/ajax/get_recent_unread_replies.xml
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.207 seconds
+      Time to first byte: 0.045 seconds
+      Document: 0
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 618 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 385 Bytes
+  Request Headers:
+      GET /ajax/get_recent_unread_replies.xml HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Transfer-Encoding: chunked
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 10:10:48 GMT
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.18
+
+Request 57:
+      Action: GET
+      Url: http://my.ya.ru/ajax/recent_fotki_replies.xml
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.088 seconds
+      Time to first byte: 0.079 seconds
+      Document: 0
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 224 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /ajax/recent_fotki_replies.xml HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.18
+
+Request 58:
+      Action: GET
+      Url: http://my.ya.ru/ajax/get_recent_unread_clubs_notifications.xml
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.041 seconds
+      Time to first byte: 0.040 seconds
+      Document: 0
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 224 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /ajax/get_recent_unread_clubs_notifications.xml HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.18
+
+Request 59:
+      Action: GET
+      Url: http://my.ya.ru/ajax/get_recent_friends-of.xml
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.038 seconds
+      Time to first byte: 0.037 seconds
+      Document: 0
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 224 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /ajax/get_recent_friends-of.xml HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, proxy-revalidate
+      Content-Type: text/html; charset=UTF-8
+      Expires: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.18
+
+Request 60:
+      Action: GET
+      Url: http://my.ya.ru/webchat2/assign?t=1245147040984
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 180 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2 Bytes
+  Request Headers:
+      GET /webchat2/assign?t=1245147040984 HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040
+  Response Headers:
+      HTTP/1.1 200 OK
+      Set-Cookie: webchat_server=06;path=/
+      Content-Type: application/x-javascript
+      Content-Length: 2
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 61:
+      Action: POST
+      Url: http://my.ya.ru/webchat2/06/init?self=&unread=10&t=1245147041156
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.015 seconds
+      Document: 0
+      Socket: 2
+      Request size (out): 32 Bytes
+      Response size (in): 224 Bytes
+      Request Object Size (out): 32 Bytes
+      Response Object Size (in): 75 Bytes
+  Request Headers:
+      POST /webchat2/06/init?self=&unread=10&t=1245147041156 HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Content-Length: 1
+      Connection: Keep-Alive
+      Cache-Control: no-cache
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040; webchat_server=06
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-type: application/json; charset=utf-8
+      Server: TwistedWeb/8.0.1
+      Content-Length: 75
+
+Request 62:
+      Action: GET
+      Url: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Host: webchat2.yandex.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 634 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 302 Bytes
+  Request Headers:
+      GET /webchat2/receive.html?5320= HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: webchat2.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandex_mail=jstester; yandex_login=jstester; Session_id=1245147046.0.0.13458412.2:31287569:0.58680.8858.f7e8b6e222be3cff6c033293328e2534; L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; yandex_nickname=; yabs-frequency=/2/y9fZ0Eu49m00/
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 21 May 2009 17:29:18 GMT
+      ETag: "721825445"
+      Content-Type: text/html
+      Expires: Tue, 23 Jun 2009 10:10:48 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+      Content-Length: 302
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 63:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/i/status/status.gif
+      Host: img-css.webchat2.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 16
+      Request size (out): 16 Bytes
+      Response size (in): 659 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 373 Bytes
+  Request Headers:
+      GET /i/status/status.gif HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/?ncrnd=6820
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Tue, 23 Jun 2009 10:10:48 GMT
+      Cache-Control: max-age=604800
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "2271845184"
+      Last-Modified: Thu, 11 Jun 2009 09:48:12 GMT
+      Content-Length: 373
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 64:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/meta-y5.js
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 53316 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 53009 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/meta-y5.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 53009
+      Last-Modified: Wed, 13 May 2009 14:38:13 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 65:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Elements.js
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 3286 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2980 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Elements.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 2980
+      Last-Modified: Thu, 13 Nov 2008 15:46:20 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 66:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/5320/_webchat.js
+      Host: img-css.webchat2.yandex.net
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 36477 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 36128 Bytes
+  Request Headers:
+      GET /5320/_webchat.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Tue, 23 Jun 2009 10:10:48 GMT
+      Cache-Control: max-age=604800
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 21 May 2009 17:26:31 GMT
+      ETag: "120232597"
+      Content-Type: application/x-javascript
+      Accept-Ranges: bytes
+      Content-Length: 36128
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 67:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Cookies.js
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 970 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 665 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Cookies.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 665
+      Last-Modified: Fri, 08 Feb 2008 14:52:42 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 68:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Components.js
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 2148 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1842 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Components.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 1842
+      Last-Modified: Wed, 04 Feb 2009 10:52:15 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 69:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/ShortCuts.js
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4274 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3968 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/ShortCuts.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 3968
+      Last-Modified: Tue, 06 May 2008 07:57:12 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 70:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Dates.js
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.003 seconds
+      Document: 0
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 4611 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4305 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Dates.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 4305
+      Last-Modified: Mon, 04 Aug 2008 13:05:18 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 71:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/cssQuery.js
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.002 seconds
+      Document: 0
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 11324 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 11017 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/cssQuery.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 11017
+      Last-Modified: Thu, 28 Aug 2008 12:31:57 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 72:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Styles.js
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 732 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 427 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Styles.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 427
+      Last-Modified: Thu, 28 Aug 2008 11:13:03 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 73:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/Arrays.js
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 781 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 476 Bytes
+  Request Headers:
+      GET /y5/1.5b-c/Arrays.js HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.7.59
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Content-Type: application/x-javascript
+      Content-Length: 476
+      Last-Modified: Tue, 24 Jun 2008 09:58:25 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 74:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/i/marker/opening_window.png
+      Host: img-css.webchat2.yandex.net
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 16
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i/marker/opening_window.png HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+
+Request 75:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/i/candy.gif
+      Host: img-css.webchat2.yandex.net
+      Result code: 0
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i/candy.gif HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+
+Request 76:
+      Action: GET
+      Url: http://my.ya.ru/webchat2/proxy.html?5320=
+      Host: my.ya.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.002 seconds
+      Document: 0
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 635 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 303 Bytes
+  Request Headers:
+      GET /webchat2/proxy.html?5320= HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: my.ya.ru
+      Connection: Keep-Alive
+      Cookie: L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; Session_id=1245147046.0.2.13458412.2:31287569:0.my:ya_ru:24290.4401.6fa664737c3b28dc63e9b638c1aa7a39; yandex_login=jstester; yandexuid=145022131245147040; webchat_server=06
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 21 May 2009 17:41:41 GMT
+      ETag: "255344099"
+      Content-Type: text/html
+      Expires: Tue, 23 Jun 2009 10:10:48 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+      Content-Length: 303
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 77:
+      Action: GET
+      Url: http://webchat2.yandex.ru/webchat2/06/recv?me=jstester&user=jstester&t=1245146978715175&i=&z=1245147041312
+      Host: webchat2.yandex.ru
+      Result code: -1
+      Transaction time: 0.000 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 22
+      Request size (out): 955 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /webchat2/06/recv?me=jstester&user=jstester&t=1245146978715175&i=&z=1245147041312 HTTP/1.1
+      x-requested-with: XMLHttpRequest
+      Accept-Language: ru
+      Referer: http://webchat2.yandex.ru/webchat2/receive.html?5320=#server%3D06%26host%3Dmy.ya.ru%26query%3Dme%253Djstester%2526user%253Djstester%2526t%253D1245146978715175
+      Accept: text/javascript,text/html,application/xml,text/xml,text/plain,*/*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: webchat2.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=145022131245147040; yandex_mail=jstester; yandex_login=jstester; Session_id=1245147046.0.0.13458412.2:31287569:0.58680.8858.f7e8b6e222be3cff6c033293328e2534; L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; yandex_nickname=; yabs-frequency=/2/y9fZ0Eu49m00/
+  Response Headers:
+
+Request 78:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/i/marker/opening_window.png
+      Host: img-css.webchat2.yandex.net
+      Result code: 0
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i/marker/opening_window.png HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/webchat2/proxy.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+
+Request 79:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/i/candy.gif
+      Host: img-css.webchat2.yandex.net
+      Result code: 0
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 24
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i/candy.gif HTTP/1.1
+      Accept: */*
+      Referer: http://my.ya.ru/webchat2/proxy.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+
+Request 80:
+      Action: GET
+      Url: http://webchat2.yandex.ru/webchat2/proxy.html?5320=
+      Host: webchat2.yandex.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 635 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 303 Bytes
+  Request Headers:
+      GET /webchat2/proxy.html?5320= HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://my.ya.ru/webchat2/proxy.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: webchat2.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandex_mail=jstester; yandex_login=jstester; Session_id=1245147046.0.0.13458412.2:31287569:0.58680.8858.f7e8b6e222be3cff6c033293328e2534; L=WUJAC3lcfnJHfXhXTHBwZ0BXWgBxSVNRNgdWQidzCCM0c3ATMygAABxZNhgBSgsOGihGOxEBNgA7LhYEB2ZFIA==.1245147043.5275.285786.f49ef9b4cbfd627da8e4750e28e0e6bb; yandex_nickname=; yabs-frequency=/2/y9fZ0Eu49m00/
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Thu, 21 May 2009 17:29:18 GMT
+      ETag: "185020069"
+      Content-Type: text/html
+      Expires: Tue, 23 Jun 2009 10:10:48 GMT
+      Cache-Control: max-age=604800
+      Accept-Ranges: bytes
+      Content-Length: 303
+      Date: Tue, 16 Jun 2009 10:10:48 GMT
+      Server: lighttpd/1.4.19
+
+Request 81:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/i/marker/opening_window.png
+      Host: img-css.webchat2.yandex.net
+      Result code: 0
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i/marker/opening_window.png HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/proxy.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+
+Request 82:
+      Action: GET
+      Url: http://img-css.webchat2.yandex.net/i/candy.gif
+      Host: img-css.webchat2.yandex.net
+      Result code: 0
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.000 seconds
+      Document: 0
+      Socket: 27
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /i/candy.gif HTTP/1.1
+      Accept: */*
+      Referer: http://webchat2.yandex.ru/webchat2/proxy.html?5320=
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img-css.webchat2.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+

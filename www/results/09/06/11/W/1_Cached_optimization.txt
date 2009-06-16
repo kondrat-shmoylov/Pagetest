@@ -1,0 +1,108 @@
+Optimization Report : 06/11/09 at 21:22:41
+
+Results for 'http://pampers2.yandex.ru:2500/neo/messages':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 0.590 seconds
+Time to first byte: 0.236 seconds
+Time to Base Page Downloaded: 0.371 seconds
+Time to Start Render: 0.483 seconds
+Time to Document Complete: 0.590 seconds
+Time to Fully Loaded: 0.590 seconds
+Bytes sent out: 0.313 KB
+Bytes received: 31.549 KB
+DNS Lookups: 4
+Connections: 6
+Requests: 18
+   OK Requests:  6
+   Redirects:    2
+   Not Modified: 7
+   Not Found:    3
+   Other:        0
+Base Page Response: 200
+Base Page Redirects: 2
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://pampers2.yandex.ru:2500/modern/_static/i//login/logo-artlebedev.gif
+    FAILED  (No max-age or expires) - http://pampers2.yandex.ru:2500/modern/_static/i//login/logo50.png
+    FAILED  (No max-age or expires) - http://pampers2.yandex.ru:2500/modern/_static/i//login/marka4.gif
+    FAILED  (No max-age or expires) - http://pampers2.yandex.ru:2500/modern/_static/i/drweb2.gif
+    FAILED  (No max-age or expires) - http://pampers2.yandex.ru:2500/modern/_static/i/login/heading.png
+    FAILED  (No max-age or expires) - http://pampers2.yandex.ru:2500/modern/_static/i/logo_so.gif
+    FAILED  (No max-age or expires) - http://pampers2.yandex.ru:2500/modern/_static/js/index_main.js
+    FAILED  (No max-age or expires) - http://pampers2.yandex.ru:2500/modern/_static/js/test_xslt.js
+    WARNING (7.0 days) - https://passport.yandex.ru/js/forcehttps.js
+  Cache score : 15
+
+Use one CDN for all static assets:
+    FAILED - http://mailstatic.yandex.net/classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0
+    FAILED - http://pampers2.yandex.ru:2500/modern/_static/i//login/marka4.gif
+    FAILED - https://passport.yandex.ru/js/forcehttps.js
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+    FAILED - https://passport.yandex.ru/js/forcehttps.js
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (3.7 KB, compressed = 0.6 KB - savings of 3.2 KB) - https://passport.yandex.ru/js/forcehttps.js
+  GZIP score : 55
+    7.1 KB total in compressible text, target size = 3.9 KB - potential savings = 3.2 KB
+
+Compress Images:
+  Image Compression score : 100
+    7.0 KB total in images, target size = 7.0 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/js/index_main.js
+      cookie:yandexuid=2096363731244740956
+    FAILED (Static object with 1 cookies - 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/js/test_xslt.js
+      cookie:yandexuid=2096363731244740956
+    FAILED (Static object with 1 cookies - 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/i//login/logo50.png
+      cookie:yandexuid=2096363731244740956
+    FAILED (Static object with 1 cookies - 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/i/logo_so.gif
+      cookie:yandexuid=2096363731244740956
+    FAILED (Static object with 1 cookies - 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/i/drweb2.gif
+      cookie:yandexuid=2096363731244740956
+    FAILED (Static object with 1 cookies - 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/i/login/heading.png
+      cookie:yandexuid=2096363731244740956
+    FAILED (Static object with 1 cookies - 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/i//login/marka4.gif
+      cookie:yandexuid=2096363731244740956
+    FAILED (Static object with 1 cookies - 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/i//login/logo-artlebedev.gif
+      cookie:yandexuid=2096363731244740956
+    FAILED (Static object with 1 cookies - 29 bytes) - https://passport.yandex.ru/js/forcehttps.js
+      cookie:yandexuid=2096363731244740956
+   WARNING (1 cookies, 29 bytes) - http://pampers2.yandex.ru:2500/neo/messages
+      cookie:yandexuid=2096363731244740956
+   WARNING (1 cookies, 29 bytes) - http://pampers2.yandex.ru:2500/neo/?retpath=http%3A%2F%2Fpampers2.yandex.ru%3A2500%2Fneo%2Fmessages
+      cookie:yandexuid=2096363731244740956
+   WARNING (1 cookies, 29 bytes) - http://pampers2.yandex.ru:2500/?retpath=http%3A%2F%2Fpampers2.yandex.ru%3A2500%2Fneo%2Fmessages
+      cookie:yandexuid=2096363731244740956
+   WARNING (1 cookies, 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/css/_common.css
+      cookie:yandexuid=2096363731244740956
+   WARNING (1 cookies, 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/css/_mail-common.css
+      cookie:yandexuid=2096363731244740956
+   WARNING (1 cookies, 29 bytes) - http://pampers2.yandex.ru:2500/modern/_static/css/_mail-login.css
+      cookie:yandexuid=2096363731244740956
+   WARNING (1 cookies, 29 bytes) - http://passport.yandex.ru/passport?mode=testloginjs&id41910534
+      cookie:yandexuid=2096363731244740956
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id41910534
+      cookie:guid=23C802034A313D5CX1244740956
+  Cookie score : 27
+    0.5 KB total in outbound cookies, target size = 0.2 KB - potential savings = 0.3 KB
+
+Minify JS:
+    FAILED (3.7 KB, minified = 0.5 KB - savings of 3.2 KB) - https://passport.yandex.ru/js/forcehttps.js
+  Minify score : 20
+    4.0 KB total in minifiable text, target size = 0.8 KB - potential savings = 3.2 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

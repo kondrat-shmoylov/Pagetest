@@ -1,0 +1,96 @@
+Results for 'http://google.ru/search?q=iRiver%20T10%202Gb&hl=ru':
+
+Page load time: 0.846 seconds
+Time to first byte: 0.282 seconds
+Time to Base Page Downloaded: 0.649 seconds
+Time to Start Render: 0.668 seconds
+Time to Document Complete: 0.846 seconds
+Time to Fully Loaded: 0.958 seconds
+Bytes sent out: 3.478 KB
+Bytes received: 15.015 KB
+DNS Lookups: 3
+Connections: 4
+Requests: 6
+   OK Requests:  3
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://google.ru/search?q=iRiver%20T10%202Gb&hl=ru
+      Host: google.ru
+      Result code: 301
+      Transaction time: 0.282 seconds
+      Time to first byte: 0.122 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 557 Bytes
+      Response size (in): 546 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.google.ru/search?q=iRiver%20T10%202Gb&hl=ru
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.367 seconds
+      Time to first byte: 0.075 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 561 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.google.ru/images/nav_logo4.png
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.197 seconds
+      Time to first byte: 0.065 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 568 Bytes
+      Response size (in): 7369 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://www.google.ru/extern_js/f/CgJydRICcnUrMAo4G0ABLCswDjgFLCswFjgKLCswFzgBLCswGDgELCswJTjJiAEsKzAmOAQsKzAnOAAs/03GMdWh3OJw.js
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.086 seconds
+      Time to first byte: 0.073 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 655 Bytes
+      Response size (in): 6096 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://clients1.google.ru/generate_204
+      Host: clients1.google.ru
+      Result code: 204
+      Transaction time: 0.119 seconds
+      Time to first byte: 0.062 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 565 Bytes
+      Response size (in): 125 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=gT4pSsftC87B_Qa02ZSDCw&e=17259,20572,20721&rt=prt.79,xjs.219,ol.266
+      Host: www.google.ru
+      Result code: 204
+      Transaction time: 0.060 seconds
+      Time to first byte: 0.059 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 655 Bytes
+      Response size (in): 215 Bytes
+

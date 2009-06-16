@@ -1,0 +1,192 @@
+Results for 'http://yandex.ru/yandsearch?text=zapros':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 1.660 seconds
+Time to first byte: 0.328 seconds
+Time to Base Page Downloaded: 0.352 seconds
+Time to Start Render: 0.576 seconds
+Time to Document Complete: 1.660 seconds
+Time to Fully Loaded: 1.660 seconds
+Bytes sent out: 7.910 KB
+Bytes received: 34.862 KB
+DNS Lookups: 9
+Connections: 11
+Requests: 14
+   OK Requests:  4
+   Redirects:    2
+   Not Modified: 7
+   Not Found:    1
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://export.yandex.ru/geoselectorData.xml
+      Host: export.yandex.ru
+      Result code: 200
+      Transaction time: 0.352 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 601 Bytes
+      Response size (in): 24560 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://css.yandex.net/n.gif
+      Host: css.yandex.net
+      Result code: 404
+      Transaction time: 1.126 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 316 Bytes
+      Response size (in): 479 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 1.033 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 884 Bytes
+      Response size (in): 250 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/cl.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.063 seconds
+      Time to first byte: 0.042 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 595 Bytes
+      Response size (in): 149 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/1lhz3TG7P9S40X00ZhYIaA84KfK2cmTiFoq1YArJzWMIeRc71ugjRxG4ZG6Ge1y2tf6_s-PW3PE53Okh33yTGNm6?rnd=117112077
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.059 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 638 Bytes
+      Response size (in): 498 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://im8-tub.yandex.net/i?id=74407450&tov=8
+      Host: im8-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.067 seconds
+      Time to first byte: 0.048 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 384 Bytes
+      Response size (in): 3056 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://bscork.yandex.ru/su/
+      Host: bscork.yandex.ru
+      Result code: 302
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 803 Bytes
+      Response size (in): 194 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.058 seconds
+      Time to first byte: 0.044 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 404 Bytes
+      Response size (in): 438 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=6323903
+      Host: video-tub.yandex.ru
+      Result code: 200
+      Transaction time: 0.059 seconds
+      Time to first byte: 0.044 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 617 Bytes
+      Response size (in): 5326 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.compromat.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.059 seconds
+      Time to first byte: 0.047 seconds
+      Document: 1
+      Socket: 33
+      Request size (out): 389 Bytes
+      Response size (in): 151 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.mossanepid.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.048 seconds
+      Time to first byte: 0.043 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 390 Bytes
+      Response size (in): 151 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/fc02.html
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 866 Bytes
+      Response size (in): 149 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/2BRE6ruXDMLKATwm^yO2RQ.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 615 Bytes
+      Response size (in): 149 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/fc02.swf
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 598 Bytes
+      Response size (in): 149 Bytes
+

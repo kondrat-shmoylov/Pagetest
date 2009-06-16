@@ -1,0 +1,122 @@
+Optimization Report : 06/11/09 at 19:19:55
+
+Results for 'http://mail.yandex.ru/neo/messages_thread?d=id39189888':
+
+Page load time: 0.578 seconds
+Time to first byte: 0.179 seconds
+Time to Base Page Downloaded: 0.350 seconds
+Time to Start Render: 0.529 seconds
+Time to Document Complete: 0.578 seconds
+Time to Fully Loaded: 0.578 seconds
+Bytes sent out: 0.469 KB
+Bytes received: 92.848 KB
+DNS Lookups: 4
+Connections: 6
+Requests: 28
+   OK Requests:  25
+   Redirects:    3
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+Base Page Redirects: 3
+
+
+Enable browser caching of static assets:
+    WARNING (7.0 days) - https://passport.yandex.ru/js/forcehttps.js
+  Cache score : 97
+
+Use one CDN for all static assets:
+    FAILED - http://mailstatic.yandex.net/classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0
+    FAILED - http://mailstatic.yandex.net/modern/34154/css/common.css
+    FAILED - http://mailstatic.yandex.net/modern/34154/css/mail-common.css
+    FAILED - http://mailstatic.yandex.net/modern/34154/css/mail-login.css
+    FAILED - http://mailstatic.yandex.net/modern/34154/i//login/logo-artlebedev.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i//login/logo50.png
+    FAILED - http://mailstatic.yandex.net/modern/34154/i//login/marka9.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/drweb2.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/form-bg.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/heading.png
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/p-end.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/plus-blue.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/plus-green.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/plus-orange.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/sh-bl.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/sh-br.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/sh-tl.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/login/sh-tr.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/i/logo_so.gif
+    FAILED - http://mailstatic.yandex.net/modern/34154/js/index_main.js
+    FAILED - http://mailstatic.yandex.net/modern/34154/js/test_xslt.js
+    FAILED - https://passport.yandex.ru/js/forcehttps.js
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+    FAILED - http://mailstatic.yandex.net/modern/34154/js/index_main.js
+    FAILED - http://mailstatic.yandex.net/modern/34154/js/test_xslt.js
+    FAILED - https://passport.yandex.ru/js/forcehttps.js
+    FAILED - http://mailstatic.yandex.net/modern/34154/css/common.css
+    FAILED - http://mailstatic.yandex.net/modern/34154/css/mail-common.css
+    FAILED - http://mailstatic.yandex.net/modern/34154/css/mail-login.css
+  Combine score : 70
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (17.9 KB, compressed = 4.6 KB - savings of 13.3 KB) - http://mailstatic.yandex.net/modern/34154/css/mail-common.css
+    FAILED (3.7 KB, compressed = 0.6 KB - savings of 3.2 KB) - https://passport.yandex.ru/js/forcehttps.js
+    FAILED (4.8 KB, compressed = 1.8 KB - savings of 3.0 KB) - http://mailstatic.yandex.net/modern/34154/css/common.css
+    FAILED (4.6 KB, compressed = 1.9 KB - savings of 2.7 KB) - http://mailstatic.yandex.net/modern/34154/js/test_xslt.js
+    FAILED (3.1 KB, compressed = 1.2 KB - savings of 1.9 KB) - http://mailstatic.yandex.net/modern/34154/css/mail-login.css
+    FAILED (2.6 KB, compressed = 1.2 KB - savings of 1.4 KB) - http://mailstatic.yandex.net/modern/34154/js/index_main.js
+  GZIP score : 36
+    40.2 KB total in compressible text, target size = 14.7 KB - potential savings = 25.5 KB
+
+Compress Images:
+    FAILED  (3.3 KB, target = 1.1 KB - savings of 2.2 KB - Convert PNG to 8 bit)- http://mailstatic.yandex.net/modern/34154/i/login/heading.png
+  Image Compression score : 91
+    27.5 KB total in images, target size = 25.3 KB - potential savings = 2.2 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 28 bytes) - https://passport.yandex.ru/js/forcehttps.js
+      cookie:yandexuid=701863621244733590
+   WARNING (1 cookies, 28 bytes) - http://mail.yandex.ru/neo/messages_thread?d=id39189888
+      cookie:yandexuid=701863621244733590
+   WARNING (1 cookies, 28 bytes) - http://mail.yandex.ru/neo/messages?d=id39189888
+      cookie:yandexuid=701863621244733590
+   WARNING (1 cookies, 28 bytes) - http://mail.yandex.ru/neo/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      cookie:yandexuid=701863621244733590
+   WARNING (1 cookies, 28 bytes) - http://mail.yandex.ru/?retpath=http%3A%2F%2Fmail.yandex.ru%2Fneo%2Fmessages%3Fd%3Did39189888
+      cookie:yandexuid=701863621244733590
+   WARNING (1 cookies, 28 bytes) - http://passport.yandex.ru/passport?mode=testloginjs&id42527523
+      cookie:yandexuid=701863621244733590
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id42527523
+      cookie:guid=8AC305024A312096X1244733590
+  Cookie score : 85
+    0.2 KB total in outbound cookies, target size = 0.2 KB - potential savings = 0.0 KB
+
+Minify JS:
+    FAILED (3.7 KB, minified = 0.5 KB - savings of 3.2 KB) - https://passport.yandex.ru/js/forcehttps.js
+  Minify score : 71
+    11.2 KB total in minifiable text, target size = 8.0 KB - potential savings = 3.2 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+    FAILED - http://mailstatic.yandex.net/modern/34154/js/index_main.js
+        Line 1: $("tips_hide")
+        Line 1: $("tips_show")
+        Line 1: $("tuning")
+        Line 1: $("featuresCell")
+        Line 1: $("dignityCell")
+        Line 1: $("tips_hide")
+        Line 1: $("tips_hide")
+        Line 1: $("tips_show")
+        Line 1: $("tips_show")
+        Line 1: $("featuresCell")
+        ...
+      (13 occurrences)
+

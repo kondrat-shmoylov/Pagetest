@@ -1,0 +1,213 @@
+Optimization Report : 06/11/09 at 19:36:54
+
+Results for 'http://blogs.yandex.ru/':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 0.955 seconds
+Time to first byte: 0.228 seconds
+Time to Base Page Downloaded: 0.237 seconds
+Time to Start Render: 1.041 seconds
+Time to Document Complete: 0.955 seconds
+Time to Fully Loaded: 1.043 seconds
+Bytes sent out: 0.766 KB
+Bytes received: 96.355 KB
+DNS Lookups: 4
+Connections: 30
+Requests: 49
+   OK Requests:  19
+   Redirects:    0
+   Not Modified: 5
+   Not Found:    25
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/block/b-accordeon/plus.png
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/blogger.png
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/fade.png
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/lenta-icons.gif
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/lj_userinfo.gif
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/ny/pulse.gif
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/promo-bg.gif
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/promo-rb.gif
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/pulse-b.png
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/pulse-br.png
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/pulse-lb.png
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/pulse-t.png
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/rubric-c.gif
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/spin.gif
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/themes-item-c.gif
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/i/themes-item.gif
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/js/_blogs.js?build=7313
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/js/IndexSwitcher.js?build=7250
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/js/Ppb.js?build=7250
+    FAILED  (No max-age or expires) - http://blogs.yandex.ru/page/_page-index.ie.css?build=7313
+  Cache score : 4
+
+Use one CDN for all static assets:
+    FAILED - http://blogs.yandex.ru/block/b-accordeon/plus.png
+    FAILED - http://blogs.yandex.ru/i/blogger.png
+    FAILED - http://blogs.yandex.ru/i/fade.png
+    FAILED - http://blogs.yandex.ru/i/lenta-icons.gif
+    FAILED - http://blogs.yandex.ru/i/lj_userinfo.gif
+    FAILED - http://blogs.yandex.ru/i/ny/pulse.gif
+    FAILED - http://blogs.yandex.ru/i/promo-bg.gif
+    FAILED - http://blogs.yandex.ru/i/promo-rb.gif
+    FAILED - http://blogs.yandex.ru/i/pulse-b.png
+    FAILED - http://blogs.yandex.ru/i/pulse-br.png
+    FAILED - http://blogs.yandex.ru/i/pulse-lb.png
+    FAILED - http://blogs.yandex.ru/i/pulse-t.png
+    FAILED - http://blogs.yandex.ru/i/rubric-c.gif
+    FAILED - http://blogs.yandex.ru/i/spin.gif
+    FAILED - http://blogs.yandex.ru/i/themes-item-c.gif
+    FAILED - http://blogs.yandex.ru/i/themes-item.gif
+    FAILED - http://pulse.blogs.yandex.net/?cat0=theme&id0=10607&period=20090311-20090611&style=orange
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (56.6 KB, compressed = 10.6 KB - savings of 46.0 KB) - http://blogs.yandex.ru/
+  GZIP score : 18
+    56.6 KB total in compressible text, target size = 10.6 KB - potential savings = 46.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    12.1 KB total in images, target size = 12.1 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 29 bytes) - http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/page/_page-index.ie.css?build=7313
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/js/_blogs.js?build=7313
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/js/Ppb.js?build=7250
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/pulse-b.png
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/pulse-t.png
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/spin.gif
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/themes-item-c.gif
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/themes-item.gif
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/pulse-lb.png
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/pulse-br.png
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/ny/pulse.gif
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/promo-bg.gif
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/promo-rb.gif
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/block/b-accordeon/plus.png
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/lenta-icons.gif
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/blogger.png
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/lj_userinfo.gif
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/rubric-c.gif
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/i/fade.png
+      cookie:yandexuid=1922287901244734607
+    FAILED (Static object with 1 cookies - 29 bytes) - http://blogs.yandex.ru/js/IndexSwitcher.js?build=7250
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/undefined
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 29 bytes) - http://blogs.yandex.ru/css/common/i/corners.png
+      cookie:yandexuid=1922287901244734607
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_blogs/0
+      cookie:guid=8A1B02024A31248FX1244734607
+  Cookie score : 29
+    1.4 KB total in outbound cookies, target size = 0.8 KB - potential savings = 0.6 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+    FAILED - http://blogs.yandex.ru/page/_page-index.ie.css?build=7313
+    FAILED - http://blogs.yandex.ru/js/_blogs.js?build=7313
+    FAILED - http://blogs.yandex.ru/js/Ppb.js?build=7250
+    FAILED - http://blogs.yandex.ru/i/pulse-b.png
+    FAILED - http://blogs.yandex.ru/i/pulse-t.png
+    FAILED - http://blogs.yandex.ru/i/spin.gif
+    FAILED - http://blogs.yandex.ru/i/themes-item-c.gif
+    FAILED - http://blogs.yandex.ru/i/themes-item.gif
+    FAILED - http://blogs.yandex.ru/i/pulse-lb.png
+    FAILED - http://blogs.yandex.ru/i/pulse-br.png
+    FAILED - http://blogs.yandex.ru/i/ny/pulse.gif
+    FAILED - http://blogs.yandex.ru/i/promo-bg.gif
+    FAILED - http://blogs.yandex.ru/i/promo-rb.gif
+    FAILED - http://blogs.yandex.ru/block/b-accordeon/plus.png
+    FAILED - http://blogs.yandex.ru/i/lenta-icons.gif
+    FAILED - http://blogs.yandex.ru/i/blogger.png
+    FAILED - http://blogs.yandex.ru/i/lj_userinfo.gif
+    FAILED - http://blogs.yandex.ru/i/rubric-c.gif
+    FAILED - http://blogs.yandex.ru/i/fade.png
+    FAILED - http://blogs.yandex.ru/js/IndexSwitcher.js?build=7250
+  ETag score : 57
+
+JQuery Selectors not descended from an ID:
+  No problems found

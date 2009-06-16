@@ -1,0 +1,120 @@
+Results for 'http://google.ru/search?q=http://www.dotnet.com/~boystoys/&hl=ru':
+
+Page load time: 1.202 seconds
+Time to first byte: 0.435 seconds
+Time to Base Page Downloaded: 0.843 seconds
+Time to Start Render: 0.856 seconds
+Time to Document Complete: 1.202 seconds
+Time to Fully Loaded: 1.276 seconds
+Bytes sent out: 4.627 KB
+Bytes received: 17.201 KB
+DNS Lookups: 4
+Connections: 5
+Requests: 8
+   OK Requests:  5
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://google.ru/search?q=http://www.dotnet.com/~boystoys/&hl=ru
+      Host: google.ru
+      Result code: 301
+      Transaction time: 0.435 seconds
+      Time to first byte: 0.200 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 571 Bytes
+      Response size (in): 574 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.google.ru/search?q=http://www.dotnet.com/~boystoys/&hl=ru
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.407 seconds
+      Time to first byte: 0.073 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 575 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.google.ru/images/nav_logo4.png
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.228 seconds
+      Time to first byte: 0.058 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 582 Bytes
+      Response size (in): 7368 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://video.google.com/ThumbnailServer2?app=smh&contentid=3254d0547d23bb2e&offsetms=1&itag=w160&sigh=1p-1keO1hwQvIP7TLInni4nww24&h=60&w=80&sigh=__Cw5e333ZfYrp3xVOGvlw3btAbTA=
+      Host: video.google.com
+      Result code: 200
+      Transaction time: 0.342 seconds
+      Time to first byte: 0.196 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 493 Bytes
+      Response size (in): 1791 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://www.google.ru/images/icons/sectionized_ui/play_a.gif
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.054 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 600 Bytes
+      Response size (in): 424 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://www.google.ru/extern_js/f/CgJydRICcnUrMAo4G0ABLCswDjgFLCswFjgKLCswFzgBLCswGDgELCswJTjJiAEsKzAmOAQsKzAnOAAs/03GMdWh3OJw.js
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.094 seconds
+      Time to first byte: 0.078 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 669 Bytes
+      Response size (in): 6093 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://clients1.google.ru/generate_204
+      Host: clients1.google.ru
+      Result code: 204
+      Transaction time: 0.145 seconds
+      Time to first byte: 0.066 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 579 Bytes
+      Response size (in): 125 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=ZT4pSo3bA9Kv_AaNh4SBCw&e=17259,20572,20721&rt=prt.78,xjs.328,ol.422
+      Host: www.google.ru
+      Result code: 204
+      Transaction time: 0.057 seconds
+      Time to first byte: 0.056 seconds
+      Document: 0
+      Socket: 11
+      Request size (out): 669 Bytes
+      Response size (in): 215 Bytes
+

@@ -1,0 +1,1 @@
+2009/06/09 09:31:19	-1	-1	0	0	88888	Script Error	Cleared Cache-Run_1^090609_6M.pts_Step1	http://pampers.yandex.ru:2006/	3		setValue name=login  jstester 

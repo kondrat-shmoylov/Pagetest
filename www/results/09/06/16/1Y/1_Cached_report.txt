@@ -1,0 +1,1121 @@
+Results for 'http://pampers2.yandex.ru:2006/':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 1.446 seconds
+Time to first byte: 0.051 seconds
+Time to Base Page Downloaded: 0.203 seconds
+Time to Start Render: 0.735 seconds
+Time to Document Complete: 1.446 seconds
+Time to Fully Loaded: 1.476 seconds
+Bytes sent out: 0.516 KB
+Bytes received: 1136.902 KB
+DNS Lookups: 6
+Connections: 28
+Requests: 33
+   OK Requests:  12
+   Redirects:    3
+   Not Modified: 14
+   Not Found:    2
+   Other:        2 (204, 0)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/
+      Host: pampers2.yandex.ru:2006
+      Result code: 302
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.048 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 3234 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2759 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 302 Moved Temporary
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=utf-8
+      Date: Tue, 16 Jun 2009 14:09:38 GMT
+      Expires: Tue, 16 Jun 2009 14:14:38 GMT
+      Last-Modified: Tue, 16 Jun 2009 14:09:38 GMT
+      Location: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 2:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Host: pampers2.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.149 seconds
+      Time to first byte: 0.144 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 10917 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 10530 Bytes
+  Request Headers:
+      GET /neo/messages_thread?d=id34362115 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 200 OK
+      Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+      Connection: Keep-Alive
+      Content-Encoding: gzip
+      Content-Type: text/html; charset=UTF-8
+      Date: Tue, 16 Jun 2009 14:09:38 GMT
+      Expires: Tue, 16 Jun 2009 14:14:38 GMT
+      Last-Modified: Tue, 16 Jun 2009 14:09:38 GMT
+      Pragma: no-cache
+      Server: BAIDA/2.0.2
+      Transfer-Encoding: Chunked
+
+Request 3:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/css/_m-ie6.css
+      Host: pampers2.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.128 seconds
+      Time to first byte: 0.096 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 315246 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 315108 Bytes
+  Request Headers:
+      GET /neo/_static/css/_m-ie6.css HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/css;charset=utf-8
+      Date: Tue, 16 Jun 2009 14:09:38 GMT
+      Server: lighttpd/1.4.19
+
+Request 4:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/css/_page-inbox.ie.css
+      Host: pampers2.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.044 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 2
+      Request size (out): 16 Bytes
+      Response size (in): 74510 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 74349 Bytes
+  Request Headers:
+      GET /neo/_static/css/_page-inbox.ie.css HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/css;charset=utf-8
+      Content-Length: 74349
+      Date: Tue, 16 Jun 2009 14:09:38 GMT
+      Server: lighttpd/1.4.19
+
+Request 5:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/css/theme/green/_theme-page-inbox.ie.css
+      Host: pampers2.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 16 Bytes
+      Response size (in): 18812 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 18674 Bytes
+  Request Headers:
+      GET /neo/_static/css/theme/green/_theme-page-inbox.ie.css HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/css;charset=utf-8
+      Date: Tue, 16 Jun 2009 14:09:38 GMT
+      Server: lighttpd/1.4.19
+
+Request 6:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/js/c/etc/jquery/jquery.js
+      Host: pampers2.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.075 seconds
+      Time to first byte: 0.048 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 266664 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 266519 Bytes
+  Request Headers:
+      GET /neo/_static/js/c/etc/jquery/jquery.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/javascript;charset=utf-8
+      Date: Tue, 16 Jun 2009 14:09:38 GMT
+      Server: lighttpd/1.4.19
+
+Request 7:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/js/c/lego.js
+      Host: pampers2.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 43124 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 42979 Bytes
+  Request Headers:
+      GET /neo/_static/js/c/lego.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/javascript;charset=utf-8
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 8:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo//js_texts/ru/Mail_js.js
+      Host: pampers2.yandex.ru:2006
+      Result code: 404
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 232 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 33 Bytes
+  Request Headers:
+      GET /neo//js_texts/ru/Mail_js.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Connection: Keep-Alive
+      Content-Length: 33
+      Content-Type: text/html
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Last-Modified: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: BAIDA/2.0.2
+
+Request 9:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/js/c/Mail.js
+      Host: pampers2.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.079 seconds
+      Time to first byte: 0.055 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 16 Bytes
+      Response size (in): 296488 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 296343 Bytes
+  Request Headers:
+      GET /neo/_static/js/c/Mail.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/javascript;charset=utf-8
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 10:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/js/c/pages/messages.js
+      Host: pampers2.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 106520 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 106375 Bytes
+  Request Headers:
+      GET /neo/_static/js/c/pages/messages.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: text/javascript;charset=utf-8
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 11:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo//js_texts/ru/messages_js.js
+      Host: pampers2.yandex.ru:2006
+      Result code: 404
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 16 Bytes
+      Response size (in): 232 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 33 Bytes
+  Request Headers:
+      GET /neo//js_texts/ru/messages_js.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 404 Not Found
+      Connection: Keep-Alive
+      Content-Length: 33
+      Content-Type: text/html
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Last-Modified: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: BAIDA/2.0.2
+
+Request 12:
+      Action: GET
+      Url: http://upics.yandex.net/get/jstester/small
+      Host: upics.yandex.net
+      Result code: 302
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 244 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /get/jstester/small HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: upics.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Found
+      Cache-Control: max-age=0, proxy-revalidate
+      Expires: Tue, 16 Jun 2009 14:09:39 GMT
+      Location: http://default.avatars.yandex.net/it/44-small
+      Content-Length: 0
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.18
+
+Request 13:
+      Action: GET
+      Url: http://default.avatars.yandex.net/it/44-small
+      Host: default.avatars.yandex.net
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 204 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /it/44-small HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: default.avatars.yandex.net
+      Connection: Keep-Alive
+      If-Modified-Since: Thu, 20 Nov 2008 14:06:06 GMT
+      If-None-Match: "2781854487"
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "2781854487"
+      Last-Modified: Thu, 20 Nov 2008 14:06:06 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 14:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/theme/green/dialog.png
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 16 Bytes
+      Response size (in): 224 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/theme/green/dialog.png HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:05 GMT; length=918
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "-1522975468"
+      Last-Modified: Fri, 29 May 2009 08:45:05 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 15:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/flashldr006.js
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 149 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /resource/flashldr006.js HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Wed, 22 Oct 2008 09:09:26 GMT
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 304 Not Modified
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Content-Length: 0
+
+Request 16:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/0 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=FE7F02024A37A797X1245161367
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 17:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/theme/logo-bg.png
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 222 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/theme/logo-bg.png HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:06 GMT; length=553
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "356073084"
+      Last-Modified: Fri, 29 May 2009 08:45:06 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 18:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/theme/green/fade.png
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 16 Bytes
+      Response size (in): 223 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/theme/green/fade.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:05 GMT; length=1287
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "1429780422"
+      Last-Modified: Fri, 29 May 2009 08:45:05 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 19:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/oNG9aooncv^iT4mayEyogw.gif?rnd=921514
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 19357 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 19143 Bytes
+  Request Headers:
+      GET /resource/oNG9aooncv^iT4mayEyogw.gif?rnd=921514 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Thu, 07 May 2009 11:49:32 GMT
+      Content-Type: image/gif
+      Content-Length: 19143
+
+Request 20:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/Jbq6_8hds9a40X00Zh9wUgC4N0kL0Pi1RqWZYAocE0QIeyBU1ugXJFS4aA0V0jwHkYv5dWEJXGsBeZsq7a6CZVMWZVLu1m00
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 553 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /count/Jbq6_8hds9a40X00Zh9wUgC4N0kL0Pi1RqWZYAocE0QIeyBU1ugXJFS4aA0V0jwHkYv5dWEJXGsBeZsq7a6CZVMWZVLu1m00 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/y9fZ0Eu49m00/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 302 Found
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Tue, 16 Jun 2009 14:09:39 GMT
+      Expires: Tue, 16 Jun 2009 14:09:39 GMT
+      Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+      Pragma: no-cache
+      Location: http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=171236&pid=322843&bid=616124&bn=616124&rnd=518354431
+      Set-Cookie: yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; domain=.yandex.ru; path=/; expires=Thu, 24-Sep-2009 14:09:39 GMT
+      Content-Length: 0
+
+Request 21:
+      Action: GET
+      Url: http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=171236&pid=322843&bid=616124&bn=616124&rnd=518354431
+      Host: ad.adriver.ru
+      Result code: 204
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 381 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 381 Bytes
+  Request Headers:
+      GET /cgi-bin/rle.cgi?sid=1&bt=21&ad=171236&pid=322843&bid=616124&bn=616124&rnd=518354431 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Cookie: uid=1534233941
+      Connection: Keep-Alive
+      Host: ad.adriver.ru
+  Response Headers:
+      HTTP/1.0 204 No Content
+      Date: Tue Jun 16 18:09:39 2009
+      Expires: Thu, 01 Jan 1970 00:00:00 GMT
+      Cache-control: no-cache, max-age=0, must-revalidate, no-store
+      Pragma: no-cache
+      P3P: policyref="/w3c/p3p.xml", CP="NON CUR ADM DEV PSA PSD OUR IND UNI NAV INT STA"
+      Set-Cookie: uid=1534233941; expires=Wednesday, 01-Jan-2020 00:00:00 GMT;path=/;domain=.adriver.ru
+      Connection: close
+
+Request 22:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/progress.gif
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 221 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/progress.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:08 GMT; length=542
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "87637950"
+      Last-Modified: Fri, 29 May 2009 08:45:08 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 23:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/loader.gif
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 16 Bytes
+      Response size (in): 223 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/loader.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:08 GMT; length=395
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "1966685732"
+      Last-Modified: Fri, 29 May 2009 08:45:08 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 24:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/ico-close.gif
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 16 Bytes
+      Response size (in): 223 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/ico-close.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:08 GMT; length=56
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "1161376508"
+      Last-Modified: Fri, 29 May 2009 08:45:08 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 25:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/teasers/feedback/bg.gif
+      Host: pampers2.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 16 Bytes
+      Response size (in): 3419 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3184 Bytes
+  Request Headers:
+      GET /neo/_static/i/teasers/feedback/bg.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 200 OK
+      Connection: close
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "1698211782"
+      Last-Modified: Fri, 29 May 2009 08:45:03 GMT
+      Content-Length: 3184
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 26:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/theme/green/folder-icons.gif
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 16 Bytes
+      Response size (in): 222 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/theme/green/folder-icons.gif HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:05 GMT; length=751
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "892944028"
+      Last-Modified: Fri, 29 May 2009 08:45:05 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 27:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/b-round/b-round.001.png
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 222 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/b-round/b-round.001.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:07 GMT; length=1101
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "892909398"
+      Last-Modified: Fri, 29 May 2009 08:45:07 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 28:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/theme/green/folders-fade.png
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 16 Bytes
+      Response size (in): 223 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/theme/green/folders-fade.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:05 GMT; length=286
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "1161379782"
+      Last-Modified: Fri, 29 May 2009 08:45:05 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 29:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/icons.png
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 16 Bytes
+      Response size (in): 222 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/icons.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:08 GMT; length=49890
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "621606116"
+      Last-Modified: Fri, 29 May 2009 08:45:08 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 30:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/bottom-toolbar.png
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 16 Bytes
+      Response size (in): 223 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/bottom-toolbar.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:08 GMT; length=11166
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "1158264506"
+      Last-Modified: Fri, 29 May 2009 08:45:08 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 31:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/neo/_static/i/languages.png
+      Host: pampers2.yandex.ru:2006
+      Result code: 304
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 16 Bytes
+      Response size (in): 223 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /neo/_static/i/languages.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      If-Modified-Since: Fri, 29 May 2009 08:45:08 GMT; length=1094
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.0 304 Not Modified
+      Connection: close
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "1698215652"
+      Last-Modified: Fri, 29 May 2009 08:45:08 GMT
+      Date: Tue, 16 Jun 2009 14:09:39 GMT
+      Server: lighttpd/1.4.19
+
+Request 32:
+      Action: GET
+      Url: http://pass.yandex.ru/services?callback=jsonp1245161371328&_=1245161372296&locale=ru&login=yes
+      Host: pass.yandex.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 33
+      Request size (out): 16 Bytes
+      Response size (in): 793 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 651 Bytes
+  Request Headers:
+      GET /services?callback=jsonp1245161371328&_=1245161372296&locale=ru&login=yes HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pass.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 200 OK
+      Connection: Close
+      Content-Type: text/javascript; charset=utf-8
+      Date: Tue, 16 Jun 2009 14:09:40 GMT
+      Server: BAIDA/1.0.0
+
+Request 33:
+      Action: GET
+      Url: http://pampers2.yandex.ru:2006/monitoring.txt?js_error=1&msg=%27locale_text%27%20is%20undefined&url=http%3A//pampers2.yandex.ru%3A2006/neo/messages_thread%3Fd%3Did34362115&line=3489
+      Host: pampers2.yandex.ru:2006
+      Result code: 0
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 16 Bytes
+      Response size (in): 0 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /monitoring.txt?js_error=1&msg=%27locale_text%27%20is%20undefined&url=http%3A//pampers2.yandex.ru%3A2006/neo/messages_thread%3Fd%3Did34362115&line=3489 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers2.yandex.ru:2006/neo/messages_thread?d=id34362115
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: pampers2.yandex.ru:2006
+      Connection: Keep-Alive
+      Cookie: yandexuid=1541602281245161358; L=Qkw1d2RMSl9RdnFecW5HcFdIf21LBABnOgdWLgpUAz4aYCYxBC4tGl9qLgA4ZAQVPwdbNhgEAUQfR10IKUoSHQ==.1245161376.5276.217355.ec42645f0083233806f9a0ba4a13a0cd; yabs-frequency=/2/R8fZ0Eu49_2QOm3k12S0/; yandex_mail=jstester; yandex_login=jstester; Session_id=1245161376.0.0.13458412.2:31287569:0.58684.5422.d40f63e430d0d3c58ec14bbc23e222e3; yandex_nickname=
+  Response Headers:
+

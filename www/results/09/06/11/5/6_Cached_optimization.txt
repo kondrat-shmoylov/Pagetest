@@ -1,0 +1,131 @@
+Optimization Report : 06/11/09 at 19:16:04
+
+Results for 'http://protos.transvaal.yandex.ru/mail/newhead3/inbox':
+
+Page load time: 0.772 seconds
+Time to first byte: 0.199 seconds
+Time to Base Page Downloaded: 0.213 seconds
+Time to Start Render: 0.355 seconds
+Time to Document Complete: 0.772 seconds
+Time to Fully Loaded: 1.281 seconds
+Bytes sent out: 1.047 KB
+Bytes received: 201.379 KB
+DNS Lookups: 7
+Connections: 20
+Requests: 67
+   OK Requests:  12
+   Redirects:    26
+   Not Modified: 24
+   Not Found:    3
+   Other:        2 (0, 0)
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://i.yandex.ru/i/days/12.gif
+    FAILED  (No max-age or expires) - http://i.yandex.ru/i/i-lenta.gif
+    FAILED  (No max-age or expires) - http://protos.transvaal.yandex.ru/static/images/i-yaru.png
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/tOEyeJ0_hMt4REvH90EbBQ.gif?rnd=146955
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://i.yandex.ru/i/days/12.gif
+    FAILED - http://i.yandex.ru/i/i-lenta.gif
+    FAILED - http://yabs.yandex.ru/resource/tOEyeJ0_hMt4REvH90EbBQ.gif?rnd=146955
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (118.8 KB, compressed = 21.1 KB - savings of 97.7 KB) - http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+  GZIP score : 37
+    156.8 KB total in compressible text, target size = 59.1 KB - potential savings = 97.7 KB
+
+Compress Images:
+  Image Compression score : 100
+    22.3 KB total in images, target size = 22.3 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://i.yandex.ru/i/days/12.gif
+    FAILED - http://i.yandex.ru/i/i-lenta.gif
+  Keep-Alive score : 83
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 29 bytes) - http://i.yandex.ru/i/days/12.gif
+      cookie:yandexuid=2216467671244733356
+    FAILED (Static object with 1 cookies - 29 bytes) - http://i.yandex.ru/i/i-lenta.gif
+      cookie:yandexuid=2216467671244733356
+    FAILED (Static object with 1 cookies - 29 bytes) - http://protos.transvaal.yandex.ru/static/images/i-yaru.png
+      cookie:yandexuid=2216467671244733356
+    FAILED (Static object with 1 cookies - 29 bytes) - http://yabs.yandex.ru/resource/tOEyeJ0_hMt4REvH90EbBQ.gif?rnd=146955
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/mail/newhead3/inbox
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/css/m-ie6.css
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/css/page-inbox.ie.css
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/css/theme/default/theme-page-inbox.ie.css
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/js/etc/jquery/jquery.js
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/js_texts/ru/Mail_js.js
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/js/Mail.js
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/js/pages/messages.js
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/js_texts/ru/messages_js.js
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/i/theme/default/dialog.png
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/i/theme/logo-bg.png
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/i/ico-close.gif
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/i/progress.gif
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/i/theme/default/folder-icons.gif
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/24/i/icons.png
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/i/b-round/b-round.001.png
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/i/theme/default/folders-fade.png
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/i/icons.png
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/14/i/theme/default/fade.png
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/monitoring.txt?js_error=1&assert=Mail.initWidget%3A%20Invalid%20tag%20for%20%22SidebarLabelsBlock%22%20widget.&
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/neo/informers/news
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/monitoring.txt?js_error=1&assert=Mail.initWidget%3A%20Invalid%20tag%20for%20%22DropDownFoldersList%22%20widget.&
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/monitoring.txt?js_error=1&msg=%27checkbox%27%20is%20null%20or%20not%20an%20object&url=http%3A//protos.transvaal.yandex.ru/mail/newhead3/inbox&line=2&
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://protos.transvaal.yandex.ru/monitoring.txt?js_error=1&assert=%u041E%u0448%u0438%u0431%u043A%u0430%20%u0437%u0430%u0433%u0440%u0443%u0437%u043A%u0438&
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://yabs.yandex.ru/resource/flashldr006.js
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://yabs.yandex.ru/count/VlDc-X7RTqi40X00ZhxpPvi4MGYL0vi1RqY8fFHS1PAjWhm6YgrA4GIGe1y2tfE53OkWwfKOGOoDzQ2DzNa6
+      cookie:yandexuid=2216467671244733356
+   WARNING (1 cookies, 29 bytes) - http://yabs.yandex.ru/resource/spacer.gif
+      cookie:yandexuid=2216467671244733356
+  Cookie score : 74
+    0.9 KB total in outbound cookies, target size = 0.8 KB - potential savings = 0.1 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://i.yandex.ru/i/days/12.gif
+    FAILED - http://i.yandex.ru/i/i-lenta.gif
+    FAILED - http://protos.transvaal.yandex.ru/static/images/i-yaru.png
+  ETag score : 95
+
+JQuery Selectors not descended from an ID:
+  No problems found

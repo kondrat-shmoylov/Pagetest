@@ -1,0 +1,132 @@
+Optimization Report : 06/03/09 at 14:07:44
+
+Results for 'http://yandex.ru/':
+
+Page load time: 1.224 seconds
+Time to first byte: 0.101 seconds
+Time to Base Page Downloaded: 0.169 seconds
+Time to Start Render: 0.511 seconds
+Time to Document Complete: 1.224 seconds
+Time to Fully Loaded: 1.224 seconds
+Bytes sent out: 11.309 KB
+Bytes received: 67.759 KB
+DNS Lookups: 10
+Connections: 16
+Requests: 30
+   OK Requests:  20
+   Redirects:    7
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 0, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - https://passport.yandex.ru/js/smarthttps.js
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/0M9A3sxUBSi6SZUCixmIFg.png
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/0M9A3sxUBSi6SZUCixmIFg.png
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/fEom6k^K_0xqWxSczARpEg.swf?rnd=945551&link1=http://yabs.yandex.ru/count/0Af-wgRBM8a40X00ZhosPA84KPK2cm9jL2A8hKS31fAldPa7YgqLmWIHlD19P0QJXGsBfh-R7KAWawu1U0O0
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/flashldr006.js
+  Cache score : 68
+
+Use one CDN for all static assets:
+    FAILED - http://img-fotki.yandex.ru/getx/10000/photoface.154/klassiksimb_179233_teaser
+    FAILED - http://img.yandex.net/i/6.gif
+    FAILED - http://img.yandex.net/i/arr-news-chooser.gif
+    FAILED - http://img.yandex.net/i/arr.png
+    FAILED - http://img.yandex.net/i/artlebedev2007.png
+    FAILED - http://img.yandex.net/i/bg-fotki.png
+    FAILED - http://img.yandex.net/i/block/b-dropdown/b-dropdown.png
+    FAILED - http://img.yandex.net/i/www/iconx.png
+    FAILED - http://img.yandex.net/i/www/js/_utils_0.0.1.js
+    FAILED - http://img.yandex.net/i/www/new.gif
+    FAILED - http://imgl.yandex.net/i/www/logo1.png
+    FAILED - https://passport.yandex.ru/js/smarthttps.js
+    FAILED - http://yabs.yandex.ru/resource/0M9A3sxUBSi6SZUCixmIFg.png
+    FAILED - http://yabs.yandex.ru/resource/0M9A3sxUBSi6SZUCixmIFg.png
+    FAILED - http://yabs.yandex.ru/resource/fEom6k^K_0xqWxSczARpEg.swf?rnd=945551&link1=http://yabs.yandex.ru/count/0Af-wgRBM8a40X00ZhosPA84KPK2cm9jL2A8hKS31fAldPa7YgqLmWIHlD19P0QJXGsBfh-R7KAWawu1U0O0
+    FAILED - http://yabs.yandex.ru/resource/flashldr006.js
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (2.2 KB, compressed = 0.9 KB - savings of 1.3 KB) - http://yabs.yandex.ru/resource/flashldr006.js
+    FAILED (2.2 KB, compressed = 1.1 KB - savings of 1.0 KB) - http://img.yandex.net/i/www/js/_utils_0.0.1.js
+  GZIP score : 67
+    7.1 KB total in compressible text, target size = 4.8 KB - potential savings = 2.4 KB
+
+Compress Images:
+    FAILED  (14.4 KB, target = 4.6 KB - savings of 9.9 KB - Convert PNG to 8 bit)- http://yabs.yandex.ru/resource/0M9A3sxUBSi6SZUCixmIFg.png
+    FAILED  (14.4 KB, target = 4.6 KB - savings of 9.9 KB - Convert PNG to 8 bit)- http://yabs.yandex.ru/resource/0M9A3sxUBSi6SZUCixmIFg.png
+    WARNING (3.5 KB, target = 3.0 KB - savings of 0.5 KB)- http://img-fotki.yandex.ru/getx/10000/photoface.154/klassiksimb_179233_teaser
+  Image Compression score : 54
+    44.1 KB total in images, target size = 23.8 KB - potential savings = 20.3 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_main/0
+  Keep-Alive score : 93
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 28 bytes) - http://img-fotki.yandex.ru/getx/10000/photoface.154/klassiksimb_179233_teaser
+      cookie:yandexuid=320504621244023660
+    FAILED (Static object with 2 cookies - 70 bytes) - https://passport.yandex.ru/js/smarthttps.js
+      cookie:yandexuid=320504621244023660
+      cookie: yabs-frequency=/2/VJHW0E449m00//fGBX1041
+    FAILED (Static object with 2 cookies - 70 bytes) - http://yabs.yandex.ru/resource/fEom6k^K_0xqWxSczARpEg.swf?rnd=945551&link1=http://yabs.yandex.ru/count/0Af-wgRBM8a40X00ZhosPA84KPK2cm9jL2A8hKS31fAldPa7YgqLmWIHlD19P0QJXGsBfh-R7KAWawu1U0O0
+      cookie:yandexuid=320504621244023660
+      cookie: yabs-frequency=/2/VJHW0E449m00//fGBX1041
+    FAILED (Static object with 1 cookies - 28 bytes) - http://yabs.yandex.ru/resource/0M9A3sxUBSi6SZUCixmIFg.png
+      cookie:yandexuid=320504621244023660
+    FAILED (Static object with 1 cookies - 28 bytes) - http://yabs.yandex.ru/resource/0M9A3sxUBSi6SZUCixmIFg.png
+      cookie:yandexuid=320504621244023660
+    FAILED (Static object with 1 cookies - 28 bytes) - http://yabs.yandex.ru/resource/flashldr006.js
+      cookie:yandexuid=320504621244023660
+   WARNING (1 cookies, 15 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=170011&pid=320369&bid=610544&bn=610544&rnd=1653275281&tuid=-4700126697
+      cookie:uid=-4700126697
+   WARNING (1 cookies, 15 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=170011&pid=320369&bid=610544&bn=610544&rnd=1653275281
+      cookie:uid=-4700126697
+   WARNING (1 cookies, 15 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=170011&pid=320369&bid=610544&bn=610544&rnd=1653275281&tuid=-5299412249
+      cookie:uid=-5299412249
+   WARNING (1 cookies, 28 bytes) - http://suggest.yandex.ru/tsuggest-1.6.html
+      cookie:yandexuid=320504621244023660
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_main/0
+      cookie:guid=F00706024A264B6CX1244023660
+   WARNING (2 cookies, 70 bytes) - http://yabs.yandex.ru/count/0Af-wWKmtNS40X02ZhosPA84KPK2cm9jL2A8hKS31fAldPa7YgqLmWIHlD19P0QJXGsBgB-R7K6Cawu1e9Ek0Nm6
+      cookie:yandexuid=320504621244023660
+      cookie: yabs-frequency=/2/VJHW0E449m00//fGBX1041
+   WARNING (2 cookies, 70 bytes) - http://yabs.yandex.ru/count/0Af-wWKmtNS40X02ZhosPA84KPK2cm9jL2A8hKS31fAldPa7YgqLmWIHlD19P0QJXGsBgB-R7K6Cawu1e9Ek0Nm6
+      cookie:yandexuid=320504621244023660
+      cookie: yabs-frequency=/2/VJHW0E449m00//fGBX1041
+   WARNING (1 cookies, 28 bytes) - http://yabs.yandex.ru/count/0Af-wfAOe9C40X02ZhosPA84KPK5cm5fMeYeoxG4agWIQmUAhVcU196yq4ba1fE53OkWKeuSGNi5
+      cookie:yandexuid=320504621244023660
+   WARNING (1 cookies, 28 bytes) - http://yabs.yandex.ru/count/0Af-wfAOe9C40X02ZhosPA84KPK5cm5fMeYeoxG4agWIQmUAhVcU196yq4ba1fE53OkWKeuSGNi5
+      cookie:yandexuid=320504621244023660
+   WARNING (1 cookies, 28 bytes) - http://yabs.yandex.ru/count/0Af-wlmohfy40X00ZhosPA84KP6yq4ba1fE53NW2=nvYmHPK2cm9jL9AldPa7e9Ek0Ny1=FmglqfK5cm5fMfAe4ci7Um40
+      cookie:yandexuid=320504621244023660
+  Cookie score : 63
+    0.6 KB total in outbound cookies, target size = 0.3 KB - potential savings = 0.2 KB
+
+Minify JS:
+  Minify score : 100
+    5.1 KB total in minifiable text, target size = 5.1 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://img.yandex.net/i/www/js/_utils_0.0.1.js
+    FAILED - http://img.yandex.net/i/arr-news-chooser.gif
+    FAILED - http://img.yandex.net/i/arr.png
+    FAILED - http://img.yandex.net/i/block/b-dropdown/b-dropdown.png
+    FAILED - http://img.yandex.net/i/www/iconx.png
+    FAILED - http://img.yandex.net/i/www/new.gif
+    FAILED - http://img.yandex.net/i/bg-fotki.png
+    FAILED - http://img.yandex.net/i/6.gif
+    FAILED - http://img.yandex.net/i/artlebedev2007.png
+    FAILED - http://imgl.yandex.net/i/www/logo1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.6.html
+  ETag score : 63
+
+JQuery Selectors not descended from an ID:
+  No problems found

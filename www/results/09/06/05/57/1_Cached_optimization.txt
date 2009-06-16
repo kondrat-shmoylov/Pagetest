@@ -1,0 +1,70 @@
+Optimization Report : 06/05/09 at 19:54:13
+
+Results for 'http://yandex.ru/yandsearch?text=%EA%E8%ED%EE%F2%E5%E0%F2%F0%20%C0%EB%EC%E0%E7&i-m-a-hacker=1':
+
+Page load time: 0.209 seconds
+Time to first byte: 0.187 seconds
+Time to Base Page Downloaded: 0.187 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.209 seconds
+Time to Fully Loaded: 0.209 seconds
+Bytes sent out: 6.387 KB
+Bytes received: 2.583 KB
+DNS Lookups: 8
+Connections: 10
+Requests: 13
+   OK Requests:  2
+   Redirects:    1
+   Not Modified: 10
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Enable browser caching of static assets:
+  No appropriate resources present
+
+Use one CDN for all static assets:
+  No appropriate resources present
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  No appropriate resources present
+
+Compress Images:
+  Image Compression score : 100
+    0.1 KB total in images, target size = 0.1 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+   WARNING (1 cookies, 26 bytes) - http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_186x104.jpeg
+      cookie:yandexuid=6532551244217247
+   WARNING (1 cookies, 26 bytes) - http://afisha.yandex.ru/media/events/images/thumbnails/c493b1e80f3e1a9f4e4900b5a5822a02_186x104.jpeg
+      cookie:yandexuid=6532551244217247
+   WARNING (1 cookies, 26 bytes) - http://afisha.yandex.ru/media/events/images/thumbnails/98f6ec10cb97fab0c6a322ef160e3f22_186x104.jpeg
+      cookie:yandexuid=6532551244217247
+   WARNING (1 cookies, 26 bytes) - http://clck.yandex.ru/click/dtype=yabs/id=65/key=pack/*?1688254721
+      cookie:yandexuid=6532551244217247
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=6532551244217247
+   WARNING (1 cookies, 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=1998212
+      cookie:yandexuid=6532551244217247
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=3E7706014A293F9FX1244217247
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/PA2v0NcEX-840X00Zh_vaw84KfK4cm5kK2A8fObN0OcSQpIIe9ye0egj2ay1ZG6HiNE_806FiVQdem6Vl7KY6GUJXGsBhYmR1K5-1m00?1688254721
+      cookie:yandexuid=6532551244217247
+  Cookie score : 69
+    0.2 KB total in outbound cookies, target size = 0.2 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

@@ -1,0 +1,143 @@
+Results for 'http://yandex.ru/yandsearch?text=http://www.dotnet.com/~boystoys/&i-m-a-hacker=1':
+
+Page load time: 0.426 seconds
+Time to first byte: 0.372 seconds
+Time to Base Page Downloaded: 0.372 seconds
+Time to Start Render: 0.077 seconds
+Time to Document Complete: 0.426 seconds
+Time to Fully Loaded: 0.426 seconds
+Bytes sent out: 4.858 KB
+Bytes received: 6.556 KB
+DNS Lookups: 6
+Connections: 8
+Requests: 10
+   OK Requests:  2
+   Redirects:    1
+   Not Modified: 7
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.372 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 775 Bytes
+      Response size (in): 250 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/cl.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.034 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 486 Bytes
+      Response size (in): 149 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/UzZ3m0WJFUi40X00ZhuMbA84KfK2cmTiFoq1YAbEz0MIhKw51ugYRB84ZG6Ge1y2tf6_T_S23vE53Oka8ouTGNm6?rnd=2077803456
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.053 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 530 Bytes
+      Response size (in): 498 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://im8-tub.yandex.net/i?id=11566871&tov=8
+      Host: im8-tub.yandex.net
+      Result code: 304
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 425 Bytes
+      Response size (in): 101 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.050 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 445 Bytes
+      Response size (in): 438 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=7418203
+      Host: video-tub.yandex.ru
+      Result code: 200
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.041 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 508 Bytes
+      Response size (in): 4675 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.dotnetworks.co.uk
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.045 seconds
+      Time to first byte: 0.036 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 435 Bytes
+      Response size (in): 151 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.dotnet-webhosting.com
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.042 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 439 Bytes
+      Response size (in): 151 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/KIeooBqtRROr9QkVpHu3XA.jpg
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 506 Bytes
+      Response size (in): 149 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.allza.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 426 Bytes
+      Response size (in): 151 Bytes
+

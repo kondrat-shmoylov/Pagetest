@@ -1,0 +1,1619 @@
+Results for 'http://lenta.ru/':
+
+Page load time: 3.062 seconds
+Time to first byte: 0.123 seconds
+Time to Base Page Downloaded: 0.221 seconds
+Time to Start Render: 0.574 seconds
+Time to Document Complete: 3.062 seconds
+Time to Fully Loaded: 3.062 seconds
+Bytes sent out: 42.891 KB
+Bytes received: 538.769 KB
+DNS Lookups: 12
+Connections: 21
+Requests: 133
+   OK Requests:  126
+   Redirects:    3
+   Not Modified: 0
+   Not Found:    0
+   Other:        4 (301, 301, 301, 301)
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://lenta.ru/
+      Host: lenta.ru
+      Result code: 200
+      Transaction time: 0.221 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 523 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://img.lenta.ru/i/style.css
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.169 seconds
+      Time to first byte: 0.068 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 297 Bytes
+      Response size (in): 6113 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://img.lenta.ru/i/ts.css
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.176 seconds
+      Time to first byte: 0.058 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 294 Bytes
+      Response size (in): 2041 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://img.lenta.ru/i/flag.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.245 seconds
+      Time to first byte: 0.218 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 296 Bytes
+      Response size (in): 2126 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://img.lenta.ru/i/logowrambler.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.245 seconds
+      Time to first byte: 0.244 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 304 Bytes
+      Response size (in): 3750 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://ad2.rambler.ru/lenta.ban?pg=5374&ifr=1
+      Host: ad2.rambler.ru
+      Result code: 200
+      Transaction time: 0.262 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 311 Bytes
+      Response size (in): 366 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://img.lenta.ru/i/refresh.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 299 Bytes
+      Response size (in): 287 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://img.lenta.ru/i/arrow.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 297 Bytes
+      Response size (in): 287 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/nodebris/picture--240.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.414 seconds
+      Time to first byte: 0.367 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 327 Bytes
+      Response size (in): 11876 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/king/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.115 seconds
+      Time to first byte: 0.091 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 323 Bytes
+      Response size (in): 2366 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+      Host: ad2.rambler.ru
+      Result code: 200
+      Transaction time: 0.146 seconds
+      Time to first byte: 0.031 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 618 Bytes
+      Response size (in): 388 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://www.medportal.ru/common/01060957small.jpg
+      Host: www.medportal.ru
+      Result code: 301
+      Transaction time: 0.149 seconds
+      Time to first byte: 0.034 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 314 Bytes
+      Response size (in): 430 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://www.medportal.ru/common/01060955--85.jpg
+      Host: www.medportal.ru
+      Result code: 301
+      Transaction time: 0.134 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 313 Bytes
+      Response size (in): 427 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://counter.rambler.ru/top100.cnt?80674
+      Host: counter.rambler.ru
+      Result code: 200
+      Transaction time: 0.123 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 347 Bytes
+      Response size (in): 960 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://top100-images.rambler.ru/top100/w1.gif
+      Host: top100-images.rambler.ru
+      Result code: 200
+      Transaction time: 0.126 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 350 Bytes
+      Response size (in): 564 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****lenta_ru/ru/CP1251/tmsec=lenta_total/
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.114 seconds
+      Time to first byte: 0.045 seconds
+      Document: 1
+      Socket: 33
+      Request size (out): 337 Bytes
+      Response size (in): 605 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://d0.c6.b0.a0.top.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=32;rand=0.2912806111535686
+      Host: d0.c6.b0.a0.top.mail.ru
+      Result code: 302
+      Transaction time: 0.216 seconds
+      Time to first byte: 0.123 seconds
+      Document: 1
+      Socket: 35
+      Request size (out): 374 Bytes
+      Response size (in): 458 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://counter.yadro.ru/hit?t57.6;r;s1024*768*32;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.19663083332571934
+      Host: counter.yadro.ru
+      Result code: 302
+      Transaction time: 0.183 seconds
+      Time to first byte: 0.045 seconds
+      Document: 1
+      Socket: 36
+      Request size (out): 427 Bytes
+      Response size (in): 560 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+      Host: ad2.rambler.ru
+      Result code: 200
+      Transaction time: 0.217 seconds
+      Time to first byte: 0.157 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 350 Bytes
+      Response size (in): 225 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://img.lenta.ru/i/ed.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.144 seconds
+      Time to first byte: 0.124 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 294 Bytes
+      Response size (in): 374 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/articles/2009/06/02/gmbankrupt/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.147 seconds
+      Time to first byte: 0.145 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 339 Bytes
+      Response size (in): 4040 Bytes
+
+Request 22:
+      Action: GET
+      Url: http://medportal.ru/common/01060957small.jpg
+      Host: medportal.ru
+      Result code: 200
+      Transaction time: 0.162 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 48
+      Request size (out): 310 Bytes
+      Response size (in): 4603 Bytes
+
+Request 23:
+      Action: GET
+      Url: http://medportal.ru/common/01060955--85.jpg
+      Host: medportal.ru
+      Result code: 200
+      Transaction time: 0.132 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 47
+      Request size (out): 309 Bytes
+      Response size (in): 2822 Bytes
+
+Request 24:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****lenta_ru/ru/CP1251/tmsec=lenta_total/
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.125 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 49
+      Request size (out): 379 Bytes
+      Response size (in): 438 Bytes
+
+Request 25:
+      Action: GET
+      Url: http://counter.yadro.ru/hit?q;t57.6;r;s1024*768*32;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.19663083332571934
+      Host: counter.yadro.ru
+      Result code: 200
+      Transaction time: 0.047 seconds
+      Time to first byte: 0.039 seconds
+      Document: 1
+      Socket: 36
+      Request size (out): 456 Bytes
+      Response size (in): 1268 Bytes
+
+Request 26:
+      Action: GET
+      Url: http://ts.lenta.ru/export/auto.js
+      Host: ts.lenta.ru
+      Result code: 200
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.021 seconds
+      Document: 1
+      Socket: 50
+      Request size (out): 328 Bytes
+      Response size (in): 704 Bytes
+
+Request 27:
+      Action: GET
+      Url: http://top3.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=32;rand=0.2912806111535686
+      Host: top3.mail.ru
+      Result code: 200
+      Transaction time: 0.053 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 52
+      Request size (out): 390 Bytes
+      Response size (in): 1206 Bytes
+
+Request 28:
+      Action: GET
+      Url: http://www.medportal.ru/common/29050903--113.jpg
+      Host: www.medportal.ru
+      Result code: 301
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.026 seconds
+      Document: 1
+      Socket: 51
+      Request size (out): 314 Bytes
+      Response size (in): 430 Bytes
+
+Request 29:
+      Action: GET
+      Url: http://www.medportal.ru/common/27050993--113.jpg
+      Host: www.medportal.ru
+      Result code: 301
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.027 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 314 Bytes
+      Response size (in): 430 Bytes
+
+Request 30:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/02/titanic/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 330 Bytes
+      Response size (in): 3203 Bytes
+
+Request 31:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/02/win/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 326 Bytes
+      Response size (in): 2198 Bytes
+
+Request 32:
+      Action: GET
+      Url: http://medportal.ru/common/29050903--113.jpg
+      Host: medportal.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 47
+      Request size (out): 310 Bytes
+      Response size (in): 2617 Bytes
+
+Request 33:
+      Action: GET
+      Url: http://medportal.ru/common/27050993--113.jpg
+      Host: medportal.ru
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 48
+      Request size (out): 310 Bytes
+      Response size (in): 3712 Bytes
+
+Request 34:
+      Action: GET
+      Url: http://img.lenta.ru/conf/bekenkiy/pic.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 307 Bytes
+      Response size (in): 2037 Bytes
+
+Request 35:
+      Action: GET
+      Url: http://img.lenta.ru/conf/rybakova/pic.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 307 Bytes
+      Response size (in): 2314 Bytes
+
+Request 36:
+      Action: GET
+      Url: http://img.lenta.ru/conf/kurtov/pic.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 305 Bytes
+      Response size (in): 6674 Bytes
+
+Request 37:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/kidnap/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 325 Bytes
+      Response size (in): 3502 Bytes
+
+Request 38:
+      Action: GET
+      Url: http://img.lenta.ru/story/antiyukos/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 317 Bytes
+      Response size (in): 2904 Bytes
+
+Request 39:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/metro1/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 325 Bytes
+      Response size (in): 3982 Bytes
+
+Request 40:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/retranslate/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 329 Bytes
+      Response size (in): 1957 Bytes
+
+Request 41:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/potkin/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 329 Bytes
+      Response size (in): 5086 Bytes
+
+Request 42:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/28/nalchik/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 330 Bytes
+      Response size (in): 3359 Bytes
+
+Request 43:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/order/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 324 Bytes
+      Response size (in): 7541 Bytes
+
+Request 44:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/tbilisi1/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 326 Bytes
+      Response size (in): 2788 Bytes
+
+Request 45:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/elections/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 332 Bytes
+      Response size (in): 3367 Bytes
+
+Request 46:
+      Action: GET
+      Url: http://img.lenta.ru/story/opposition/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 319 Bytes
+      Response size (in): 4137 Bytes
+
+Request 47:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/dead/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 323 Bytes
+      Response size (in): 1952 Bytes
+
+Request 48:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/ariana/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 324 Bytes
+      Response size (in): 2153 Bytes
+
+Request 49:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/28/mova/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 327 Bytes
+      Response size (in): 6207 Bytes
+
+Request 50:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/22/all/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 326 Bytes
+      Response size (in): 6190 Bytes
+
+Request 51:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/deploy/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 325 Bytes
+      Response size (in): 3909 Bytes
+
+Request 52:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/senegal/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 325 Bytes
+      Response size (in): 3181 Bytes
+
+Request 53:
+      Action: GET
+      Url: http://img.lenta.ru/story/catastrophe/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 320 Bytes
+      Response size (in): 2712 Bytes
+
+Request 54:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/avion/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 328 Bytes
+      Response size (in): 4291 Bytes
+
+Request 55:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/soldier/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 326 Bytes
+      Response size (in): 4982 Bytes
+
+Request 56:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/tiller/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 329 Bytes
+      Response size (in): 3934 Bytes
+
+Request 57:
+      Action: GET
+      Url: http://img.lenta.ru/story/california/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 319 Bytes
+      Response size (in): 3445 Bytes
+
+Request 58:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/investors/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 328 Bytes
+      Response size (in): 6196 Bytes
+
+Request 59:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/imf/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 321 Bytes
+      Response size (in): 2235 Bytes
+
+Request 60:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/mvf/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 326 Bytes
+      Response size (in): 3365 Bytes
+
+Request 61:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/belarus/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 330 Bytes
+      Response size (in): 5594 Bytes
+
+Request 62:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/marketreview/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 331 Bytes
+      Response size (in): 5701 Bytes
+
+Request 63:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/pension/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 325 Bytes
+      Response size (in): 2024 Bytes
+
+Request 64:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/auction/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 330 Bytes
+      Response size (in): 3836 Bytes
+
+Request 65:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/28/rts/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 326 Bytes
+      Response size (in): 5242 Bytes
+
+Request 66:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/eruda/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 324 Bytes
+      Response size (in): 4119 Bytes
+
+Request 67:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/svyaz/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 328 Bytes
+      Response size (in): 3240 Bytes
+
+Request 68:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/27/egais/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 328 Bytes
+      Response size (in): 3961 Bytes
+
+Request 69:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/brands/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 325 Bytes
+      Response size (in): 6297 Bytes
+
+Request 70:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/05/28/google/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 324 Bytes
+      Response size (in): 2312 Bytes
+
+Request 71:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/augment/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 330 Bytes
+      Response size (in): 2785 Bytes
+
+Request 72:
+      Action: GET
+      Url: http://img.lenta.ru/photo/2009/05/28/posters/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 327 Bytes
+      Response size (in): 2756 Bytes
+
+Request 73:
+      Action: GET
+      Url: http://img.lenta.ru/ireal/news/2009/06/01/prices/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 331 Bytes
+      Response size (in): 6566 Bytes
+
+Request 74:
+      Action: GET
+      Url: http://img.lenta.ru/ireal/news/2009/06/01/control/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 331 Bytes
+      Response size (in): 2109 Bytes
+
+Request 75:
+      Action: GET
+      Url: http://img.lenta.ru/ireal/photo/2009/05/29/arh/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 329 Bytes
+      Response size (in): 5068 Bytes
+
+Request 76:
+      Action: GET
+      Url: http://img.lenta.ru/ireal/photo/2009/05/27/vitas/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.034 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 331 Bytes
+      Response size (in): 5180 Bytes
+
+Request 77:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/conditional/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.027 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 330 Bytes
+      Response size (in): 5335 Bytes
+
+Request 78:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/satellite/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.257 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 327 Bytes
+      Response size (in): 2263 Bytes
+
+Request 79:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/shop/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.258 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 327 Bytes
+      Response size (in): 3134 Bytes
+
+Request 80:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/27/inkas/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 328 Bytes
+      Response size (in): 3812 Bytes
+
+Request 81:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/prison/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 325 Bytes
+      Response size (in): 8626 Bytes
+
+Request 82:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/05/31/talkathon/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 327 Bytes
+      Response size (in): 3503 Bytes
+
+Request 83:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/ruslife/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.190 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 330 Bytes
+      Response size (in): 2479 Bytes
+
+Request 84:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/pioneer/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.189 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 330 Bytes
+      Response size (in): 3832 Bytes
+
+Request 85:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/rye/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 322 Bytes
+      Response size (in): 4762 Bytes
+
+Request 86:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/ahmatova/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.097 seconds
+      Time to first byte: 0.031 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 326 Bytes
+      Response size (in): 2085 Bytes
+
+Request 87:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/theatre/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.074 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 330 Bytes
+      Response size (in): 3317 Bytes
+
+Request 88:
+      Action: GET
+      Url: http://img.lenta.ru/photo/2009/05/28/zingaro/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 327 Bytes
+      Response size (in): 12471 Bytes
+
+Request 89:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/monroe/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 325 Bytes
+      Response size (in): 5651 Bytes
+
+Request 90:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/villain/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 325 Bytes
+      Response size (in): 2443 Bytes
+
+Request 91:
+      Action: GET
+      Url: http://img.lenta.ru/video/kino/newmoon/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 321 Bytes
+      Response size (in): 4177 Bytes
+
+Request 92:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/nevinniy/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.026 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 331 Bytes
+      Response size (in): 3922 Bytes
+
+Request 93:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/crash/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 324 Bytes
+      Response size (in): 2328 Bytes
+
+Request 94:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/05/29/trick/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 323 Bytes
+      Response size (in): 2032 Bytes
+
+Request 95:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/dreamtheater/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 335 Bytes
+      Response size (in): 5350 Bytes
+
+Request 96:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/26/cds/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 326 Bytes
+      Response size (in): 7514 Bytes
+
+Request 97:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/king/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 323 Bytes
+      Response size (in): 3363 Bytes
+
+Request 98:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/biathlon/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 326 Bytes
+      Response size (in): 4302 Bytes
+
+Request 99:
+      Action: GET
+      Url: http://img.lenta.ru/story/garros09/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 317 Bytes
+      Response size (in): 5064 Bytes
+
+Request 100:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/cancel/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.031 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 329 Bytes
+      Response size (in): 4590 Bytes
+
+Request 101:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/bones/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 324 Bytes
+      Response size (in): 5013 Bytes
+
+Request 102:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/magnetosphere/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.023 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 331 Bytes
+      Response size (in): 6175 Bytes
+
+Request 103:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/iter/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 327 Bytes
+      Response size (in): 3511 Bytes
+
+Request 104:
+      Action: GET
+      Url: http://img.lenta.ru/conf/kiselev/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 315 Bytes
+      Response size (in): 4305 Bytes
+
+Request 105:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/yahoo/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 324 Bytes
+      Response size (in): 5839 Bytes
+
+Request 106:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/raid/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 322 Bytes
+      Response size (in): 1997 Bytes
+
+Request 107:
+      Action: GET
+      Url: http://img.lenta.ru/story/windows7/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 317 Bytes
+      Response size (in): 2281 Bytes
+
+Request 108:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/02/istanbul/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 327 Bytes
+      Response size (in): 3351 Bytes
+
+Request 109:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/05/28/iphone/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 324 Bytes
+      Response size (in): 1772 Bytes
+
+Request 110:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/01/pixel/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 328 Bytes
+      Response size (in): 3482 Bytes
+
+Request 111:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/26/se/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 325 Bytes
+      Response size (in): 2542 Bytes
+
+Request 112:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/halo/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.220 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 323 Bytes
+      Response size (in): 7201 Bytes
+
+Request 113:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/forza/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.226 seconds
+      Time to first byte: 0.221 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 323 Bytes
+      Response size (in): 2453 Bytes
+
+Request 114:
+      Action: GET
+      Url: http://img.lenta.ru/topics/e3expo2009/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 320 Bytes
+      Response size (in): 4323 Bytes
+
+Request 115:
+      Action: GET
+      Url: http://img.lenta.ru/story/e3expo2009/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 319 Bytes
+      Response size (in): 12022 Bytes
+
+Request 116:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/news/2009/06/01/autismspeaks/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.059 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 337 Bytes
+      Response size (in): 33620 Bytes
+
+Request 117:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/news/2009/06/01/wtcc/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.071 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 328 Bytes
+      Response size (in): 39624 Bytes
+
+Request 118:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/articles/2009/05/28/insur/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 334 Bytes
+      Response size (in): 4310 Bytes
+
+Request 119:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/manpad/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.192 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 325 Bytes
+      Response size (in): 4897 Bytes
+
+Request 120:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/arjun/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.194 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 323 Bytes
+      Response size (in): 2221 Bytes
+
+Request 121:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/30/airbornearms/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 335 Bytes
+      Response size (in): 3929 Bytes
+
+Request 122:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/28/manpad/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 329 Bytes
+      Response size (in): 4515 Bytes
+
+Request 123:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/01/monkey/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 325 Bytes
+      Response size (in): 4845 Bytes
+
+Request 124:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/mowgli/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 329 Bytes
+      Response size (in): 6095 Bytes
+
+Request 125:
+      Action: GET
+      Url: http://img.lenta.ru/i/p_conf.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 298 Bytes
+      Response size (in): 317 Bytes
+
+Request 126:
+      Action: GET
+      Url: http://img.lenta.ru/i/conf_q.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 298 Bytes
+      Response size (in): 315 Bytes
+
+Request 127:
+      Action: GET
+      Url: http://img.lenta.ru/i/conf_a.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 298 Bytes
+      Response size (in): 318 Bytes
+
+Request 128:
+      Action: GET
+      Url: http://img.lenta.ru/i/ts.css?a
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 325 Bytes
+      Response size (in): 2041 Bytes
+
+Request 129:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/i/ts-auto-logo.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.031 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 339 Bytes
+      Response size (in): 5513 Bytes
+
+Request 130:
+      Action: GET
+      Url: http://ts.lenta.ru/img/0001727.jpg
+      Host: ts.lenta.ru
+      Result code: 200
+      Transaction time: 0.032 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 50
+      Request size (out): 329 Bytes
+      Response size (in): 4739 Bytes
+
+Request 131:
+      Action: GET
+      Url: http://ts.lenta.ru/img/0001720.jpg
+      Host: ts.lenta.ru
+      Result code: 200
+      Transaction time: 0.033 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 54
+      Request size (out): 329 Bytes
+      Response size (in): 3487 Bytes
+
+Request 132:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/i/ts-auto-background.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.041 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 345 Bytes
+      Response size (in): 20809 Bytes
+
+Request 133:
+      Action: GET
+      Url: http://ts.lenta.ru/img/0001749.jpg
+      Host: ts.lenta.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 50
+      Request size (out): 329 Bytes
+      Response size (in): 3394 Bytes
+

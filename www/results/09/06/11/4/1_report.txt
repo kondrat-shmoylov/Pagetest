@@ -1,0 +1,4286 @@
+Results for 'http://lenta.ru/':
+
+Page load time: 0.748 seconds
+Time to first byte: 0.131 seconds
+Time to Base Page Downloaded: 0.141 seconds
+Time to Start Render: 0.187 seconds
+Time to Document Complete: 0.748 seconds
+Time to Fully Loaded: 0.748 seconds
+Bytes sent out: 1.953 KB
+Bytes received: 550.191 KB
+DNS Lookups: 12
+Connections: 20
+Requests: 125
+   OK Requests:  118
+   Redirects:    3
+   Not Modified: 0
+   Not Found:    0
+   Other:        4 (301, 301, 301, 301)
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://lenta.ru/
+      Host: lenta.ru
+      Result code: 200
+      Transaction time: 0.141 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 37076 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 36863 Bytes
+  Request Headers:
+      GET / HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Server: Apache
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Connection: close
+      Transfer-Encoding: chunked
+      Content-Type: text/html; charset=windows-1251
+
+Request 2:
+      Action: GET
+      Url: http://img.lenta.ru/i/style.css
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6114 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5830 Bytes
+  Request Headers:
+      GET /i/style.css HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 18 May 2009 11:51:18 GMT
+      ETag: "2025cc-5d77-46a2e6981d980"-gzip
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Content-Type: text/css
+      Content-Length: 5830
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Age: 35
+      Connection: keep-alive
+
+Request 3:
+      Action: GET
+      Url: http://img.lenta.ru/i/ts.css
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2040 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1757 Bytes
+  Request Headers:
+      GET /i/ts.css HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 06 Apr 2009 13:56:45 GMT
+      ETag: "202624-1613-466e344d10140"-gzip
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Content-Type: text/css
+      Content-Length: 1757
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Age: 4
+      Connection: keep-alive
+
+Request 4:
+      Action: GET
+      Url: http://img.lenta.ru/i/flag.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2125 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1894 Bytes
+  Request Headers:
+      GET /i/flag.gif HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 02 Sep 2004 06:17:31 GMT
+      ETag: "2025ee-766-3e3155e9874c0"
+      Content-Type: image/gif
+      Content-Length: 1894
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Age: 7
+      Connection: keep-alive
+
+Request 5:
+      Action: GET
+      Url: http://img.lenta.ru/i/logowrambler.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3750 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3518 Bytes
+  Request Headers:
+      GET /i/logowrambler.gif HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 02 Sep 2004 06:17:31 GMT
+      ETag: "20260e-dbe-3e3155e9874c0"
+      Content-Type: image/gif
+      Content-Length: 3518
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Age: 17
+      Connection: keep-alive
+
+Request 6:
+      Action: GET
+      Url: http://ad2.rambler.ru/lenta.ban?pg=5374&ifr=1
+      Host: ad2.rambler.ru
+      Result code: 200
+      Transaction time: 0.049 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 366 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 45 Bytes
+  Request Headers:
+      GET /lenta.ban?pg=5374&ifr=1 HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: ad2.rambler.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.3.33
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Content-Type: text/html; charset=windows-1251
+      Transfer-Encoding: chunked
+      Connection: close
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Set-Cookie: ruid=yQAAAM0eMUrcWgAAASADAA==; path=/; domain=.rambler.ru; expires=Sun, 09-Jun-19 15:12:13 GMT
+
+Request 7:
+      Action: GET
+      Url: http://img.lenta.ru/i/refresh.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 287 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 58 Bytes
+  Request Headers:
+      GET /i/refresh.gif HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 02 Sep 2004 06:17:31 GMT
+      ETag: "20261a-3a-3e3155e9874c0"
+      Content-Type: image/gif
+      Content-Length: 58
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Age: 52
+      Connection: keep-alive
+
+Request 8:
+      Action: GET
+      Url: http://img.lenta.ru/i/arrow.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 286 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 58 Bytes
+  Request Headers:
+      GET /i/arrow.gif HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 02 Nov 2004 10:21:43 GMT
+      ETag: "2025db-3a-3e7e3e43e1bc0"
+      Content-Type: image/gif
+      Content-Length: 58
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Age: 0
+      Connection: keep-alive
+
+Request 9:
+      Action: GET
+      Url: http://www.medportal.ru/common/11060903--340--150.jpg
+      Host: www.medportal.ru
+      Result code: 301
+      Transaction time: 0.046 seconds
+      Time to first byte: 0.035 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 445 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 197 Bytes
+  Request Headers:
+      GET /common/11060903--340--150.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.medportal.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 301 Moved Permanently
+      Date: Thu, 11 Jun 2009 15:17:19 GMT
+      Server: Microsoft-IIS/6.0
+      Pragma: no-cache
+      Cache-Control: no-cache
+      Content-Type: text/html
+      Content-Length: 197
+      Location: http://medportal.ru/common/11060903--340--150.jpg
+
+Request 10:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/evidence/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 6859 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6625 Bytes
+  Request Headers:
+      GET /news/2009/06/11/evidence/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:37:41 GMT
+      ETag: "4a943a-19e1-46c1388bb5740"
+      Content-Type: image/jpeg
+      Content-Length: 6625
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 48
+      Connection: keep-alive
+
+Request 11:
+      Action: GET
+      Url: http://img.lenta.ru/i/ed.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.038 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 374 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 144 Bytes
+  Request Headers:
+      GET /i/ed.gif HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 02 Sep 2004 06:17:31 GMT
+      ETag: "2025e6-90-3e3155e9874c0"
+      Content-Type: image/gif
+      Content-Length: 144
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 19
+      Connection: keep-alive
+
+Request 12:
+      Action: GET
+      Url: http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+      Host: ad2.rambler.ru
+      Result code: 200
+      Transaction time: 0.094 seconds
+      Time to first byte: 0.057 seconds
+      Document: 1
+      Socket: 11
+      Request size (out): 16 Bytes
+      Response size (in): 445 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 232 Bytes
+  Request Headers:
+      GET /lenta.ban?pg=5309&ifr=1 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: ad2.rambler.ru
+      Connection: Keep-Alive
+      Cookie: ruid=yQAAAM0eMUrcWgAAASADAA==
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.3.33
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Content-Type: text/html; charset=windows-1251
+      Transfer-Encoding: chunked
+      Connection: close
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+
+Request 13:
+      Action: GET
+      Url: http://medportal.ru/common/11060903--340--150.jpg
+      Host: medportal.ru
+      Result code: 200
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 4660 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4409 Bytes
+  Request Headers:
+      GET /common/11060903--340--150.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: medportal.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Content-Length: 4409
+      Content-Type: image/jpeg
+      Last-Modified: Thu, 11 Jun 2009 14:35:56 GMT
+      Accept-Ranges: bytes
+      ETag: "bed886eea1eac91:3bb"
+      Server: Microsoft-IIS/6.0
+      X-Powered-By: ASP.NET
+      Date: Thu, 11 Jun 2009 15:17:18 GMT
+
+Request 14:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/11/nazi/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3830 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3597 Bytes
+  Request Headers:
+      GET /articles/2009/06/11/nazi/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:06:53 GMT
+      ETag: "4a7755-e0d-46c131a951940"
+      Content-Type: image/jpeg
+      Content-Length: 3597
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 23
+      Connection: keep-alive
+
+Request 15:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/11/ssj100/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 8246 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 8012 Bytes
+  Request Headers:
+      GET /articles/2009/06/11/ssj100/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 09:52:51 GMT
+      ETag: "4a75a6-1f4c-46c0f8e16a2c0"
+      Content-Type: image/jpeg
+      Content-Length: 8012
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 10
+      Connection: keep-alive
+
+Request 16:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/11/shooting/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 6742 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6508 Bytes
+  Request Headers:
+      GET /articles/2009/06/11/shooting/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 12:49:56 GMT
+      ETag: "4a770e-196c-46c1207634500"
+      Content-Type: image/jpeg
+      Content-Length: 6508
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 43
+      Connection: keep-alive
+
+Request 17:
+      Action: GET
+      Url: http://img.lenta.ru/conf/grib/pic.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3628 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3395 Bytes
+  Request Headers:
+      GET /conf/grib/pic.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Fri, 05 Jun 2009 12:49:12 GMT
+      ETag: "49d4b4-d43-46b9951b7a200"
+      Content-Type: image/jpeg
+      Content-Length: 3395
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 49
+      Connection: keep-alive
+
+Request 18:
+      Action: GET
+      Url: http://img.lenta.ru/conf/myskina/pic.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 5189 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4955 Bytes
+  Request Headers:
+      GET /conf/myskina/pic.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 08 Jun 2009 07:02:11 GMT
+      ETag: "49d5fe-135b-46bd0d23682c0"
+      Content-Type: image/jpeg
+      Content-Length: 4955
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 45
+      Connection: keep-alive
+
+Request 19:
+      Action: GET
+      Url: http://img.lenta.ru/conf/martinovich/pic.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 1997 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1764 Bytes
+  Request Headers:
+      GET /conf/martinovich/pic.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Fri, 05 Jun 2009 14:00:15 GMT
+      ETag: "45b2c1-6e4-46b9a4fcfd9c0"
+      Content-Type: image/jpeg
+      Content-Length: 1764
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 34
+      Connection: keep-alive
+
+Request 20:
+      Action: GET
+      Url: http://www.medportal.ru/common/11060955--150.jpg
+      Host: www.medportal.ru
+      Result code: 301
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 16 Bytes
+      Response size (in): 430 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 187 Bytes
+  Request Headers:
+      GET /common/11060955--150.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.medportal.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 301 Moved Permanently
+      Date: Thu, 11 Jun 2009 15:17:19 GMT
+      Server: Microsoft-IIS/6.0
+      Pragma: no-cache
+      Cache-Control: no-cache
+      Content-Type: text/html
+      Content-Length: 187
+      Location: http://medportal.ru/common/11060955--150.jpg
+
+Request 21:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/mid/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2572 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2339 Bytes
+  Request Headers:
+      GET /news/2009/06/11/mid/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 12:29:39 GMT
+      ETag: "44973a-923-46c11bed952c0"
+      Content-Type: image/jpeg
+      Content-Length: 2339
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 49
+      Connection: keep-alive
+
+Request 22:
+      Action: GET
+      Url: http://www.medportal.ru/common/10060994--150.jpg
+      Host: www.medportal.ru
+      Result code: 301
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 16 Bytes
+      Response size (in): 430 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 187 Bytes
+  Request Headers:
+      GET /common/10060994--150.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.medportal.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 301 Moved Permanently
+      Date: Thu, 11 Jun 2009 15:17:19 GMT
+      Server: Microsoft-IIS/6.0
+      Pragma: no-cache
+      Cache-Control: no-cache
+      Content-Type: text/html
+      Content-Length: 187
+      Location: http://medportal.ru/common/10060994--150.jpg
+
+Request 23:
+      Action: GET
+      Url: http://img.lenta.ru/story/catastrophe/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 1804 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1571 Bytes
+  Request Headers:
+      GET /story/catastrophe/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 01 Jun 2009 13:43:54 GMT
+      ETag: "2d70df-623-46b499df97a80"
+      Content-Type: image/jpeg
+      Content-Length: 1571
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 57
+      Connection: keep-alive
+
+Request 24:
+      Action: GET
+      Url: http://counter.rambler.ru/top100.cnt?80674
+      Host: counter.rambler.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 960 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 796 Bytes
+  Request Headers:
+      GET /top100.cnt?80674 HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: counter.rambler.ru
+      Connection: Keep-Alive
+      Cookie: ruid=yQAAAM0eMUrcWgAAASADAA==
+  Response Headers:
+      HTTP/1.0 200 OK
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+      Cache-Control: no-cache
+      Content-type: image/gif
+
+Request 25:
+      Action: GET
+      Url: http://top100-images.rambler.ru/top100/w1.gif
+      Host: top100-images.rambler.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 16 Bytes
+      Response size (in): 563 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 281 Bytes
+  Request Headers:
+      GET /top100/w1.gif HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: top100-images.rambler.ru
+      Connection: Keep-Alive
+      Cookie: ruid=yQAAAM0eMUrcWgAAASADAA==
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.8.0
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Content-Type: image/gif
+      Content-Length: 281
+      Last-Modified: Fri, 05 Oct 2007 13:45:22 GMT
+      Connection: close
+      Expires: Wed, 09 Sep 2009 15:12:14 GMT
+      Cache-Control: max-age=7776000
+      Accept-Ranges: bytes
+
+Request 26:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/samara/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 5758 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5524 Bytes
+  Request Headers:
+      GET /news/2009/06/11/samara/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:08:51 GMT
+      ETag: "4a9412-1594-46c13219da2c0"
+      Content-Type: image/jpeg
+      Content-Length: 5524
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 40
+      Connection: keep-alive
+
+Request 27:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/10/judge/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 4322 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4089 Bytes
+  Request Headers:
+      GET /articles/2009/06/10/judge/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 11:40:15 GMT
+      ETag: "4a5485-ff9-46bfcf056e5c0"
+      Content-Type: image/jpeg
+      Content-Length: 4089
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 12
+      Connection: keep-alive
+
+Request 28:
+      Action: GET
+      Url: http://medportal.ru/common/11060955--150.jpg
+      Host: medportal.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 4081 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3830 Bytes
+  Request Headers:
+      GET /common/11060955--150.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: medportal.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Content-Length: 3830
+      Content-Type: image/jpeg
+      Last-Modified: Thu, 11 Jun 2009 12:40:54 GMT
+      Accept-Ranges: bytes
+      ETag: "869d80dc91eac91:3bb"
+      Server: Microsoft-IIS/6.0
+      X-Powered-By: ASP.NET
+      Date: Thu, 11 Jun 2009 15:17:18 GMT
+
+Request 29:
+      Action: GET
+      Url: http://www.medportal.ru/common/08060951--150.jpg
+      Host: www.medportal.ru
+      Result code: 301
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 430 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 187 Bytes
+  Request Headers:
+      GET /common/08060951--150.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.medportal.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 301 Moved Permanently
+      Date: Thu, 11 Jun 2009 15:17:19 GMT
+      Server: Microsoft-IIS/6.0
+      Pragma: no-cache
+      Cache-Control: no-cache
+      Content-Type: text/html
+      Content-Length: 187
+      Location: http://medportal.ru/common/08060951--150.jpg
+
+Request 30:
+      Action: GET
+      Url: http://medportal.ru/common/10060994--150.jpg
+      Host: medportal.ru
+      Result code: 200
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 16 Bytes
+      Response size (in): 6295 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6044 Bytes
+  Request Headers:
+      GET /common/10060994--150.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: medportal.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Content-Length: 6044
+      Content-Type: image/jpeg
+      Last-Modified: Wed, 10 Jun 2009 14:11:49 GMT
+      Accept-Ranges: bytes
+      ETag: "901e7565d5e9c91:3bb"
+      Server: Microsoft-IIS/6.0
+      X-Powered-By: ASP.NET
+      Date: Thu, 11 Jun 2009 15:17:18 GMT
+
+Request 31:
+      Action: GET
+      Url: http://img.lenta.ru/conf/panfilova/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4614 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4380 Bytes
+  Request Headers:
+      GET /conf/panfilova/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 04 Jun 2009 12:55:56 GMT
+      ETag: "2d7452-111c-46b854bf4cf00"
+      Content-Type: image/jpeg
+      Content-Length: 4380
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 36
+      Connection: keep-alive
+
+Request 32:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/nobeer/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 5120 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4886 Bytes
+  Request Headers:
+      GET /news/2009/06/11/nobeer/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 12:21:51 GMT
+      ETag: "41d739-1316-46c11a2f435c0"
+      Content-Type: image/jpeg
+      Content-Length: 4886
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 51
+      Connection: keep-alive
+
+Request 33:
+      Action: GET
+      Url: http://medportal.ru/common/08060951--150.jpg
+      Host: medportal.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 13
+      Request size (out): 16 Bytes
+      Response size (in): 5822 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5571 Bytes
+  Request Headers:
+      GET /common/08060951--150.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: medportal.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Content-Length: 5571
+      Content-Type: image/jpeg
+      Last-Modified: Mon, 08 Jun 2009 17:40:40 GMT
+      Accept-Ranges: bytes
+      ETag: "563dd43d60e8c91:3bb"
+      Server: Microsoft-IIS/6.0
+      X-Powered-By: ASP.NET
+      Date: Thu, 11 Jun 2009 15:17:18 GMT
+
+Request 34:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/10/runaway/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 1767 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1535 Bytes
+  Request Headers:
+      GET /news/2009/06/10/runaway/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 13:33:04 GMT
+      ETag: "491738-5ff-46bfe83cda400"
+      Content-Type: image/jpeg
+      Content-Length: 1535
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 5
+      Connection: keep-alive
+
+Request 35:
+      Action: GET
+      Url: http://img.lenta.ru/conf/kirotake/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 10516 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 10281 Bytes
+  Request Headers:
+      GET /conf/kirotake/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 09:07:32 GMT
+      ETag: "28f4d5-2829-46bface2e9d00"
+      Content-Type: image/jpeg
+      Content-Length: 10281
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 43
+      Connection: keep-alive
+
+Request 36:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****lenta_ru/ru/CP1251/tmsec=lenta_total/
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.046 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 605 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****lenta_ru/ru/CP1251/tmsec=lenta_total/ HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporarily
+      Server: tns-counter.0.5.2
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Location: http://www.tns-counter.ru/V13b****lenta_ru/ru/CP1251/tmsec=lenta_total/
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+      Set-Cookie: guid=2D1F02004A311ECEX1244733134; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.tns-counter.ru; path=/
+
+Request 37:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/10/meeting/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 8860 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 8626 Bytes
+  Request Headers:
+      GET /articles/2009/06/10/meeting/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 16:17:46 GMT
+      ETag: "3d7734-21b2-46becb2f99e80"
+      Content-Type: image/jpeg
+      Content-Length: 8626
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 23
+      Connection: keep-alive
+
+Request 38:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/gamble/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6269 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6035 Bytes
+  Request Headers:
+      GET /news/2009/06/11/gamble/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 13:19:00 GMT
+      ETag: "46b739-1793-46c126f569900"
+      Content-Type: image/jpeg
+      Content-Length: 6035
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 28
+      Connection: keep-alive
+
+Request 39:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/10/lands/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.042 seconds
+      Time to first byte: 0.041 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2674 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2441 Bytes
+  Request Headers:
+      GET /news/2009/06/10/lands/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 15:15:51 GMT
+      ETag: "4a55d1-989-46bfff36297c0"
+      Content-Type: image/jpeg
+      Content-Length: 2441
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 18
+      Connection: keep-alive
+
+Request 40:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/08/fail/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.041 seconds
+      Time to first byte: 0.041 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3189 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2956 Bytes
+  Request Headers:
+      GET /articles/2009/06/08/fail/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 08 Jun 2009 09:54:17 GMT
+      ETag: "49d72b-b8c-46bd339b0c440"
+      Content-Type: image/jpeg
+      Content-Length: 2956
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 48
+      Connection: keep-alive
+
+Request 41:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****lenta_ru/ru/CP1251/tmsec=lenta_total/
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13b****lenta_ru/ru/CP1251/tmsec=lenta_total/ HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=2D1F02004A311ECEX1244733134
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 42:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/05/fire/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3844 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3611 Bytes
+  Request Headers:
+      GET /articles/2009/06/05/fire/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Fri, 05 Jun 2009 17:42:27 GMT
+      ETag: "3533cd-e1b-46b9d6a7606c0"
+      Content-Type: image/jpeg
+      Content-Length: 3611
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 42
+      Connection: keep-alive
+
+Request 43:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/evidence/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 8806 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 8573 Bytes
+  Request Headers:
+      GET /news/2009/06/11/evidence/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:37:41 GMT
+      ETag: "4a9439-217d-46c1388bb5740"
+      Content-Type: image/jpeg
+      Content-Length: 8573
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 5
+      Connection: keep-alive
+
+Request 44:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/tube/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2599 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2366 Bytes
+  Request Headers:
+      GET /news/2009/06/11/tube/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 08:07:16 GMT
+      ETag: "4a74bf-93e-46c0e147e3500"
+      Content-Type: image/jpeg
+      Content-Length: 2366
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 40
+      Connection: keep-alive
+
+Request 45:
+      Action: GET
+      Url: http://img.lenta.ru/story/catastrophe/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2712 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2479 Bytes
+  Request Headers:
+      GET /story/catastrophe/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 01 Jun 2009 13:43:54 GMT
+      ETag: "2d70de-9af-46b499df97a80"
+      Content-Type: image/jpeg
+      Content-Length: 2479
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 15
+      Connection: keep-alive
+
+Request 46:
+      Action: GET
+      Url: http://img.lenta.ru/story/kndr2009/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3752 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3520 Bytes
+  Request Headers:
+      GET /story/kndr2009/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 26 May 2009 10:38:49 GMT
+      ETag: "4894bb-dc0-46ace55046040"
+      Content-Type: image/jpeg
+      Content-Length: 3520
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 1
+      Connection: keep-alive
+
+Request 47:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/crackdown/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 5696 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5462 Bytes
+  Request Headers:
+      GET /news/2009/06/11/crackdown/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:39:00 GMT
+      ETag: "4a9441-1556-46c138d70c900"
+      Content-Type: image/jpeg
+      Content-Length: 5462
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 59
+      Connection: keep-alive
+
+Request 48:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/ahmed/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 5567 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5333 Bytes
+  Request Headers:
+      GET /news/2009/06/11/ahmed/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 09:03:00 GMT
+      ETag: "4a7538-14d5-46c0edbcf9900"
+      Content-Type: image/jpeg
+      Content-Length: 5333
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 50
+      Connection: keep-alive
+
+Request 49:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/10/gates/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 7369 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7135 Bytes
+  Request Headers:
+      GET /articles/2009/06/10/gates/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 12:39:47 GMT
+      ETag: "4a550e-1bdf-46bfdc53f4ac0"
+      Content-Type: image/jpeg
+      Content-Length: 7135
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 59
+      Connection: keep-alive
+
+Request 50:
+      Action: GET
+      Url: http://images.rambler.ru/upl/lenta/2009/06/11/Tequila_Lenta.jpg
+      Host: images.rambler.ru
+      Result code: 200
+      Transaction time: 0.040 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 16 Bytes
+      Response size (in): 25558 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 25244 Bytes
+  Request Headers:
+      GET /upl/lenta/2009/06/11/Tequila_Lenta.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: images.rambler.ru
+      Connection: Keep-Alive
+      Cookie: ruid=yQAAAM0eMUrcWgAAASADAA==
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.8.0
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Content-Type: image/jpeg
+      Content-Length: 25244
+      Last-Modified: Thu, 11 Jun 2009 12:06:10 GMT
+      Connection: keep-alive
+      Keep-Alive: timeout=15
+      Expires: Wed, 09 Sep 2009 15:12:14 GMT
+      Cache-Control: max-age=7776000
+      Accept-Ranges: bytes
+
+Request 51:
+      Action: GET
+      Url: http://d0.c6.b0.a0.top.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=16;rand=0.6432203840911868
+      Host: d0.c6.b0.a0.top.mail.ru
+      Result code: 302
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 16 Bytes
+      Response size (in): 458 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=16;rand=0.6432203840911868 HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: d0.c6.b0.a0.top.mail.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporarily
+      Server: wz/1.2
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Location: http://top3.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=16;rand=0.6432203840911868
+      P3P: policyref="/w3c/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+      Set-Cookie: FTID=0000AQ0r5MGe; path=/; expires=Wed, 09 Sep 2009 15:12:13 GMT; domain=.mail.ru
+      Pragma: no-cache
+      Cache-control: no-cache
+      Connection: close
+
+Request 52:
+      Action: GET
+      Url: http://counter.yadro.ru/hit?t57.6;r;s1024*768*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.40494309868930944
+      Host: counter.yadro.ru
+      Result code: 302
+      Transaction time: 0.052 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 16 Bytes
+      Response size (in): 560 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 32 Bytes
+  Request Headers:
+      GET /hit?t57.6;r;s1024*768*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.40494309868930944 HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: counter.yadro.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporarily
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Server: 0W/0.8c
+      Content-Type: text/html
+      Location: http://counter.yadro.ru/hit?q;t57.6;r;s1024*768*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.40494309868930944
+      Content-Length: 32
+      Expires: Tue, 10 Jun 2008 20:00:00 GMT
+      Pragma: no-cache
+      Cache-control: no-cache
+      P3P: policyref="/w3c/p3p.xml", CP="UNI"
+      Set-Cookie: FTID=1ACHxE25i_0e; path=/; expires=Thu, 10 Jun 2010 20:00:00 GMT; domain=.yadro.ru
+
+Request 53:
+      Action: GET
+      Url: http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+      Host: ad2.rambler.ru
+      Result code: 200
+      Transaction time: 0.052 seconds
+      Time to first byte: 0.049 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 16 Bytes
+      Response size (in): 225 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 12 Bytes
+  Request Headers:
+      GET /lenta.ban?pg=4883&ifr=1 HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: ad2.rambler.ru
+      Connection: Keep-Alive
+      Cookie: ruid=yQAAAM0eMUrcWgAAASADAA==
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.3.33
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Content-Type: text/html; charset=windows-1251
+      Transfer-Encoding: chunked
+      Connection: close
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+
+Request 54:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/worldbank/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 5535 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5301 Bytes
+  Request Headers:
+      GET /news/2009/06/11/worldbank/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:21:13 GMT
+      ETag: "45b2c7-14b5-46c134dd7a840"
+      Content-Type: image/jpeg
+      Content-Length: 5301
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 56
+      Connection: keep-alive
+
+Request 55:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/china/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2572 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2339 Bytes
+  Request Headers:
+      GET /news/2009/06/11/china/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 12:45:57 GMT
+      ETag: "4a770a-923-46c11f9246b40"
+      Content-Type: image/jpeg
+      Content-Length: 2339
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 16
+      Connection: keep-alive
+
+Request 56:
+      Action: GET
+      Url: http://img.lenta.ru/story/milk/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.048 seconds
+      Time to first byte: 0.047 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 7062 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6828 Bytes
+  Request Headers:
+      GET /story/milk/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 08 Jun 2009 13:34:45 GMT
+      ETag: "49f5ad-1aac-46bd64e240740"
+      Content-Type: image/jpeg
+      Content-Length: 6828
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 35
+      Connection: keep-alive
+
+Request 57:
+      Action: GET
+      Url: http://top3.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=16;rand=0.6432203840911868
+      Host: top3.mail.ru
+      Result code: 200
+      Transaction time: 0.058 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 33
+      Request size (out): 16 Bytes
+      Response size (in): 1214 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 729 Bytes
+  Request Headers:
+      GET /counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=16;rand=0.6432203840911868 HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: top3.mail.ru
+      Connection: Keep-Alive
+      Cookie: FTID=0000AQ0r5MGe
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: wz/1.2
+      Date: Thu, 11 Jun 2009 15:12:13 GMT
+      Content-Type: image/gif
+      P3P: policyref="/w3c/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+      Set-Cookie: VID=1V7AMK0ZUc0e; path=/; expires=Wed, 09 Sep 2009 15:12:13 GMT; domain=.mail.ru
+      Set-Cookie: FTID=0; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT; domain=.mail.ru
+      Pragma: no-cache
+      Cache-control: no-cache
+      Connection: close
+      Accept-Ranges: bytes
+      Content-Length: 729
+
+Request 58:
+      Action: GET
+      Url: http://counter.yadro.ru/hit?q;t57.6;r;s1024*768*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.40494309868930944
+      Host: counter.yadro.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 16 Bytes
+      Response size (in): 1268 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 911 Bytes
+  Request Headers:
+      GET /hit?q;t57.6;r;s1024*768*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.40494309868930944 HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: counter.yadro.ru
+      Connection: Keep-Alive
+      Cookie: FTID=1ACHxE25i_0e
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Server: 0W/0.8c
+      Connection: Close
+      Content-Type: image/gif
+      Content-Length: 911
+      Expires: Tue, 10 Jun 2008 20:00:00 GMT
+      Pragma: no-cache
+      Cache-control: no-cache
+      P3P: policyref="/w3c/p3p.xml", CP="UNI"
+      Set-Cookie: VID=2LTL000SuqGe; path=/; expires=Thu, 10 Jun 2010 20:00:00 GMT; domain=.yadro.ru
+
+Request 59:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/11/oil/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3390 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3158 Bytes
+  Request Headers:
+      GET /articles/2009/06/11/oil/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 12:30:14 GMT
+      ETag: "4a54f7-c56-46bfda3180180"
+      Content-Type: image/jpeg
+      Content-Length: 3158
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 4
+      Connection: keep-alive
+
+Request 60:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/money/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 5469 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5235 Bytes
+  Request Headers:
+      GET /news/2009/06/11/money/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 12:08:33 GMT
+      ETag: "4a76d1-1473-46c117363b240"
+      Content-Type: image/jpeg
+      Content-Length: 5235
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 27
+      Connection: keep-alive
+
+Request 61:
+      Action: GET
+      Url: http://img.lenta.ru/conf/rybakova/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 4215 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3982 Bytes
+  Request Headers:
+      GET /conf/rybakova/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Fri, 29 May 2009 14:52:55 GMT
+      ETag: "289446-f8e-46b0e3b45ffc0"
+      Content-Type: image/jpeg
+      Content-Length: 3982
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 48
+      Connection: keep-alive
+
+Request 62:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/09/dohod/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.031 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3662 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3430 Bytes
+  Request Headers:
+      GET /articles/2009/06/09/dohod/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 08 Jun 2009 14:19:28 GMT
+      ETag: "49f5ef-d66-46bd6ee0f5c00"
+      Content-Type: image/jpeg
+      Content-Length: 3430
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 2
+      Connection: keep-alive
+
+Request 63:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/bcbk/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6975 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6741 Bytes
+  Request Headers:
+      GET /news/2009/06/11/bcbk/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:07:24 GMT
+      ETag: "4a940d-1a55-46c131c6e1f00"
+      Content-Type: image/jpeg
+      Content-Length: 6741
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 25
+      Connection: keep-alive
+
+Request 64:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/credit/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2490 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2257 Bytes
+  Request Headers:
+      GET /news/2009/06/11/credit/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 10:06:15 GMT
+      ETag: "4a75b7-8d1-46c0fbe02b3c0"
+      Content-Type: image/jpeg
+      Content-Length: 2257
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 54
+      Connection: keep-alive
+
+Request 65:
+      Action: GET
+      Url: http://img.lenta.ru/story/telenor/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 1994 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1761 Bytes
+  Request Headers:
+      GET /story/telenor/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 05 Mar 2009 11:19:05 GMT
+      ETag: "202eb1-6e1-4645d5608dc40"
+      Content-Type: image/jpeg
+      Content-Length: 1761
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 31
+      Connection: keep-alive
+
+Request 66:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/fourteen/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.024 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 5746 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5512 Bytes
+  Request Headers:
+      GET /news/2009/06/11/fourteen/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 11:14:54 GMT
+      ETag: "4a7684-1588-46c10b385a780"
+      Content-Type: image/jpeg
+      Content-Length: 5512
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 53
+      Connection: keep-alive
+
+Request 67:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/09/amazon/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2511 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2278 Bytes
+  Request Headers:
+      GET /news/2009/06/09/amazon/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 09:29:45 GMT
+      ETag: "4a157f-8e6-46be6ffcb3440"
+      Content-Type: image/jpeg
+      Content-Length: 2278
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 50
+      Connection: keep-alive
+
+Request 68:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/04/mu/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 8074 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7840 Bytes
+  Request Headers:
+      GET /articles/2009/06/04/mu/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 04 Jun 2009 12:38:17 GMT
+      ETag: "49b62e-1ea0-46b850cd5c040"
+      Content-Type: image/jpeg
+      Content-Length: 7840
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 45
+      Connection: keep-alive
+
+Request 69:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/05/29/augment/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2785 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2552 Bytes
+  Request Headers:
+      GET /articles/2009/05/29/augment/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Fri, 29 May 2009 09:58:52 GMT
+      ETag: "4933ee-9f8-46b0a1fab2f00"
+      Content-Type: image/jpeg
+      Content-Length: 2552
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 33
+      Connection: keep-alive
+
+Request 70:
+      Action: GET
+      Url: http://img.lenta.ru/ireal/news/2009/06/11/msk/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6238 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6004 Bytes
+  Request Headers:
+      GET /ireal/news/2009/06/11/msk/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:54:51 GMT
+      ETag: "7a4494-1774-46c13c61fe4c0"
+      Content-Type: image/jpeg
+      Content-Length: 6004
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 52
+      Connection: keep-alive
+
+Request 71:
+      Action: GET
+      Url: http://img.lenta.ru/ireal/news/2009/06/10/tender/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 6550 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6316 Bytes
+  Request Headers:
+      GET /ireal/news/2009/06/10/tender/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 22:03:36 GMT
+      ETag: "7a4381-18ac-46c05a59cde00"
+      Content-Type: image/jpeg
+      Content-Length: 6316
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 50
+      Connection: keep-alive
+
+Request 72:
+      Action: GET
+      Url: http://img.lenta.ru/ireal/articles/2009/06/11/pik/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 7123 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6889 Bytes
+  Request Headers:
+      GET /ireal/articles/2009/06/11/pik/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:58:12 GMT
+      ETag: "7a446c-1ae9-46c13d21ae900"
+      Content-Type: image/jpeg
+      Content-Length: 6889
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 40
+      Connection: keep-alive
+
+Request 73:
+      Action: GET
+      Url: http://img.lenta.ru/ireal/articles/2009/06/10/novosibirsk/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3461 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3229 Bytes
+  Request Headers:
+      GET /ireal/articles/2009/06/10/novosibirsk/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 10:55:45 GMT
+      ETag: "7a42ad-c9d-46bfc5131ee40"
+      Content-Type: image/jpeg
+      Content-Length: 3229
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 8
+      Connection: keep-alive
+
+Request 74:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/granade/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6024 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5790 Bytes
+  Request Headers:
+      GET /news/2009/06/11/granade/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 11:52:24 GMT
+      ETag: "4a76c7-169e-46c1139a1ee00"
+      Content-Type: image/jpeg
+      Content-Length: 5790
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 21
+      Connection: keep-alive
+
+Request 75:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/salads/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2315 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2082 Bytes
+  Request Headers:
+      GET /news/2009/06/11/salads/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 07:17:12 GMT
+      ETag: "4a74a3-822-46c0d6170ce00"
+      Content-Type: image/jpeg
+      Content-Length: 2082
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 50
+      Connection: keep-alive
+
+Request 76:
+      Action: GET
+      Url: http://img.lenta.ru/story/magomedtagirov/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2166 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1933 Bytes
+  Request Headers:
+      GET /story/magomedtagirov/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Fri, 05 Jun 2009 14:42:49 GMT
+      ETag: "49d50a-78d-46b9ae80acc40"
+      Content-Type: image/jpeg
+      Content-Length: 1933
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 14
+      Connection: keep-alive
+
+Request 77:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/medialogy/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 7942 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7708 Bytes
+  Request Headers:
+      GET /news/2009/06/11/medialogy/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 13:16:19 GMT
+      ETag: "4a772b-1e1c-46c1265bdeec0"
+      Content-Type: image/jpeg
+      Content-Length: 7708
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 57
+      Connection: keep-alive
+
+Request 78:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/10/copyright/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2520 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2287 Bytes
+  Request Headers:
+      GET /news/2009/06/10/copyright/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 05:26:41 GMT
+      ETag: "4a3570-8ef-46bf7b85c6640"
+      Content-Type: image/jpeg
+      Content-Length: 2287
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 50
+      Connection: keep-alive
+
+Request 79:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/10/plagiat/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4520 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4286 Bytes
+  Request Headers:
+      GET /articles/2009/06/10/plagiat/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 11:09:01 GMT
+      ETag: "417736-10be-46bfc80a3ed40"
+      Content-Type: image/jpeg
+      Content-Length: 4286
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 54
+      Connection: keep-alive
+
+Request 80:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/09/chr/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 4006 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3773 Bytes
+  Request Headers:
+      GET /articles/2009/06/09/chr/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 14:03:10 GMT
+      ETag: "4a172b-ebd-46bead19ba380"
+      Content-Type: image/jpeg
+      Content-Length: 3773
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 36
+      Connection: keep-alive
+
+Request 81:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/anne/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.027 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6606 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6372 Bytes
+  Request Headers:
+      GET /news/2009/06/11/anne/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 13:28:32 GMT
+      ETag: "4a773d-18e4-46c12916ea000"
+      Content-Type: image/jpeg
+      Content-Length: 6372
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 42
+      Connection: keep-alive
+
+Request 82:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/exhibition/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.026 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2045 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1813 Bytes
+  Request Headers:
+      GET /news/2009/06/11/exhibition/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 08:36:59 GMT
+      ETag: "4a7504-715-46c0e7ec4a0c0"
+      Content-Type: image/jpeg
+      Content-Length: 1813
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 5
+      Connection: keep-alive
+
+Request 83:
+      Action: GET
+      Url: http://img.lenta.ru/photo/2009/06/11/easel/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 5928 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5694 Bytes
+  Request Headers:
+      GET /photo/2009/06/11/easel/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 06:55:34 GMT
+      ETag: "4a57cf-163e-46c0d1412e580"
+      Content-Type: image/jpeg
+      Content-Length: 5694
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 13
+      Connection: keep-alive
+
+Request 84:
+      Action: GET
+      Url: http://img.lenta.ru/photo/2009/06/10/chehovfestival/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 10501 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 10266 Bytes
+  Request Headers:
+      GET /photo/2009/06/10/chehovfestival/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 06:36:57 GMT
+      ETag: "46778a-281a-46bf8b3a77440"
+      Content-Type: image/jpeg
+      Content-Length: 10266
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 36
+      Connection: keep-alive
+
+Request 85:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/forman/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6483 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6250 Bytes
+  Request Headers:
+      GET /news/2009/06/11/forman/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 13:46:21 GMT
+      ETag: "4a93f4-186a-46c12d1264540"
+      Content-Type: image/jpeg
+      Content-Length: 6250
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 7
+      Connection: keep-alive
+
+Request 86:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/abrams/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3248 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3015 Bytes
+  Request Headers:
+      GET /news/2009/06/11/abrams/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 07:03:07 GMT
+      ETag: "4a747f-bc7-46c0d2f1320c0"
+      Content-Type: image/jpeg
+      Content-Length: 3015
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 57
+      Connection: keep-alive
+
+Request 87:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/11/wallstreet/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6017 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5783 Bytes
+  Request Headers:
+      GET /articles/2009/06/11/wallstreet/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 12:17:17 GMT
+      ETag: "4a76da-1697-46c11929f4d40"
+      Content-Type: image/jpeg
+      Content-Length: 5783
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 32
+      Connection: keep-alive
+
+Request 88:
+      Action: GET
+      Url: http://img.lenta.ru/photo/2009/05/31/transformers2/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 5743 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5510 Bytes
+  Request Headers:
+      GET /photo/2009/05/31/transformers2/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Sun, 31 May 2009 11:08:09 GMT
+      ETag: "8e00c-1586-46b335320b840"
+      Content-Type: image/jpeg
+      Content-Length: 5510
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 17
+      Connection: keep-alive
+
+Request 89:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/britney/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6944 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6710 Bytes
+  Request Headers:
+      GET /news/2009/06/11/britney/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:50:26 GMT
+      ETag: "45b2d6-1a36-46c13b6545080"
+      Content-Type: image/jpeg
+      Content-Length: 6710
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 52
+      Connection: keep-alive
+
+Request 90:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/10/sign/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 1440 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1207 Bytes
+  Request Headers:
+      GET /news/2009/06/10/sign/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 17:23:43 GMT
+      ETag: "4a5618-4b7-46c01bcac05c0"
+      Content-Type: image/jpeg
+      Content-Length: 1207
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 50
+      Connection: keep-alive
+
+Request 91:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/11/dreamtheater/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3939 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3706 Bytes
+  Request Headers:
+      GET /articles/2009/06/11/dreamtheater/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 09:21:58 GMT
+      ETag: "4a7569-e7a-46c0f1fa41980"
+      Content-Type: image/jpeg
+      Content-Length: 3706
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 34
+      Connection: keep-alive
+
+Request 92:
+      Action: GET
+      Url: http://img.lenta.ru/photo/2009/06/09/usadbajazz/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 7493 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7260 Bytes
+  Request Headers:
+      GET /photo/2009/06/09/usadbajazz/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 05:20:00 GMT
+      ETag: "49f7ab-1c5c-46be3829e4000"
+      Content-Type: image/jpeg
+      Content-Length: 7260
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 9
+      Connection: keep-alive
+
+Request 93:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/sharapova/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6981 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6748 Bytes
+  Request Headers:
+      GET /news/2009/06/11/sharapova/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 13:56:53 GMT
+      ETag: "4a93fd-1a5c-46c12f6d1d340"
+      Content-Type: image/jpeg
+      Content-Length: 6748
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 6
+      Connection: keep-alive
+
+Request 94:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/rooney/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2501 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2268 Bytes
+  Request Headers:
+      GET /news/2009/06/11/rooney/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 11:49:18 GMT
+      ETag: "4a76c2-8dc-46c112e8bcb80"
+      Content-Type: image/jpeg
+      Content-Length: 2268
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 50
+      Connection: keep-alive
+
+Request 95:
+      Action: GET
+      Url: http://img.lenta.ru/photo/2009/06/11/finrus/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4262 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4030 Bytes
+  Request Headers:
+      GET /photo/2009/06/11/finrus/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 10:23:20 GMT
+      ETag: "4a7603-fbe-46c0ffb1af600"
+      Content-Type: image/jpeg
+      Content-Length: 4030
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 4
+      Connection: keep-alive
+
+Request 96:
+      Action: GET
+      Url: http://img.lenta.ru/story/klitchag/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 4306 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4074 Bytes
+  Request Headers:
+      GET /story/klitchag/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 14:16:53 GMT
+      ETag: "401733-fea-46beb02a99f40"
+      Content-Type: image/jpeg
+      Content-Length: 4074
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 4
+      Connection: keep-alive
+
+Request 97:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/warming/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 6473 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6240 Bytes
+  Request Headers:
+      GET /news/2009/06/11/warming/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:03:29 GMT
+      ETag: "4a775b-1860-46c130e6c4e40"
+      Content-Type: image/jpeg
+      Content-Length: 6240
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 5
+      Connection: keep-alive
+
+Request 98:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/newscientist/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 1818 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1585 Bytes
+  Request Headers:
+      GET /news/2009/06/11/newscientist/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 08:21:21 GMT
+      ETag: "47f73a-631-46c0e46dbe240"
+      Content-Type: image/jpeg
+      Content-Length: 1585
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 50
+      Connection: keep-alive
+
+Request 99:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/10/elevator/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3625 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3393 Bytes
+  Request Headers:
+      GET /articles/2009/06/10/elevator/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 08:31:07 GMT
+      ETag: "4a36da-d41-46bfa4bf228c0"
+      Content-Type: image/jpeg
+      Content-Length: 3393
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 2
+      Connection: keep-alive
+
+Request 100:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/05/tourist/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 8172 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7938 Bytes
+  Request Headers:
+      GET /articles/2009/06/05/tourist/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 04 Jun 2009 12:50:24 GMT
+      ETag: "2d7475-1f02-46b85382ae400"
+      Content-Type: image/jpeg
+      Content-Length: 7938
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 28
+      Connection: keep-alive
+
+Request 101:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/lastfm/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 7025 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6791 Bytes
+  Request Headers:
+      GET /news/2009/06/11/lastfm/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 10:41:58 GMT
+      ETag: "4a761f-1a87-46c103dbe4980"
+      Content-Type: image/jpeg
+      Content-Length: 6791
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 40
+      Connection: keep-alive
+
+Request 102:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/10/microsoft/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2330 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2097 Bytes
+  Request Headers:
+      GET /news/2009/06/10/microsoft/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 09:51:04 GMT
+      ETag: "4a371b-831-46bfb69de9200"
+      Content-Type: image/jpeg
+      Content-Length: 2097
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 50
+      Connection: keep-alive
+
+Request 103:
+      Action: GET
+      Url: http://img.lenta.ru/story/hacker/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4866 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4632 Bytes
+  Request Headers:
+      GET /story/hacker/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 02 Sep 2008 12:37:35 GMT
+      ETag: "55b336-1218-455e8fbf8c1c0"
+      Content-Type: image/jpeg
+      Content-Length: 4632
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 32
+      Connection: keep-alive
+
+Request 104:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/09/sherman/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3046 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2813 Bytes
+  Request Headers:
+      GET /articles/2009/06/09/sherman/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 07:20:27 GMT
+      ETag: "4a14b1-afd-46be5316184c0"
+      Content-Type: image/jpeg
+      Content-Length: 2813
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 53
+      Connection: keep-alive
+
+Request 105:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/intel/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3246 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3013 Bytes
+  Request Headers:
+      GET /news/2009/06/11/intel/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 13:30:21 GMT
+      ETag: "4a7742-bc5-46c1297edd540"
+      Content-Type: image/jpeg
+      Content-Length: 3013
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 37
+      Connection: keep-alive
+
+Request 106:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/10/asus/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 5861 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5628 Bytes
+  Request Headers:
+      GET /news/2009/06/10/asus/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 11:51:18 GMT
+      ETag: "4a549e-15fc-46bfd17db7980"
+      Content-Type: image/jpeg
+      Content-Length: 5628
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 7
+      Connection: keep-alive
+
+Request 107:
+      Action: GET
+      Url: http://img.lenta.ru/online/2009/06/08/wwdc/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 2975 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2742 Bytes
+  Request Headers:
+      GET /online/2009/06/08/wwdc/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Fri, 05 Jun 2009 09:30:52 GMT
+      ETag: "47f730-ab6-46b968c6c0b00"
+      Content-Type: image/jpeg
+      Content-Length: 2742
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 41
+      Connection: keep-alive
+
+Request 108:
+      Action: GET
+      Url: http://img.lenta.ru/story/fas/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3187 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2954 Bytes
+  Request Headers:
+      GET /story/fas/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 10:15:57 GMT
+      ETag: "3a5736-b8a-46bfbc2dbf140"
+      Content-Type: image/jpeg
+      Content-Length: 2954
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 18
+      Connection: keep-alive
+
+Request 109:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/battlefield/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 5046 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4812 Bytes
+  Request Headers:
+      GET /news/2009/06/11/battlefield/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 11:13:16 GMT
+      ETag: "4a7680-12cc-46c10adae4b00"
+      Content-Type: image/jpeg
+      Content-Length: 4812
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 26
+      Connection: keep-alive
+
+Request 110:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/09/trophies/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2710 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2477 Bytes
+  Request Headers:
+      GET /news/2009/06/09/trophies/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 07:57:31 GMT
+      ETag: "4a14e9-9ad-46be5b5f110c0"
+      Content-Type: image/jpeg
+      Content-Length: 2477
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 25
+      Connection: keep-alive
+
+Request 111:
+      Action: GET
+      Url: http://img.lenta.ru/topics/e3expo2009/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4324 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4091 Bytes
+  Request Headers:
+      GET /topics/e3expo2009/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Sat, 30 May 2009 15:20:25 GMT
+      ETag: "2a5044-ffb-46b22bb766040"
+      Content-Type: image/jpeg
+      Content-Length: 4091
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 25
+      Connection: keep-alive
+
+Request 112:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/09/infamous/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 3987 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3754 Bytes
+  Request Headers:
+      GET /articles/2009/06/09/infamous/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 12:31:57 GMT
+      ETag: "4a167c-eaa-46be98b644940"
+      Content-Type: image/jpeg
+      Content-Length: 3754
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 52
+      Connection: keep-alive
+
+Request 113:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/news/2009/06/11/wind/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 12239 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 12004 Bytes
+  Request Headers:
+      GET /iauto/news/2009/06/11/wind/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 13:01:52 GMT
+      ETag: "7a4475-2ee4-46c1232109000"
+      Content-Type: image/jpeg
+      Content-Length: 12004
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 42
+      Connection: keep-alive
+
+Request 114:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/news/2009/06/11/camry/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2359 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2126 Bytes
+  Request Headers:
+      GET /iauto/news/2009/06/11/camry/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 10:38:31 GMT
+      ETag: "7a443f-84e-46c103167b7c0"
+      Content-Type: image/jpeg
+      Content-Length: 2126
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 36
+      Connection: keep-alive
+
+Request 115:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/articles/2009/06/11/seatbelt/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 6193 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5959 Bytes
+  Request Headers:
+      GET /iauto/articles/2009/06/11/seatbelt/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 14:32:35 GMT
+      ETag: "7a43ab-1747-46bff58a6c6c0"
+      Content-Type: image/jpeg
+      Content-Length: 5959
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 57
+      Connection: keep-alive
+
+Request 116:
+      Action: GET
+      Url: http://img.lenta.ru/iauto/articles/2009/06/09/salesmay/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6268 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6034 Bytes
+  Request Headers:
+      GET /iauto/articles/2009/06/09/salesmay/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 11:38:21 GMT
+      ETag: "7a4295-1792-46be8cbb40540"
+      Content-Type: image/jpeg
+      Content-Length: 6034
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 21
+      Connection: keep-alive
+
+Request 117:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/octopus/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 3981 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3748 Bytes
+  Request Headers:
+      GET /news/2009/06/11/octopus/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:38:12 GMT
+      ETag: "4a943d-ea4-46c138a945d00"
+      Content-Type: image/jpeg
+      Content-Length: 3748
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 57
+      Connection: keep-alive
+
+Request 118:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/tests/picture--85.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2023 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1791 Bytes
+  Request Headers:
+      GET /news/2009/06/11/tests/picture--85.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 07:39:27 GMT
+      ETag: "3b573a-6ff-46c0db10349c0"
+      Content-Type: image/jpeg
+      Content-Length: 1791
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 4
+      Connection: keep-alive
+
+Request 119:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/09/arms/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4910 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4677 Bytes
+  Request Headers:
+      GET /articles/2009/06/09/arms/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 03:21:19 GMT
+      ETag: "49f6c0-1245-46be1da2c69c0"
+      Content-Type: image/jpeg
+      Content-Length: 4677
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 6
+      Connection: keep-alive
+
+Request 120:
+      Action: GET
+      Url: http://img.lenta.ru/conf/babich/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 1756 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1523 Bytes
+  Request Headers:
+      GET /conf/babich/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 08 Jun 2009 06:36:49 GMT
+      ETag: "49d5bc-5f3-46bd0777ea240"
+      Content-Type: image/jpeg
+      Content-Length: 1523
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 57
+      Connection: keep-alive
+
+Request 121:
+      Action: GET
+      Url: http://img.lenta.ru/news/2009/06/11/izhevsk/picturesmall.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 5783 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5549 Bytes
+  Request Headers:
+      GET /news/2009/06/11/izhevsk/picturesmall.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Thu, 11 Jun 2009 14:12:39 GMT
+      ETag: "4a9418-15ad-46c132f34a3c0"
+      Content-Type: image/jpeg
+      Content-Length: 5549
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 54
+      Connection: keep-alive
+
+Request 122:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/11/pear/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 2963 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 2730 Bytes
+  Request Headers:
+      GET /articles/2009/06/11/pear/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Wed, 10 Jun 2009 11:36:17 GMT
+      ETag: "4a373b-aaa-46bfce2274e40"
+      Content-Type: image/jpeg
+      Content-Length: 2730
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 48
+      Connection: keep-alive
+
+Request 123:
+      Action: GET
+      Url: http://img.lenta.ru/articles/2009/06/10/madonna/picture--113.jpg
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 4208 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3975 Bytes
+  Request Headers:
+      GET /articles/2009/06/10/madonna/picture--113.jpg HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Tue, 09 Jun 2009 14:19:37 GMT
+      ETag: "3eb733-f87-46beb0c701040"
+      Content-Type: image/jpeg
+      Content-Length: 3975
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 54
+      Connection: keep-alive
+
+Request 124:
+      Action: GET
+      Url: http://img.lenta.ru/i/p_conf.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 316 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 88 Bytes
+  Request Headers:
+      GET /i/p_conf.gif HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 13 Apr 2009 09:16:53 GMT
+      ETag: "202612-58-4676c2cd30b40"
+      Content-Type: image/gif
+      Content-Length: 88
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 2
+      Connection: keep-alive
+
+Request 125:
+      Action: GET
+      Url: http://img.lenta.ru/i/conf_a.gif
+      Host: img.lenta.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 318 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 89 Bytes
+  Request Headers:
+      GET /i/conf_a.gif HTTP/1.1
+      Accept: */*
+      Referer: http://lenta.ru/
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.lenta.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: Apache
+      Last-Modified: Mon, 27 Apr 2009 12:56:38 GMT
+      ETag: "5096e5-59-46888e07d6d80"
+      Content-Type: image/gif
+      Content-Length: 89
+      Date: Thu, 11 Jun 2009 15:12:14 GMT
+      Age: 43
+      Connection: keep-alive
+

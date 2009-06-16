@@ -1,0 +1,92 @@
+Optimization Report : 06/11/09 at 19:27:53
+
+Results for 'http://lenta.ru/':
+
+Page load time: 0.429 seconds
+Time to first byte: 0.132 seconds
+Time to Base Page Downloaded: 0.144 seconds
+Time to Start Render: 0.321 seconds
+Time to Document Complete: 0.429 seconds
+Time to Fully Loaded: 0.429 seconds
+Bytes sent out: 2.000 KB
+Bytes received: 86.766 KB
+DNS Lookups: 12
+Connections: 20
+Requests: 128
+   OK Requests:  10
+   Redirects:    3
+   Not Modified: 110
+   Not Found:    0
+   Other:        5 (301, 301, 301, 301, 204)
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+  Cache score : 100
+
+Use one CDN for all static assets:
+    FAILED - http://images.rambler.ru/patch_script.js
+    FAILED - http://images.rambler.ru/upl/lenta/2009/06/08/240x400.gif
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (3.3 KB, compressed = 1.4 KB - savings of 1.9 KB) - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+  GZIP score : 95
+    40.5 KB total in compressible text, target size = 38.5 KB - potential savings = 1.9 KB
+
+Compress Images:
+  Image Compression score : 100
+    26.8 KB total in images, target size = 26.8 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=5374&ifr=1
+  Keep-Alive score : 50
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 29 bytes) - http://images.rambler.ru/patch_script.js
+      cookie:ruid=yQAAAHIiMUruWgAAAR4JAA==
+    FAILED (Static object with 1 cookies - 29 bytes) - http://images.rambler.ru/upl/lenta/2009/06/08/240x400.gif
+      cookie:ruid=yQAAAHIiMUruWgAAAR4JAA==
+   WARNING (1 cookies, 15 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=169755&pid=320739&bid=615150&bn=615150&rnd=758476895&tail256=http%3A//lenta.ru/&tuid=-4526427636
+      cookie:uid=-4526427636
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=5374&ifr=1
+      cookie:ruid=yQAAAHIiMUruWgAAAR4JAA==
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+      cookie:ruid=yQAAAHIiMUruWgAAAR4JAA==
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+      cookie:ruid=yQAAAHIiMUruWgAAAR4JAA==
+   WARNING (1 cookies, 29 bytes) - http://counter.rambler.ru/top100.cnt?80674
+      cookie:ruid=yQAAAHIiMUruWgAAAR4JAA==
+   WARNING (2 cookies, 35 bytes) - http://counter.yadro.ru/hit?t57.6;r;s800*600*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.6152800810047256
+      cookie:FTID=1ACI9o3_0hWe
+      cookie: VID=2LTtnF20ieWe
+   WARNING (1 cookies, 16 bytes) - http://counter.yadro.ru/hit?q;t57.6;r;s800*600*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.6152800810047256
+      cookie:VID=2LTtnF20ieWe
+   WARNING (1 cookies, 16 bytes) - http://d0.c6.b0.a0.top.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=800*600;d=16;rand=0.06393187850384846
+      cookie:VID=1V7FYP0ykZme
+   WARNING (1 cookies, 16 bytes) - http://top3.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=800*600;d=16;rand=0.06393187850384846
+      cookie:VID=1V7FYP0ykZme
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****lenta_ru/ru/CP1251/tmsec=lenta_total/
+      cookie:guid=736502024A312272X1244734066
+  Cookie score : 94
+    0.3 KB total in outbound cookies, target size = 0.2 KB - potential savings = 0.1 KB
+
+Minify JS:
+  Minify score : 100
+    0.5 KB total in minifiable text, target size = 0.5 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://medportal.ru/common/11060903--340--150.jpg
+    FAILED - http://medportal.ru/common/11060955--150.jpg
+    FAILED - http://medportal.ru/common/10060994--150.jpg
+    FAILED - http://medportal.ru/common/08060951--150.jpg
+  ETag score : 96
+
+JQuery Selectors not descended from an ID:
+  No problems found

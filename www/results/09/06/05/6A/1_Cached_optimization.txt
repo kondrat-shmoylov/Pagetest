@@ -1,0 +1,70 @@
+Optimization Report : 06/05/09 at 20:03:14
+
+Results for 'http://yandex.ru/yandsearch?text=Sony-Ericsson%20K810i&i-m-a-hacker=1':
+
+Page load time: 0.275 seconds
+Time to first byte: 0.228 seconds
+Time to Base Page Downloaded: 0.228 seconds
+Time to Start Render: 0.082 seconds
+Time to Document Complete: 0.275 seconds
+Time to Fully Loaded: 0.275 seconds
+Bytes sent out: 3.313 KB
+Bytes received: 6.729 KB
+DNS Lookups: 7
+Connections: 7
+Requests: 7
+   OK Requests:  4
+   Redirects:    1
+   Not Modified: 2
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://video-tub.yandex.ru/i?&tov=0&id=9744399
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://video-tub.yandex.ru/i?&tov=0&id=9744399
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  No appropriate resources present
+
+Compress Images:
+    FAILED  (4.9 KB, target = 2.7 KB - savings of 2.1 KB)- http://video-tub.yandex.ru/i?&tov=0&id=9744399
+  Image Compression score : 57
+    5.0 KB total in images, target size = 2.9 KB - potential savings = 2.1 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=9744399
+      cookie:yandexuid=8689811244217788
+   WARNING (1 cookies, 26 bytes) - http://clck.yandex.ru/click/dtype=yabs/id=53/key=pack/*?554122291
+      cookie:yandexuid=8689811244217788
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=8689811244217788
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=F5A404004A2941BDX1244217789
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/8GSyCxDvSle40X00ZhmRbA84KfK4cm5kK2A8g8XN0OcNX0EIffee0egd1qy1ZG6Hk_0TPmEFeO2Oiv-pGpL529E53Oki8Xi5GNq7?554122291
+      cookie:yandexuid=8689811244217788
+   WARNING (1 cookies, 32 bytes) - http://yandex.tns-counter.ru/V13a****yandex_ru/ru/UTF-8/tmsec=yandex_media3/
+      cookie:guid=F5A404004A2941BDX1244217789
+  Cookie score : 50
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

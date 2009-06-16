@@ -1,0 +1,179 @@
+Results for 'http://yandex.ru/yandsearch?text=%EA%E8%ED%EE%F2%E5%E0%F2%F0%20%C0%EB%EC%E0%E7&i-m-a-hacker=1':
+
+Page load time: 0.209 seconds
+Time to first byte: 0.187 seconds
+Time to Base Page Downloaded: 0.187 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.209 seconds
+Time to Fully Loaded: 0.209 seconds
+Bytes sent out: 6.387 KB
+Bytes received: 2.583 KB
+DNS Lookups: 8
+Connections: 10
+Requests: 13
+   OK Requests:  2
+   Redirects:    1
+   Not Modified: 10
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://im2-tub.yandex.net/i?id=59611738&tov=2
+      Host: im2-tub.yandex.net
+      Result code: 304
+      Transaction time: 0.187 seconds
+      Time to first byte: 0.047 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 438 Bytes
+      Response size (in): 101 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.034 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 755 Bytes
+      Response size (in): 250 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_186x104.jpeg
+      Host: afisha.yandex.ru
+      Result code: 304
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 558 Bytes
+      Response size (in): 226 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://afisha.yandex.ru/media/events/images/thumbnails/c493b1e80f3e1a9f4e4900b5a5822a02_186x104.jpeg
+      Host: afisha.yandex.ru
+      Result code: 304
+      Transaction time: 0.058 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 557 Bytes
+      Response size (in): 225 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/PA2v0NcEX-840X00Zh_vaw84KfK4cm5kK2A8fObN0OcSQpIIe9ye0egj2ay1ZG6HiNE_806FiVQdem6Vl7KY6GUJXGsBhYmR1K5-1m00?1688254721
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.059 seconds
+      Time to first byte: 0.039 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 522 Bytes
+      Response size (in): 396 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.065 seconds
+      Time to first byte: 0.052 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 458 Bytes
+      Response size (in): 438 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=1998212
+      Host: video-tub.yandex.ru
+      Result code: 304
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.044 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 488 Bytes
+      Response size (in): 48 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.almazkino.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.060 seconds
+      Time to first byte: 0.052 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 443 Bytes
+      Response size (in): 151 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.kino.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.056 seconds
+      Time to first byte: 0.051 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 438 Bytes
+      Response size (in): 151 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://afisha.yandex.ru/media/events/images/thumbnails/98f6ec10cb97fab0c6a322ef160e3f22_186x104.jpeg
+      Host: afisha.yandex.ru
+      Result code: 304
+      Transaction time: 0.048 seconds
+      Time to first byte: 0.048 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 558 Bytes
+      Response size (in): 226 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://clck.yandex.ru/click/dtype=yabs/id=65/key=pack/*?1688254721
+      Host: clck.yandex.ru
+      Result code: 200
+      Transaction time: 0.026 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 445 Bytes
+      Response size (in): 131 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.oru.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 437 Bytes
+      Response size (in): 151 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.moscowout.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 443 Bytes
+      Response size (in): 151 Bytes
+

@@ -1,0 +1,516 @@
+Results for 'https://passport.yandex.ru/passport?mode=auth':
+
+Page load time: 2.319 seconds
+Time to first byte: 0.083 seconds
+Time to Base Page Downloaded: 0.138 seconds
+Time to Start Render: 2.660 seconds
+Time to Document Complete: 2.319 seconds
+Time to Fully Loaded: 2.886 seconds
+Bytes sent out: 19.482 KB
+Bytes received: 387.993 KB
+DNS Lookups: 7
+Connections: 14
+Requests: 41
+   OK Requests:  35
+   Redirects:    6
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 302
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: POST
+      Url: https://passport.yandex.ru/passport?mode=auth
+      Host: passport.yandex.ru
+      Result code: 302
+      Transaction time: 0.087 seconds
+      Time to first byte: 0.082 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 861 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: POST
+      Url: http://passport-ckicheck.yandex.ru/passport?mode=ckicheck&idkey=0Ae1244015923JWm64JFZ3&ncrnd=465854
+      Host: passport-ckicheck.yandex.ru
+      Result code: 302
+      Transaction time: 0.052 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 1
+      Request size (out): 1029 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://pass.yandex.ru/login?retpath=http%3a%2f%2fmail%2eyandex%2eru%2f%3ffrom%3dmail%26r%3did43198992&ncrnd=273931
+      Host: pass.yandex.ru
+      Result code: 302
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.014 seconds
+      Document: 2
+      Socket: 6
+      Request size (out): 959 Bytes
+      Response size (in): 421 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://mail.yandex.ru/?from=mail&r=id43198992&ncrnd=1140
+      Host: mail.yandex.ru
+      Result code: 302
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.029 seconds
+      Document: 2
+      Socket: 4
+      Request size (out): 900 Bytes
+      Response size (in): 481 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://mail.yandex.ru/neo/messages_thread?d=id25189730
+      Host: mail.yandex.ru
+      Result code: 200
+      Transaction time: 0.181 seconds
+      Time to first byte: 0.174 seconds
+      Document: 2
+      Socket: 4
+      Request size (out): 898 Bytes
+      Response size (in): 402 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/css/m-ie6.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.088 seconds
+      Time to first byte: 0.014 seconds
+      Document: 2
+      Socket: 8
+      Request size (out): 356 Bytes
+      Response size (in): 66694 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/css/page-inbox.ie.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.091 seconds
+      Time to first byte: 0.027 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 364 Bytes
+      Response size (in): 16427 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/css/theme/orange/theme-page-inbox.ie.css
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.004 seconds
+      Document: 2
+      Socket: 8
+      Request size (out): 383 Bytes
+      Response size (in): 5754 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/js/etc/jquery/jquery.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.172 seconds
+      Time to first byte: 0.008 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 366 Bytes
+      Response size (in): 120439 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/js/lego.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.005 seconds
+      Document: 2
+      Socket: 8
+      Request size (out): 353 Bytes
+      Response size (in): 10412 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/js_texts/ru/Mail_js.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.013 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 365 Bytes
+      Response size (in): 8683 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/js/Mail.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.068 seconds
+      Time to first byte: 0.004 seconds
+      Document: 2
+      Socket: 8
+      Request size (out): 353 Bytes
+      Response size (in): 77498 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/js/pages/messages.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.007 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 363 Bytes
+      Response size (in): 24634 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/js_texts/ru/messages_js.js
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.004 seconds
+      Document: 2
+      Socket: 8
+      Request size (out): 369 Bytes
+      Response size (in): 1555 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-head-logo/b-head-logo.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.368 seconds
+      Time to first byte: 0.018 seconds
+      Document: 2
+      Socket: 19
+      Request size (out): 378 Bytes
+      Response size (in): 1689 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://upics.yandex.net/get/te-us/small
+      Host: upics.yandex.net
+      Result code: 302
+      Transaction time: 0.359 seconds
+      Time to first byte: 0.019 seconds
+      Document: 2
+      Socket: 8
+      Request size (out): 343 Bytes
+      Response size (in): 244 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/Lr5A34fyJBi40X00ZhE8Og84N0kL0Pi1RqWZYAZFz0MIelE51ugfuR84aA0V0jwHlRk0jGsJXGsBgP8n7K5w1W00?rnd=1464945164
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.339 seconds
+      Time to first byte: 0.008 seconds
+      Document: 2
+      Socket: 14
+      Request size (out): 772 Bytes
+      Response size (in): 498 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/progress.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.008 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 357 Bytes
+      Response size (in): 828 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/ico-close.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.011 seconds
+      Document: 2
+      Socket: 8
+      Request size (out): 358 Bytes
+      Response size (in): 359 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/service/mail/block/b-head-logo/b-head-logo.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.007 seconds
+      Document: 2
+      Socket: 17
+      Request size (out): 384 Bytes
+      Response size (in): 1817 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.012 seconds
+      Document: 2
+      Socket: 16
+      Request size (out): 419 Bytes
+      Response size (in): 438 Bytes
+
+Request 22:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/theme/orange/dialog.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.005 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 368 Bytes
+      Response size (in): 1252 Bytes
+
+Request 23:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/theme/logo-bg.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.028 seconds
+      Time to first byte: 0.018 seconds
+      Document: 2
+      Socket: 20
+      Request size (out): 362 Bytes
+      Response size (in): 839 Bytes
+
+Request 24:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/5iyU_k^7oLdpEF736u4e7w.gif
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.011 seconds
+      Document: 2
+      Socket: 14
+      Request size (out): 731 Bytes
+      Response size (in): 20612 Bytes
+
+Request 25:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/teasers/feedback/bg.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.013 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 368 Bytes
+      Response size (in): 3492 Bytes
+
+Request 26:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.013 seconds
+      Document: 2
+      Socket: 17
+      Request size (out): 303 Bytes
+      Response size (in): 1024 Bytes
+
+Request 27:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/teasers/feedback/tr.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.009 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 368 Bytes
+      Response size (in): 334 Bytes
+
+Request 28:
+      Action: GET
+      Url: http://default.avatars.yandex.net/it/46-small
+      Host: default.avatars.yandex.net
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.004 seconds
+      Document: 2
+      Socket: 24
+      Request size (out): 349 Bytes
+      Response size (in): 3991 Bytes
+
+Request 29:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/teasers/feedback/br.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.014 seconds
+      Document: 2
+      Socket: 20
+      Request size (out): 368 Bytes
+      Response size (in): 348 Bytes
+
+Request 30:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-head-tabs/_theme/b-head-tabs_grey.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.010 seconds
+      Document: 2
+      Socket: 19
+      Request size (out): 304 Bytes
+      Response size (in): 404 Bytes
+
+Request 31:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/theme/orange/folder-icons.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.007 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 374 Bytes
+      Response size (in): 1031 Bytes
+
+Request 32:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/service/mail/block/b-head-toolbar/b-head-toolbar.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.003 seconds
+      Document: 2
+      Socket: 17
+      Request size (out): 304 Bytes
+      Response size (in): 1024 Bytes
+
+Request 33:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/theme/orange/fade.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 2
+      Socket: 20
+      Request size (out): 280 Bytes
+      Response size (in): 1024 Bytes
+
+Request 34:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/b-round/b-round.001.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.004 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 282 Bytes
+      Response size (in): 1024 Bytes
+
+Request 35:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/theme/orange/folders-fade.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.008 seconds
+      Document: 2
+      Socket: 20
+      Request size (out): 288 Bytes
+      Response size (in): 703 Bytes
+
+Request 36:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34926/i/icons.png
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.047 seconds
+      Time to first byte: 0.004 seconds
+      Document: 2
+      Socket: 9
+      Request size (out): 268 Bytes
+      Response size (in): 1024 Bytes
+
+Request 37:
+      Action: GET
+      Url: http://pass.yandex.ru/services?callback=jsonp1244014725390&_=1244014726843&locale=ru&login=yes
+      Host: pass.yandex.ru
+      Result code: 200
+      Transaction time: 0.533 seconds
+      Time to first byte: 0.528 seconds
+      Document: 2
+      Socket: 26
+      Request size (out): 768 Bytes
+      Response size (in): 409 Bytes
+
+Request 38:
+      Action: POST
+      Url: http://mail.yandex.ru/neo/informers/news
+      Host: mail.yandex.ru
+      Result code: 200
+      Transaction time: 0.434 seconds
+      Time to first byte: 0.434 seconds
+      Document: 2
+      Socket: 4
+      Request size (out): 793 Bytes
+      Response size (in): 933 Bytes
+
+Request 39:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=45472&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.015 seconds
+      Document: 0
+      Socket: 31
+      Request size (out): 714 Bytes
+      Response size (in): 6225 Bytes
+
+Request 40:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=45577&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.013 seconds
+      Document: 0
+      Socket: 30
+      Request size (out): 714 Bytes
+      Response size (in): 4876 Bytes
+
+Request 41:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=45626&n=3
+      Host: neim-tub.yandex.ru
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.015 seconds
+      Document: 0
+      Socket: 30
+      Request size (out): 714 Bytes
+      Response size (in): 5415 Bytes
+

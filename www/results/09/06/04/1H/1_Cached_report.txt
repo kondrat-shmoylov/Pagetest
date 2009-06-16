@@ -1,0 +1,443 @@
+Results for 'http://mail.ru/':
+
+Page load time: 0.837 seconds
+Time to first byte: 0.125 seconds
+Time to Base Page Downloaded: 0.134 seconds
+Time to Start Render: 0.281 seconds
+Time to Document Complete: 0.837 seconds
+Time to Fully Loaded: 1.029 seconds
+Bytes sent out: 14.557 KB
+Bytes received: 72.523 KB
+DNS Lookups: 9
+Connections: 13
+Requests: 35
+   OK Requests:  32
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        1 (204)
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://mail.ru/
+      Host: mail.ru
+      Result code: 200
+      Transaction time: 0.134 seconds
+      Time to first byte: 0.037 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 681 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://mail.radar.imgsmail.ru/update?p=mail0&t=main&v=0&rnd=927552771
+      Host: mail.radar.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.195 seconds
+      Time to first byte: 0.181 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 334 Bytes
+      Response size (in): 272 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://top3.mail.ru/counter?id=110605;js=13;r=;j=true;s=1024*768;d=32;rand=0.8154945805273874
+      Host: top3.mail.ru
+      Result code: 200
+      Transaction time: 0.161 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 454 Bytes
+      Response size (in): 527 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://counter.rambler.ru/top100.cnt?260606
+      Host: counter.rambler.ru
+      Result code: 200
+      Transaction time: 0.155 seconds
+      Time to first byte: 0.026 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 348 Bytes
+      Response size (in): 960 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****mail_ru/ru/CP1251/tmsec=mail_main/
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.112 seconds
+      Time to first byte: 0.049 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 375 Bytes
+      Response size (in): 438 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://counter.yadro.ru/hit?r;s1024*768*32;uhttp%3A//mail.ru/;0.7805840194586577
+      Host: counter.yadro.ru
+      Result code: 302
+      Transaction time: 0.080 seconds
+      Time to first byte: 0.051 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 390 Bytes
+      Response size (in): 468 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://rs.mail.ru/b7732393.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.075 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 416 Bytes
+      Response size (in): 1767 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://rs.mail.ru/b7732394.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.103 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 416 Bytes
+      Response size (in): 2083 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=169755&bt=21&pid=319929&bid=609880&bn=609880&rnd=2060000533
+      Host: ad.adriver.ru
+      Result code: 204
+      Transaction time: 0.104 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 394 Bytes
+      Response size (in): 381 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://counter.yadro.ru/hit?q;r;s1024*768*32;uhttp%3A//mail.ru/;0.7805840194586577
+      Host: counter.yadro.ru
+      Result code: 200
+      Transaction time: 0.039 seconds
+      Time to first byte: 0.038 seconds
+      Document: 1
+      Socket: 24
+      Request size (out): 373 Bytes
+      Response size (in): 263 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://rs.mail.ru/b7732395.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 416 Bytes
+      Response size (in): 1313 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://engine.awaps.net/8/7185/300300.?25833-0-25833-0-la:0p:39922&swfcode=6&awcode=55&subsection=0&flash=8
+      Host: engine.awaps.net
+      Result code: 302
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 372 Bytes
+      Response size (in): 662 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://rs.mail.ru/b7732396.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 416 Bytes
+      Response size (in): 1460 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://rs.mail.ru/b7577691.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 416 Bytes
+      Response size (in): 1583 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://rs.mail.ru/b7582111.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 416 Bytes
+      Response size (in): 1672 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://rs.mail.ru/b7634941.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 416 Bytes
+      Response size (in): 1633 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://engine.awaps.net/8/7185/300300.?25833-0-177466134-1-a:0p:39922&profileredir=1&swfcode=6&awcode=55&subsection=0&flash=8
+      Host: engine.awaps.net
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 426 Bytes
+      Response size (in): 4071 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://rs.mail.ru/b7726470.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 416 Bytes
+      Response size (in): 2462 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://rs.mail.ru/b7733218.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 416 Bytes
+      Response size (in): 4850 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://engine.awaps.net/0/7185/03000300.swf?0-0-10083-0-la:74934p:39922&swfcode=6&awcode=1&link1=http://engine.awaps.net/1/7185/03000300.swf?0-0-0-0-la:74934p:39922&link2=http://engine.awaps.net/1/7185/03000300.swf?0-1-0-0-la:74934p:39922&link3=http://engine.awaps.net/1/7185/03000300.swf?0-2-0-0-la:74934p:39922&link4=http://engine.awaps.net/1/7185/03000300.swf?0-3-0-0-la:74934p:39922&link5=http://engine.awaps.net/1/7185/03000300.swf?0-4-0-0-la:74934p:39922&link6=http://engine.awaps.net/1/7185/03000300.swf?0-5-0-0-la:74934p:39922
+      Host: engine.awaps.net
+      Result code: 200
+      Transaction time: 0.244 seconds
+      Time to first byte: 0.207 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 867 Bytes
+      Response size (in): 1024 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://rs.mail.ru/b6588619.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.039 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 415 Bytes
+      Response size (in): 7816 Bytes
+
+Request 22:
+      Action: GET
+      Url: http://rs.mail.ru/b6727155.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 415 Bytes
+      Response size (in): 2191 Bytes
+
+Request 23:
+      Action: GET
+      Url: http://mail.radar.imgsmail.ru/update?p=mail&t=main&v=500&i=&rnd=178593047
+      Host: mail.radar.imgsmail.ru
+      Result code: 200
+      Transaction time: 0.045 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 36
+      Request size (out): 338 Bytes
+      Response size (in): 272 Bytes
+
+Request 24:
+      Action: GET
+      Url: http://rs.mail.ru/b6727110.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.034 seconds
+      Time to first byte: 0.032 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 415 Bytes
+      Response size (in): 2187 Bytes
+
+Request 25:
+      Action: GET
+      Url: http://rs.mail.ru/b7735100.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.103 seconds
+      Time to first byte: 0.101 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 415 Bytes
+      Response size (in): 3762 Bytes
+
+Request 26:
+      Action: GET
+      Url: http://rs.mail.ru/b7734829.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 415 Bytes
+      Response size (in): 3876 Bytes
+
+Request 27:
+      Action: GET
+      Url: http://rs.mail.ru/b7734967.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 415 Bytes
+      Response size (in): 3415 Bytes
+
+Request 28:
+      Action: GET
+      Url: http://rs.mail.ru/b7735106.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.008 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 415 Bytes
+      Response size (in): 3209 Bytes
+
+Request 29:
+      Action: GET
+      Url: http://rs.mail.ru/b7723649.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 415 Bytes
+      Response size (in): 2672 Bytes
+
+Request 30:
+      Action: GET
+      Url: http://rs.mail.ru/b7551390.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 415 Bytes
+      Response size (in): 2677 Bytes
+
+Request 31:
+      Action: GET
+      Url: http://rs.mail.ru/b7214362.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 415 Bytes
+      Response size (in): 2590 Bytes
+
+Request 32:
+      Action: GET
+      Url: http://rs.mail.ru/b7213702.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 415 Bytes
+      Response size (in): 1573 Bytes
+
+Request 33:
+      Action: GET
+      Url: http://rs.mail.ru/b7735100.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.005 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 415 Bytes
+      Response size (in): 3761 Bytes
+
+Request 34:
+      Action: GET
+      Url: http://rs.mail.ru/b7723649.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.008 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 415 Bytes
+      Response size (in): 2673 Bytes
+
+Request 35:
+      Action: GET
+      Url: http://rs.mail.ru/b7551390.jpg
+      Host: rs.mail.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.004 seconds
+      Document: 0
+      Socket: 26
+      Request size (out): 415 Bytes
+      Response size (in): 2677 Bytes
+

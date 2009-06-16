@@ -1,0 +1,141 @@
+Optimization Report : 06/05/09 at 20:02:24
+
+Results for 'http://yandex.ru/yandsearch?text=iRiver%20T10%202Gb&i-m-a-hacker=1':
+
+Page load time: 1.538 seconds
+Time to first byte: 0.108 seconds
+Time to Base Page Downloaded: 0.343 seconds
+Time to Start Render: 0.745 seconds
+Time to Document Complete: 1.538 seconds
+Time to Fully Loaded: 1.538 seconds
+Bytes sent out: 12.040 KB
+Bytes received: 89.668 KB
+DNS Lookups: 11
+Connections: 17
+Requests: 31
+   OK Requests:  29
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://im6-tub.yandex.net/i?id=17072697&tov=6
+    FAILED  (No max-age or expires) - http://video-tub.yandex.ru/i?&tov=0&id=4947403
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/3UDmzum2EUFxFAEVMhh^pA.swf?rnd=372885&link1=http://yabs.yandex.ru/count/UqDmqY66Fai40X00Zh4PbA84KfK2cm9kKYq1CuYe7Ca5YP-_2PAaOqe7YgUjWmID0P6-uANs3u-cJ0ipdxE791K1auKDYwKGmXj2e9WQ1di8
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/flashldr006.js
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/spacer.gif
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.js
+    WARNING (7.0 days) - http://mdata.yandex.ru/i?ctype=1&path=b0619030935__irivert10_small.jpg&size=2
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/hotline.ua
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/i-sales.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/sidex.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.cams.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.diamondelectric.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.e-katalog.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.ecam.com.ua
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.mobile-review.com
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.pleer.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.technoff.ru
+  Cache score : 55
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/hotline.ua
+    FAILED - http://favicon.yandex.net/favicon/i-sales.ru
+    FAILED - http://favicon.yandex.net/favicon/sidex.ru
+    FAILED - http://favicon.yandex.net/favicon/www.cams.ru
+    FAILED - http://favicon.yandex.net/favicon/www.diamondelectric.ru
+    FAILED - http://favicon.yandex.net/favicon/www.e-katalog.ru
+    FAILED - http://favicon.yandex.net/favicon/www.ecam.com.ua
+    FAILED - http://favicon.yandex.net/favicon/www.mobile-review.com
+    FAILED - http://favicon.yandex.net/favicon/www.pleer.ru
+    FAILED - http://favicon.yandex.net/favicon/www.technoff.ru
+    FAILED - http://im6-tub.yandex.net/i?id=17072697&tov=6
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/stars-1.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://mdata.yandex.ru/i?ctype=1&path=b0619030935__irivert10_small.jpg&size=2
+    FAILED - http://video-tub.yandex.ru/i?&tov=0&id=4947403
+    FAILED - http://yabs.yandex.ru/resource/3UDmzum2EUFxFAEVMhh^pA.swf?rnd=372885&link1=http://yabs.yandex.ru/count/UqDmqY66Fai40X00Zh4PbA84KfK2cm9kKYq1CuYe7Ca5YP-_2PAaOqe7YgUjWmID0P6-uANs3u-cJ0ipdxE791K1auKDYwKGmXj2e9WQ1di8
+    FAILED - http://yabs.yandex.ru/resource/flashldr006.js
+    FAILED - http://yabs.yandex.ru/resource/spacer.gif
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 90
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.4 KB, compressed = 5.5 KB - savings of 16.9 KB) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED (11.9 KB, compressed = 4.8 KB - savings of 7.1 KB) - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED (2.2 KB, compressed = 0.9 KB - savings of 1.3 KB) - http://yabs.yandex.ru/resource/flashldr006.js
+  GZIP score : 33
+    37.9 KB total in compressible text, target size = 12.6 KB - potential savings = 25.3 KB
+
+Compress Images:
+    FAILED  (7.1 KB, target = 2.6 KB - savings of 4.5 KB)- http://mdata.yandex.ru/i?ctype=1&path=b0619030935__irivert10_small.jpg&size=2
+    FAILED  (6.1 KB, target = 4.0 KB - savings of 2.1 KB)- http://video-tub.yandex.ru/i?&tov=0&id=4947403
+    WARNING (3.5 KB, target = 2.6 KB - savings of 0.9 KB)- http://im6-tub.yandex.net/i?id=17072697&tov=6
+  Image Compression score : 71
+    26.2 KB total in images, target size = 18.7 KB - potential savings = 7.5 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+  Keep-Alive score : 79
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 26 bytes) - http://mdata.yandex.ru/i?ctype=1&path=b0619030935__irivert10_small.jpg&size=2
+      cookie:yandexuid=8649271244217745
+    FAILED (Static object with 1 cookies - 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=4947403
+      cookie:yandexuid=8649271244217745
+    FAILED (Static object with 2 cookies - 63 bytes) - http://yabs.yandex.ru/resource/spacer.gif
+      cookie:yandexuid=8649271244217745
+      cookie: yabs-frequency=/2/nv5SmEC4F0000G00/
+    FAILED (Static object with 1 cookies - 26 bytes) - http://yabs.yandex.ru/resource/flashldr006.js
+      cookie:yandexuid=8649271244217745
+    FAILED (Static object with 1 cookies - 26 bytes) - http://yabs.yandex.ru/resource/3UDmzum2EUFxFAEVMhh^pA.swf?rnd=372885&link1=http://yabs.yandex.ru/count/UqDmqY66Fai40X00Zh4PbA84KfK2cm9kKYq1CuYe7Ca5YP-_2PAaOqe7YgUjWmID0P6-uANs3u-cJ0ipdxE791K1auKDYwKGmXj2e9WQ1di8
+      cookie:yandexuid=8649271244217745
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=8649271244217745
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=828A06054A294191X1244217745
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/UqDmqZqH2Ai40X00Zh4PbA84KfK2cm9kKYq1CuYe7Ca5YP-_2PAaOqe7YgUjWmID0P6-uANs3u-cJ0ipdxE791K1auKDYwSGmXj1Z9WQ1g2O6WP_2000
+      cookie:yandexuid=8649271244217745
+  Cookie score : 79
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.2 KB
+
+Minify JS:
+  Minify score : 100
+    14.1 KB total in minifiable text, target size = 14.1 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/stars-1.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://mdata.yandex.ru/i?ctype=1&path=b0619030935__irivert10_small.jpg&size=2
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 61
+
+JQuery Selectors not descended from an ID:
+  No problems found

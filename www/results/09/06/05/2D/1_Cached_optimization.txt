@@ -1,0 +1,90 @@
+Optimization Report : 06/05/09 at 16:00:59
+
+Results for 'http://yandex.ru/yandsearch?text=Sony-Ericsson%20K810i':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 1.510 seconds
+Time to first byte: 0.126 seconds
+Time to Base Page Downloaded: 0.143 seconds
+Time to Start Render: 0.406 seconds
+Time to Document Complete: 1.510 seconds
+Time to Fully Loaded: 1.510 seconds
+Bytes sent out: 6.838 KB
+Bytes received: 26.692 KB
+DNS Lookups: 10
+Connections: 10
+Requests: 12
+   OK Requests:  4
+   Redirects:    2
+   Not Modified: 5
+   Not Found:    1
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (0 seconds) - http://export.yandex.ru/geoselectorData.xml
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/fc02.swf
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://export.yandex.ru/geoselectorData.xml
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (24.0 KB, compressed = 7.4 KB - savings of 16.6 KB) - http://export.yandex.ru/geoselectorData.xml
+  GZIP score : 30
+    24.0 KB total in compressible text, target size = 7.4 KB - potential savings = 16.6 KB
+
+Compress Images:
+  Image Compression score : 100
+    0.1 KB total in images, target size = 0.1 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 176 bytes) - http://export.yandex.ru/geoselectorData.xml
+      cookie:yandexuid=4555651244203249
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+    FAILED (Static object with 2 cookies - 176 bytes) - http://yabs.yandex.ru/resource/fc02.swf
+      cookie:yandexuid=4555651244203249
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (2 cookies, 176 bytes) - http://bscork.yandex.ru/su/
+      cookie:yandexuid=4555651244203249
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (2 cookies, 176 bytes) - http://clck.yandex.ru/click/dtype=yabs/id=53/key=pack/*?1045016512
+      cookie:yandexuid=4555651244203249
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (2 cookies, 176 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=4555651244203249
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (2 cookies, 176 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=9744399
+      cookie:yandexuid=4555651244203249
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=D7F704024A2908F2X1244203250
+   WARNING (2 cookies, 176 bytes) - http://yabs.yandex.ru/count/Faclm5sTh_y40X00Zh2FaA84KfK4cm5kK2A8g8XN0OcNX0EIffee0egd1qy1ZG6Hk_0TPmEFeO2Oiv-pGpL529E53Oki8Xi5GNq7?1045016512
+      cookie:yandexuid=4555651244203249
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (2 cookies, 176 bytes) - http://yabs.yandex.ru/resource/fc02.html
+      cookie:yandexuid=4555651244203249
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (1 cookies, 32 bytes) - http://yandex.tns-counter.ru/V13a****yandex_ru/ru/UTF-8/tmsec=yandex_media3/
+      cookie:guid=D7F704024A2908F2X1244203250
+  Cookie score : 50
+    1.4 KB total in outbound cookies, target size = 1.1 KB - potential savings = 0.3 KB
+
+Minify JS:
+  Minify score : 100
+    24.0 KB total in minifiable text, target size = 24.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

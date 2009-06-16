@@ -1,0 +1,971 @@
+Results for 'http://fotki.yandex.ru/':
+
+Page load time: 3.725 seconds
+Time to first byte: 0.239 seconds
+Time to Base Page Downloaded: 0.338 seconds
+Time to Start Render: 4.262 seconds
+Time to Document Complete: 3.725 seconds
+Time to Fully Loaded: 3.725 seconds
+Bytes sent out: 29.581 KB
+Bytes received: 434.891 KB
+DNS Lookups: 6
+Connections: 13
+Requests: 79
+   OK Requests:  78
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://fotki.yandex.ru/
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.338 seconds
+      Time to first byte: 0.090 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 530 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://fotki.yandex.ru/css/_fotki.ie.css?build=3c63ad4ed0b35be35b31e89b587c10fe
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.121 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 452 Bytes
+      Response size (in): 20651 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://js.static.yandex.net/jquery/1.3.2/_jquery.js
+      Host: js.static.yandex.net
+      Result code: 200
+      Transaction time: 0.055 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 324 Bytes
+      Response size (in): 20084 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/js/_common.js
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.026 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 327 Bytes
+      Response size (in): 3605 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://fotki.yandex.ru/js/common.ru.js
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 411 Bytes
+      Response size (in): 2291 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://fotki.yandex.ru/js/c/lora.js?build=4db4b17d63029a4dfcc569e0090d5dfa
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 447 Bytes
+      Response size (in): 12336 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://fotki.yandex.ru/js/c/lora-jquery.js?build=4db4b17d63029a4dfcc569e0090d5dfa
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.047 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 454 Bytes
+      Response size (in): 58016 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://fotki.yandex.ru/js/podvote.ru.js
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 412 Bytes
+      Response size (in): 364 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://fotki.yandex.ru/js/c/podvote.js
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 411 Bytes
+      Response size (in): 672 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-head-logo/b-head-logo.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.061 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 347 Bytes
+      Response size (in): 1689 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://img.yandex.net/i/service/fotki/block/b-button.gif
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.092 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 329 Bytes
+      Response size (in): 2333 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/maks11223344_64041_XXXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.051 seconds
+      Time to first byte: 0.032 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 386 Bytes
+      Response size (in): 1919 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/generalsmirnov_49844_XXXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.048 seconds
+      Time to first byte: 0.034 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 388 Bytes
+      Response size (in): 2016 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://img.yandex.net/i/icons.png
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.218 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 21
+      Request size (out): 306 Bytes
+      Response size (in): 3826 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://fotki.yandex.ru/i/li.gif
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 404 Bytes
+      Response size (in): 258 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-foot/design/b-foot.design.2007.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 356 Bytes
+      Response size (in): 763 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_fotki/0
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.122 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 347 Bytes
+      Response size (in): 608 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/volf3335_156652_XXXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.046 seconds
+      Time to first byte: 0.026 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 383 Bytes
+      Response size (in): 2227 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/vitalij-nezgoda_44627_XXXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.049 seconds
+      Time to first byte: 0.047 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 389 Bytes
+      Response size (in): 2086 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/service/fotki/block/b-head-logo/b-head-logo.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.041 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 354 Bytes
+      Response size (in): 5137 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/shef007_43331_L
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.100 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 378 Bytes
+      Response size (in): 87806 Bytes
+
+Request 22:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/vadman80_46973_S1
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 380 Bytes
+      Response size (in): 5853 Bytes
+
+Request 23:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_fotki/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 25
+      Request size (out): 389 Bytes
+      Response size (in): 438 Bytes
+
+Request 24:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/baksiku_47807_S1
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.026 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 379 Bytes
+      Response size (in): 4328 Bytes
+
+Request 25:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/nzah2003_271320_S1
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 381 Bytes
+      Response size (in): 5257 Bytes
+
+Request 26:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/arkuzo_147409_S1
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.051 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 379 Bytes
+      Response size (in): 4915 Bytes
+
+Request 27:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/nickos-foto_208934_S1
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.047 seconds
+      Time to first byte: 0.045 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 384 Bytes
+      Response size (in): 4791 Bytes
+
+Request 28:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/donmarianna_35928_S1
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 383 Bytes
+      Response size (in): 5518 Bytes
+
+Request 29:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/gen2277_158648_S1
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 380 Bytes
+      Response size (in): 7024 Bytes
+
+Request 30:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/vd-desig52_148736_S1
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 383 Bytes
+      Response size (in): 5524 Bytes
+
+Request 31:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/shunk_163502_S1
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 378 Bytes
+      Response size (in): 4698 Bytes
+
+Request 32:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/helga-oa_51775_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 381 Bytes
+      Response size (in): 3835 Bytes
+
+Request 33:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/espaniola-5_186559_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 385 Bytes
+      Response size (in): 3338 Bytes
+
+Request 34:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/espaniola-5_186558_1_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 387 Bytes
+      Response size (in): 4688 Bytes
+
+Request 35:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/bumbarasik_51595_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 383 Bytes
+      Response size (in): 4581 Bytes
+
+Request 36:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/elena56948_144495_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 384 Bytes
+      Response size (in): 3888 Bytes
+
+Request 37:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/alka38_172272_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 380 Bytes
+      Response size (in): 3179 Bytes
+
+Request 38:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/tomcat11_188169_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 382 Bytes
+      Response size (in): 2634 Bytes
+
+Request 39:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/nikita0810_64890_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 383 Bytes
+      Response size (in): 3626 Bytes
+
+Request 40:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/matiki_202642_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 380 Bytes
+      Response size (in): 3291 Bytes
+
+Request 41:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/kirile001_159338_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 383 Bytes
+      Response size (in): 3588 Bytes
+
+Request 42:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/alier_206134_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 379 Bytes
+      Response size (in): 4022 Bytes
+
+Request 43:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/langhua_181998_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 381 Bytes
+      Response size (in): 4531 Bytes
+
+Request 44:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/penkinv_212989_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 381 Bytes
+      Response size (in): 3759 Bytes
+
+Request 45:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/chap-007_220860_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 382 Bytes
+      Response size (in): 3660 Bytes
+
+Request 46:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/ivinskaya_150516_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 383 Bytes
+      Response size (in): 2877 Bytes
+
+Request 47:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/balaxa555_201652_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 383 Bytes
+      Response size (in): 2655 Bytes
+
+Request 48:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/jufman_149181_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 380 Bytes
+      Response size (in): 3703 Bytes
+
+Request 49:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/antarien_147857_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 382 Bytes
+      Response size (in): 3606 Bytes
+
+Request 50:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/antarien_147856_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 382 Bytes
+      Response size (in): 4322 Bytes
+
+Request 51:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/angruzinov_156045_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 384 Bytes
+      Response size (in): 3955 Bytes
+
+Request 52:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/baza3740_151968_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 382 Bytes
+      Response size (in): 4001 Bytes
+
+Request 53:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/vla-konstantinov_173811_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 390 Bytes
+      Response size (in): 4908 Bytes
+
+Request 54:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/bumbarasik_50865_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 383 Bytes
+      Response size (in): 3962 Bytes
+
+Request 55:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/bumbarasik_50861_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 383 Bytes
+      Response size (in): 2896 Bytes
+
+Request 56:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/simakosha_183527_2_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 385 Bytes
+      Response size (in): 4592 Bytes
+
+Request 57:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/balaxa555_201563_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 383 Bytes
+      Response size (in): 3121 Bytes
+
+Request 58:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/mxgl_166022_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 378 Bytes
+      Response size (in): 2533 Bytes
+
+Request 59:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/andreyt17_145089_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 383 Bytes
+      Response size (in): 3064 Bytes
+
+Request 60:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/langhua_181997_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 381 Bytes
+      Response size (in): 4030 Bytes
+
+Request 61:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/belopolska_138623_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 384 Bytes
+      Response size (in): 2967 Bytes
+
+Request 62:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/ezumrud_162461_1_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 383 Bytes
+      Response size (in): 3663 Bytes
+
+Request 63:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/ilyalomakin_220849_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 385 Bytes
+      Response size (in): 4388 Bytes
+
+Request 64:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/fefilena_152213_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.014 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 382 Bytes
+      Response size (in): 3745 Bytes
+
+Request 65:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/dim1966_183163_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 381 Bytes
+      Response size (in): 3156 Bytes
+
+Request 66:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/panova928420_164243_1_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 388 Bytes
+      Response size (in): 4950 Bytes
+
+Request 67:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/composernesteroff_176842_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 391 Bytes
+      Response size (in): 2831 Bytes
+
+Request 68:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/hb37_168077_4_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 380 Bytes
+      Response size (in): 4185 Bytes
+
+Request 69:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/cheshirski-cat_182167_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 388 Bytes
+      Response size (in): 3715 Bytes
+
+Request 70:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/matiki_202674_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 380 Bytes
+      Response size (in): 2827 Bytes
+
+Request 71:
+      Action: GET
+      Url: http://img-fotki.yandex.ru/getx/10000/photoface.156/spb-bela-kryukova_150506_XXS
+      Host: img-fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 391 Bytes
+      Response size (in): 4307 Bytes
+
+Request 72:
+      Action: GET
+      Url: http://fotki.yandex.ru/i/tips.png
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 406 Bytes
+      Response size (in): 1574 Bytes
+
+Request 73:
+      Action: GET
+      Url: http://fotki.yandex.ru/i/li-eeeeee-lt.gif
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 414 Bytes
+      Response size (in): 328 Bytes
+
+Request 74:
+      Action: GET
+      Url: http://fotki.yandex.ru/i/li-eeeeee-rt.gif
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 414 Bytes
+      Response size (in): 328 Bytes
+
+Request 75:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-round/b-round.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 339 Bytes
+      Response size (in): 4458 Bytes
+
+Request 76:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-round/_border/b-round_cccccc.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 354 Bytes
+      Response size (in): 9214 Bytes
+
+Request 77:
+      Action: GET
+      Url: http://fotki.yandex.ru/i/new/screensaver-tizer.jpg
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 423 Bytes
+      Response size (in): 2351 Bytes
+
+Request 78:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 303 Bytes
+      Response size (in): 1024 Bytes
+
+Request 79:
+      Action: GET
+      Url: http://fotki.yandex.ru/i/morda-nic-fade.png
+      Host: fotki.yandex.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 361 Bytes
+      Response size (in): 415 Bytes
+

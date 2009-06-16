@@ -1,0 +1,72 @@
+Results for 'http://google.ru/search?q=%D0%E0%F1%EF%E8%F1%E0%ED%E8%E5%20%DF%F0%EE%F1%EB%E0%E2%F1%EA%EE%E3%EE%20%E2%EE%EA%E7%E0%EB%E0&hl=ru':
+
+Page load time: 0.639 seconds
+Time to first byte: 0.235 seconds
+Time to Base Page Downloaded: 0.639 seconds
+Time to Start Render: 0.605 seconds
+Time to Document Complete: 0.639 seconds
+Time to Fully Loaded: 0.841 seconds
+Bytes sent out: 3.056 KB
+Bytes received: 2.012 KB
+DNS Lookups: 3
+Connections: 3
+Requests: 4
+   OK Requests:  1
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://google.ru/search?q=%D0%E0%F1%EF%E8%F1%E0%ED%E8%E5%20%DF%F0%EE%F1%EB%E0%E2%F1%EA%EE%E3%EE%20%E2%EE%EA%E7%E0%EB%E0&hl=ru
+      Host: google.ru
+      Result code: 301
+      Transaction time: 0.235 seconds
+      Time to first byte: 0.080 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 855 Bytes
+      Response size (in): 696 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.google.ru/search?q=%D0%E0%F1%EF%E8%F1%E0%ED%E8%E5%20%DF%F0%EE%F1%EB%E0%E2%F1%EA%EE%E3%EE%20%E2%EE%EA%E7%E0%EB%E0&hl=ru
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.404 seconds
+      Time to first byte: 0.089 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 859 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=VCEpSqOIFZOGsAbS25TkCQ&e=17259,17315,18167,20572&rt=prt.125,ol.140,xjs.156
+      Host: www.google.ru
+      Result code: 204
+      Transaction time: 0.058 seconds
+      Time to first byte: 0.057 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 756 Bytes
+      Response size (in): 215 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://clients1.google.ru/generate_204
+      Host: clients1.google.ru
+      Result code: 204
+      Transaction time: 0.142 seconds
+      Time to first byte: 0.063 seconds
+      Document: 0
+      Socket: 11
+      Request size (out): 659 Bytes
+      Response size (in): 125 Bytes
+

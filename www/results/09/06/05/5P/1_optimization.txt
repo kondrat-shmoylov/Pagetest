@@ -1,0 +1,115 @@
+Optimization Report : 06/05/09 at 19:57:48
+
+Results for 'http://yandex.ru/yandsearch?text=%F0%E0%F1%EF%E8%F1%E0%ED%E8%E5%20%F0%EE%F1%F2%EE%E2%F1%EA%EE%E9%20%EE%EF%E5%F0%FB&i-m-a-hacker=1':
+
+Page load time: 1.165 seconds
+Time to first byte: 0.110 seconds
+Time to Base Page Downloaded: 0.464 seconds
+Time to Start Render: 1.087 seconds
+Time to Document Complete: 1.165 seconds
+Time to Fully Loaded: 1.165 seconds
+Bytes sent out: 10.313 KB
+Bytes received: 68.854 KB
+DNS Lookups: 9
+Connections: 14
+Requests: 23
+   OK Requests:  21
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.kafedra-smk.rostov.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.opera.permonline.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.rostovout.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.ruvr.ru
+    FAILED  (No max-age or expires) - http://im7-tub.yandex.net/i?id=83072244&tov=7
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/9eZs4JBHG5JitkQiH7SLfw.jpg
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/cl.gif
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.js
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/forum.webrostov.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.afisha.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.cultu.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.kp.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.regions.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.rzdmsk.ru
+  Cache score : 38
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/forum.webrostov.ru
+    FAILED - http://favicon.yandex.net/favicon/www.afisha.ru
+    FAILED - http://favicon.yandex.net/favicon/www.cultu.ru
+    FAILED - http://favicon.yandex.net/favicon/www.kafedra-smk.rostov.ru
+    FAILED - http://favicon.yandex.net/favicon/www.kp.ru
+    FAILED - http://favicon.yandex.net/favicon/www.opera.permonline.ru
+    FAILED - http://favicon.yandex.net/favicon/www.regions.ru
+    FAILED - http://favicon.yandex.net/favicon/www.rostovout.ru
+    FAILED - http://favicon.yandex.net/favicon/www.ruvr.ru
+    FAILED - http://favicon.yandex.net/favicon/www.rzdmsk.ru
+    FAILED - http://im7-tub.yandex.net/i?id=83072244&tov=7
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://yabs.yandex.ru/resource/9eZs4JBHG5JitkQiH7SLfw.jpg
+    FAILED - http://yabs.yandex.ru/resource/cl.gif
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.4 KB, compressed = 5.5 KB - savings of 16.9 KB) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED (11.9 KB, compressed = 4.8 KB - savings of 7.1 KB) - http://css.yandex.net/css/search/r13/_serp.js
+  GZIP score : 32
+    35.7 KB total in compressible text, target size = 11.7 KB - potential savings = 24.0 KB
+
+Compress Images:
+    WARNING (18.5 KB, target = 13.6 KB - savings of 4.9 KB)- http://yabs.yandex.ru/resource/9eZs4JBHG5JitkQiH7SLfw.jpg
+  Image Compression score : 82
+    28.6 KB total in images, target size = 23.7 KB - potential savings = 4.9 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+  Keep-Alive score : 70
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 59 bytes) - http://yabs.yandex.ru/resource/9eZs4JBHG5JitkQiH7SLfw.jpg
+      cookie:yandexuid=9831971244217470
+      cookie: yabs-frequency=/2/wKHV0EC48G00/
+    FAILED (Static object with 1 cookies - 26 bytes) - http://yabs.yandex.ru/resource/cl.gif
+      cookie:yandexuid=9831971244217470
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=9831971244217470
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=5EF506044A29407FX1244217471
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/Aj03pGJIOAa40X00Zhu7bA84KfK2cmTiFoq1YAbEz0MIeK-51uggRB84ZG6Ge1y2tf6pjKnm1fE53Oka9IuTGNm6?rnd=718275533
+      cookie:yandexuid=9831971244217470
+  Cookie score : 84
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.1 KB
+
+Minify JS:
+  Minify score : 100
+    11.9 KB total in minifiable text, target size = 11.9 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 73
+
+JQuery Selectors not descended from an ID:
+  No problems found

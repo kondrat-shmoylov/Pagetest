@@ -1,0 +1,180 @@
+Optimization Report : 06/03/09 at 11:54:35
+
+Results for 'https://passport.yandex.ru/passport?mode=auth':
+
+Page load time: 2.854 seconds
+Time to first byte: 0.054 seconds
+Time to Base Page Downloaded: 0.106 seconds
+Time to Start Render: 1.068 seconds
+Time to Document Complete: 2.854 seconds
+Time to Fully Loaded: 3.456 seconds
+Bytes sent out: 13.235 KB
+Bytes received: 31.128 KB
+DNS Lookups: 7
+Connections: 12
+Requests: 18
+   OK Requests:  8
+   Redirects:    6
+   Not Modified: 2
+   Not Found:    2
+   Other:        0
+Base Page Response: 302
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://pass.yandex.ru/services?callback=jsonp1244015671421&_=1244015673078&locale=ru&login=yes
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/flashldr006.js
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/spacer.gif
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/sR^QGjyG_XD1TkwB11NX6w.swf?rnd=133515&link1=http://yabs.yandex.ru/count/5HnY1BKbEjK40X00ZhN3Og84N0kL0Pi1RqWZY9uE8fAdAfm7YgZommIHke0eC0cJXGsBfuwc7KAWZVL_1G00
+  Cache score : 20
+
+Use one CDN for all static assets:
+    FAILED - http://mailstatic.yandex.net/neo/34698/i/teasers/feedback/bg.gif
+    FAILED - http://pass.yandex.ru/services?callback=jsonp1244015671421&_=1244015673078&locale=ru&login=yes
+    FAILED - http://yabs.yandex.ru/resource/flashldr006.js
+    FAILED - http://yabs.yandex.ru/resource/spacer.gif
+    FAILED - http://yabs.yandex.ru/resource/sR^QGjyG_XD1TkwB11NX6w.swf?rnd=133515&link1=http://yabs.yandex.ru/count/5HnY1BKbEjK40X00ZhN3Og84N0kL0Pi1RqWZY9uE8fAdAfm7YgZommIHke0eC0cJXGsBfuwc7KAWZVL_1G00
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (2.2 KB, compressed = 0.9 KB - savings of 1.3 KB) - http://yabs.yandex.ru/resource/flashldr006.js
+  GZIP score : 67
+    4.0 KB total in compressible text, target size = 2.7 KB - potential savings = 1.3 KB
+
+Compress Images:
+  Image Compression score : 100
+    3.2 KB total in images, target size = 3.2 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://pass.yandex.ru/services?callback=jsonp1244015671421&_=1244015673078&locale=ru&login=yes
+  Keep-Alive score : 83
+
+Proper cookie usage:
+    FAILED (Static object with 7 cookies - 360 bytes) - http://pass.yandex.ru/services?callback=jsonp1244015671421&_=1244015673078&locale=ru&login=yes
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+    FAILED (Static object with 7 cookies - 360 bytes) - http://yabs.yandex.ru/resource/flashldr006.js
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+    FAILED (Static object with 7 cookies - 360 bytes) - http://yabs.yandex.ru/resource/sR^QGjyG_XD1TkwB11NX6w.swf?rnd=133515&link1=http://yabs.yandex.ru/count/5HnY1BKbEjK40X00ZhN3Og84N0kL0Pi1RqWZY9uE8fAdAfm7YgZommIHke0eC0cJXGsBfuwc7KAWZVL_1G00
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+    FAILED (Static object with 7 cookies - 360 bytes) - http://yabs.yandex.ru/resource/spacer.gif
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 360 bytes) - http://neim-tub.yandex.ru/i?id=17236
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 360 bytes) - http://neim-tub.yandex.ru/i?id=52809
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 360 bytes) - http://neim-tub.yandex.ru/i?id=51850
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 360 bytes) - http://pampers.yandex.ru:2006/?from=mail&r=id35319897&ncrnd=3972
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 360 bytes) - http://pampers.yandex.ru:2006/neo/messages_thread?d=id2923700
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 360 bytes) - http://pampers.yandex.ru:2006/neo/informers/news
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 362 bytes) - http://pass.yandex.ru/login?retpath=http%3a%2f%2fpampers%2eyandex%2eru%3a2006%2f%3ffrom%3dmail%26r%3did35319897&ncrnd=925947
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.69047.024ec0c201fd5319194ddd78199887df
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 362 bytes) - http://passport-ckicheck.yandex.ru/passport?mode=ckicheck&idkey=14j1244016869qTZiBYI4b&ncrnd=351372
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.69047.024ec0c201fd5319194ddd78199887df
+      cookie: yandex_nickname=
+   WARNING (3 cookies, 210 bytes) - https://passport.yandex.ru/passport?mode=auth
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akJ8dEJLXARCb0QMRmdYcVMFZFp5AwF8OQtQNTwmKXs/JFMVBFM4G2QeNVgfQTQ3CDoMGBRRDxUYUBsFFSITeg==.1244015656.5196.244914.9babba876dbf3016c5208c13e17293f6
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/0
+      cookie:guid=879806014A262C25X1244015653
+   WARNING (7 cookies, 360 bytes) - http://yabs.yandex.ru/count/5HnY131f9mW40X00ZhN3Og84N0kL0Pi1RqWZY9uE8fAdAfm7YgZommIHke0eC0cJXGsBgOwc7K6CZVMWZVLw1W00
+      cookie:yandexuid=1753457281244015653
+      cookie: L=akIsdEdAVAVAYkYBQ2dYcVMFZFp5AANzOVsXbGE7eTIkbgoJQQwgHH4PNwVEGTExQCIKDhwOVAQFFQ1XViILeA==.1244015669.5196.289803.dd62bdc302016241fdd57b20be0d23bb
+      cookie: yabs-frequency=/2/-4nV0E448G00/
+      cookie: yandex_mail=te-us
+      cookie: yandex_login=te-us
+      cookie: Session_id=1244015669.0.0.55867781.2:152905355:0.58365.868.1993d257554e06215b50dfa7d9472535
+      cookie: yandex_nickname=
+  Cookie score : 47
+    4.8 KB total in outbound cookies, target size = 3.4 KB - potential savings = 1.4 KB
+
+Minify JS:
+  Minify score : 100
+    2.6 KB total in minifiable text, target size = 2.6 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://mailstatic.yandex.net/neo/34698/i/teasers/feedback/bg.gif
+  ETag score : 94
+
+JQuery Selectors not descended from an ID:
+  No problems found

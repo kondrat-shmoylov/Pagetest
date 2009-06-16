@@ -1,0 +1,130 @@
+Optimization Report : 06/09/09 at 09:43:34
+
+Results for 'http://pampers.yandex.ru:2006/':
+
+Page load time: 2.937 seconds
+Time to first byte: 0.183 seconds
+Time to Base Page Downloaded: 0.956 seconds
+Time to Start Render: 0.939 seconds
+Time to Document Complete: 2.937 seconds
+Time to Fully Loaded: 3.001 seconds
+Bytes sent out: 7.150 KB
+Bytes received: 23.248 KB
+DNS Lookups: 0
+Connections: 5
+Requests: 10
+   OK Requests:  5
+   Redirects:    3
+   Not Modified: 0
+   Not Found:    2
+   Other:        0
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://pass.yandex.ru/services?callback=jsonp1244526210171&_=1244526211546&locale=ru&login=yes
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/z6JvMA82CjOJtbAy_V54Tg.jpg
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://pass.yandex.ru/services?callback=jsonp1244526210171&_=1244526211546&locale=ru&login=yes
+    FAILED - http://yabs.yandex.ru/resource/z6JvMA82CjOJtbAy_V54Tg.jpg
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    2.1 KB total in compressible text, target size = 2.1 KB - potential savings = 0.0 KB
+
+Compress Images:
+    WARNING (18.8 KB, target = 12.7 KB - savings of 6.1 KB)- http://yabs.yandex.ru/resource/z6JvMA82CjOJtbAy_V54Tg.jpg
+  Image Compression score : 67
+    18.8 KB total in images, target size = 12.7 KB - potential savings = 6.1 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://yabs.yandex.ru/resource/z6JvMA82CjOJtbAy_V54Tg.jpg
+  Keep-Alive score : 66
+
+Proper cookie usage:
+    FAILED (Static object with 7 cookies - 422 bytes) - http://pass.yandex.ru/services?callback=jsonp1244526210171&_=1244526211546&locale=ru&login=yes
+      cookie:yandexuid=2435805251244526093
+      cookie: L=aH04f1NyBkBgb1l7QV0CWQtBdlRQeV9iIxUnGBIdARwZGkdOdBZEUUVmIhsBCAxlTlFcGF1FA1w5BisrJwogYA==.1244526148.5232.264568.8a216e4099ddbdd22a09b98968842678
+      cookie: yabs-frequency=/2/9qLV0ES48MdxNm3d127m-c00vmHXsZHY0ES48JWpOG3d19mPmM00vmHX7Z5Y0ES4Hm00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244526148.0.0.13458412.2:31287569:0.58507.2816.42cafa3f694d0b3efb5be3dbbb2c92d7
+      cookie: yandex_nickname=
+    FAILED (Static object with 7 cookies - 422 bytes) - http://yabs.yandex.ru/resource/z6JvMA82CjOJtbAy_V54Tg.jpg
+      cookie:yandexuid=2435805251244526093
+      cookie: L=aH04f1NyBkBgb1l7QV0CWQtBdlRQeV9iIxUnGBIdARwZGkdOdBZEUUVmIhsBCAxlTlFcGF1FA1w5BisrJwogYA==.1244526148.5232.264568.8a216e4099ddbdd22a09b98968842678
+      cookie: yabs-frequency=/2/9qLV0ES48MdxNm3d127m-c00vmHXsZHY0ES48JWpOG3d19mPmM00vmHX7Z5Y0ES4Hm00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244526148.0.0.13458412.2:31287569:0.58507.2816.42cafa3f694d0b3efb5be3dbbb2c92d7
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 422 bytes) - http://neim-tub.yandex.ru/i?id=52809
+      cookie:yandexuid=2435805251244526093
+      cookie: L=aH04f1NyBkBgb1l7QV0CWQtBdlRQeV9iIxUnGBIdARwZGkdOdBZEUUVmIhsBCAxlTlFcGF1FA1w5BisrJwogYA==.1244526148.5232.264568.8a216e4099ddbdd22a09b98968842678
+      cookie: yabs-frequency=/2/9qLV0ES48MdxNm3d127m-c00vmHXsZHY0ES48JWpOG3d19mPmM00vmHX7Z5Y0ES4Hm00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244526148.0.0.13458412.2:31287569:0.58507.2816.42cafa3f694d0b3efb5be3dbbb2c92d7
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 422 bytes) - http://neim-tub.yandex.ru/i?id=51850
+      cookie:yandexuid=2435805251244526093
+      cookie: L=aH04f1NyBkBgb1l7QV0CWQtBdlRQeV9iIxUnGBIdARwZGkdOdBZEUUVmIhsBCAxlTlFcGF1FA1w5BisrJwogYA==.1244526148.5232.264568.8a216e4099ddbdd22a09b98968842678
+      cookie: yabs-frequency=/2/9qLV0ES48MdxNm3d127m-c00vmHXsZHY0ES48JWpOG3d19mPmM00vmHX7Z5Y0ES4Hm00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244526148.0.0.13458412.2:31287569:0.58507.2816.42cafa3f694d0b3efb5be3dbbb2c92d7
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 422 bytes) - http://pampers.yandex.ru:2006/neo/informers/news
+      cookie:yandexuid=2435805251244526093
+      cookie: L=aH04f1NyBkBgb1l7QV0CWQtBdlRQeV9iIxUnGBIdARwZGkdOdBZEUUVmIhsBCAxlTlFcGF1FA1w5BisrJwogYA==.1244526148.5232.264568.8a216e4099ddbdd22a09b98968842678
+      cookie: yabs-frequency=/2/9qLV0ES48MdxNm3d127m-c00vmHXsZHY0ES48JWpOG3d19mPmM00vmHX7Z5Y0ES4Hm00/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244526148.0.0.13458412.2:31287569:0.58507.2816.42cafa3f694d0b3efb5be3dbbb2c92d7
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 410 bytes) - http://pampers.yandex.ru:2006/
+      cookie:yandexuid=2435805251244526093
+      cookie: L=aH04f1NyBkBgb1l7QV0CWQtBdlRQeV9iIxUnGBIdARwZGkdOdBZEUUVmIhsBCAxlTlFcGF1FA1w5BisrJwogYA==.1244526148.5232.264568.8a216e4099ddbdd22a09b98968842678
+      cookie: yabs-frequency=/2/QVjV0ES48V3wO03d167QD680vmGXE3DX0ES4d1d1O03d164UCM80vmH7/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244526148.0.0.13458412.2:31287569:0.58507.2816.42cafa3f694d0b3efb5be3dbbb2c92d7
+      cookie: yandex_nickname=
+   WARNING (7 cookies, 410 bytes) - http://pampers.yandex.ru:2006/neo/messages_thread?d=id37048887
+      cookie:yandexuid=2435805251244526093
+      cookie: L=aH04f1NyBkBgb1l7QV0CWQtBdlRQeV9iIxUnGBIdARwZGkdOdBZEUUVmIhsBCAxlTlFcGF1FA1w5BisrJwogYA==.1244526148.5232.264568.8a216e4099ddbdd22a09b98968842678
+      cookie: yabs-frequency=/2/QVjV0ES48V3wO03d167QD680vmGXE3DX0ES4d1d1O03d164UCM80vmH7/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244526148.0.0.13458412.2:31287569:0.58507.2816.42cafa3f694d0b3efb5be3dbbb2c92d7
+      cookie: yandex_nickname=
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/0
+      cookie:guid=42D506024A2DF60DX1244526093
+   WARNING (7 cookies, 410 bytes) - http://yabs.yandex.ru/count/SRaINWccVQu40X00Zh5etw84N0kL0Pi3RqWZYATIz0MIhbQ51uglSh84aA0V0jwHlF8KYWAJXGsBh48k7K5w1W00?rnd=1907954270
+      cookie:yandexuid=2435805251244526093
+      cookie: L=aH04f1NyBkBgb1l7QV0CWQtBdlRQeV9iIxUnGBIdARwZGkdOdBZEUUVmIhsBCAxlTlFcGF1FA1w5BisrJwogYA==.1244526148.5232.264568.8a216e4099ddbdd22a09b98968842678
+      cookie: yabs-frequency=/2/QVjV0ES48V3wO03d167QD680vmGXE3DX0ES4d1d1O03d164UCM80vmH7/
+      cookie: yandex_mail=jstester
+      cookie: yandex_login=jstester
+      cookie: Session_id=1244526148.0.0.13458412.2:31287569:0.58507.2816.42cafa3f694d0b3efb5be3dbbb2c92d7
+      cookie: yandex_nickname=
+  Cookie score : 50
+    3.3 KB total in outbound cookies, target size = 2.5 KB - potential savings = 0.8 KB
+
+Minify JS:
+  Minify score : 100
+    0.8 KB total in minifiable text, target size = 0.8 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

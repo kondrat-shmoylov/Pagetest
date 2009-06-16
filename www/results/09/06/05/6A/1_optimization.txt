@@ -1,0 +1,133 @@
+Optimization Report : 06/05/09 at 20:03:07
+
+Results for 'http://yandex.ru/yandsearch?text=Sony-Ericsson%20K810i&i-m-a-hacker=1':
+
+Page load time: 1.544 seconds
+Time to first byte: 0.103 seconds
+Time to Base Page Downloaded: 0.336 seconds
+Time to Start Render: 0.881 seconds
+Time to Document Complete: 1.544 seconds
+Time to Fully Loaded: 1.544 seconds
+Bytes sent out: 12.317 KB
+Bytes received: 65.476 KB
+DNS Lookups: 13
+Connections: 19
+Requests: 32
+   OK Requests:  29
+   Redirects:    3
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://im8-tub.yandex.net/i?id=36701195&tov=8
+    FAILED  (No max-age or expires) - http://video-tub.yandex.ru/i?&tov=0&id=9744399
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.js
+    WARNING (7.0 days) - http://mdata.yandex.ru/i?ctype=1&path=b0207215736__k8101l.jpg&size=2
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/mabila.ua
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/mnovosti.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/mobiguru.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/mobisoto.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.diamondelectric.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.digital.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.mforum.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.mobile-review.com
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.mobiset.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.sotmarket.ru
+  Cache score : 64
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/mabila.ua
+    FAILED - http://favicon.yandex.net/favicon/mnovosti.ru
+    FAILED - http://favicon.yandex.net/favicon/mobiguru.ru
+    FAILED - http://favicon.yandex.net/favicon/mobisoto.ru
+    FAILED - http://favicon.yandex.net/favicon/www.diamondelectric.ru
+    FAILED - http://favicon.yandex.net/favicon/www.digital.ru
+    FAILED - http://favicon.yandex.net/favicon/www.mforum.ru
+    FAILED - http://favicon.yandex.net/favicon/www.mobile-review.com
+    FAILED - http://favicon.yandex.net/favicon/www.mobiset.ru
+    FAILED - http://favicon.yandex.net/favicon/www.sotmarket.ru
+    FAILED - http://im8-tub.yandex.net/i?id=36701195&tov=8
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/specarr.gif
+    FAILED - http://img.yandex.net/i/stars-2.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://mdata.yandex.ru/i?ctype=1&path=b0207215736__k8101l.jpg&size=2
+    FAILED - http://video-tub.yandex.ru/i?&tov=0&id=9744399
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.4 KB, compressed = 5.5 KB - savings of 16.9 KB) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED (11.9 KB, compressed = 4.8 KB - savings of 7.1 KB) - http://css.yandex.net/css/search/r13/_serp.js
+  GZIP score : 32
+    35.7 KB total in compressible text, target size = 11.7 KB - potential savings = 24.0 KB
+
+Compress Images:
+    FAILED  (4.9 KB, target = 2.7 KB - savings of 2.1 KB)- http://video-tub.yandex.ru/i?&tov=0&id=9744399
+    WARNING (4.9 KB, target = 4.3 KB - savings of 0.6 KB)- http://im8-tub.yandex.net/i?id=36701195&tov=8
+  Image Compression score : 87
+    22.2 KB total in images, target size = 19.3 KB - potential savings = 2.9 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+    FAILED - http://yandex.tns-counter.ru/V13b****yandex_ru/ru/UTF-8/tmsec=yandex_media3/
+  Keep-Alive score : 73
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 26 bytes) - http://mdata.yandex.ru/i?ctype=1&path=b0207215736__k8101l.jpg&size=2
+      cookie:yandexuid=8689811244217788
+    FAILED (Static object with 1 cookies - 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=9744399
+      cookie:yandexuid=8689811244217788
+   WARNING (1 cookies, 26 bytes) - http://clck.yandex.ru/click/dtype=yabs/id=53/key=pack/*?554122291
+      cookie:yandexuid=8689811244217788
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=8689811244217788
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=F5A404004A2941BDX1244217789
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/8GSyCxDvSle40X00ZhmRbA84KfK4cm5kK2A8g8XN0OcNX0EIffee0egd1qy1ZG6Hk_0TPmEFeO2Oiv-pGpL529E53Oki8Xi5GNq7?554122291
+      cookie:yandexuid=8689811244217788
+   WARNING (1 cookies, 32 bytes) - http://yandex.tns-counter.ru/V13b****yandex_ru/ru/UTF-8/tmsec=yandex_media3/
+      cookie:guid=893206054A2941BDX1244217789
+  Cookie score : 85
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.1 KB
+
+Minify JS:
+  Minify score : 100
+    11.9 KB total in minifiable text, target size = 11.9 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/stars-2.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/video/duration.gif
+    FAILED - http://img.yandex.net/i/specarr.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://mdata.yandex.ru/i?ctype=1&path=b0207215736__k8101l.jpg&size=2
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 59
+
+JQuery Selectors not descended from an ID:
+  No problems found

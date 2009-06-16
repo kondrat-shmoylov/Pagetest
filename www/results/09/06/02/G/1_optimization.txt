@@ -1,0 +1,329 @@
+Optimization Report : 06/02/09 at 20:38:41
+
+Results for 'http://maps.yandex.ru/':
+
+Page load time: 6.941 seconds
+Time to first byte: 0.223 seconds
+Time to Base Page Downloaded: 0.288 seconds
+Time to Start Render: 4.481 seconds
+Time to Document Complete: 6.941 seconds
+Time to Fully Loaded: 10.266 seconds
+Bytes sent out: 26.979 KB
+Bytes received: 800.234 KB
+DNS Lookups: 14
+Connections: 22
+Requests: 74
+   OK Requests:  70
+   Redirects:    4
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://bs.yandex.ru/resource/flashldr006.js
+    FAILED  (No max-age or expires) - http://bs.yandex.ru/resource/iHU5Z18_q3YKvhXkTu31Lw.swf?rnd=803801&link1=http://bs.yandex.ru/count/DoAhGDhrDVi40X00ZhLOLQ84MmYL0Pi2RrybYA7dx0MUAPAeLNa7YgOIgWIGe1y2tf6yq4ba1fE53OkdojqSGdm6
+    FAILED  (No max-age or expires) - http://bs.yandex.ru/resource/spacer.gif
+    FAILED  (No max-age or expires) - http://bs.yandex.ru/resource/watch.js
+    FAILED  (4.0 minutes) - http://trf.maps.yandex.net/trf/coverage.js?id=0.9332270018723732
+    FAILED  (4.0 minutes) - http://trf.maps.yandex.net/trf/stat.js?id=0.32610600937131057
+  Cache score : 90
+
+Use one CDN for all static assets:
+    FAILED - http://api-maps.yandex.ru/1.0.4/?key=AP_JbUkBAAAAO0APBQMAZgGGKZqIKMmRDJwfN0enUZD1R8cAAAAAAAAAAAB5Jg3D4sMkVd6DxzmwfS3sJnVnqg==
+    FAILED - http://api-maps.yandex.ru/1.0.4/xml/data.xml?v=1.33.1
+    FAILED - http://api-maps.yandex.ru/1.0.4/YMaps-ie.css
+    FAILED - http://api-maps.yandex.ru/1.0.4/YMaps.js
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/minimap/hide-map.gif
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/tips.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/toolbar/btn-img-c.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/toolbar/btn-img.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/typecontrol/btn-text-c.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/typecontrol/btn-text.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-button.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-grab.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-marks.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/icons/icon-hand.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/icons/icon-ruler.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/icons/icon-zoom.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/YMaps-logo.png
+    FAILED - http://bs.yandex.ru/resource/flashldr006.js
+    FAILED - http://bs.yandex.ru/resource/iHU5Z18_q3YKvhXkTu31Lw.swf?rnd=803801&link1=http://bs.yandex.ru/count/DoAhGDhrDVi40X00ZhLOLQ84MmYL0Pi2RrybYA7dx0MUAPAeLNa7YgOIgWIGe1y2tf6yq4ba1fE53OkdojqSGdm6
+    FAILED - http://bs.yandex.ru/resource/spacer.gif
+    FAILED - http://bs.yandex.ru/resource/watch.js
+    FAILED - http://img.yandex.net/maps/i/bg-selected.png
+    FAILED - http://js.static.yandex.net/jquery/1.3.2/jquery.min.js
+    FAILED - http://js.static.yandex.net/jquery/cookie/1.0/jquery.cookie.min.js
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-logo/b-head-logo.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-round/_border/b-round_8fa1b6.png
+    FAILED - http://lego.static.yandex.net/2.0/common/js/_common.js
+    FAILED - http://maps.yandex.ru/css/_maps.ie.css?1.6.6-0.gps.2
+    FAILED - http://maps.yandex.ru/i/b-button-map/btn-map-b.png
+    FAILED - http://maps.yandex.ru/i/b-button-map/btn-map-corners.png
+    FAILED - http://maps.yandex.ru/i/b-button-map/btn-map.png
+    FAILED - http://maps.yandex.ru/i/b-button-tailback/semaphores.png
+    FAILED - http://maps.yandex.ru/i/b-button-tailback/semaphores.png
+    FAILED - http://maps.yandex.ru/i/close.gif
+    FAILED - http://maps.yandex.ru/i/junc.png
+    FAILED - http://maps.yandex.ru/i/mobile.png
+    FAILED - http://maps.yandex.ru/i/mymaps-button.png
+    FAILED - http://maps.yandex.ru/i/print-icon.png
+    FAILED - http://maps.yandex.ru/i/route-button.png
+    FAILED - http://maps.yandex.ru/js/_maps.js?1.6.6-0.gps.2
+    FAILED - http://trf.maps.yandex.net/trf/coverage.js?id=0.9332270018723732
+    FAILED - http://trf.maps.yandex.net/trf/stat.js?id=0.32610600937131057
+    FAILED - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=18&y=10&z=5
+    FAILED - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=616&y=320&z=10
+    FAILED - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=616&y=322&z=10
+    FAILED - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=618&y=320&z=10
+    FAILED - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=618&y=322&z=10
+    FAILED - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=620&y=320&z=10
+    FAILED - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=620&y=322&z=10
+    FAILED - http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=18&y=9&z=5
+    FAILED - http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=616&y=321&z=10
+    FAILED - http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=618&y=321&z=10
+    FAILED - http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=620&y=321&z=10
+    FAILED - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=19&y=10&z=5
+    FAILED - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=617&y=320&z=10
+    FAILED - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=617&y=322&z=10
+    FAILED - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=619&y=320&z=10
+    FAILED - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=619&y=322&z=10
+    FAILED - http://vec04.maps.yandex.ru/tiles?l=map&v=2.6.0&x=19&y=9&z=5
+    FAILED - http://vec04.maps.yandex.ru/tiles?l=map&v=2.6.0&x=617&y=321&z=10
+    FAILED - http://vec04.maps.yandex.ru/tiles?l=map&v=2.6.0&x=619&y=321&z=10
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+    FAILED - http://bs.yandex.ru/resource/watch.js
+    FAILED - http://js.static.yandex.net/jquery/1.3.2/jquery.min.js
+    FAILED - http://js.static.yandex.net/jquery/cookie/1.0/jquery.cookie.min.js
+    FAILED - http://lego.static.yandex.net/2.0/common/js/_common.js
+    FAILED - http://maps.yandex.ru/js/_maps.js?1.6.6-0.gps.2
+    FAILED - http://api-maps.yandex.ru/1.0.4/YMaps-ie.css
+    FAILED - http://maps.yandex.ru/css/_maps.ie.css?1.6.6-0.gps.2
+  Combine score : 45
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (124.1 KB, compressed = 36.1 KB - savings of 88.1 KB) - http://maps.yandex.ru/js/_maps.js?1.6.6-0.gps.2
+    FAILED (38.9 KB, compressed = 6.0 KB - savings of 32.9 KB) - http://api-maps.yandex.ru/1.0.4/xml/data.xml?v=1.33.1
+    FAILED (2.3 KB, compressed = 0.8 KB - savings of 1.5 KB) - http://trf.maps.yandex.net/trf/coverage.js?id=0.9332270018723732
+    FAILED (2.4 KB, compressed = 1.0 KB - savings of 1.4 KB) - http://api-maps.yandex.ru/1.0.4/?key=AP_JbUkBAAAAO0APBQMAZgGGKZqIKMmRDJwfN0enUZD1R8cAAAAAAAAAAAB5Jg3D4sMkVd6DxzmwfS3sJnVnqg==
+    FAILED (2.2 KB, compressed = 0.9 KB - savings of 1.3 KB) - http://bs.yandex.ru/resource/flashldr006.js
+    FAILED (2.8 KB, compressed = 1.6 KB - savings of 1.3 KB) - http://bs.yandex.ru/resource/watch.js
+    FAILED (1.6 KB, compressed = 0.6 KB - savings of 1.1 KB) - http://trf.maps.yandex.net/trf/stat.js?id=0.32610600937131057
+  GZIP score : 54
+    279.5 KB total in compressible text, target size = 152.1 KB - potential savings = 127.5 KB
+
+Compress Images:
+    WARNING (6.1 KB, target = 5.1 KB - savings of 1.0 KB - Convert PNG to 8 bit)- http://maps.yandex.ru/i/b-button-map/btn-map-corners.png
+    WARNING (2.0 KB, target = 1.6 KB - savings of 0.4 KB - Convert PNG to 8 bit)- http://api-maps.yandex.ru/i/0.2/YMaps-logo.png
+  Image Compression score : 99
+    505.0 KB total in images, target size = 503.2 KB - potential savings = 1.9 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_maps/0
+  Keep-Alive score : 98
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/1.0.4/?key=AP_JbUkBAAAAO0APBQMAZgGGKZqIKMmRDJwfN0enUZD1R8cAAAAAAAAAAAB5Jg3D4sMkVd6DxzmwfS3sJnVnqg==
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/1.0.4/YMaps-ie.css
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/1.0.4/xml/data.xml?v=1.33.1
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/1.0.4/YMaps.js
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/YMaps-logo.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/controls/typecontrol/btn-text.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/controls/minimap/hide-map.gif
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/icons/icon-hand.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/controls/toolbar/btn-img.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/controls/toolbar/btn-img-c.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/icons/icon-zoom.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/icons/icon-ruler.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/controls/typecontrol/btn-text-c.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-grab.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-marks.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-button.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://api-maps.yandex.ru/i/0.2/controls/tips.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 3 cookies - 91 bytes) - http://bs.yandex.ru/resource/spacer.gif
+      cookie:yandexuid=325431351243960707
+      cookie: yabs-frequency=/2/SSvU0E048G00/
+      cookie: yabs-sid=1208124851243960711
+    FAILED (Static object with 2 cookies - 58 bytes) - http://bs.yandex.ru/resource/flashldr006.js
+      cookie:yandexuid=325431351243960707
+      cookie: yabs-sid=1208124851243960711
+    FAILED (Static object with 2 cookies - 58 bytes) - http://bs.yandex.ru/resource/iHU5Z18_q3YKvhXkTu31Lw.swf?rnd=803801&link1=http://bs.yandex.ru/count/DoAhGDhrDVi40X00ZhLOLQ84MmYL0Pi2RrybYA7dx0MUAPAeLNa7YgOIgWIGe1y2tf6yq4ba1fE53OkdojqSGdm6
+      cookie:yandexuid=325431351243960707
+      cookie: yabs-sid=1208124851243960711
+    FAILED (Static object with 1 cookies - 28 bytes) - http://bs.yandex.ru/resource/watch.js
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 2 cookies - 61 bytes) - http://maps.yandex.ru/i/b-button-tailback/semaphores.png
+      cookie:yandexuid=325431351243960707
+      cookie: yabs-frequency=/2/SSvU0E048G00/
+    FAILED (Static object with 2 cookies - 61 bytes) - http://maps.yandex.ru/i/b-button-tailback/semaphores.png
+      cookie:yandexuid=325431351243960707
+      cookie: yabs-frequency=/2/SSvU0E048G00/
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/css/_maps.ie.css?1.6.6-0.gps.2
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/js/_maps.js?1.6.6-0.gps.2
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/i/print-icon.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/i/close.gif
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/i/b-button-map/btn-map-b.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/i/b-button-map/btn-map.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/i/junc.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/i/b-button-map/btn-map-corners.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/i/route-button.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/i/mymaps-button.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://maps.yandex.ru/i/mobile.png
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=616&y=320&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=618&y=320&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=620&y=320&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=616&y=322&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=18&y=10&z=5
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=618&y=322&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec01.maps.yandex.ru/tiles?l=map&v=2.6.0&x=620&y=322&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=616&y=321&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=618&y=321&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=620&y=321&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec02.maps.yandex.ru/tiles?l=map&v=2.6.0&x=18&y=9&z=5
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=617&y=320&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=619&y=320&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=617&y=322&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=619&y=322&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec03.maps.yandex.ru/tiles?l=map&v=2.6.0&x=19&y=10&z=5
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec04.maps.yandex.ru/tiles?l=map&v=2.6.0&x=617&y=321&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec04.maps.yandex.ru/tiles?l=map&v=2.6.0&x=619&y=321&z=10
+      cookie:yandexuid=325431351243960707
+    FAILED (Static object with 1 cookies - 28 bytes) - http://vec04.maps.yandex.ru/tiles?l=map&v=2.6.0&x=19&y=9&z=5
+      cookie:yandexuid=325431351243960707
+   WARNING (2 cookies, 56 bytes) - http://awaps.yandex.ru/0/8940/200300.gif?1311433664-0-959557331-1-a:0p:0&profileredir=1&
+      cookie:yandexuid=325431351243960707
+      cookie: UserId=60-1243960709-19087
+   WARNING (1 cookies, 28 bytes) - http://awaps.yandex.ru/0/8940/200300.gif?1311433664
+      cookie:yandexuid=325431351243960707
+   WARNING (2 cookies, 58 bytes) - http://bs.yandex.ru/count/DoAhGAvaIuy40X00ZhLOLQ84MmYL0Pi2RrybYA7dx0MUAPAeLNa7YgOIgWIGe1y2tf6yq4ba1fE53OkfojqSGNm6
+      cookie:yandexuid=325431351243960707
+      cookie: yabs-sid=1208124851243960711
+   WARNING (1 cookies, 28 bytes) - http://bs.yandex.ru/page/67?rnd=1311433664&stat-id=41
+      cookie:yandexuid=325431351243960707
+   WARNING (1 cookies, 28 bytes) - http://bs.yandex.ru/resource/slider.html
+      cookie:yandexuid=325431351243960707
+   WARNING (1 cookies, 28 bytes) - http://bs.yandex.ru/watch/114208?rn=427458&cnt-class=0&page-ref=&page-url=http%3A%2F%2Fmaps.yandex.ru%2F&browser-info=j:1:s:1024x768x32:f:10.0.22.87:t:%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9A%D0%B0%D1%80%D1%82%D1%8B&wmode=1
+      cookie:yandexuid=325431351243960707
+   WARNING (1 cookies, 28 bytes) - http://maps.yandex.ru/home.html
+      cookie:yandexuid=325431351243960707
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_maps/0
+      cookie:guid=DA2E06004A255585X1243960709
+   WARNING (1 cookies, 28 bytes) - http://yabs.yandex.ru/count/JYhZmFrupxq40X00ZhDOLQ84MGML0vi1RriYCeYlmWm3agpHf0QAeOtx0v6yq4ba1fE53Oke4_ONGNu5?1311433664
+      cookie:yandexuid=325431351243960707
+  Cookie score : 22
+    1.9 KB total in outbound cookies, target size = 0.3 KB - potential savings = 1.6 KB
+
+Minify JS:
+    FAILED (1.6 KB, minified = 0.8 KB - savings of 0.8 KB) - http://trf.maps.yandex.net/trf/stat.js?id=0.32610600937131057
+    FAILED (2.3 KB, minified = 1.7 KB - savings of 0.6 KB) - http://trf.maps.yandex.net/trf/coverage.js?id=0.9332270018723732
+  Minify score : 99
+    221.1 KB total in minifiable text, target size = 219.7 KB - potential savings = 1.4 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://api-maps.yandex.ru/1.0.4/YMaps-ie.css
+    FAILED - http://api-maps.yandex.ru/1.0.4/YMaps.js
+    FAILED - http://api-maps.yandex.ru/i/0.2/YMaps-logo.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/typecontrol/btn-text.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/minimap/hide-map.gif
+    FAILED - http://api-maps.yandex.ru/i/0.2/icons/icon-hand.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/toolbar/btn-img.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/toolbar/btn-img-c.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/icons/icon-zoom.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/icons/icon-ruler.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/typecontrol/btn-text-c.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-grab.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-marks.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/zoom/slider-button.png
+    FAILED - http://api-maps.yandex.ru/i/0.2/controls/tips.png
+    FAILED - http://img.yandex.net/maps/i/bg-selected.png
+    FAILED - http://js.static.yandex.net/jquery/1.3.2/jquery.min.js
+    FAILED - http://js.static.yandex.net/jquery/cookie/1.0/jquery.cookie.min.js
+    FAILED - http://lego.static.yandex.net/2.0/common/js/_common.js
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-logo/b-head-logo.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-round/_border/b-round_8fa1b6.png
+    FAILED - http://maps.yandex.ru/css/_maps.ie.css?1.6.6-0.gps.2
+    FAILED - http://maps.yandex.ru/js/_maps.js?1.6.6-0.gps.2
+    FAILED - http://maps.yandex.ru/home.html
+    FAILED - http://maps.yandex.ru/i/print-icon.png
+    FAILED - http://maps.yandex.ru/i/close.gif
+    FAILED - http://maps.yandex.ru/i/b-button-map/btn-map-b.png
+    FAILED - http://maps.yandex.ru/i/b-button-map/btn-map.png
+    FAILED - http://maps.yandex.ru/i/junc.png
+    FAILED - http://maps.yandex.ru/i/b-button-map/btn-map-corners.png
+    FAILED - http://maps.yandex.ru/i/route-button.png
+    FAILED - http://maps.yandex.ru/i/mymaps-button.png
+    FAILED - http://maps.yandex.ru/i/mobile.png
+    FAILED - http://maps.yandex.ru/i/b-button-tailback/semaphores.png
+    FAILED - http://maps.yandex.ru/i/b-button-tailback/semaphores.png
+  ETag score : 51
+
+JQuery Selectors not descended from an ID:
+    FAILED - http://api-maps.yandex.ru/1.0.4/YMaps.js
+        Line 1: $("fakeFrame")
+      (1 occurrences)
+
+    FAILED - http://maps.yandex.ru/js/_maps.js?1.6.6-0.gps.2
+        Line 15: $("table.b-head-userinfo")
+        Line 15: $('        <dl>            <dd class="total">                Общая длина: <strong class="length"></strong><br/>                Среднее время в\xA0пути <span class="time_type"></span><strong class="time"></strong>            </dd>            <dd class="b-points"><ul class="list"></ul></dd>        </dl>    ')
+        Line 15: $('<li class="b-stage"><ol></ol></li>')
+        Line 15: $('<li class="b-stage"><p class="comment">Невозможно проложить маршрут между заданными точками.</p></li>')
+        Line 15: $('<li><a></a><b class="segment-length"></b></li>')
+        Line 15: $('<p class="note"></p>')
+        Line 15: $('<div class="b-mymaps"></div>')
+        Line 15: $('<div class="b-map-collection"><h2 class="title">Ваши карты</h2><p>Вы еще не создали ни одной карты.</p><p class="create"><a href="/mymaps/edit.xml">Создать новую карту</a></p></div>')
+        Line 15: $('<div class="b-tip clicker"><i class="b-round b-round_6"><i class="l t"><i/></i><i class="r t"><i/></i></i><div class="b-tip-i">Для добавления меток <span class="b-pseudo-link"><span>поставьте их</span></span> прямо на карте.</div><i class="b-round b-round_6"><i class="l b"><i/></i><i class="r b"><i/></i></i></div>')
+        Line 15: $('<div class="b-tip b-tip_gray g-hidden"><i class="b-round b-round_6"><i class="l t"><i/></i><i class="r t"><i/></i></i><div class="b-tip-i"><div class="b-list-search"><i class="close" title="Закрыть"/><p>Поиск <strong/></p><p class="status"/></div></div><i class="b-round b-round_6"><i class="l b"><i/></i><i class="r b"><i/></i></i></div>')
+        ...
+      (12 occurrences)
+

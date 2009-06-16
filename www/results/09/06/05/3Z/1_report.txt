@@ -1,0 +1,120 @@
+Results for 'http://google.ru/search?q=%EF%EE%E3%EE%E4%E0%20%EA%EE%F0%EE%E1%E8%F6%FB%ED%EE&hl=ru':
+
+Page load time: 0.922 seconds
+Time to first byte: 0.233 seconds
+Time to Base Page Downloaded: 0.673 seconds
+Time to Start Render: 0.804 seconds
+Time to Document Complete: 0.922 seconds
+Time to Fully Loaded: 1.197 seconds
+Bytes sent out: 4.853 KB
+Bytes received: 17.834 KB
+DNS Lookups: 3
+Connections: 4
+Requests: 8
+   OK Requests:  5
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://google.ru/search?q=%EF%EE%E3%EE%E4%E0%20%EA%EE%F0%EE%E1%E8%F6%FB%ED%EE&hl=ru
+      Host: google.ru
+      Result code: 301
+      Transaction time: 0.233 seconds
+      Time to first byte: 0.082 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 590 Bytes
+      Response size (in): 612 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.google.ru/search?q=%EF%EE%E3%EE%E4%E0%20%EA%EE%F0%EE%E1%E8%F6%FB%ED%EE&hl=ru
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.440 seconds
+      Time to first byte: 0.072 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 594 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.google.ru/images/nav_logo4.png
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.162 seconds
+      Time to first byte: 0.117 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 601 Bytes
+      Response size (in): 7373 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://www.google.ru/images/weather/rain.gif
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.121 seconds
+      Time to first byte: 0.063 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 604 Bytes
+      Response size (in): 1462 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://www.google.ru/images/weather/mostly_sunny.gif
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.058 seconds
+      Time to first byte: 0.055 seconds
+      Document: 1
+      Socket: 7
+      Request size (out): 612 Bytes
+      Response size (in): 1356 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://www.google.ru/extern_js/f/CgJydRICcnUrMAo4G0ABLCswDjgFLCswFjgKLCswFzgBLCswGDgELCswJTjJiAEsKzAmOAQsKzAnOAAs/03GMdWh3OJw.js
+      Host: www.google.ru
+      Result code: 200
+      Transaction time: 0.140 seconds
+      Time to first byte: 0.079 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 688 Bytes
+      Response size (in): 6095 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=WT0pSuLRN82R_QbRl4n4Cg&e=17259,20572&rt=prt.79,ol.235,xjs.329
+      Host: www.google.ru
+      Result code: 204
+      Transaction time: 0.093 seconds
+      Time to first byte: 0.093 seconds
+      Document: 0
+      Socket: 7
+      Request size (out): 682 Bytes
+      Response size (in): 215 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://clients1.google.ru/generate_204
+      Host: clients1.google.ru
+      Result code: 204
+      Transaction time: 0.123 seconds
+      Time to first byte: 0.066 seconds
+      Document: 0
+      Socket: 12
+      Request size (out): 598 Bytes
+      Response size (in): 125 Bytes
+

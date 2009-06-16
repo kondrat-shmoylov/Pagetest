@@ -1,0 +1,275 @@
+Results for 'http://images.yandex.ru/':
+
+Page load time: 1.267 seconds
+Time to first byte: 0.160 seconds
+Time to Base Page Downloaded: 0.227 seconds
+Time to Start Render: 0.583 seconds
+Time to Document Complete: 1.267 seconds
+Time to Fully Loaded: 1.267 seconds
+Bytes sent out: 6.815 KB
+Bytes received: 119.192 KB
+DNS Lookups: 9
+Connections: 21
+Requests: 21
+   OK Requests:  21
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://images.yandex.ru/
+      Host: images.yandex.ru
+      Result code: 200
+      Transaction time: 0.227 seconds
+      Time to first byte: 0.072 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 531 Bytes
+      Response size (in): 268 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://im5-tub.yandex.net/i?id=96552551&tov=5
+      Host: im5-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.492 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 26
+      Request size (out): 319 Bytes
+      Response size (in): 2827 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://im5-tub.yandex.net/i?id=7213280&tov=5
+      Host: im5-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.095 seconds
+      Time to first byte: 0.027 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 318 Bytes
+      Response size (in): 7657 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://im0-tub.yandex.net/i?id=11126664&tov=0
+      Host: im0-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.126 seconds
+      Time to first byte: 0.093 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 319 Bytes
+      Response size (in): 5255 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://im3-tub.yandex.net/i?id=22342723&tov=3
+      Host: im3-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.049 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 319 Bytes
+      Response size (in): 3887 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://im6-tub.yandex.net/i?id=18858707&tov=6
+      Host: im6-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.095 seconds
+      Time to first byte: 0.072 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 319 Bytes
+      Response size (in): 5007 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://im0-tub.yandex.net/i?id=4467577&tov=0
+      Host: im0-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.118 seconds
+      Time to first byte: 0.097 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 318 Bytes
+      Response size (in): 9829 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://im6-tub.yandex.net/i?id=111868696&tov=6
+      Host: im6-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.086 seconds
+      Time to first byte: 0.066 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 320 Bytes
+      Response size (in): 3337 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://im4-tub.yandex.net/i?id=57528570&tov=4
+      Host: im4-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.199 seconds
+      Time to first byte: 0.179 seconds
+      Document: 1
+      Socket: 33
+      Request size (out): 319 Bytes
+      Response size (in): 3439 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://im2-tub.yandex.net/i?id=32954370&tov=2
+      Host: im2-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.094 seconds
+      Time to first byte: 0.076 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 319 Bytes
+      Response size (in): 12867 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://im8-tub.yandex.net/i?id=92021524&tov=8
+      Host: im8-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.099 seconds
+      Time to first byte: 0.085 seconds
+      Document: 1
+      Socket: 35
+      Request size (out): 319 Bytes
+      Response size (in): 6950 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://im4-tub.yandex.net/i?id=99320168&tov=4
+      Host: im4-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.194 seconds
+      Time to first byte: 0.184 seconds
+      Document: 1
+      Socket: 36
+      Request size (out): 319 Bytes
+      Response size (in): 8775 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_images/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.090 seconds
+      Time to first byte: 0.082 seconds
+      Document: 1
+      Socket: 37
+      Request size (out): 391 Bytes
+      Response size (in): 438 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://im5-tub.yandex.net/i?id=39120611&tov=5
+      Host: im5-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.047 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 41
+      Request size (out): 319 Bytes
+      Response size (in): 4806 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://im5-tub.yandex.net/i?id=74823009&tov=5
+      Host: im5-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.024 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 42
+      Request size (out): 319 Bytes
+      Response size (in): 3901 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://im6-tub.yandex.net/i?id=101014289&tov=6
+      Host: im6-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.037 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 43
+      Request size (out): 320 Bytes
+      Response size (in): 3836 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://im0-tub.yandex.net/i?id=4410592&tov=0
+      Host: im0-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.034 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 46
+      Request size (out): 318 Bytes
+      Response size (in): 17306 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://im0-tub.yandex.net/i?id=863918&tov=0
+      Host: im0-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.307 seconds
+      Time to first byte: 0.196 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 317 Bytes
+      Response size (in): 3607 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://im5-tub.yandex.net/i?id=23894608&tov=5
+      Host: im5-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 48
+      Request size (out): 319 Bytes
+      Response size (in): 8331 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://im0-tub.yandex.net/i?id=2832566&tov=0
+      Host: im0-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 46
+      Request size (out): 318 Bytes
+      Response size (in): 5999 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://im0-tub.yandex.net/i?id=53184831&tov=0
+      Host: im0-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.374 seconds
+      Time to first byte: 0.267 seconds
+      Document: 1
+      Socket: 51
+      Request size (out): 319 Bytes
+      Response size (in): 3731 Bytes
+

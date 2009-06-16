@@ -1,0 +1,87 @@
+Optimization Report : 06/05/09 at 16:14:27
+
+Results for 'http://yandex.ru/yandsearch?text=Nokia%20N70&i-m-a-hacker=1':
+
+Page load time: 0.291 seconds
+Time to first byte: 0.291 seconds
+Time to Base Page Downloaded: 0.284 seconds
+Time to Start Render: 0.179 seconds
+Time to Document Complete: 0.291 seconds
+Time to Fully Loaded: 1.292 seconds
+Bytes sent out: 4.818 KB
+Bytes received: 3.054 KB
+DNS Lookups: 8
+Connections: 9
+Requests: 10
+   OK Requests:  4
+   Redirects:    1
+   Not Modified: 5
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+  Cache score : 100
+
+Use one CDN for all static assets:
+
+  1 CDN's used:
+    ie.search.msn.com
+
+  CDN score (static objects) : 100
+  CDN score (one CDN) : 100
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    1.0 KB total in compressible text, target size = 1.0 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    0.1 KB total in images, target size = 0.1 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 11 cookies - 435 bytes) - http://ie.search.msn.com/fd/sa/5_4_0_348778/Shared.js
+      cookie:AFORM=NOFORM
+      cookie: RMS=T=262144
+      cookie: SRCHSESS=GUID=CE7EDB7EA76B42419F9399B2FB76C2FA&TS=1244204066
+      cookie: SRCHUID=V=2&GUID=71F545FCF15D4FADBA581AE47B97A3EF
+      cookie: SRCHUSR=AUTOREDIR=0&GEOVAR=&DOB=20090605
+      cookie: mkt1=norm=ru-RU
+      cookie: MUID=7F03E1F27A7A4964851F6DC025EA699E
+      cookie: OrigMUID=7F03E1F27A7A4964851F6DC025EA699E%2c643323e891514e80ae7491c2c967c5ce
+      cookie: OVR=flt=0&PerfTracking=0&DomainVertical=0&Cashback=cbcontrol&MSCorp=kievfinal
+      cookie: SRCHD=D=750974&AF=NOFORM
+      cookie: mkt2=ui=ru-RU
+   WARNING (1 cookies, 26 bytes) - http://clck.yandex.ru/click/dtype=yabs/id=51/key=pack/*?806495010
+      cookie:yandexuid=5065391244204059
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=5065391244204059
+   WARNING (1 cookies, 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=9862238
+      cookie:yandexuid=5065391244204059
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=EBEC06034A290C1CX1244204060
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/C18Z8Y9Fb4440X00Zhl1aA84KfK4cm5kK2A8feXN0Oc9U9AYcYW2Ygy6Jm6D0P6teZVd38-u9i-g0f-twg_N3fE53Oki81i5GNq7?806495010
+      cookie:yandexuid=5065391244204059
+   WARNING (1 cookies, 32 bytes) - http://yandex.tns-counter.ru/V13a****yandex_ru/ru/UTF-8/tmsec=yandex_media3/
+      cookie:guid=EBEC06034A290C1CX1244204060
+  Cookie score : 60
+    0.6 KB total in outbound cookies, target size = 0.2 KB - potential savings = 0.4 KB
+
+Minify JS:
+  Minify score : 100
+    1.0 KB total in minifiable text, target size = 1.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://ie.search.msn.com/fd/sa/5_4_0_348778/Shared.js
+  ETag score : 90
+
+JQuery Selectors not descended from an ID:
+  No problems found

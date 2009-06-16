@@ -1,0 +1,95 @@
+Results for 'http://ya.ru/':
+
+Page load time: 0.270 seconds
+Time to first byte: 0.106 seconds
+Time to Base Page Downloaded: 0.114 seconds
+Time to Start Render: 0.197 seconds
+Time to Document Complete: 0.270 seconds
+Time to Fully Loaded: 0.270 seconds
+Bytes sent out: 2.151 KB
+Bytes received: 4.187 KB
+DNS Lookups: 4
+Connections: 5
+Requests: 6
+   OK Requests:  4
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://ya.ru/
+      Host: ya.ru
+      Result code: 200
+      Transaction time: 0.114 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 520 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_ya/0
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.111 seconds
+      Time to first byte: 0.027 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 334 Bytes
+      Response size (in): 605 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://ya.ru/logo.png
+      Host: ya.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 284 Bytes
+      Response size (in): 1635 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://clck.yandex.ru/redir/dtype=stred/pid=17/cid=1729/*http://export.yandex.ru/morda/mail.xml?host=yandex.ru
+      Host: clck.yandex.ru
+      Result code: 302
+      Transaction time: 0.036 seconds
+      Time to first byte: 0.028 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 373 Bytes
+      Response size (in): 134 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_ya/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 376 Bytes
+      Response size (in): 438 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://export.yandex.ru/morda/mail.xml?host=yandex.ru
+      Host: export.yandex.ru
+      Result code: 200
+      Transaction time: 0.030 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 316 Bytes
+      Response size (in): 451 Bytes
+

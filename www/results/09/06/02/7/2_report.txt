@@ -1,0 +1,1080 @@
+Results for 'http://blogs.yandex.ru/':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 2.012 seconds
+Time to first byte: 0.268 seconds
+Time to Base Page Downloaded: 0.300 seconds
+Time to Start Render: 2.103 seconds
+Time to Document Complete: 2.012 seconds
+Time to Fully Loaded: 2.347 seconds
+Bytes sent out: 26.684 KB
+Bytes received: 208.439 KB
+DNS Lookups: 9
+Connections: 38
+Requests: 84
+   OK Requests:  58
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    25
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://blogs.yandex.ru/
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.300 seconds
+      Time to first byte: 0.166 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 530 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://blogs.yandex.ru/css/_page-index-ie.css?build=7208
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.054 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 367 Bytes
+      Response size (in): 6829 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://img.yandex.net/y5/1.5b-c/mega-y5.js?build=7250
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.103 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 326 Bytes
+      Response size (in): 82165 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://js.static.yandex.net/jquery/1.3.2/_jquery.js
+      Host: js.static.yandex.net
+      Result code: 200
+      Transaction time: 0.053 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 324 Bytes
+      Response size (in): 20082 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/v-3078/common/js/_common.js
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 334 Bytes
+      Response size (in): 3605 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://blogs.yandex.ru/js/_blogs.js?build=7208
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 357 Bytes
+      Response size (in): 1751 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://blogs.yandex.ru/js/Ppb.js?build=7250
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 354 Bytes
+      Response size (in): 491 Bytes
+
+Request 8:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-head-logo/b-head-logo.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.391 seconds
+      Time to first byte: 0.389 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 347 Bytes
+      Response size (in): 1689 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.355 seconds
+      Time to first byte: 0.030 seconds
+      Document: 1
+      Socket: 27
+      Request size (out): 363 Bytes
+      Response size (in): 638 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://pulse.blogs.yandex.net/?cat0=theme&id0=10494&period=20090302-20090602&style=orange
+      Host: pulse.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.368 seconds
+      Time to first byte: 0.039 seconds
+      Document: 1
+      Socket: 28
+      Request size (out): 362 Bytes
+      Response size (in): 8278 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://pulse.blogs.yandex.net/?cat0=theme&id0=10520&period=20090302-20090602&style=orange
+      Host: pulse.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.362 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 362 Bytes
+      Response size (in): 9889 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://afisha.yandex.ru/media/events/images/thumbnails/a204ad365303718794de3467d2a29b99_92x51.jpeg
+      Host: afisha.yandex.ru
+      Result code: 200
+      Transaction time: 0.349 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 30
+      Request size (out): 409 Bytes
+      Response size (in): 2377 Bytes
+
+Request 13:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=dbzdz4nj4q.2&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.049 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 340 Bytes
+      Response size (in): 1796 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=q0h4uoooq6.4&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.043 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 340 Bytes
+      Response size (in): 1259 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/pulse-b.png
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.026 seconds
+      Time to first byte: 0.024 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 347 Bytes
+      Response size (in): 720 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/pulse-t.png
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.027 seconds
+      Time to first byte: 0.027 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 347 Bytes
+      Response size (in): 460 Bytes
+
+Request 17:
+      Action: GET
+      Url: http://img.yandex.net/i/artlebedev2008.png
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.127 seconds
+      Time to first byte: 0.028 seconds
+      Document: 1
+      Socket: 9
+      Request size (out): 315 Bytes
+      Response size (in): 711 Bytes
+
+Request 18:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_blogs/0
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.070 seconds
+      Time to first byte: 0.029 seconds
+      Document: 1
+      Socket: 34
+      Request size (out): 347 Bytes
+      Response size (in): 608 Bytes
+
+Request 19:
+      Action: GET
+      Url: http://blogs.yandex.ru/undefined
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.024 seconds
+      Time to first byte: 0.024 seconds
+      Document: 1
+      Socket: 4
+      Request size (out): 288 Bytes
+      Response size (in): 1024 Bytes
+
+Request 20:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/spin.gif
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.026 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 344 Bytes
+      Response size (in): 3521 Bytes
+
+Request 21:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=2f0g6v221m.54&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 341 Bytes
+      Response size (in): 1747 Bytes
+
+Request 22:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=qewypas5y7.54&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 341 Bytes
+      Response size (in): 1308 Bytes
+
+Request 23:
+      Action: GET
+      Url: http://pulse.blogs.yandex.net/?cat0=theme&id0=10507&period=20090302-20090602&style=orange
+      Host: pulse.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 29
+      Request size (out): 362 Bytes
+      Response size (in): 7916 Bytes
+
+Request 24:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.029 seconds
+      Time to first byte: 0.022 seconds
+      Document: 1
+      Socket: 37
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 25:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_blogs/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 38
+      Request size (out): 389 Bytes
+      Response size (in): 438 Bytes
+
+Request 26:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/themes-item-c.gif
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 353 Bytes
+      Response size (in): 457 Bytes
+
+Request 27:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=p1wup5eawp.31&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 341 Bytes
+      Response size (in): 1188 Bytes
+
+Request 28:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=urxcd6aye7.54&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.013 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 341 Bytes
+      Response size (in): 1170 Bytes
+
+Request 29:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/pulse-lb.png
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 348 Bytes
+      Response size (in): 512 Bytes
+
+Request 30:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=0oesd5l4en.25&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 341 Bytes
+      Response size (in): 1291 Bytes
+
+Request 31:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=1v45xniv9l.4&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.010 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 340 Bytes
+      Response size (in): 1066 Bytes
+
+Request 32:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/pulse-br.png
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 348 Bytes
+      Response size (in): 823 Bytes
+
+Request 33:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 37
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 34:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/promo-bg.gif
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 348 Bytes
+      Response size (in): 369 Bytes
+
+Request 35:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=93bhnbeq7l.54&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.009 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 341 Bytes
+      Response size (in): 1214 Bytes
+
+Request 36:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=b2v9mrxzs2.3302&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.010 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 343 Bytes
+      Response size (in): 1131 Bytes
+
+Request 37:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/promo-rb.gif
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 348 Bytes
+      Response size (in): 381 Bytes
+
+Request 38:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 41
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 39:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=577az9dd0e.2&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 340 Bytes
+      Response size (in): 1182 Bytes
+
+Request 40:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/themes-item.gif
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.012 seconds
+      Time to first byte: 0.012 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 351 Bytes
+      Response size (in): 352 Bytes
+
+Request 41:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=hkzf817owj.27&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.009 seconds
+      Time to first byte: 0.007 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 341 Bytes
+      Response size (in): 1350 Bytes
+
+Request 42:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/rubric-c.gif
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 348 Bytes
+      Response size (in): 339 Bytes
+
+Request 43:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=hmct25t41y.52&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 31
+      Request size (out): 341 Bytes
+      Response size (in): 1311 Bytes
+
+Request 44:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.011 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 43
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 45:
+      Action: GET
+      Url: http://pix2.blogs.yandex.net/getavatar?id=3may302ncy.54&prefix=small
+      Host: pix2.blogs.yandex.net
+      Result code: 200
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 32
+      Request size (out): 341 Bytes
+      Response size (in): 1773 Bytes
+
+Request 46:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 47:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 48:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/fade.png
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 46
+      Request size (out): 289 Bytes
+      Response size (in): 387 Bytes
+
+Request 49:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.008 seconds
+      Time to first byte: 0.008 seconds
+      Document: 1
+      Socket: 46
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 50:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 46
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 51:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 49
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 52:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 51
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 53:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.024 seconds
+      Time to first byte: 0.020 seconds
+      Document: 1
+      Socket: 53
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 54:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 55
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 55:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 57
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 56:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 59
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 57:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.023 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 61
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 58:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.019 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 61
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 59:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 64
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 60:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 66
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 61:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.020 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 68
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 62:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.018 seconds
+      Document: 1
+      Socket: 70
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 63:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 72
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 64:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.021 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 72
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 65:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 75
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 66:
+      Action: GET
+      Url: http://blogs.yandex.ru/common/i/corners.png
+      Host: blogs.yandex.ru
+      Result code: 404
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 77
+      Request size (out): 299 Bytes
+      Response size (in): 1024 Bytes
+
+Request 67:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/ny/pulse.gif
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.015 seconds
+      Time to first byte: 0.013 seconds
+      Document: 1
+      Socket: 79
+      Request size (out): 293 Bytes
+      Response size (in): 803 Bytes
+
+Request 68:
+      Action: GET
+      Url: http://blogs.yandex.ru/block/b-accordeon/plus.png
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 79
+      Request size (out): 305 Bytes
+      Response size (in): 372 Bytes
+
+Request 69:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/lenta-icons.gif
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 79
+      Request size (out): 296 Bytes
+      Response size (in): 437 Bytes
+
+Request 70:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/www.livejournal.com
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.023 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 308 Bytes
+      Response size (in): 895 Bytes
+
+Request 71:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/blogs.mail.ru
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 302 Bytes
+      Response size (in): 933 Bytes
+
+Request 72:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/www.diary.ru
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 301 Bytes
+      Response size (in): 601 Bytes
+
+Request 73:
+      Action: GET
+      Url: http://www.liveinternet.ru/favicon.ico
+      Host: www.liveinternet.ru
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 85
+      Request size (out): 256 Bytes
+      Response size (in): 512 Bytes
+
+Request 74:
+      Action: GET
+      Url: http://img-css.friends.yandex.net/favicon.ico
+      Host: img-css.friends.yandex.net
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.015 seconds
+      Document: 1
+      Socket: 88
+      Request size (out): 263 Bytes
+      Response size (in): 1024 Bytes
+
+Request 75:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/blogger.png
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 79
+      Request size (out): 292 Bytes
+      Response size (in): 521 Bytes
+
+Request 76:
+      Action: GET
+      Url: http://css.loveplanet.ru/3/img/finelove/favicon.ico
+      Host: css.loveplanet.ru
+      Result code: 200
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 91
+      Request size (out): 269 Bytes
+      Response size (in): 607 Bytes
+
+Request 77:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/blogs.privet.ru
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 304 Bytes
+      Response size (in): 741 Bytes
+
+Request 78:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/www.24open.ru
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 302 Bytes
+      Response size (in): 534 Bytes
+
+Request 79:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/www.blog.ru
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 300 Bytes
+      Response size (in): 800 Bytes
+
+Request 80:
+      Action: GET
+      Url: http://blogs.yandex.ru/i/lj_userinfo.gif
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 79
+      Request size (out): 296 Bytes
+      Response size (in): 472 Bytes
+
+Request 81:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/lleo.aha.ru
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 300 Bytes
+      Response size (in): 1024 Bytes
+
+Request 82:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/www.blogbaster.org
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 307 Bytes
+      Response size (in): 492 Bytes
+
+Request 83:
+      Action: GET
+      Url: http://start.qip.ru/favicon.ico
+      Host: start.qip.ru
+      Result code: 200
+      Transaction time: 0.037 seconds
+      Time to first byte: 0.016 seconds
+      Document: 1
+      Socket: 94
+      Request size (out): 249 Bytes
+      Response size (in): 1024 Bytes
+
+Request 84:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/twitter.com
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 300 Bytes
+      Response size (in): 992 Bytes
+
+Request 85:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/wap.jamango.ru
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 303 Bytes
+      Response size (in): 732 Bytes
+
+Request 86:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/juick.com
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.007 seconds
+      Time to first byte: 0.006 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 298 Bytes
+      Response size (in): 577 Bytes
+
+Request 87:
+      Action: GET
+      Url: http://favicon.yandex.ru/favicon/smster.ru
+      Host: favicon.yandex.ru
+      Result code: 200
+      Transaction time: 0.006 seconds
+      Time to first byte: 0.004 seconds
+      Document: 1
+      Socket: 82
+      Request size (out): 298 Bytes
+      Response size (in): 630 Bytes
+
+Request 88:
+      Action: GET
+      Url: http://blogs.yandex.ru/js/IndexSwitcher.js?build=7250
+      Host: blogs.yandex.ru
+      Result code: 200
+      Transaction time: 0.045 seconds
+      Time to first byte: 0.045 seconds
+      Document: 0
+      Socket: 79
+      Request size (out): 364 Bytes
+      Response size (in): 688 Bytes
+

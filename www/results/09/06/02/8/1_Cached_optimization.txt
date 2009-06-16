@@ -1,0 +1,110 @@
+Optimization Report : 06/02/09 at 11:51:20
+
+Results for 'http://yandex.ru/':
+
+Page load time: 1.066 seconds
+Time to first byte: 0.109 seconds
+Time to Base Page Downloaded: 0.179 seconds
+Time to Start Render: 0.448 seconds
+Time to Document Complete: 1.066 seconds
+Time to Fully Loaded: 2.603 seconds
+Bytes sent out: 7.783 KB
+Bytes received: 33.875 KB
+DNS Lookups: 7
+Connections: 10
+Requests: 17
+   OK Requests:  6
+   Redirects:    5
+   Not Modified: 3
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - https://passport.yandex.ru/js/smarthttps.js
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/BG2_xrhy4upUko_B1jXdRQ.swf?rnd=782369&link1=http://yabs.yandex.ru/count/2XWC2Ifw4He40X00Zh6VJQ84KPK2cm9jL2A8fvF_1PAaDPG7YgtylGIHlD19P0QJXGsBgWk37KAWd701U0O0
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/flashldr006.js
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - https://passport.yandex.ru/js/smarthttps.js
+    FAILED - http://yabs.yandex.ru/resource/BG2_xrhy4upUko_B1jXdRQ.swf?rnd=782369&link1=http://yabs.yandex.ru/count/2XWC2Ifw4He40X00Zh6VJQ84KPK2cm9jL2A8fvF_1PAaDPG7YgtylGIHlD19P0QJXGsBgWk37KAWd701U0O0
+    FAILED - http://yabs.yandex.ru/resource/flashldr006.js
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (2.2 KB, compressed = 0.9 KB - savings of 1.3 KB) - http://yabs.yandex.ru/resource/flashldr006.js
+  GZIP score : 67
+    4.0 KB total in compressible text, target size = 2.7 KB - potential savings = 1.3 KB
+
+Compress Images:
+  Image Compression score : 100
+    0.0 KB total in images, target size = 0.0 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 70 bytes) - https://passport.yandex.ru/js/smarthttps.js
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2/D_bV0E049m00//fGBW1042
+    FAILED (Static object with 2 cookies - 70 bytes) - http://yabs.yandex.ru/resource/BG2_xrhy4upUko_B1jXdRQ.swf?rnd=782369&link1=http://yabs.yandex.ru/count/2XWC2Ifw4He40X00Zh6VJQ84KPK2cm9jL2A8fvF_1PAaDPG7YgtylGIHlD19P0QJXGsBgWk37KAWd701U0O0
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2/D_bV0E049m00//fGBW1042
+    FAILED (Static object with 2 cookies - 58 bytes) - http://yabs.yandex.ru/resource/flashldr006.js
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2///fGBW1041
+   WARNING (1 cookies, 15 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=169601&pid=319504&bid=609170&bn=609170&rnd=358307674&tuid=-6101330937
+      cookie:uid=-6101330937
+   WARNING (1 cookies, 14 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=169601&pid=319504&bid=609170&bn=609170&rnd=358307674
+      cookie:uid=1471228179
+   WARNING (2 cookies, 58 bytes) - http://suggest.yandex.ru/tsuggest-1.6.html
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2///fGBW1041
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a**178016861243929065**yandex_ru/ru/CP1251/tmsec=yandex_main/0
+      cookie:guid=950303024A24D9EAX1243929066
+   WARNING (2 cookies, 58 bytes) - http://www.yandex.ru/
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2///fGBW1041
+   WARNING (2 cookies, 70 bytes) - http://yabs.yandex.ru/count/2XWC2PCK1i840X02Zh6VJQ84KPK2cm9jL2A8fvF_1PAaDPG7YgtylGIHlD19P0QJXGsBh0k37K6Cd701e9nm0Nm6
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2/D_bV0E049m00//fGBW1042
+   WARNING (2 cookies, 70 bytes) - http://yabs.yandex.ru/count/2XWC2PCK1i840X02Zh6VJQ84KPK2cm9jL2A8fvF_1PAaDPG7YgtylGIHlD19P0QJXGsBh0k37K6Cd701e9nm0Nm6
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2/D_bV0E049m00//fGBW1042
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/2XWC2NHMXku40X02Zh6VJQ84KPK5cm5fMeYhpRG4agqbb0UAfFQz196yq4ba1fE53OkXru8TGNi5
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2///fGBW1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/2XWC2NHMXku40X02Zh6VJQ84KPK5cm5fMeYhpRG4agqbb0UAfFQz196yq4ba1fE53OkXru8TGNi5
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2///fGBW1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/resource/vvvBlSKPHYCia_AFDzqkcA.png
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2///fGBW1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/resource/vvvBlSKPHYCia_AFDzqkcA.png
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2///fGBW1041
+   WARNING (2 cookies, 58 bytes) - http://yabs.yandex.ru/count/2XWC2Ss8Wc840X00Zh6VJQ84KP6yq4ba1fE53NW2=wzIeX9K2cm9jL9AaDPG7e9nm0Ny1=pThxsPK5cm5fMfAj9PG7Um40
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2///fGBW1041
+   WARNING (2 cookies, 58 bytes) - http://yandex.ru/
+      cookie:yandexuid=178016861243929065
+      cookie: yabs-frequency=/2///fGBW1041
+  Cookie score : 44
+    0.8 KB total in outbound cookies, target size = 0.6 KB - potential savings = 0.2 KB
+
+Minify JS:
+  Minify score : 100
+    3.0 KB total in minifiable text, target size = 3.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

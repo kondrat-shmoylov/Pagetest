@@ -1,0 +1,1 @@
+2009/06/11 12:15:51	-1	-1	0	0	99996	Pagetest result	Cleared Cache-Run_1^090611_6Y.pts_Step1	http://www.yandex.ru/	3	id=bc	navigate http://www.yandex.ru 

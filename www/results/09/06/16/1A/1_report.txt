@@ -1,0 +1,816 @@
+Results for 'http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1':
+
+Error loading page: 99996 (0x0001869C)
+Page load time: 0.523 seconds
+Time to first byte: 0.131 seconds
+Time to Base Page Downloaded: 0.293 seconds
+Time to Start Render: 0.466 seconds
+Time to DOM Element(class=l-results): 0.000 seconds
+Time to Document Complete: 0.523 seconds
+Time to Fully Loaded: 0.523 seconds
+Bytes sent out: 0.359 KB
+Bytes received: 48.742 KB
+DNS Lookups: 9
+Connections: 13
+Requests: 23
+   OK Requests:  21
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Host: yandex.ru
+      Result code: 200
+      Transaction time: 0.293 seconds
+      Time to first byte: 0.005 seconds
+      Document: 1
+      Socket: 3
+      Request size (out): 16 Bytes
+      Response size (in): 7945 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7515 Bytes
+  Request Headers:
+      GET /yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1 HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yandex.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Server: Apache/2.2.9 (Unix) mod_perl/2.0.4 Perl/v5.8.8
+      Set-Cookie: yandexuid=471511245145847; path=/; domain=.yandex.ru; expires=Friday, 31-Dec-10 23:59:59 GMT
+      Cache-Control: private, max-age=3600
+      Content-Type: text/html; charset=utf-8
+      Expires: Tue, 16 Jun 2009 10:50:47 GMT
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Connection: close
+      Transfer-Encoding: chunked
+
+Request 2:
+      Action: GET
+      Url: http://css.yandex.net/css/search/r15/_serp.ie.css
+      Host: css.yandex.net
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 16 Bytes
+      Response size (in): 6990 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 6692 Bytes
+  Request Headers:
+      GET /css/search/r15/_serp.ie.css HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: css.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.35
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Content-Type: text/css
+      Last-Modified: Mon, 08 Jun 2009 13:13:32 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Content-Encoding: gzip
+
+Request 3:
+      Action: GET
+      Url: http://css.yandex.net/css/search/r15/_serp.js
+      Host: css.yandex.net
+      Result code: 200
+      Transaction time: 0.017 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 6
+      Request size (out): 16 Bytes
+      Response size (in): 6048 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 5734 Bytes
+  Request Headers:
+      GET /css/search/r15/_serp.js HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: css.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.35
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Content-Type: application/x-javascript
+      Last-Modified: Tue, 16 Jun 2009 07:29:21 GMT
+      Transfer-Encoding: chunked
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Content-Encoding: gzip
+
+Request 4:
+      Action: GET
+      Url: http://img.yandex.net/i/logo95x37x8.png
+      Host: img.yandex.net
+      Result code: 200
+      Transaction time: 0.195 seconds
+      Time to first byte: 0.000 seconds
+      Document: 1
+      Socket: 8
+      Request size (out): 16 Bytes
+      Response size (in): 1691 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1400 Bytes
+  Request Headers:
+      GET /i/logo95x37x8.png HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: img.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx/0.6.35
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Content-Type: image/png
+      Content-Length: 1400
+      Last-Modified: Tue, 02 Dec 2008 07:28:48 GMT
+      Connection: keep-alive
+      Expires: Thu, 31 Dec 2037 23:55:55 GMT
+      Cache-Control: max-age=315360000
+      Accept-Ranges: bytes
+
+Request 5:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.005 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 638 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 349 Bytes
+  Request Headers:
+      GET /2.0/common/block/b-head-search/arrow/b-head-search.arrow.png HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: lego.static.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Thu, 25 Apr 2019 09:50:47 GMT
+      Cache-Control: max-age=311040000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "2808788830"
+      Last-Modified: Thu, 28 May 2009 12:17:03 GMT
+      Content-Length: 349
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 6:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 12
+      Request size (out): 16 Bytes
+      Response size (in): 5103 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4841 Bytes
+  Request Headers:
+      GET /tsuggest-1.5b3.html HTTP/1.1
+      Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: suggest.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=471511245145847
+  Response Headers:
+      HTTP/1.1 200 OK
+      Vary: Accept-Encoding
+      Content-Encoding: gzip
+      Last-Modified: Tue, 31 Mar 2009 13:16:44 GMT
+      ETag: "630937004"
+      Content-Type: text/html
+      Accept-Ranges: bytes
+      Content-Length: 4841
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Server: lighttpd/1.4.18
+
+Request 7:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 302
+      Transaction time: 0.065 seconds
+      Time to first byte: 0.033 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 16 Bytes
+      Response size (in): 607 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0 HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 302 Moved Temporarily
+      Server: tns-counter.0.5.2
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Location: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+      Set-Cookie: guid=570E02034A376AF7X1245145847; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.tns-counter.ru; path=/
+
+Request 8:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/cl.gif
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.018 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 16 Bytes
+      Response size (in): 284 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 73 Bytes
+  Request Headers:
+      GET /resource/cl.gif HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=471511245145847
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Tue, 23 Sep 2003 12:17:48 GMT
+      Content-Type: image/gif
+      Content-Length: 73
+
+Request 9:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/C7w6KuJlNxG40X00ZhUlTgC4KfK2cmTiFoq1YALZEWQIgqhX1ugY2la4ZG6Ge1y2tf6pC48P29E53OkYNxyUGNm6?rnd=813598291
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.038 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 16 Bytes
+      Response size (in): 498 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 0 Bytes
+  Request Headers:
+      GET /count/C7w6KuJlNxG40X00ZhUlTgC4KfK2cmTiFoq1YALZEWQIgqhX1ugY2la4ZG6Ge1y2tf6pC48P29E53OkYNxyUGNm6?rnd=813598291 HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=471511245145847
+  Response Headers:
+      HTTP/1.1 302 Found
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Tue, 16 Jun 2009 09:50:47 GMT
+      Expires: Tue, 16 Jun 2009 09:50:47 GMT
+      Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+      Pragma: no-cache
+      Location: http://yabs.yandex.ru/resource/RLPn^bY1cfOMOK2KaxsT_A.png
+      Set-Cookie: yabs-frequency=/2/DQPZ0Eu48G00/; domain=.yandex.ru; path=/; expires=Thu, 24-Sep-2009 09:50:47 GMT
+      Content-Length: 0
+
+Request 10:
+      Action: GET
+      Url: http://im7-tub.yandex.net/i?id=126324406&tov=7
+      Host: im7-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.116 seconds
+      Time to first byte: 0.108 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 16 Bytes
+      Response size (in): 4717 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 4532 Bytes
+  Request Headers:
+      GET /i?id=126324406&tov=7 HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: im7-tub.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Content-Type: image/jpeg
+      Last-Modified: Wed, 03 Jun 2009 20:06:43 GMT
+      Content-Length: 4532
+      Connection: close
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Server: yandex
+
+Request 11:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/RLPn^bY1cfOMOK2KaxsT_A.png
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 0.039 seconds
+      Time to first byte: 0.025 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 16 Bytes
+      Response size (in): 7976 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 7763 Bytes
+  Request Headers:
+      GET /resource/RLPn^bY1cfOMOK2KaxsT_A.png HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=471511245145847; yabs-frequency=/2/DQPZ0Eu48G00/
+  Response Headers:
+      HTTP/1.1 200 OK
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Server: Phantom/0.0.0
+      P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+      Last-Modified: Tue, 16 Jun 2009 05:15:56 GMT
+      Content-Type: image/png
+      Content-Length: 7763
+
+Request 12:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.026 seconds
+      Time to first byte: 0.002 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 16 Bytes
+      Response size (in): 438 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0 HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: www.tns-counter.ru
+      Connection: Keep-Alive
+      Cookie: guid=570E02034A376AF7X1245145847
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: tns-counter.0.5.2
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: close
+      Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CUR OUR NOR"
+      Expires: Thu, 01 Jan 1970 00:00:01 GMT
+      Pragma: no-cache
+
+Request 13:
+      Action: GET
+      Url: http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+      Host: lego.static.yandex.net
+      Result code: 200
+      Transaction time: 0.022 seconds
+      Time to first byte: 0.014 seconds
+      Document: 1
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 1758 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 1468 Bytes
+  Request Headers:
+      GET /2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png HTTP/1.1
+      Accept: */*
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: lego.static.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Thu, 25 Apr 2019 09:50:47 GMT
+      Cache-Control: max-age=311040000
+      Content-Type: image/png
+      Accept-Ranges: bytes
+      ETag: "3077259002"
+      Last-Modified: Thu, 28 May 2009 12:17:00 GMT
+      Content-Length: 1468
+      Date: Tue, 16 Jun 2009 09:50:47 GMT
+      Server: lighttpd/1.4.19
+
+Request 14:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/dic.academic.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.004 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 1133 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 853 Bytes
+  Request Headers:
+      GET /favicon/dic.academic.ru HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/png
+      Content-Length: 853
+      Last-Modified: Sat, 13 Jun 2009 21:41:15 GMT
+      Connection: keep-alive
+      Expires: Wed, 24 Jun 2009 09:50:48 GMT
+      Cache-Control: max-age=691200
+      Accept-Ranges: bytes
+
+Request 15:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.internetseti.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.003 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 229 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /favicon/www.internetseti.ru HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: keep-alive
+
+Request 16:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.ubrus.org
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 229 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /favicon/www.ubrus.org HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: keep-alive
+
+Request 17:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/slovari.yandex.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 803 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 523 Bytes
+  Request Headers:
+      GET /favicon/slovari.yandex.ru HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/png
+      Content-Length: 523
+      Last-Modified: Sun, 14 Jun 2009 02:21:17 GMT
+      Connection: keep-alive
+      Expires: Wed, 24 Jun 2009 09:50:48 GMT
+      Cache-Control: max-age=691200
+      Accept-Ranges: bytes
+
+Request 18:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.tetatet-club.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 426 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 146 Bytes
+  Request Headers:
+      GET /favicon/www.tetatet-club.ru HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/png
+      Content-Length: 146
+      Last-Modified: Sun, 14 Jun 2009 05:09:15 GMT
+      Connection: keep-alive
+      Expires: Wed, 24 Jun 2009 09:50:48 GMT
+      Cache-Control: max-age=691200
+      Accept-Ranges: bytes
+
+Request 19:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/forum.lingvo.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 850 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 570 Bytes
+  Request Headers:
+      GET /favicon/forum.lingvo.ru HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/png
+      Content-Length: 570
+      Last-Modified: Wed, 10 Jun 2009 03:47:43 GMT
+      Connection: keep-alive
+      Expires: Wed, 24 Jun 2009 09:50:48 GMT
+      Cache-Control: max-age=691200
+      Accept-Ranges: bytes
+
+Request 20:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.inslov.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 502 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 222 Bytes
+  Request Headers:
+      GET /favicon/www.inslov.ru HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/png
+      Content-Length: 222
+      Last-Modified: Sun, 14 Jun 2009 00:04:07 GMT
+      Connection: keep-alive
+      Expires: Wed, 24 Jun 2009 09:50:48 GMT
+      Cache-Control: max-age=691200
+      Accept-Ranges: bytes
+
+Request 21:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.diclib.com
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.001 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 229 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /favicon/www.diclib.com HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: keep-alive
+
+Request 22:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/www.slovar.info
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 22
+      Request size (out): 16 Bytes
+      Response size (in): 589 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 309 Bytes
+  Request Headers:
+      GET /favicon/www.slovar.info HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/png
+      Content-Length: 309
+      Last-Modified: Sat, 13 Jun 2009 23:08:29 GMT
+      Connection: keep-alive
+      Expires: Wed, 24 Jun 2009 09:50:48 GMT
+      Cache-Control: max-age=691200
+      Accept-Ranges: bytes
+
+Request 23:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/licey102.k26.ru
+      Host: favicon.yandex.net
+      Result code: 200
+      Transaction time: 0.002 seconds
+      Time to first byte: 0.001 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 16 Bytes
+      Response size (in): 229 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 43 Bytes
+  Request Headers:
+      GET /favicon/licey102.k26.ru HTTP/1.1
+      Accept: */*
+      Referer: http://yandex.ru/yandsearch?text=%F4%E5%F0%EC%F3%E0%F0&i-m-a-hacker=1
+      Accept-Language: ru
+      UA-CPU: x86
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 1.1.4322)
+      Host: favicon.yandex.net
+      Connection: Keep-Alive
+  Response Headers:
+      HTTP/1.1 200 OK
+      Server: nginx
+      Date: Tue, 16 Jun 2009 09:50:48 GMT
+      Content-Type: image/gif
+      Content-Length: 43
+      Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+      Connection: keep-alive
+

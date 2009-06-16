@@ -1,0 +1,65 @@
+Optimization Report : 06/05/09 at 19:59:22
+
+Results for 'http://yandex.ru/yandsearch?text=%F2%E5%EB%E5%EF%F0%EE%E3%F0%E0%EC%EC%E0%20%ED%F2%E2&i-m-a-hacker=1':
+
+Page load time: 0.431 seconds
+Time to first byte: 0.209 seconds
+Time to Base Page Downloaded: 0.236 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.431 seconds
+Time to Fully Loaded: 0.431 seconds
+Bytes sent out: 3.908 KB
+Bytes received: 5.017 KB
+DNS Lookups: 6
+Connections: 7
+Requests: 8
+   OK Requests:  2
+   Redirects:    1
+   Not Modified: 5
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://im0-tub.yandex.net/i?id=8217127&tov=0
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://im0-tub.yandex.net/i?id=8217127&tov=0
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  No appropriate resources present
+
+Compress Images:
+  Image Compression score : 91
+    3.4 KB total in images, target size = 3.1 KB - potential savings = 0.3 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=6384241244217556
+   WARNING (1 cookies, 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=12265251
+      cookie:yandexuid=6384241244217556
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=37E806034A2940D4X1244217556
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/VOfnBhL3W1S40X00ZhGDbA84KfK5cm5gLeYhUeu3YQ8Lt0QIfRcL18ges4O2ZG6Hkxx8X0AJXGsBgReC345w1W00
+      cookie:yandexuid=6384241244217556
+  Cookie score : 77
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

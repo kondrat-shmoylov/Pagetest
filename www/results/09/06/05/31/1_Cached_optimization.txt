@@ -1,0 +1,85 @@
+Optimization Report : 06/05/09 at 18:15:23
+
+Results for 'http://yandex.ru/yandsearch?text=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 1.537 seconds
+Time to first byte: 0.107 seconds
+Time to Base Page Downloaded: 0.127 seconds
+Time to Start Render: 0.360 seconds
+Time to DOM Element(id=text): 0.360 seconds
+Time to Document Complete: 1.537 seconds
+Time to Fully Loaded: 1.537 seconds
+Bytes sent out: 6.002 KB
+Bytes received: 37.239 KB
+DNS Lookups: 10
+Connections: 10
+Requests: 11
+   OK Requests:  4
+   Redirects:    1
+   Not Modified: 5
+   Not Found:    1
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (0 seconds) - http://export.yandex.ru/geoselectorData.xml
+    FAILED  (No max-age or expires) - http://im2-tub.yandex.net/i?id=24333506&tov=2
+    FAILED  (No max-age or expires) - http://im4-tub.yandex.net/i?id=30303612&tov=4
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/fc02.swf
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://export.yandex.ru/geoselectorData.xml
+    FAILED - http://im2-tub.yandex.net/i?id=24333506&tov=2
+    FAILED - http://im4-tub.yandex.net/i?id=30303612&tov=4
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (24.0 KB, compressed = 7.4 KB - savings of 16.6 KB) - http://export.yandex.ru/geoselectorData.xml
+  GZIP score : 30
+    24.0 KB total in compressible text, target size = 7.4 KB - potential savings = 16.6 KB
+
+Compress Images:
+    WARNING (6.6 KB, target = 5.7 KB - savings of 0.9 KB)- http://im2-tub.yandex.net/i?id=24333506&tov=2
+  Image Compression score : 91
+    11.1 KB total in images, target size = 10.1 KB - potential savings = 0.9 KB
+
+Use persistent connections (keep alive):
+  No appropriate resources present
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 176 bytes) - http://export.yandex.ru/geoselectorData.xml
+      cookie:yandexuid=1006581244211315
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+    FAILED (Static object with 2 cookies - 176 bytes) - http://yabs.yandex.ru/resource/fc02.swf
+      cookie:yandexuid=1006581244211315
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (2 cookies, 176 bytes) - http://bscork.yandex.ru/su/
+      cookie:yandexuid=1006581244211315
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (2 cookies, 176 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=1006581244211315
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=2E1D06014A292873X1244211315
+   WARNING (2 cookies, 176 bytes) - http://yabs.yandex.ru/resource/fc02.html
+      cookie:yandexuid=1006581244211315
+      cookie: ft=4a2908dc0005a61b.vugYBzm6bFfbF7v2fe-9H_BgeV3gBOtnQmlHu17o0UU9dEEDMMdsTwx3MXbjI5YTlgAIEhBZKMQHUKIIQ54svXUKqsI9bx0Mz6yFUZermESjpMmNOOfTY6IMhLn4V8tJ
+  Cookie score : 63
+    0.9 KB total in outbound cookies, target size = 0.5 KB - potential savings = 0.3 KB
+
+Minify JS:
+  Minify score : 100
+    24.0 KB total in minifiable text, target size = 24.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

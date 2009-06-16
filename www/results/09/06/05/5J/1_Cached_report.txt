@@ -1,0 +1,95 @@
+Results for 'http://yandex.ru/yandsearch?text=%EF%EE%E3%EE%E4%E0&i-m-a-hacker=1':
+
+Page load time: 0.174 seconds
+Time to first byte: 0.173 seconds
+Time to Base Page Downloaded: 0.174 seconds
+Time to Start Render: 0.000 seconds
+Time to Document Complete: 0.174 seconds
+Time to Fully Loaded: 0.174 seconds
+Bytes sent out: 2.795 KB
+Bytes received: 7.675 KB
+DNS Lookups: 5
+Connections: 6
+Requests: 6
+   OK Requests:  3
+   Redirects:    0
+   Not Modified: 3
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://im3-tub.yandex.net/i?id=42740705&tov=3
+      Host: im3-tub.yandex.net
+      Result code: 200
+      Transaction time: 0.174 seconds
+      Time to first byte: 0.067 seconds
+      Document: 1
+      Socket: 14
+      Request size (out): 411 Bytes
+      Response size (in): 2637 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.025 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 728 Bytes
+      Response size (in): 250 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.075 seconds
+      Time to first byte: 0.061 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 431 Bytes
+      Response size (in): 438 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=1253866
+      Host: video-tub.yandex.ru
+      Result code: 200
+      Transaction time: 0.066 seconds
+      Time to first byte: 0.031 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 461 Bytes
+      Response size (in): 4232 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/meteo.infospace.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.070 seconds
+      Time to first byte: 0.062 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 418 Bytes
+      Response size (in): 151 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://favicon.yandex.net/favicon/pogoda.rbc.ru
+      Host: favicon.yandex.net
+      Result code: 304
+      Transaction time: 0.066 seconds
+      Time to first byte: 0.062 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 413 Bytes
+      Response size (in): 151 Bytes
+

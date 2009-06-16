@@ -1,0 +1,65 @@
+Optimization Report : 06/15/09 at 15:08:23
+
+Results for 'http://google.com/':
+
+Page load time: 0.839 seconds
+Time to first byte: 0.438 seconds
+Time to Base Page Downloaded: 0.807 seconds
+Time to Start Render: 0.919 seconds
+Time to Document Complete: 0.839 seconds
+Time to Fully Loaded: 0.981 seconds
+Bytes sent out: 0.078 KB
+Bytes received: 5.524 KB
+DNS Lookups: 4
+Connections: 4
+Requests: 5
+   OK Requests:  1
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 2
+
+
+Enable browser caching of static assets:
+  No appropriate resources present
+
+Use one CDN for all static assets:
+  No appropriate resources present
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    4.3 KB total in compressible text, target size = 4.3 KB - potential savings = 0.0 KB
+
+Compress Images:
+  No appropriate resources present
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+   WARNING (1 cookies, 76 bytes) - http://clients1.google.ru/generate_204
+      cookie:PREF=ID=ac608b038c4c5f07:NW=1:TM=1245064101:LM=1245064101:S=7TphZ18P6p-FdOFM
+   WARNING (1 cookies, 71 bytes) - http://google.com/
+      cookie:PREF=ID=46c9b8a6dd68773e:TM=1245064101:LM=1245064101:S=_jCXIbg1n-vOl64O
+   WARNING (1 cookies, 71 bytes) - http://www.google.com/
+      cookie:PREF=ID=46c9b8a6dd68773e:TM=1245064101:LM=1245064101:S=_jCXIbg1n-vOl64O
+   WARNING (1 cookies, 76 bytes) - http://www.google.ru/
+      cookie:PREF=ID=ac608b038c4c5f07:NW=1:TM=1245064101:LM=1245064101:S=7TphZ18P6p-FdOFM
+   WARNING (1 cookies, 76 bytes) - http://www.google.ru/csi?v=3&s=webhp&action=&tran=undefined&ei=rCs2SoTTB4yysAaC37WzCQ&e=17259,20744&rt=prt.16,ol.32,xjs.32
+      cookie:PREF=ID=ac608b038c4c5f07:NW=1:TM=1245064101:LM=1245064101:S=7TphZ18P6p-FdOFM
+  Cookie score : 50
+    0.4 KB total in outbound cookies, target size = 0.4 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

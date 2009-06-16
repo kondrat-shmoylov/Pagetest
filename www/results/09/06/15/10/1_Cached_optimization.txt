@@ -1,0 +1,61 @@
+Optimization Report : 06/15/09 at 15:10:56
+
+Results for 'http://juick.com/':
+
+Error loading page: 99999 (0x0001869F)
+Page load time: 1.483 seconds
+Time to first byte: 0.454 seconds
+Time to Base Page Downloaded: 0.785 seconds
+Time to Start Render: 0.958 seconds
+Time to Document Complete: 1.483 seconds
+Time to Fully Loaded: 1.483 seconds
+Bytes sent out: 0.078 KB
+Bytes received: 11.764 KB
+DNS Lookups: 2
+Connections: 3
+Requests: 5
+   OK Requests:  2
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    2
+   Other:        0
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+    WARNING (24.0 hours) - http://i.juick.com/as/473.png
+  Cache score : 50
+
+Use one CDN for all static assets:
+    FAILED - http://i.juick.com/as/473.png
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    5.5 KB total in compressible text, target size = 5.5 KB - potential savings = 0.0 KB
+
+Compress Images:
+    WARNING (2.1 KB, target = 1.5 KB - savings of 0.6 KB - Convert PNG to 8 bit)- http://i.juick.com/as/473.png
+  Image Compression score : 71
+    2.1 KB total in images, target size = 1.5 KB - potential savings = 0.6 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+  Cookie score : 100
+    0.0 KB total in outbound cookies, target size = 0.0 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

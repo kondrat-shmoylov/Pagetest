@@ -1,0 +1,84 @@
+Optimization Report : 06/11/09 at 10:40:00
+
+Results for 'http://yandex.ru/yandsearch?text=%ED%E5%ED%E0%F5%EE%E4%E8%EC%E0%FF%F2%E5%F1%F2%EE%E2%E0%FF%F1%F2%F0%EE%EA%E0&i-m-a-hacker=1':
+
+Page load time: 1.359 seconds
+Time to first byte: 0.122 seconds
+Time to Base Page Downloaded: 0.234 seconds
+Time to Start Render: 1.601 seconds
+Time to Document Complete: 1.359 seconds
+Time to Fully Loaded: 1.359 seconds
+Bytes sent out: 5.652 KB
+Bytes received: 61.249 KB
+DNS Lookups: 7
+Connections: 10
+Requests: 12
+   OK Requests:  10
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/cl.gif
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/iMlnn4OAAVGCXEt5gP9lDw.jpg
+  Cache score : 71
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r15/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r15/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://yabs.yandex.ru/resource/cl.gif
+    FAILED - http://yabs.yandex.ru/resource/iMlnn4OAAVGCXEt5gP9lDw.jpg
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.6 KB, compressed = 5.5 KB - savings of 17.1 KB) - http://css.yandex.net/css/search/r15/_serp.ie.css
+    FAILED (13.6 KB, compressed = 5.4 KB - savings of 8.2 KB) - http://css.yandex.net/css/search/r15/_serp.js
+  GZIP score : 32
+    37.7 KB total in compressible text, target size = 12.4 KB - potential savings = 25.3 KB
+
+Compress Images:
+    WARNING (18.3 KB, target = 13.6 KB - savings of 4.6 KB)- http://yabs.yandex.ru/resource/iMlnn4OAAVGCXEt5gP9lDw.jpg
+  Image Compression score : 78
+    21.5 KB total in images, target size = 16.9 KB - potential savings = 4.6 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+  Keep-Alive score : 87
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 59 bytes) - http://yabs.yandex.ru/resource/iMlnn4OAAVGCXEt5gP9lDw.jpg
+      cookie:yandexuid=7009291244702396
+      cookie: yabs-frequency=/2/wKHV0Ea48G00/
+    FAILED (Static object with 1 cookies - 26 bytes) - http://yabs.yandex.ru/resource/cl.gif
+      cookie:yandexuid=7009291244702396
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=7009291244702396
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=3A9506034A30A6BDX1244702397
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/VH8SSNtPAga40X00Zhnh2gC4KfK2cmTiFoq1YAbEz0MIh4w51ugWRB84ZG6Ge1y2tf6wM3UN39E53Oki8YuTGNm6?rnd=2098338929
+      cookie:yandexuid=7009291244702396
+  Cookie score : 70
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.1 KB
+
+Minify JS:
+  Minify score : 100
+    13.6 KB total in minifiable text, target size = 13.6 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 75
+
+JQuery Selectors not descended from an ID:
+  No problems found

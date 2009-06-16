@@ -1,0 +1,109 @@
+Optimization Report : 06/16/09 at 15:45:56
+
+Results for 'http://lenta.ru/':
+
+Page load time: 1.377 seconds
+Time to first byte: 1.138 seconds
+Time to Base Page Downloaded: 1.144 seconds
+Time to Start Render: 1.327 seconds
+Time to Document Complete: 1.377 seconds
+Time to Fully Loaded: 1.377 seconds
+Bytes sent out: 2.047 KB
+Bytes received: 96.997 KB
+DNS Lookups: 11
+Connections: 20
+Requests: 131
+   OK Requests:  16
+   Redirects:    2
+   Not Modified: 109
+   Not Found:    0
+   Other:        4 (301, 301, 301, 301)
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://img.lenta.ru/i/ts.css?a
+    FAILED  (No max-age or expires) - http://img.lenta.ru/iauto/i/ts-auto-background.gif
+    FAILED  (No max-age or expires) - http://img.lenta.ru/iauto/i/ts-auto-logo.gif
+    FAILED  (No max-age or expires) - http://medportal.ru/common/16060953--150.jpg
+    FAILED  (No max-age or expires) - http://ts.lenta.ru/export/auto.js
+    FAILED  (No max-age or expires) - http://ts.lenta.ru/img/0001829.jpg
+    FAILED  (No max-age or expires) - http://ts.lenta.ru/img/0001830.jpg
+    FAILED  (No max-age or expires) - http://ts.lenta.ru/img/0001837.jpg
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://img.lenta.ru/i/ts.css?a
+    FAILED - http://img.lenta.ru/iauto/i/ts-auto-background.gif
+    FAILED - http://img.lenta.ru/iauto/i/ts-auto-logo.gif
+    FAILED - http://medportal.ru/common/16060953--150.jpg
+    FAILED - http://ts.lenta.ru/export/auto.js
+    FAILED - http://ts.lenta.ru/img/0001829.jpg
+    FAILED - http://ts.lenta.ru/img/0001830.jpg
+    FAILED - http://ts.lenta.ru/img/0001837.jpg
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    39.3 KB total in compressible text, target size = 39.3 KB - potential savings = 0.0 KB
+
+Compress Images:
+    WARNING (3.7 KB, target = 2.9 KB - savings of 0.8 KB)- http://ts.lenta.ru/img/0001829.jpg
+    WARNING (3.1 KB, target = 2.8 KB - savings of 0.3 KB)- http://ts.lenta.ru/img/0001837.jpg
+  Image Compression score : 96
+    41.8 KB total in images, target size = 40.5 KB - potential savings = 1.3 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+    FAILED - http://ad2.rambler.ru/lenta.ban?pg=5374&ifr=1
+    FAILED - http://medportal.ru/common/16060953--150.jpg
+  Keep-Alive score : 66
+
+Proper cookie usage:
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=5374&ifr=1
+      cookie:ruid=yQAAAPGFN0pG7AAAAakCAA==
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=5309&ifr=1
+      cookie:ruid=yQAAAPGFN0pG7AAAAakCAA==
+   WARNING (1 cookies, 29 bytes) - http://ad2.rambler.ru/lenta.ban?pg=4883&ifr=1
+      cookie:ruid=yQAAAPGFN0pG7AAAAakCAA==
+   WARNING (1 cookies, 29 bytes) - http://counter.rambler.ru/top100.cnt?80674
+      cookie:ruid=yQAAAPGFN0pG7AAAAakCAA==
+   WARNING (2 cookies, 35 bytes) - http://counter.yadro.ru/hit?t57.6;r;s1024*768*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.16249141120723393
+      cookie:FTID=1ADuNn3oSCGe
+      cookie: VID=2OEegW1G9VWe
+   WARNING (1 cookies, 16 bytes) - http://counter.yadro.ru/hit?q;t57.6;r;s1024*768*16;uhttp%3A//lenta.ru/;i%u0416%u0436Lenta.ru%3A%20%u0413%u043B%u0430%u0432%u043D%u043E%u0435%3A;0.16249141120723393
+      cookie:VID=2OEegW1G9VWe
+   WARNING (1 cookies, 16 bytes) - http://d0.c6.b0.a0.top.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=16;rand=0.4868622787811983
+      cookie:VID=1VUARt3bkEGe
+   WARNING (1 cookies, 16 bytes) - http://top3.mail.ru/counter?id=24766;t=51;js=13;r=;j=true;s=1024*768;d=16;rand=0.4868622787811983
+      cookie:VID=1VUARt3bkEGe
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****lenta_ru/ru/CP1251/tmsec=lenta_total/
+      cookie:guid=911702034A3785F1X1245152753
+  Cookie score : 96
+    0.2 KB total in outbound cookies, target size = 0.2 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    0.7 KB total in minifiable text, target size = 0.7 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://img.lenta.ru/i/ts.css?a
+    FAILED - http://img.lenta.ru/iauto/i/ts-auto-logo.gif
+    FAILED - http://img.lenta.ru/iauto/i/ts-auto-background.gif
+    FAILED - http://medportal.ru/common/16060953--150.jpg
+    FAILED - http://medportal.ru/common/11060994--150.jpg
+    FAILED - http://medportal.ru/common/16060994--150.jpg
+    FAILED - http://medportal.ru/common/10060994--150.jpg
+    FAILED - http://ts.lenta.ru/export/auto.js
+    FAILED - http://ts.lenta.ru/img/0001829.jpg
+    FAILED - http://ts.lenta.ru/img/0001837.jpg
+    FAILED - http://ts.lenta.ru/img/0001830.jpg
+  ETag score : 91
+
+JQuery Selectors not descended from an ID:
+  No problems found

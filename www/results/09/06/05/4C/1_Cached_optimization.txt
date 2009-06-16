@@ -1,0 +1,71 @@
+Optimization Report : 06/05/09 at 19:47:47
+
+Results for 'http://google.ru/search?q=%F5%EE%EB%EE%E4%E8%EB%FC%ED%E8%EA%20Sony%20KDL-52x2000&hl=ru':
+
+Page load time: 0.679 seconds
+Time to first byte: 0.277 seconds
+Time to Base Page Downloaded: 0.646 seconds
+Time to Start Render: 0.787 seconds
+Time to Document Complete: 0.679 seconds
+Time to Fully Loaded: 0.969 seconds
+Bytes sent out: 3.522 KB
+Bytes received: 2.355 KB
+DNS Lookups: 4
+Connections: 4
+Requests: 5
+   OK Requests:  2
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        3 (301, 204, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+  No appropriate resources present
+
+Use one CDN for all static assets:
+  No appropriate resources present
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    1.0 KB total in compressible text, target size = 1.0 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    0.0 KB total in images, target size = 0.0 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+   WARNING (2 cookies, 232 bytes) - http://clients1.google.ru/generate_204
+      cookie:PREF=ID=4e37f8266e2f2c06:U=fb8b8993bade021e:NW=1:TM=1244216862:LM=1244216869:S=P0zuif_6yrxC1uzj
+      cookie: NID=23=jr7tbzd4qwl45l9F_lt1P4Cvn6ht9SWiAdtsMTwp1xQ0lT44TQpUdjLSe2un21b1dGWi_aYz298vNNQt9az8tTTVAo659HQFflUlYuH97D6_1ujE-CTXF_Cgeq5AwXw1
+   WARNING (2 cookies, 213 bytes) - http://google.ru/search?q=%F5%EE%EB%EE%E4%E8%EB%FC%ED%E8%EA%20Sony%20KDL-52x2000&hl=ru
+      cookie:PREF=ID=4e37f8266e2f2c06:NW=1:TM=1244216862:LM=1244216862:S=niUl2aL2TyRXFGb5
+      cookie: NID=23=jr7tbzd4qwl45l9F_lt1P4Cvn6ht9SWiAdtsMTwp1xQ0lT44TQpUdjLSe2un21b1dGWi_aYz298vNNQt9az8tTTVAo659HQFflUlYuH97D6_1ujE-CTXF_Cgeq5AwXw1
+   WARNING (2 cookies, 232 bytes) - http://id.google.ru/verify/EAAAAOBt1l-mIpKGiyOGOe8OzFk.gif
+      cookie:PREF=ID=4e37f8266e2f2c06:U=fb8b8993bade021e:NW=1:TM=1244216862:LM=1244216869:S=P0zuif_6yrxC1uzj
+      cookie: NID=23=jr7tbzd4qwl45l9F_lt1P4Cvn6ht9SWiAdtsMTwp1xQ0lT44TQpUdjLSe2un21b1dGWi_aYz298vNNQt9az8tTTVAo659HQFflUlYuH97D6_1ujE-CTXF_Cgeq5AwXw1
+   WARNING (2 cookies, 232 bytes) - http://www.google.ru/csi?v=3&s=web&action=&tran=undefined&ei=JT4pSriNHI-J_Qa7p6jsCg&e=17259,20572,20720&rt=prt.109,ol.140,xjs.156
+      cookie:PREF=ID=4e37f8266e2f2c06:U=fb8b8993bade021e:NW=1:TM=1244216862:LM=1244216869:S=P0zuif_6yrxC1uzj
+      cookie: NID=23=jr7tbzd4qwl45l9F_lt1P4Cvn6ht9SWiAdtsMTwp1xQ0lT44TQpUdjLSe2un21b1dGWi_aYz298vNNQt9az8tTTVAo659HQFflUlYuH97D6_1ujE-CTXF_Cgeq5AwXw1
+   WARNING (2 cookies, 213 bytes) - http://www.google.ru/search?q=%F5%EE%EB%EE%E4%E8%EB%FC%ED%E8%EA%20Sony%20KDL-52x2000&hl=ru
+      cookie:PREF=ID=4e37f8266e2f2c06:NW=1:TM=1244216862:LM=1244216862:S=niUl2aL2TyRXFGb5
+      cookie: NID=23=jr7tbzd4qwl45l9F_lt1P4Cvn6ht9SWiAdtsMTwp1xQ0lT44TQpUdjLSe2un21b1dGWi_aYz298vNNQt9az8tTTVAo659HQFflUlYuH97D6_1ujE-CTXF_Cgeq5AwXw1
+  Cookie score : 50
+    1.1 KB total in outbound cookies, target size = 1.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  No appropriate resources present
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

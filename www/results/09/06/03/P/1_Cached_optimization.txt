@@ -1,0 +1,71 @@
+Optimization Report : 06/03/09 at 10:45:33
+
+Results for 'http://mail.yandex.ru/':
+
+Page load time: 0.504 seconds
+Time to first byte: 0.145 seconds
+Time to Base Page Downloaded: 0.145 seconds
+Time to Start Render: 0.286 seconds
+Time to Document Complete: 0.504 seconds
+Time to Fully Loaded: 0.504 seconds
+Bytes sent out: 2.466 KB
+Bytes received: 9.276 KB
+DNS Lookups: 4
+Connections: 5
+Requests: 6
+   OK Requests:  6
+   Redirects:    0
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    WARNING (7.0 days) - https://passport.yandex.ru/js/forcehttps.js
+  Cache score : 83
+
+Use one CDN for all static assets:
+    FAILED - http://mailstatic.yandex.net/classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0
+    FAILED - http://mailstatic.yandex.net/modern/34154/i//login/marka4.gif
+    FAILED - https://passport.yandex.ru/js/forcehttps.js
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+  GZIP score : 100
+    1.4 KB total in compressible text, target size = 1.4 KB - potential savings = 0.0 KB
+
+Compress Images:
+  Image Compression score : 100
+    7.0 KB total in images, target size = 7.0 KB - potential savings = 0.0 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 29 bytes) - https://passport.yandex.ru/js/forcehttps.js
+      cookie:yandexuid=1786914891244011522
+   WARNING (1 cookies, 29 bytes) - http://mail.yandex.ru/
+      cookie:yandexuid=1786914891244011522
+   WARNING (1 cookies, 29 bytes) - http://passport.yandex.ru/passport?mode=testloginjs&id39934064
+      cookie:yandexuid=1786914891244011522
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id39934064
+      cookie:guid=D5A906014A261C02X1244011522
+  Cookie score : 58
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    1.0 KB total in minifiable text, target size = 1.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://mailstatic.yandex.net/classic/79/i/x.gif?xml=ok&xslt=ok&import=ok&transform=ok&xpath=ok&xpath2=ok&xpathres=ok&export2html=ok&time=0
+    FAILED - http://mailstatic.yandex.net/modern/34154/i//login/marka4.gif
+  ETag score : 66
+
+JQuery Selectors not descended from an ID:
+  No problems found

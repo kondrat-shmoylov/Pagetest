@@ -1,0 +1,155 @@
+Optimization Report : 06/16/09 at 13:42:14
+
+Results for 'http://yandex.ru/yandsearch?text=%D0%9E%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%2C+%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B9!&nl=1&stpar2=%2Fh0%2Ftm50%2Fs1&stpar4=%2Fs1':
+
+Error loading page: 99996 (0x0001869C)
+Page load time: 0.310 seconds
+Time to first byte: 0.150 seconds
+Time to Base Page Downloaded: 0.155 seconds
+Time to Start Render: 0.283 seconds
+Time to DOM Element(class=l-results): 0.000 seconds
+Time to Document Complete: 0.310 seconds
+Time to Fully Loaded: 0.310 seconds
+Bytes sent out: 0.484 KB
+Bytes received: 43.660 KB
+DNS Lookups: 11
+Connections: 13
+Requests: 31
+   OK Requests:  21
+   Redirects:    2
+   Not Modified: 7
+   Not Found:    1
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (0 seconds) - http://export.yandex.ru/geoselectorData.xml
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=10&endLine=13&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=11&endLine=14&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=12&endLine=15&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=13&endLine=16&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=14&endLine=17&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=15&endLine=18&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=16&endLine=19&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=17&endLine=20&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=18&endLine=21&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=19&endLine=22&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=20&endLine=23&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=21&endLine=24&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=5&endLine=8&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=6&endLine=9&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=7&endLine=10&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=8&endLine=11&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=9&endLine=12&callback=oPoetrylover.setNewDataFirstTime
+    FAILED  (No max-age or expires) - http://video-tub.yandex.ru/i?&tov=0&id=7382008
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - http://export.yandex.ru/geoselectorData.xml
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=10&endLine=13&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=11&endLine=14&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=12&endLine=15&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=13&endLine=16&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=14&endLine=17&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=15&endLine=18&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=16&endLine=19&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=17&endLine=20&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=18&endLine=21&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=19&endLine=22&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=20&endLine=23&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=21&endLine=24&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=5&endLine=8&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=6&endLine=9&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=7&endLine=10&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=8&endLine=11&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=9&endLine=12&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://video-tub.yandex.ru/i?&tov=0&id=7382008
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=13&endLine=16&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=12&endLine=15&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=11&endLine=14&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=10&endLine=13&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=9&endLine=12&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=8&endLine=11&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=7&endLine=10&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=6&endLine=9&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=5&endLine=8&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=14&endLine=17&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=15&endLine=18&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=16&endLine=19&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=17&endLine=20&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=18&endLine=21&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=19&endLine=22&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=20&endLine=23&callback=oPoetrylover.setNewDataFirstTime
+    FAILED - http://poetrylover.yandex.net/poetryLover/JsonService/GetDocumentCite?documentId=50090029&startLine=21&endLine=24&callback=oPoetrylover.setNewDataFirstTime
+  Combine score : 0
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (24.0 KB, compressed = 7.4 KB - savings of 16.6 KB) - http://export.yandex.ru/geoselectorData.xml
+  GZIP score : 55
+    37.6 KB total in compressible text, target size = 21.0 KB - potential savings = 16.6 KB
+
+Compress Images:
+    WARNING (3.4 KB, target = 2.6 KB - savings of 0.8 KB)- http://video-tub.yandex.ru/i?&tov=0&id=7382008
+  Image Compression score : 76
+    3.4 KB total in images, target size = 2.6 KB - potential savings = 0.8 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 3 cookies - 209 bytes) - http://export.yandex.ru/geoselectorData.xml
+      cookie:yandexuid=9507101245145096
+      cookie: yabs-frequency=/2/DQPZ0Eu48G00/
+      cookie: ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+    FAILED (Static object with 3 cookies - 209 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=7382008
+      cookie:yandexuid=9507101245145096
+      cookie: yabs-frequency=/2/DQPZ0Eu4GG00/
+      cookie: ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+   WARNING (3 cookies, 209 bytes) - http://bscork.yandex.ru/su/
+      cookie:yandexuid=9507101245145096
+      cookie: yabs-frequency=/2/DQPZ0Eu4GG00/
+      cookie: ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+   WARNING (3 cookies, 209 bytes) - http://clck.yandex.ru/jclck/dtype=fc/pid=5/ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T/*http://www.yandex.ru/
+      cookie:yandexuid=9507101245145096
+      cookie: yabs-frequency=/2/DQPZ0Eu4GG00/
+      cookie: ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+   WARNING (3 cookies, 209 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=9507101245145096
+      cookie: yabs-frequency=/2/DQPZ0Eu48G00/
+      cookie: ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=D25B02014A376809X1245145097
+   WARNING (3 cookies, 209 bytes) - http://yabs.yandex.ru/resource/cl.gif
+      cookie:yandexuid=9507101245145096
+      cookie: yabs-frequency=/2/DQPZ0Eu48G00/
+      cookie: ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+   WARNING (3 cookies, 209 bytes) - http://yabs.yandex.ru/count/3ebVQtI3d2K40X00ZhY0TgC4KfK2cmTiFoq1YALZEWQIe4lX1ugh2la4ZG6Ge1y2tf6oi07M29E53OkdOhyUGNm6?rnd=243883883
+      cookie:yandexuid=9507101245145096
+      cookie: yabs-frequency=/2/DQPZ0Eu48G00/
+      cookie: ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+   WARNING (3 cookies, 209 bytes) - http://yabs.yandex.ru/resource/ZU9HL^AHyGMDVGh_pVbkUA.png
+      cookie:yandexuid=9507101245145096
+      cookie: yabs-frequency=/2/DQPZ0Eu4GG00/
+      cookie: ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+   WARNING (3 cookies, 209 bytes) - http://yabs.yandex.ru/resource/fc03.html
+      cookie:yandexuid=9507101245145096
+      cookie: yabs-frequency=/2/DQPZ0Eu4GG00/
+      cookie: ft=4a376808000e81b6.jM5g7dIv1CtW-7ybX5kpBrQ43mDIGcJ_QVpawwRCP5DSpDXxrAhedyQQYqPom8434EvJRHZlsaTtg6avewDdKskfr4pvVEqTCkck4IT4jGQ1DI547V0W4ozY7OMb9Q2T
+  Cookie score : 80
+    1.9 KB total in outbound cookies, target size = 1.5 KB - potential savings = 0.4 KB
+
+Minify JS:
+  Minify score : 100
+    37.6 KB total in minifiable text, target size = 37.6 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 96
+
+JQuery Selectors not descended from an ID:
+  No problems found

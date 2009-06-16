@@ -1,0 +1,116 @@
+Optimization Report : 06/04/09 at 20:28:25
+
+Results for 'http://yandex.ru/':
+
+Page load time: 1.508 seconds
+Time to first byte: 0.115 seconds
+Time to Base Page Downloaded: 0.177 seconds
+Time to Start Render: 0.434 seconds
+Time to Document Complete: 1.508 seconds
+Time to Fully Loaded: 1.508 seconds
+Bytes sent out: 7.702 KB
+Bytes received: 41.210 KB
+DNS Lookups: 7
+Connections: 11
+Requests: 18
+   OK Requests:  8
+   Redirects:    6
+   Not Modified: 1
+   Not Found:    0
+   Other:        3 (301, 0, 204)
+Base Page Response: 200
+Base Page Redirects: 1
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - https://passport.yandex.ru/js/smarthttps.js
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/72m^e6TQduhvucu2dxF7JA.swf?rnd=608678&link1=http://yabs.yandex.ru/count/9w0zBaS5kpm40X00ZhXYVw84KPK2cm9jL2A8gENv1PAhw8i7YgCKk0IHlD19P0QJXGsBf2LO7KAWawu1U0O0
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/7_aVp1FSbG8HjYeZeX0Ysg.png
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/7_aVp1FSbG8HjYeZeX0Ysg.png
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/flashldr006.js
+  Cache score : 0
+
+Use one CDN for all static assets:
+    FAILED - https://passport.yandex.ru/js/smarthttps.js
+    FAILED - http://yabs.yandex.ru/resource/72m^e6TQduhvucu2dxF7JA.swf?rnd=608678&link1=http://yabs.yandex.ru/count/9w0zBaS5kpm40X00ZhXYVw84KPK2cm9jL2A8gENv1PAhw8i7YgCKk0IHlD19P0QJXGsBf2LO7KAWawu1U0O0
+    FAILED - http://yabs.yandex.ru/resource/7_aVp1FSbG8HjYeZeX0Ysg.png
+    FAILED - http://yabs.yandex.ru/resource/7_aVp1FSbG8HjYeZeX0Ysg.png
+    FAILED - http://yabs.yandex.ru/resource/flashldr006.js
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  No appropriate resources present
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (2.2 KB, compressed = 0.9 KB - savings of 1.3 KB) - http://yabs.yandex.ru/resource/flashldr006.js
+  GZIP score : 67
+    4.0 KB total in compressible text, target size = 2.7 KB - potential savings = 1.3 KB
+
+Compress Images:
+    FAILED  (7.6 KB, target = 3.7 KB - savings of 3.9 KB - Convert PNG to 8 bit)- http://yabs.yandex.ru/resource/7_aVp1FSbG8HjYeZeX0Ysg.png
+    FAILED  (7.6 KB, target = 3.7 KB - savings of 3.9 KB - Convert PNG to 8 bit)- http://yabs.yandex.ru/resource/7_aVp1FSbG8HjYeZeX0Ysg.png
+  Image Compression score : 49
+    15.2 KB total in images, target size = 7.5 KB - potential savings = 7.8 KB
+
+Use persistent connections (keep alive):
+  Keep-Alive score : 100
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 71 bytes) - https://passport.yandex.ru/js/smarthttps.js
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2/M9vV0E849m00//fGBY1042
+    FAILED (Static object with 2 cookies - 71 bytes) - http://yabs.yandex.ru/resource/72m^e6TQduhvucu2dxF7JA.swf?rnd=608678&link1=http://yabs.yandex.ru/count/9w0zBaS5kpm40X00ZhXYVw84KPK2cm9jL2A8gENv1PAhw8i7YgCKk0IHlD19P0QJXGsBf2LO7KAWawu1U0O0
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2/M9vV0E849m00//fGBY1042
+    FAILED (Static object with 2 cookies - 59 bytes) - http://yabs.yandex.ru/resource/7_aVp1FSbG8HjYeZeX0Ysg.png
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2///fGBY1041
+    FAILED (Static object with 2 cookies - 59 bytes) - http://yabs.yandex.ru/resource/7_aVp1FSbG8HjYeZeX0Ysg.png
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2///fGBY1041
+    FAILED (Static object with 2 cookies - 59 bytes) - http://yabs.yandex.ru/resource/flashldr006.js
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2///fGBY1041
+   WARNING (1 cookies, 15 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=169449&pid=319126&bid=608341&bn=608341&rnd=1306378853
+      cookie:uid=-5033987578
+   WARNING (1 cookies, 15 bytes) - http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&bt=21&ad=169449&pid=319126&bid=608341&bn=608341&rnd=1306378853&tuid=-4929580005
+      cookie:uid=-4929580005
+   WARNING (2 cookies, 59 bytes) - http://suggest.yandex.ru/tsuggest-1.6.html
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2///fGBY1041
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13a**2356899051244132897**yandex_ru/ru/CP1251/tmsec=yandex_main/0
+      cookie:guid=25CC04014A27F621X1244132897
+   WARNING (2 cookies, 59 bytes) - http://www.yandex.ru/
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2///fGBY1041
+   WARNING (2 cookies, 71 bytes) - http://yabs.yandex.ru/count/9w0zBi9_lIW40X02ZhXYVw84KPK2cm9jL2A8gENv1PAhw8i7YgCKk0IHlD19P0QJXGsBfYLO7K6Cawu1e9Ek0Nm6
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2/M9vV0E849m00//fGBY1042
+   WARNING (2 cookies, 71 bytes) - http://yabs.yandex.ru/count/9w0zBi9_lIW40X02ZhXYVw84KPK2cm9jL2A8gENv1PAhw8i7YgCKk0IHlD19P0QJXGsBfYLO7K6Cawu1e9Ek0Nm6
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2/M9vV0E849m00//fGBY1042
+   WARNING (2 cookies, 59 bytes) - http://yabs.yandex.ru/count/9w0zBgC1Gl040X02ZhXYVw84KPK5cm5fMeYfpia4agf2b0UAhmc-196yq4ba1fE53OkdHOCTGNi5
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2///fGBY1041
+   WARNING (2 cookies, 59 bytes) - http://yabs.yandex.ru/count/9w0zBgC1Gl040X02ZhXYVw84KPK5cm5fMeYfpia4agf2b0UAhmc-196yq4ba1fE53OkdHOCTGNi5
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2///fGBY1041
+   WARNING (2 cookies, 59 bytes) - http://yabs.yandex.ru/count/9w0zBkcA2qC40X00ZhXYVw84KP6yq4ba1fE53NW2=ltLylvK2cm9jL9Ahw8i7e9Ek0Ny1=IL_7QfK5cm5fMfAgGfG7Um40
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2///fGBY1041
+   WARNING (2 cookies, 59 bytes) - http://yandex.ru/
+      cookie:yandexuid=2356899051244132897
+      cookie: yabs-frequency=/2///fGBY1041
+  Cookie score : 41
+    0.9 KB total in outbound cookies, target size = 0.5 KB - potential savings = 0.3 KB
+
+Minify JS:
+  Minify score : 100
+    3.0 KB total in minifiable text, target size = 3.0 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+  ETag score : 100
+
+JQuery Selectors not descended from an ID:
+  No problems found

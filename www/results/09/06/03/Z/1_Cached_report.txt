@@ -1,0 +1,239 @@
+Results for 'https://passport.yandex.ru/passport?mode=auth':
+
+Page load time: 3.652 seconds
+Time to first byte: 0.057 seconds
+Time to Base Page Downloaded: 0.155 seconds
+Time to Start Render: 1.238 seconds
+Time to Document Complete: 3.652 seconds
+Time to Fully Loaded: 3.752 seconds
+Bytes sent out: 10.987 KB
+Bytes received: 14.704 KB
+DNS Lookups: 6
+Connections: 10
+Requests: 16
+   OK Requests:  7
+   Redirects:    5
+   Not Modified: 2
+   Not Found:    2
+   Other:        0
+Base Page Response: 302
+Base Page Redirects: 1
+
+
+Request details:
+
+Request 1:
+      Action: POST
+      Url: https://passport.yandex.ru/passport?mode=auth
+      Host: passport.yandex.ru
+      Result code: 302
+      Transaction time: 0.061 seconds
+      Time to first byte: 0.057 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 1098 Bytes
+      Response size (in): 1024 Bytes
+
+Request 2:
+      Action: POST
+      Url: http://passport-ckicheck.yandex.ru/passport?mode=ckicheck&idkey=33i1244016690pg1WGAGRu&ncrnd=841635
+      Host: passport-ckicheck.yandex.ru
+      Result code: 302
+      Transaction time: 0.094 seconds
+      Time to first byte: 0.040 seconds
+      Document: 1
+      Socket: 5
+      Request size (out): 1077 Bytes
+      Response size (in): 1024 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://pass.yandex.ru/login?retpath=http%3a%2f%2fpampers%2eyandex%2eru%3a2006%2f%3ffrom%3dmail%26r%3did36400054&ncrnd=958076
+      Host: pass.yandex.ru
+      Result code: 302
+      Transaction time: 0.037 seconds
+      Time to first byte: 0.020 seconds
+      Document: 2
+      Socket: 5
+      Request size (out): 1003 Bytes
+      Response size (in): 428 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://pampers.yandex.ru:2006/?from=mail&r=id36400054&ncrnd=607
+      Host: pampers.yandex.ru:2006
+      Result code: 302
+      Transaction time: 0.297 seconds
+      Time to first byte: 0.280 seconds
+      Document: 2
+      Socket: 4
+      Request size (out): 941 Bytes
+      Response size (in): 488 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://pampers.yandex.ru:2006/neo/messages_thread?d=id2860824
+      Host: pampers.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.768 seconds
+      Time to first byte: 0.562 seconds
+      Document: 2
+      Socket: 4
+      Request size (out): 939 Bytes
+      Response size (in): 402 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://upics.yandex.net/get/te-us/small
+      Host: upics.yandex.net
+      Result code: 302
+      Transaction time: 2.488 seconds
+      Time to first byte: 0.680 seconds
+      Document: 2
+      Socket: 12
+      Request size (out): 350 Bytes
+      Response size (in): 244 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/HmjSrYp_Q8O40X00ZhEuOg84N0kL0Pi1RqWZYAZFz0MIelE51ugfuR84aABRGSAHlwm8rWgJXGsBgP8n7K5w1W00?rnd=1191926998
+      Host: yabs.yandex.ru
+      Result code: 200
+      Transaction time: 1.974 seconds
+      Time to first byte: 1.158 seconds
+      Document: 2
+      Socket: 10
+      Request size (out): 16 Bytes
+      Response size (in): 3473 Bytes
+      Request Object Size (out): 16 Bytes
+      Response Object Size (in): 3184 Bytes
+  Request Headers:
+      GET /count/HmjSrYp_Q8O40X00ZhEuOg84N0kL0Pi1RqWZYAZFz0MIelE51ugfuR84aABRGSAHlwm8rWgJXGsBgP8n7K5w1W00?rnd=1191926998 HTTP/1.1
+      Accept: */*
+      Referer: http://pampers.yandex.ru:2006/neo/messages_thread?d=id2860824
+      Accept-Language: ru
+      Accept-Encoding: gzip, deflate
+      User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+      Host: yabs.yandex.ru
+      Connection: Keep-Alive
+      Cookie: yandexuid=1463421081244015474; L=Z0IsdEJMXgRGYk8OQ2VVeFQGYlN7AQ5yfwFdKDpqdDR9Zx4NQAQgHH4PNxNJBjQ0Dy0cXQEWUB4GUERXECsLLQ==.1244015490.5196.222589.969dcd9dd9d17c40c839f8098be17439; yabs-frequency=/2/-4nV0E448G00/; yandex_mail=te-us; yandex_login=te-us; Session_id=1244015490.0.0.55867781.2:152905355:0.58365.8147.ee5cdc8514e85efa9509cf8f50001dfc; yandex_nickname=
+  Response Headers:
+      HTTP/1.1 200 OK
+      Expires: Mon, 30 Nov 2009 07:51:33 GMT
+      Cache-Control: max-age=15552000
+      Content-Type: image/gif
+      Accept-Ranges: bytes
+      ETag: "1695339936"
+      Last-Modified: Fri, 31 Dec 1999 08:59:00 GMT
+      Content-Length: 3184
+      Date: Wed, 03 Jun 2009 07:51:33 GMT
+      Server: lighttpd/1.4.19
+
+Request 8:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 2.313 seconds
+      Time to first byte: 1.157 seconds
+      Document: 2
+      Socket: 13
+      Request size (out): 426 Bytes
+      Response size (in): 438 Bytes
+
+Request 9:
+      Action: GET
+      Url: http://mailstatic.yandex.net/neo/34698/i/teasers/feedback/bg.gif
+      Host: mailstatic.yandex.net
+      Result code: 200
+      Transaction time: 0.801 seconds
+      Time to first byte: 0.644 seconds
+      Document: 2
+      Socket: 13
+      Request size (out): 375 Bytes
+      Response size (in): 3473 Bytes
+
+Request 10:
+      Action: GET
+      Url: http://pass.yandex.ru/services?callback=jsonp1244015494218&_=1244015494625&locale=ru&login=yes
+      Host: pass.yandex.ru
+      Result code: 200
+      Transaction time: 0.349 seconds
+      Time to first byte: 0.009 seconds
+      Document: 2
+      Socket: 17
+      Request size (out): 776 Bytes
+      Response size (in): 409 Bytes
+
+Request 11:
+      Action: GET
+      Url: http://yabs.yandex.ru/resource/5iyU_k^7oLdpEF736u4e7w.gif
+      Host: yabs.yandex.ru
+      Result code: 304
+      Transaction time: 0.339 seconds
+      Time to first byte: 0.338 seconds
+      Document: 2
+      Socket: 10
+      Request size (out): 789 Bytes
+      Response size (in): 149 Bytes
+
+Request 12:
+      Action: GET
+      Url: http://default.avatars.yandex.net/it/46-small
+      Host: default.avatars.yandex.net
+      Result code: 304
+      Transaction time: 0.079 seconds
+      Time to first byte: 0.070 seconds
+      Document: 2
+      Socket: 18
+      Request size (out): 435 Bytes
+      Response size (in): 204 Bytes
+
+Request 13:
+      Action: POST
+      Url: http://pampers.yandex.ru:2006/neo/informers/news
+      Host: pampers.yandex.ru:2006
+      Result code: 200
+      Transaction time: 0.084 seconds
+      Time to first byte: 0.083 seconds
+      Document: 2
+      Socket: 4
+      Request size (out): 809 Bytes
+      Response size (in): 954 Bytes
+
+Request 14:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=17236
+      Host: neim-tub.yandex.ru
+      Result code: 200
+      Transaction time: 0.023 seconds
+      Time to first byte: 0.016 seconds
+      Document: 0
+      Socket: 23
+      Request size (out): 781 Bytes
+      Response size (in): 2147 Bytes
+
+Request 15:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=52809
+      Host: neim-tub.yandex.ru
+      Result code: 404
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.012 seconds
+      Document: 0
+      Socket: 22
+      Request size (out): 718 Bytes
+      Response size (in): 100 Bytes
+
+Request 16:
+      Action: GET
+      Url: http://neim-tub.yandex.ru/i?id=51850
+      Host: neim-tub.yandex.ru
+      Result code: 404
+      Transaction time: 0.016 seconds
+      Time to first byte: 0.012 seconds
+      Document: 0
+      Socket: 25
+      Request size (out): 718 Bytes
+      Response size (in): 100 Bytes
+

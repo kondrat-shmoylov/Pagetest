@@ -1,0 +1,2 @@
+2009/06/16 18:21:18	-1	-1	0	0	99997	Pagetest result	Cleared Cache-Run_1^090616_20.pts_Step3	http://my.ya.ru/	3		navigate http://my.ya.ru 
+2009/06/16 18:21:19	-1	-1	0	0	99997	Pagetest result	Cleared Cache-Run_1^090616_20.pts	/webchat2/06/recv?me=jstester&user=jstester&t=1245161966827483&i=&z=1245162079500	3		

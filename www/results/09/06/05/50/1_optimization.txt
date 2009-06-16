@@ -1,0 +1,113 @@
+Optimization Report : 06/05/09 at 19:52:25
+
+Results for 'http://yandex.ru/yandsearch?text=%D1%F2%F0%E0%ED%E8%F6%E0%20%ED%E0%F1%F2%F0%EE%E5%EA%20%EF%EE%E8%F1%EA%E0%20%ED%E0-%F3%EA%F0%E0%E8%ED%F1%EA%EE%EC&i-m-a-hacker=1':
+
+Page load time: 1.133 seconds
+Time to first byte: 0.109 seconds
+Time to Base Page Downloaded: 0.542 seconds
+Time to Start Render: 1.061 seconds
+Time to Document Complete: 1.133 seconds
+Time to Fully Loaded: 1.133 seconds
+Bytes sent out: 10.972 KB
+Bytes received: 67.519 KB
+DNS Lookups: 9
+Connections: 13
+Requests: 23
+   OK Requests:  21
+   Redirects:    2
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/google-guide.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/internetessa.com
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.bs-portal.com.ua
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.ib.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.promote.com.ua
+    FAILED  (No max-age or expires) - http://im5-tub.yandex.net/i?id=121559705&tov=5
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/cFa1ifm_Cw^1zZJS0nYpjw.jpg
+    FAILED  (No max-age or expires) - http://yabs.yandex.ru/resource/cl.gif
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.js
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/e-kao.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.drupal.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.kvirc.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.satinternet.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.webplanet.ru
+  Cache score : 36
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/e-kao.ru
+    FAILED - http://favicon.yandex.net/favicon/google-guide.ru
+    FAILED - http://favicon.yandex.net/favicon/internetessa.com
+    FAILED - http://favicon.yandex.net/favicon/www.bs-portal.com.ua
+    FAILED - http://favicon.yandex.net/favicon/www.drupal.ru
+    FAILED - http://favicon.yandex.net/favicon/www.ib.ru
+    FAILED - http://favicon.yandex.net/favicon/www.kvirc.ru
+    FAILED - http://favicon.yandex.net/favicon/www.promote.com.ua
+    FAILED - http://favicon.yandex.net/favicon/www.satinternet.ru
+    FAILED - http://favicon.yandex.net/favicon/www.webplanet.ru
+    FAILED - http://im5-tub.yandex.net/i?id=121559705&tov=5
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://yabs.yandex.ru/resource/cFa1ifm_Cw^1zZJS0nYpjw.jpg
+    FAILED - http://yabs.yandex.ru/resource/cl.gif
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.4 KB, compressed = 5.5 KB - savings of 16.9 KB) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED (11.9 KB, compressed = 4.8 KB - savings of 7.1 KB) - http://css.yandex.net/css/search/r13/_serp.js
+  GZIP score : 32
+    35.7 KB total in compressible text, target size = 11.7 KB - potential savings = 24.0 KB
+
+Compress Images:
+    WARNING (17.0 KB, target = 12.7 KB - savings of 4.3 KB)- http://yabs.yandex.ru/resource/cFa1ifm_Cw^1zZJS0nYpjw.jpg
+  Image Compression score : 84
+    27.3 KB total in images, target size = 23.0 KB - potential savings = 4.3 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+  Keep-Alive score : 82
+
+Proper cookie usage:
+    FAILED (Static object with 2 cookies - 59 bytes) - http://yabs.yandex.ru/resource/cFa1ifm_Cw^1zZJS0nYpjw.jpg
+      cookie:yandexuid=8891801244217146
+      cookie: yabs-frequency=/2/wKHV0EC48G00/
+    FAILED (Static object with 1 cookies - 26 bytes) - http://yabs.yandex.ru/resource/cl.gif
+      cookie:yandexuid=8891801244217146
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=8891801244217146
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=9C7E06024A293F3BX1244217147
+   WARNING (1 cookies, 26 bytes) - http://yabs.yandex.ru/count/2zRqUeufcAy40X00Zhhpaw84KfK2cmTiFoq1YAbEz0MIhaw51ugaRB84ZG6Ge1y2tf6wyg-l2vE53Oki8ouTGNm6?rnd=198636666
+      cookie:yandexuid=8891801244217146
+  Cookie score : 84
+    0.2 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.1 KB
+
+Minify JS:
+  Minify score : 100
+    11.9 KB total in minifiable text, target size = 11.9 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 73
+
+JQuery Selectors not descended from an ID:
+  No problems found

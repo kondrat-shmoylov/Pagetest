@@ -1,0 +1,122 @@
+Optimization Report : 06/05/09 at 19:56:30
+
+Results for 'http://yandex.ru/yandsearch?text=%EF%E5%F0%E5%E2%EE%E4%20%F2%E5%F1%F2&i-m-a-hacker=1':
+
+Page load time: 1.586 seconds
+Time to first byte: 0.109 seconds
+Time to Base Page Downloaded: 0.334 seconds
+Time to Start Render: 0.842 seconds
+Time to Document Complete: 1.586 seconds
+Time to Fully Loaded: 1.586 seconds
+Bytes sent out: 10.921 KB
+Bytes received: 59.132 KB
+DNS Lookups: 9
+Connections: 14
+Requests: 28
+   OK Requests:  27
+   Redirects:    1
+   Not Modified: 0
+   Not Found:    0
+   Other:        0
+Base Page Response: 200
+
+
+Enable browser caching of static assets:
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/user.lvs.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.norma-tm.ru
+    FAILED  (No max-age or expires) - http://favicon.yandex.net/favicon/www.umka.ru
+    FAILED  (No max-age or expires) - http://im0-tub.yandex.net/i?id=83850319&tov=0
+    FAILED  (No max-age or expires) - http://video-tub.yandex.ru/i?&tov=0&id=2626969
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    WARNING (3.0 days) - http://css.yandex.net/css/search/r13/_serp.js
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/aum.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/gogolev.net
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/my-soft-blog.net
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/reverent.org
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.lca.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.minelab-msk.ru
+    WARNING (8.0 days) - http://favicon.yandex.net/favicon/www.psyhelp.ru
+  Cache score : 60
+
+Use one CDN for all static assets:
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://favicon.yandex.net/favicon/aum.ru
+    FAILED - http://favicon.yandex.net/favicon/gogolev.net
+    FAILED - http://favicon.yandex.net/favicon/my-soft-blog.net
+    FAILED - http://favicon.yandex.net/favicon/reverent.org
+    FAILED - http://favicon.yandex.net/favicon/user.lvs.ru
+    FAILED - http://favicon.yandex.net/favicon/www.lca.ru
+    FAILED - http://favicon.yandex.net/favicon/www.minelab-msk.ru
+    FAILED - http://favicon.yandex.net/favicon/www.norma-tm.ru
+    FAILED - http://favicon.yandex.net/favicon/www.psyhelp.ru
+    FAILED - http://favicon.yandex.net/favicon/www.umka.ru
+    FAILED - http://im0-tub.yandex.net/i?id=83850319&tov=0
+    FAILED - http://img.yandex.net/i/arr-white.gif
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/i-slovari.gif
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/specarr.gif
+    FAILED - http://img.yandex.net/i/stars-0.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://video-tub.yandex.ru/i?&tov=0&id=2626969
+  CDN score (static objects) : 0
+  CDN score (one CDN) : -1
+
+Combine static CSS and JS files:
+  Combine score : 100
+
+GZIP encode all appropriate text assets (text responses > 1400 bytes):
+    FAILED (22.4 KB, compressed = 5.5 KB - savings of 16.9 KB) - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED (11.9 KB, compressed = 4.8 KB - savings of 7.1 KB) - http://css.yandex.net/css/search/r13/_serp.js
+  GZIP score : 32
+    35.7 KB total in compressible text, target size = 11.7 KB - potential savings = 24.0 KB
+
+Compress Images:
+    FAILED  (6.1 KB, target = 3.8 KB - savings of 2.3 KB)- http://video-tub.yandex.ru/i?&tov=0&id=2626969
+  Image Compression score : 86
+    17.6 KB total in images, target size = 15.3 KB - potential savings = 2.3 KB
+
+Use persistent connections (keep alive):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+  Keep-Alive score : 78
+
+Proper cookie usage:
+    FAILED (Static object with 1 cookies - 26 bytes) - http://video-tub.yandex.ru/i?&tov=0&id=2626969
+      cookie:yandexuid=4340531244217391
+   WARNING (1 cookies, 26 bytes) - http://suggest.yandex.ru/tsuggest-1.5b3.html
+      cookie:yandexuid=4340531244217391
+   WARNING (1 cookies, 32 bytes) - http://www.tns-counter.ru/V13b****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      cookie:guid=538906044A29402FX1244217391
+  Cookie score : 92
+    0.1 KB total in outbound cookies, target size = 0.1 KB - potential savings = 0.0 KB
+
+Minify JS:
+  Minify score : 100
+    11.9 KB total in minifiable text, target size = 11.9 KB - potential savings = 0.0 KB
+
+No ETag headers (ETag headers should generally not be used unless you have an explicit reason to need them):
+    FAILED - http://css.yandex.net/css/search/r13/_serp.ie.css
+    FAILED - http://css.yandex.net/css/search/r13/_serp.js
+    FAILED - http://img.yandex.net/i/logo95x37x8.png
+    FAILED - http://img.yandex.net/i/stars-0.gif
+    FAILED - http://img.yandex.net/i/i-slovari.gif
+    FAILED - http://img.yandex.net/i/arr-white.gif
+    FAILED - http://img.yandex.net/i/film-left.gif
+    FAILED - http://img.yandex.net/i/film-right.gif
+    FAILED - http://img.yandex.net/i/film-div.gif
+    FAILED - http://img.yandex.net/i/specarr.gif
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-head-search/arrow/b-head-search.arrow.png
+    FAILED - http://lego.static.yandex.net/2.0/common/block/b-dropdown/arrow/b-dropdown.arrow1.png
+    FAILED - http://suggest.yandex.ru/tsuggest-1.5b3.html
+  ETag score : 53
+
+JQuery Selectors not descended from an ID:
+  No problems found

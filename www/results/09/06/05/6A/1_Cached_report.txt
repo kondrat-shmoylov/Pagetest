@@ -1,0 +1,107 @@
+Results for 'http://yandex.ru/yandsearch?text=Sony-Ericsson%20K810i&i-m-a-hacker=1':
+
+Page load time: 0.275 seconds
+Time to first byte: 0.228 seconds
+Time to Base Page Downloaded: 0.228 seconds
+Time to Start Render: 0.082 seconds
+Time to Document Complete: 0.275 seconds
+Time to Fully Loaded: 0.275 seconds
+Bytes sent out: 3.313 KB
+Bytes received: 6.729 KB
+DNS Lookups: 7
+Connections: 7
+Requests: 7
+   OK Requests:  4
+   Redirects:    1
+   Not Modified: 2
+   Not Found:    0
+   Other:        0
+Base Page Response: 304
+
+
+Request details:
+
+Request 1:
+      Action: GET
+      Url: http://im8-tub.yandex.net/i?id=36701195&tov=8
+      Host: im8-tub.yandex.net
+      Result code: 304
+      Transaction time: 0.228 seconds
+      Time to first byte: 0.019 seconds
+      Document: 1
+      Socket: 15
+      Request size (out): 414 Bytes
+      Response size (in): 101 Bytes
+
+Request 2:
+      Action: GET
+      Url: http://yabs.yandex.ru/count/8GSyCxDvSle40X00ZhmRbA84KfK4cm5kK2A8g8XN0OcNX0EIffee0egd1qy1ZG6Hk_0TPmEFeO2Oiv-pGpL529E53Oki8Xi5GNq7?554122291
+      Host: yabs.yandex.ru
+      Result code: 302
+      Transaction time: 0.040 seconds
+      Time to first byte: 0.011 seconds
+      Document: 1
+      Socket: 16
+      Request size (out): 493 Bytes
+      Response size (in): 395 Bytes
+
+Request 3:
+      Action: GET
+      Url: http://yandex.tns-counter.ru/V13a****yandex_ru/ru/UTF-8/tmsec=yandex_media3/
+      Host: yandex.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.072 seconds
+      Time to first byte: 0.050 seconds
+      Document: 1
+      Socket: 17
+      Request size (out): 437 Bytes
+      Response size (in): 438 Bytes
+
+Request 4:
+      Action: GET
+      Url: http://suggest.yandex.ru/tsuggest-1.5b3.html
+      Host: suggest.yandex.ru
+      Result code: 304
+      Transaction time: 0.035 seconds
+      Time to first byte: 0.017 seconds
+      Document: 1
+      Socket: 18
+      Request size (out): 731 Bytes
+      Response size (in): 250 Bytes
+
+Request 5:
+      Action: GET
+      Url: http://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_serp/0
+      Host: www.tns-counter.ru
+      Result code: 200
+      Transaction time: 0.064 seconds
+      Time to first byte: 0.052 seconds
+      Document: 1
+      Socket: 19
+      Request size (out): 434 Bytes
+      Response size (in): 438 Bytes
+
+Request 6:
+      Action: GET
+      Url: http://video-tub.yandex.ru/i?&tov=0&id=9744399
+      Host: video-tub.yandex.ru
+      Result code: 200
+      Transaction time: 0.063 seconds
+      Time to first byte: 0.054 seconds
+      Document: 1
+      Socket: 20
+      Request size (out): 464 Bytes
+      Response size (in): 5138 Bytes
+
+Request 7:
+      Action: GET
+      Url: http://clck.yandex.ru/click/dtype=yabs/id=53/key=pack/*?554122291
+      Host: clck.yandex.ru
+      Result code: 200
+      Transaction time: 0.053 seconds
+      Time to first byte: 0.003 seconds
+      Document: 1
+      Socket: 23
+      Request size (out): 420 Bytes
+      Response size (in): 131 Bytes
+
